@@ -217,7 +217,7 @@
   .hero p.lead{color:var(--text-dim);font-size:17px;max-width:600px;margin:0 0 28px;}
   .stats-row{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-top:36px;}
   .stat{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:18px;text-align:center;}
-  .stat b{display:block;font-family:'Sora',sans-serif;font-size:22px;color:var(--gold);}
+  .stat b{display:block;font-family:'Sora',sans-serif;font-size:28px;letter-spacing:.01em;color:var(--gold);}
   .stat span{font-size:12px;color:var(--text-dim);}
   @media (max-width:700px){ .stats-row{grid-template-columns:repeat(2,1fr);} }
 
@@ -276,6 +276,12 @@
   .verify-item{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:4px 0;font-size:12.5px;border-bottom:1px solid var(--border);}
   .verify-item:last-child{border-bottom:none;}
   .verify-item-label{color:var(--text-dim);}
+  .verify-badge.verify-purple{background:var(--secondary-soft);color:var(--secondary);}
+  .verify-legend{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;}
+  .verify-legend-item{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;}
+  .verify-legend-item p{margin:10px 0 0;font-size:13px;color:var(--text-dim);}
+  @media (max-width:820px){ .verify-legend{grid-template-columns:repeat(2,1fr);} }
+  @media (max-width:480px){ .verify-legend{grid-template-columns:1fr;} }
   .casino-cta{display:flex;flex-direction:column;align-items:flex-end;gap:8px;}
   .btn{
     background:var(--gold);color:var(--bg);font-weight:700;font-size:14px;
@@ -382,6 +388,7 @@
     <a href="/en/" class="brand"><svg class="brand-icon" viewBox="0 0 24 24" width="24" height="24" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GoClarivo"><path d="M12 2.2 L20.5 5.4 V11 C20.5 16.3 17 19.9 12 21.6 C7 19.9 3.5 16.3 3.5 11 V5.4 Z" fill="var(--gold)"/><path d="M7.8 11.9 L10.6 14.7 L16.3 8.6" fill="none" stroke="var(--bg)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Go<span>Clarivo</span></a>
     <nav class="main-nav">
       <a href="/en/#top-liste">Casinos</a>
+      <a href="/en/compare/">Compare</a>
       <a href="/en/sports/">Sports</a>
       <a href="/en/#guides">Guides</a>
       <a href="/en/#faq">FAQ</a>
