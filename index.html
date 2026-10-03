@@ -28,12 +28,13 @@
       for (var i = 0; i < langs.length; i++) {
         if (map[langs[i]]) { window.location.replace(map[langs[i]]); return; }
       }
-      // Unambiguous primary-subtag fallback (de/it only — "es" alone is too ambiguous
-      // across 6 Spanish-speaking geos to guess safely).
+      // Unambiguous primary-subtag fallback (de/it/en only — "es" alone is too
+      // ambiguous across 6 Spanish-speaking geos to guess safely).
       for (var i = 0; i < langs.length; i++) {
         var base = langs[i].split('-')[0];
         if (base === 'de') { window.location.replace('/de/'); return; }
         if (base === 'it') { window.location.replace('/it/'); return; }
+        if (base === 'en') { window.location.replace('/en/'); return; }
       }
     } catch (e) { /* fail silently — picker stays visible */ }
   })();
@@ -52,6 +53,7 @@
 <link rel="alternate" hreflang="es-PE" href="https://goclarivo.bet/pe/">
 <link rel="alternate" hreflang="es-BO" href="https://goclarivo.bet/bo/">
 <link rel="alternate" hreflang="es-PY" href="https://goclarivo.bet/py/">
+<link rel="alternate" hreflang="en" href="https://goclarivo.bet/en/">
 <link rel="alternate" hreflang="x-default" href="https://goclarivo.bet/">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://goclarivo.bet/">
@@ -125,6 +127,7 @@
       <a href="/pe/">🇵🇪<span>Perú</span></a>
       <a href="/bo/">🇧🇴<span>Bolivia</span></a>
       <a href="/py/">🇵🇾<span>Paraguay</span></a>
+      <a href="/en/">🌐<span>International</span></a>
     </div>
   </div>
 </body>
