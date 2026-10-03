@@ -3,6 +3,41 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script>
+  // Auto-detect browser language and redirect to a matching geo page.
+  // Only redirects on an unambiguous match; otherwise the manual picker below stays visible.
+  (function () {
+    try {
+      var params = new URLSearchParams(window.location.search);
+      if (params.get('nogeo') === '1') return; // ?nogeo=1 always shows the picker
+      var map = {
+        'de': '/de/',
+        'es-es': '/es/',
+        'es-mx': '/mx/',
+        'es-ar': '/ar/',
+        'es-pe': '/pe/',
+        'es-bo': '/bo/',
+        'es-py': '/py/',
+        'it': '/it/'
+      };
+      var langs = (navigator.languages && navigator.languages.length
+        ? navigator.languages
+        : [navigator.language || navigator.userLanguage || '']
+      ).map(function (l) { return (l || '').toLowerCase(); });
+
+      for (var i = 0; i < langs.length; i++) {
+        if (map[langs[i]]) { window.location.replace(map[langs[i]]); return; }
+      }
+      // Unambiguous primary-subtag fallback (de/it only — "es" alone is too ambiguous
+      // across 6 Spanish-speaking geos to guess safely).
+      for (var i = 0; i < langs.length; i++) {
+        var base = langs[i].split('-')[0];
+        if (base === 'de') { window.location.replace('/de/'); return; }
+        if (base === 'it') { window.location.replace('/it/'); return; }
+      }
+    } catch (e) { /* fail silently — picker stays visible */ }
+  })();
+</script>
 <meta name="google-site-verification" content="YoOY4ReHL0nUELHEbA8AXX0tnsyUZkOwjIqCkvRZDh0" />
 <title>GoClarivo — Choose your region</title>
 <meta name="description" content="GoClarivo — independent online casino comparisons. Choose your region.">
