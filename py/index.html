@@ -1,0 +1,472 @@
+<!doctype html>
+<html lang="es-PY">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GoClarivo — Comparativa de Casinos Online en Paraguay 2026</title>
+<meta name="description" content="Comparativa independiente de los mejores casinos online en Paraguay. Evaluados por licencia CONAJZAR, oferta de juegos, métodos de pago y condiciones de bonos.">
+
+<!--
+  ===================================================================
+  ПИЛОТНЫЙ ШАБЛОН — PY (Парагвай), гео-подпапка /py/ — НОВЫЙ ГЕО
+  Собран на основе ES/PE-версии (тот же движок, испаноязычный контент).
+
+  Регулирование: регулятор — CONAJZAR (Comisión Nacional de Juegos
+  de Azar), работает в рамках нового режима регулирования игр,
+  продвигает обязательный домен .bet.py для легальных операторов.
+  Подтверждено веб-поиском перед использованием (2026).
+
+  ЧТО ОБЯЗАТЕЛЬНО ЗАМЕНИТЬ ПЕРЕД ПУБЛИКАЦИЕЙ — ищи метки [ПРОВЕРИТЬ]:
+  1. Все 10 карточек казино — плейсхолдеры, нет подтверждённого
+     партнёра под PY. При заполнении проверять домен .bet.py у
+     оператора как признак легальности.
+  2. Ссылки "Ir al casino" (href="#") — на реальные tracking-ссылки.
+  3. Статистика в hero — реальные цифры.
+  4. Юридический блок в футере — реальные данные компании.
+  ===================================================================
+-->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+  :root{
+    --bg: #0b0e14;
+    --bg-2: #11151f;
+    --surface: #161b28;
+    --surface-2: #1d2333;
+    --border: #262d40;
+    --text: #eef1f8;
+    --text-dim: #9aa3b8;
+    --gold: #e8b84b;
+    --gold-soft: rgba(232,184,75,0.12);
+    --green: #35c980;
+    --green-soft: rgba(53,201,128,0.12);
+    --red: #ef5a6f;
+    --shadow: 0 10px 30px rgba(0,0,0,0.35);
+    --radius: 14px;
+  }
+
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--text);
+    font-family:'Manrope',system-ui,sans-serif;
+    line-height:1.55;
+  }
+  h1,h2,h3,.brand{font-family:'Sora',system-ui,sans-serif;}
+  a{color:inherit;text-decoration:none;}
+  img{max-width:100%;display:block;}
+  .wrap{max-width:1160px;margin:0 auto;padding:0 24px;}
+  .pill{display:inline-flex;align-items:center;gap:6px;font-size:12px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;padding:5px 10px;border-radius:999px;}
+  .pill-gold{background:var(--gold-soft);color:var(--gold);}
+  .pill-green{background:var(--green-soft);color:var(--green);}
+
+  header{
+    position:sticky;top:0;z-index:50;
+    background:rgba(11,14,20,0.9);
+    backdrop-filter:blur(10px);
+    border-bottom:1px solid var(--border);
+  }
+  .nav-row{display:flex;align-items:center;justify-content:space-between;padding:16px 0;gap:20px;}
+  .brand{font-size:20px;font-weight:800;color:var(--text);}
+  .brand span{color:var(--gold);}
+  nav.main-nav{display:flex;gap:26px;font-size:14px;font-weight:600;color:var(--text-dim);}
+  nav.main-nav a:hover{color:var(--text);}
+  .geo-switch{display:flex;gap:8px;align-items:center;font-size:13px;color:var(--text-dim);flex-wrap:wrap;}
+  .geo-switch a{padding:4px 8px;border-radius:8px;border:1px solid transparent;}
+  .geo-switch a.active{color:var(--text);border-color:var(--border);background:var(--surface);}
+
+  @media (max-width:820px){ nav.main-nav{display:none;} }
+
+  .hero{padding:64px 0 40px;}
+  .hero h1{font-size:38px;line-height:1.15;max-width:720px;margin:0 0 16px;}
+  .hero p.lead{color:var(--text-dim);font-size:17px;max-width:600px;margin:0 0 28px;}
+  .stats-row{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-top:36px;}
+  .stat{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:18px;text-align:center;}
+  .stat b{display:block;font-family:'Sora',sans-serif;font-size:22px;color:var(--gold);}
+  .stat span{font-size:12px;color:var(--text-dim);}
+  @media (max-width:700px){ .stats-row{grid-template-columns:repeat(2,1fr);} }
+
+  section{padding:56px 0;}
+  section + section{border-top:1px solid var(--border);}
+  .sec-head{max-width:640px;margin:0 0 32px;}
+  .sec-head h2{font-size:26px;margin:0 0 10px;}
+  .sec-head p{color:var(--text-dim);margin:0;font-size:15px;}
+
+  .casino-card{
+    display:grid;
+    grid-template-columns:64px 1fr auto;
+    gap:20px;
+    align-items:center;
+    background:var(--surface);
+    border:1px solid var(--border);
+    border-radius:var(--radius);
+    padding:20px;
+    margin-bottom:16px;
+  }
+  .casino-card .rank{position:absolute;}
+  .logo-box{
+    width:64px;height:64px;border-radius:12px;
+    background:var(--surface-2);
+    display:flex;align-items:center;justify-content:center;
+    font-weight:800;font-size:11px;color:var(--text-dim);text-align:center;
+    border:1px dashed var(--border);
+  }
+  .casino-main .top-row{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:6px;}
+  .casino-main .name{font-family:'Sora',sans-serif;font-weight:700;font-size:17px;}
+  .rating{display:flex;align-items:center;gap:5px;color:var(--gold);font-weight:700;font-size:14px;}
+  .rating .stars{letter-spacing:1px;}
+  .bonus-text{font-size:14px;color:var(--text-dim);margin-bottom:8px;}
+  .highlights{display:flex;gap:16px;flex-wrap:wrap;font-size:13px;color:var(--text-dim);}
+  .highlights li{list-style:none;display:flex;align-items:center;gap:6px;}
+  .highlights li::before{content:"✓";color:var(--green);font-weight:700;}
+  .casino-cta{display:flex;flex-direction:column;align-items:flex-end;gap:8px;}
+  .btn{
+    background:var(--gold);color:#1a1406;font-weight:700;font-size:14px;
+    padding:11px 20px;border-radius:10px;white-space:nowrap;
+  }
+  .btn:hover{filter:brightness(1.08);}
+  .review-link{font-size:12px;color:var(--text-dim);}
+  @media (max-width:640px){
+    .casino-card{grid-template-columns:48px 1fr;}
+    .casino-cta{grid-column:1/-1;flex-direction:row;justify-content:space-between;align-items:center;margin-top:10px;}
+    .logo-box{width:48px;height:48px;font-size:9px;}
+  }
+
+  .method-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:14px;}
+  .method-item{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:18px;}
+  .method-item b{display:block;color:var(--gold);font-size:13px;margin-bottom:6px;}
+  .method-item p{margin:0;font-size:13px;color:var(--text-dim);}
+  @media (max-width:900px){ .method-grid{grid-template-columns:repeat(2,1fr);} }
+  @media (max-width:560px){ .method-grid{grid-template-columns:1fr;} }
+
+  .article-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;}
+  .article-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;}
+  .article-thumb{height:120px;background:linear-gradient(135deg,var(--surface-2),var(--bg-2));display:flex;align-items:center;justify-content:center;color:var(--text-dim);font-size:12px;}
+  .article-body{padding:16px;}
+  .article-date{font-size:11px;color:var(--text-dim);text-transform:uppercase;letter-spacing:.04em;}
+  .article-title{font-family:'Sora',sans-serif;font-weight:700;font-size:15px;margin:6px 0 0;}
+  .article-excerpt{font-size:13px;color:var(--text-dim);margin:8px 0 0;line-height:1.5;}
+  @media (max-width:800px){ .article-grid{grid-template-columns:1fr;} }
+
+  .faq-item{border-bottom:1px solid var(--border);padding:16px 0;}
+  .faq-q{display:flex;justify-content:space-between;align-items:center;cursor:pointer;font-weight:700;font-size:15px;}
+  .faq-a{max-height:0;overflow:hidden;transition:max-height .25s ease;font-size:14px;color:var(--text-dim);}
+  .faq-a p{margin:10px 0 0;}
+  .faq-item.open .faq-a{max-height:220px;}
+  .faq-icon{transition:transform .2s ease;}
+  .faq-item.open .faq-icon{transform:rotate(45deg);}
+
+  footer{background:var(--bg-2);border-top:1px solid var(--border);padding:48px 0 24px;font-size:13px;color:var(--text-dim);}
+  .footer-grid{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:32px;margin-bottom:32px;}
+  .footer-grid h4{color:var(--text);font-size:13px;margin:0 0 12px;}
+  .footer-grid ul{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:8px;}
+  .footer-grid a:hover{color:var(--text);}
+  .badges{display:flex;gap:10px;flex-wrap:wrap;margin:18px 0;}
+  .badge{border:1px solid var(--border);border-radius:8px;padding:6px 10px;font-size:11px;color:var(--text-dim);}
+  .geo-switch-footer{display:flex;gap:10px;flex-wrap:wrap;margin:18px 0;}
+  .geo-switch-footer a{border:1px solid var(--border);border-radius:8px;padding:5px 9px;font-size:12px;}
+  .legal-note{border-top:1px solid var(--border);padding-top:20px;margin-top:20px;font-size:12px;line-height:1.6;}
+  @media (max-width:800px){ .footer-grid{grid-template-columns:1fr 1fr;} }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap nav-row">
+    <a href="/py/" class="brand">Go<span>Clarivo</span></a>
+    <nav class="main-nav">
+      <a href="#top-liste">Casinos</a>
+      <a href="#guias">Guías</a>
+      <a href="#faq">FAQ</a>
+      <a href="#sobre-nosotros">Sobre nosotros</a>
+    </nav>
+    <div class="geo-switch">
+      <a href="/de/">🇩🇪 DE</a>
+      <a href="/ar/">🇦🇷 AR</a>
+      <a href="/mx/">🇲🇽 MX</a>
+      <a href="/es/">🇪🇸 ES</a>
+      <a href="/it/">🇮🇹 IT</a>
+      <a href="/pe/">🇵🇪 PE</a>
+      <a href="/bo/">🇧🇴 BO</a>
+      <a href="/py/" class="active">🇵🇾 PY</a>
+    </div>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <h1>Los mejores casinos online en Paraguay — comparados de forma independiente para 2026</h1>
+    <p class="lead">Analizamos la licencia de la CONAJZAR, la oferta de juegos, los métodos de pago y las condiciones de los bonos de los principales operadores para que puedas tomar una decisión informada.</p>
+    <div class="stats-row">
+      <div class="stat"><b>[N]</b><span>casinos evaluados</span></div>
+      <div class="stat"><b>[N]</b><span>criterios de evaluación</span></div>
+      <div class="stat"><b>2026</b><span>última actualización</span></div>
+      <div class="stat"><b>18+</b><span>juego responsable</span></div>
+    </div>
+  </div>
+</section>
+
+<section id="top-liste">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>Top 10 casinos comparados</h2>
+      <p>Clasificación basada en nuestra metodología de evaluación — ver la sección "Cómo evaluamos" más abajo.</p>
+    </div>
+
+    <!-- Карточки 1-10 — плейсхолдеры, нет подтверждённого партнёра под PY. -->
+    <div class="casino-card">
+      <div class="logo-box">CASINO&nbsp;1</div>
+      <div class="casino-main">
+        <div class="top-row"><span class="name">[Nombre del casino 1]</span><span class="pill pill-gold">#1</span></div>
+        <div class="rating"><span class="stars">★★★★★</span> [X]/5</div>
+        <div class="bonus-text">Bono: [Importe/condiciones]</div>
+        <ul class="highlights"><li>[Ventaja 1]</li><li>[Ventaja 2]</li><li>[Ventaja 3]</li></ul>
+      </div>
+      <div class="casino-cta"><a class="btn" href="#">Ir al casino</a><a class="review-link" href="#">Leer análisis</a></div>
+    </div>
+    <div class="casino-card">
+      <div class="logo-box">CASINO&nbsp;2</div>
+      <div class="casino-main">
+        <div class="top-row"><span class="name">[Nombre del casino 2]</span><span class="pill pill-green">#2</span></div>
+        <div class="rating"><span class="stars">★★★★★</span> [X]/5</div>
+        <div class="bonus-text">Bono: [Importe/condiciones]</div>
+        <ul class="highlights"><li>[Ventaja 1]</li><li>[Ventaja 2]</li><li>[Ventaja 3]</li></ul>
+      </div>
+      <div class="casino-cta"><a class="btn" href="#">Ir al casino</a><a class="review-link" href="#">Leer análisis</a></div>
+    </div>
+    <div class="casino-card">
+      <div class="logo-box">CASINO&nbsp;3</div>
+      <div class="casino-main">
+        <div class="top-row"><span class="name">[Nombre del casino 3]</span><span class="pill pill-green">#3</span></div>
+        <div class="rating"><span class="stars">★★★★☆</span> [X]/5</div>
+        <div class="bonus-text">Bono: [Importe/condiciones]</div>
+        <ul class="highlights"><li>[Ventaja 1]</li><li>[Ventaja 2]</li><li>[Ventaja 3]</li></ul>
+      </div>
+      <div class="casino-cta"><a class="btn" href="#">Ir al casino</a><a class="review-link" href="#">Leer análisis</a></div>
+    </div>
+    <div class="casino-card">
+      <div class="logo-box">CASINO&nbsp;4</div>
+      <div class="casino-main">
+        <div class="top-row"><span class="name">[Nombre del casino 4]</span><span class="pill pill-green">#4</span></div>
+        <div class="rating"><span class="stars">★★★★☆</span> [X]/5</div>
+        <div class="bonus-text">Bono: [Importe/condiciones]</div>
+        <ul class="highlights"><li>[Ventaja 1]</li><li>[Ventaja 2]</li><li>[Ventaja 3]</li></ul>
+      </div>
+      <div class="casino-cta"><a class="btn" href="#">Ir al casino</a><a class="review-link" href="#">Leer análisis</a></div>
+    </div>
+    <div class="casino-card">
+      <div class="logo-box">CASINO&nbsp;5</div>
+      <div class="casino-main">
+        <div class="top-row"><span class="name">[Nombre del casino 5]</span><span class="pill pill-green">#5</span></div>
+        <div class="rating"><span class="stars">★★★★☆</span> [X]/5</div>
+        <div class="bonus-text">Bono: [Importe/condiciones]</div>
+        <ul class="highlights"><li>[Ventaja 1]</li><li>[Ventaja 2]</li><li>[Ventaja 3]</li></ul>
+      </div>
+      <div class="casino-cta"><a class="btn" href="#">Ir al casino</a><a class="review-link" href="#">Leer análisis</a></div>
+    </div>
+    <div class="casino-card">
+      <div class="logo-box">CASINO&nbsp;6</div>
+      <div class="casino-main">
+        <div class="top-row"><span class="name">[Nombre del casino 6]</span><span class="pill pill-green">#6</span></div>
+        <div class="rating"><span class="stars">★★★★☆</span> [X]/5</div>
+        <div class="bonus-text">Bono: [Importe/condiciones]</div>
+        <ul class="highlights"><li>[Ventaja 1]</li><li>[Ventaja 2]</li><li>[Ventaja 3]</li></ul>
+      </div>
+      <div class="casino-cta"><a class="btn" href="#">Ir al casino</a><a class="review-link" href="#">Leer análisis</a></div>
+    </div>
+    <div class="casino-card">
+      <div class="logo-box">CASINO&nbsp;7</div>
+      <div class="casino-main">
+        <div class="top-row"><span class="name">[Nombre del casino 7]</span><span class="pill pill-green">#7</span></div>
+        <div class="rating"><span class="stars">★★★☆☆</span> [X]/5</div>
+        <div class="bonus-text">Bono: [Importe/condiciones]</div>
+        <ul class="highlights"><li>[Ventaja 1]</li><li>[Ventaja 2]</li><li>[Ventaja 3]</li></ul>
+      </div>
+      <div class="casino-cta"><a class="btn" href="#">Ir al casino</a><a class="review-link" href="#">Leer análisis</a></div>
+    </div>
+    <div class="casino-card">
+      <div class="logo-box">CASINO&nbsp;8</div>
+      <div class="casino-main">
+        <div class="top-row"><span class="name">[Nombre del casino 8]</span><span class="pill pill-green">#8</span></div>
+        <div class="rating"><span class="stars">★★★☆☆</span> [X]/5</div>
+        <div class="bonus-text">Bono: [Importe/condiciones]</div>
+        <ul class="highlights"><li>[Ventaja 1]</li><li>[Ventaja 2]</li><li>[Ventaja 3]</li></ul>
+      </div>
+      <div class="casino-cta"><a class="btn" href="#">Ir al casino</a><a class="review-link" href="#">Leer análisis</a></div>
+    </div>
+    <div class="casino-card">
+      <div class="logo-box">CASINO&nbsp;9</div>
+      <div class="casino-main">
+        <div class="top-row"><span class="name">[Nombre del casino 9]</span><span class="pill pill-green">#9</span></div>
+        <div class="rating"><span class="stars">★★★☆☆</span> [X]/5</div>
+        <div class="bonus-text">Bono: [Importe/condiciones]</div>
+        <ul class="highlights"><li>[Ventaja 1]</li><li>[Ventaja 2]</li><li>[Ventaja 3]</li></ul>
+      </div>
+      <div class="casino-cta"><a class="btn" href="#">Ir al casino</a><a class="review-link" href="#">Leer análisis</a></div>
+    </div>
+    <div class="casino-card">
+      <div class="logo-box">CASINO&nbsp;10</div>
+      <div class="casino-main">
+        <div class="top-row"><span class="name">[Nombre del casino 10]</span><span class="pill pill-green">#10</span></div>
+        <div class="rating"><span class="stars">★★★☆☆</span> [X]/5</div>
+        <div class="bonus-text">Bono: [Importe/condiciones]</div>
+        <ul class="highlights"><li>[Ventaja 1]</li><li>[Ventaja 2]</li><li>[Ventaja 3]</li></ul>
+      </div>
+      <div class="casino-cta"><a class="btn" href="#">Ir al casino</a><a class="review-link" href="#">Leer análisis</a></div>
+    </div>
+  </div>
+</section>
+
+<section id="guias">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>Cómo evaluamos</h2>
+      <p>Cada casino se revisa según criterios fijos antes de entrar en nuestra clasificación.</p>
+    </div>
+    <div class="method-grid">
+      <div class="method-item"><b>Licencia y seguridad</b><p>Estado de la licencia ante la CONAJZAR (Comisión Nacional de Juegos de Azar) y medidas de protección del jugador.</p></div>
+      <div class="method-item"><b>Oferta de juegos</b><p>Amplitud y calidad de los juegos disponibles y proveedores de software.</p></div>
+      <div class="method-item"><b>Depósitos y retiros</b><p>Métodos de pago disponibles, así como plazos y límites de retiro.</p></div>
+      <div class="method-item"><b>Condiciones de bonos</b><p>Requisitos de apuesta, depósito mínimo y transparencia de las promociones.</p></div>
+      <div class="method-item"><b>Experiencia móvil</b><p>Usabilidad de la plataforma en smartphone y tablet.</p></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>Últimos artículos</h2>
+      <p>Bonos, análisis y guías actualizadas.</p>
+    </div>
+    <div class="article-grid">
+      <div class="article-card">
+        <div class="article-thumb">[Imagen del artículo]</div>
+        <div class="article-body">
+          <div class="article-date">[Fecha]</div>
+          <div class="article-title">CONAJZAR y el dominio .bet.py: cómo identificar un casino con licencia</div>
+          <p class="article-excerpt">La CONAJZAR impulsa el uso del dominio .bet.py como señal de que un operador cuenta con licencia vigente en Paraguay. Explicamos qué significa esto para el jugador y qué otros indicios conviene revisar antes de depositar.</p>
+        </div>
+      </div>
+      <div class="article-card">
+        <div class="article-thumb">[Imagen del artículo]</div>
+        <div class="article-body">
+          <div class="article-date">[Fecha]</div>
+          <div class="article-title">Métodos de pago comparados: depósitos y retiros</div>
+          <p class="article-excerpt">Billeteras digitales, giros y transferencias tienen tiempos y comisiones distintos. Comparamos velocidad, costos y límites de los métodos más usados por los jugadores en Paraguay.</p>
+        </div>
+      </div>
+      <div class="article-card">
+        <div class="article-thumb">[Imagen del artículo]</div>
+        <div class="article-body">
+          <div class="article-date">[Fecha]</div>
+          <div class="article-title">¿Qué significa el RTP y cómo interpretarlo?</div>
+          <p class="article-excerpt">Un RTP más alto implica mejores probabilidades de ganar a largo plazo, pero no dice nada sobre una sesión concreta. Explicamos cómo situar el valor de RTP a la hora de elegir un juego.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="faq">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>Preguntas frecuentes</h2>
+      <p>Información general — consulta siempre la normativa vigente, ya que puede cambiar.</p>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
+        ¿Es legal el juego online en Paraguay? <span class="faq-icon">+</span>
+      </div>
+      <div class="faq-a"><p>En Paraguay, los juegos de azar y las apuestas —incluidos los casinos online— están regulados por la CONAJZAR (Comisión Nacional de Juegos de Azar). En los últimos años se aprobó un nuevo marco legal para el sector, y la CONAJZAR promueve el uso del dominio .bet.py como señal de que un operador cuenta con licencia vigente. Conviene verificar siempre la licencia antes de jugar.</p></div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
+        ¿Cómo elijo el casino adecuado? <span class="faq-icon">+</span>
+      </div>
+      <div class="faq-a"><p>Fíjate en la licencia de la CONAJZAR, la rapidez de los pagos, la transparencia de las condiciones de los bonos y los métodos de pago disponibles — no solo en el importe del bono.</p></div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
+        ¿Qué significa el RTP? <span class="faq-icon">+</span>
+      </div>
+      <div class="faq-a"><p>El RTP (Return to Player) indica qué porcentaje de las apuestas de un juego vuelve estadísticamente a los jugadores a largo plazo. Un RTP más alto implica mejores probabilidades de ganar con el tiempo.</p></div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
+        ¿Qué debo revisar en un bono de bienvenida? <span class="faq-icon">+</span>
+      </div>
+      <div class="faq-a"><p>Más importante que el importe del bono son los requisitos de apuesta, la vigencia y las posibles restricciones a determinados juegos. Esta información aparece en los términos y condiciones de cada operador.</p></div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
+        ¿Cómo me protejo de un comportamiento de juego arriesgado? <span class="faq-icon">+</span>
+      </div>
+      <div class="faq-a"><p>Se recomienda fijar límites de depósito, pérdida y tiempo antes de empezar a jugar, y recurrir a herramientas de autoexclusión si el operador las ofrece. Si el juego deja de ser un entretenimiento, conviene buscar apoyo especializado.</p></div>
+    </div>
+  </div>
+</section>
+
+<footer id="sobre-nosotros">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <h4>GoClarivo</h4>
+        <p>Comparativa independiente de casinos online. El contenido tiene fines informativos y no sustituye el asesoramiento legal.</p>
+      </div>
+      <div>
+        <h4>Navegación</h4>
+        <ul>
+          <li><a href="#top-liste">Casinos</a></li>
+          <li><a href="#guias">Guías</a></li>
+          <li><a href="#faq">FAQ</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Legal</h4>
+        <ul>
+          <li><a href="#">Aviso legal [ПРОВЕРИТЬ]</a></li>
+          <li><a href="#">Privacidad</a></li>
+          <li><a href="#">Términos y condiciones</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Responsabilidad</h4>
+        <ul>
+          <li><a href="https://www.dnit.gov.py/web/portal-institucional/conajzar">CONAJZAR</a></li>
+          <li><a href="#">Autoexclusión</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="badges">
+      <span class="badge">18+</span>
+      <span class="badge">El juego puede ser adictivo</span>
+      <span class="badge">Regulado por la CONAJZAR</span>
+    </div>
+
+    <div class="geo-switch-footer">
+      <a href="/de/">🇩🇪 Alemania</a>
+      <a href="/ar/">🇦🇷 Argentina</a>
+      <a href="/mx/">🇲🇽 México</a>
+      <a href="/es/">🇪🇸 España</a>
+      <a href="/it/">🇮🇹 Italia</a>
+      <a href="/pe/">🇵🇪 Perú</a>
+      <a href="/bo/">🇧🇴 Bolivia</a>
+      <a href="/py/">🇵🇾 Paraguay</a>
+    </div>
+
+    <div class="legal-note">
+      © 2026 GoClarivo. Toda la información se ofrece sin garantía. El juego está permitido a partir de los 18 años. Si tú o alguien que conoces tiene problemas con el juego, contacta con un servicio de ayuda especializado.
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
