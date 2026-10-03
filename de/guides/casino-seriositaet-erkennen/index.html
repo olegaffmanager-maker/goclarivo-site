@@ -250,6 +250,13 @@
   .highlights{display:flex;gap:16px;flex-wrap:wrap;font-size:13px;color:var(--text-dim);}
   .highlights li{list-style:none;display:flex;align-items:center;gap:6px;}
   .highlights li::before{content:"✓";color:var(--green);font-weight:700;}
+
+  .review-panel{
+    border:1px dashed var(--border);border-radius:var(--radius);
+    padding:28px 24px;text-align:center;background:var(--bg-2);
+  }
+  .review-panel b{display:block;font-family:'Sora',sans-serif;font-size:16px;color:var(--text);margin-bottom:8px;}
+  .review-panel p{margin:0;color:var(--text-dim);font-size:14px;max-width:560px;margin-left:auto;margin-right:auto;}
   .casino-cta{display:flex;flex-direction:column;align-items:flex-end;gap:8px;}
   .btn{
     background:var(--gold);color:#1a1406;font-weight:700;font-size:14px;
@@ -348,7 +355,6 @@
     <nav class="main-nav">
       <a href="/de/#top-liste">Casinos</a>
       <a href="/de/sports/">Sportwetten</a>
-      <a href="/de/boni/">Boni</a>
       <a href="/de/#ratgeber">Ratgeber</a>
       <a href="/de/#faq">FAQ</a>
       <a href="/de/#ueber-uns">Über uns</a>
@@ -428,7 +434,6 @@
       <div>
         <h4>Rechtliches</h4>
         <ul>
-          <li><a href="#">Impressum [ПРОВЕРИТЬ]</a></li>
           <li><a href="/de/privacy/">Datenschutz</a></li>
           <li><a href="/de/terms/">AGB</a></li>
         </ul>
@@ -436,7 +441,7 @@
       <div>
         <h4>Verantwortung</h4>
         <ul>
-          <li><a href="#">Verantwortungsvolles Spielen</a></li>
+          <li><a href="/de/responsible-gambling/">Verantwortungsvolles Spielen</a></li>
           <li><a href="/de/responsible-gambling/#selbstausschluss">Selbstausschluss</a></li>
         </ul>
       </div>

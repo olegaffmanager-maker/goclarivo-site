@@ -234,6 +234,13 @@
   .highlights{display:flex;gap:16px;flex-wrap:wrap;font-size:13px;color:var(--text-dim);}
   .highlights li{list-style:none;display:flex;align-items:center;gap:6px;}
   .highlights li::before{content:"✓";color:var(--green);font-weight:700;}
+
+  .review-panel{
+    border:1px dashed var(--border);border-radius:var(--radius);
+    padding:28px 24px;text-align:center;background:var(--bg-2);
+  }
+  .review-panel b{display:block;font-family:'Sora',sans-serif;font-size:16px;color:var(--text);margin-bottom:8px;}
+  .review-panel p{margin:0;color:var(--text-dim);font-size:14px;max-width:560px;margin-left:auto;margin-right:auto;}
   .casino-cta{display:flex;flex-direction:column;align-items:flex-end;gap:8px;}
   .btn{
     background:var(--gold);color:#1a1406;font-weight:700;font-size:14px;
@@ -413,11 +420,10 @@
   <div class="wrap">
     <h1>The best online casinos compared — independent reviews for 2026</h1>
     <p class="lead">We compare licensing, game selection, payment methods and bonus terms across leading operators so you can make an informed decision — wherever you're reading from.</p>
-    <div class="stats-row">
-      <div class="stat"><b>[N]</b><span>casinos reviewed</span></div>
-      <div class="stat"><b>[N]</b><span>rating criteria</span></div>
-      <div class="stat"><b>2026</b><span>last updated</span></div>
-      <div class="stat"><b>18+</b><span>responsible gambling</span></div>
+    <div class="stats-row"><div class="stat"><b>1</b><span>Verified casino</span></div>
+      <div class="stat"><b>9</b><span>In review</span></div>
+      <div class="stat"><b>5</b><span>Rating criteria</span></div>
+      <div class="stat"><b>3 October 2026</b><span>Last verified</span></div>
     </div>
   </div>
 </section>
@@ -425,8 +431,8 @@
 <section id="top-liste">
   <div class="wrap">
     <div class="sec-head">
-      <h2>Top 10 Casinos Compared</h2>
-      <p>Ranking based on our review methodology — see "How We Rate" below.</p>
+      <h2>Verified Casino</h2>
+      <p>We publish a full profile only once our review is complete — see how many more operators are currently in review below.</p>
     </div>
 
     <!-- Cards 1-10 — placeholders, no confirmed partner for EN yet.
@@ -436,6 +442,8 @@
     <!-- Карточка 1 — 1xBet (реальный партнёр, реф-ссылка). Рейтинг и буллеты — ЗАМЕНИТЬ на подтверждённые данные; бонус — из таблицы бонусов (см. комментарий у ONEXBET_BONUS), если доступен для этого гео. Логотип — нарисованный бейдж (см. комментарий у LOGO_1XBET), заменить на официальный файл при получении. -->
     <!-- Карточка 1 — 1xBet (реальный партнёр, реф-ссылка). Рейтинг и буллеты — ЗАМЕНИТЬ на подтверждённые данные; бонус — дословно из таблицы бонусов, колонка "speech" (см. комментарий у ONEXBET_BONUS), если доступен для этого гео. Логотип — нарисованный бейдж (см. комментарий у LOGO_1XBET), заменить на официальный файл при получении. -->
     <!-- Карточка 1 — 1xBet (реальный партнёр, реф-ссылка). Рейтинг и буллеты — ЗАМЕНИТЬ на подтверждённые данные; бонус — дословно из таблицы бонусов, колонка "speech" (см. комментарий у ONEXBET_BONUS), если доступен для этого гео. Логотип — нарисованный бейдж (см. комментарий у LOGO_1XBET), заменить на официальный файл при получении. -->
+    <!-- Карточка 1 — 1xBet (реальный партнёр, реф-ссылка). Бонус — дословно из таблицы, колонка "speech" (см. ONEXBET_BONUS), если доступен для этого гео; иначе честный статус "в проверке". Рейтинг не фабрикуется — честный статус, пока нет подтверждённой оценки. Логотип — нарисованный бейдж (см. LOGO_1XBET), заменить на официальный файл при получении. -->
+    <!-- Карточка 1 — 1xBet (реальный партнёр, реф-ссылка). Бонус — дословно из таблицы, колонка "speech" (см. ONEXBET_BONUS), если доступен для этого гео; иначе честный статус "в проверке". Рейтинг не фабрикуется — честный статус, пока нет подтверждённой оценки. Логотип — нарисованный бейдж (см. LOGO_1XBET), заменить на официальный файл при получении. -->
     <div class="casino-card">
       <div class="logo-box" style="background:#0a3d7a;border:none;padding:0;overflow:hidden;"><svg viewBox="0 0 64 64" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="1xBet"><text x="32" y="39" text-anchor="middle" font-family="Sora, system-ui, sans-serif" font-weight="800" font-size="18" fill="#ffffff">1<tspan fill="#5bc8ff">x</tspan>Bet</text></svg></div>
       <div class="casino-main">
@@ -443,138 +451,15 @@
           <span class="name">1xBet</span>
           <span class="pill pill-gold">#1</span>
         </div>
-        <div class="rating"><span class="stars">★★★★★</span> [ПРОВЕРИТЬ]/5</div>
-        <div class="bonus-text">Bonus: [ПРОВЕРИТЬ — уточнить у партнёра]</div>
-        <ul class="highlights"><li>[ПРОВЕРИТЬ]</li><li>[ПРОВЕРИТЬ]</li><li>[ПРОВЕРИТЬ]</li></ul>
-        
+        <div class="rating">Rating: in review</div>
+        <div class="bonus-text">Bonus: in review — confirm current terms on the operator's site</div>
       </div>
-      <div class="casino-cta"><a class="btn" href="https://reffpa.com/L?tag=d_6171730m_97c_&site=6171730&ad=97&r=reg" rel="sponsored nofollow" target="_blank">Go to Casino</a><a class="review-link" href="#">Read Review</a></div>
+      <div class="casino-cta"><a class="btn" href="https://reffpa.com/L?tag=d_6171730m_97c_&site=6171730&ad=97&r=reg" rel="sponsored nofollow" target="_blank">Go to Casino</a></div>
     </div>
 
-    <div class="casino-card">
-      <div class="logo-box">CASINO&nbsp;2</div>
-      <div class="casino-main">
-        <div class="top-row">
-          <span class="name">[Casino name 2]</span>
-          <span class="pill pill-green">#2</span>
-        </div>
-        <div class="rating"><span class="stars">★★★★★</span> [X]/5</div>
-        <div class="bonus-text">Bonus: [Amount/terms]</div>
-        <ul class="highlights"><li>[Highlight 1]</li><li>[Highlight 2]</li><li>[Highlight 3]</li></ul>
-      </div>
-      <div class="casino-cta"><a class="btn" href="#">Go to Casino</a><a class="review-link" href="#">Read Review</a></div>
-    </div>
-
-    <div class="casino-card">
-      <div class="logo-box">CASINO&nbsp;3</div>
-      <div class="casino-main">
-        <div class="top-row">
-          <span class="name">[Casino name 3]</span>
-          <span class="pill pill-green">#3</span>
-        </div>
-        <div class="rating"><span class="stars">★★★★☆</span> [X]/5</div>
-        <div class="bonus-text">Bonus: [Amount/terms]</div>
-        <ul class="highlights"><li>[Highlight 1]</li><li>[Highlight 2]</li><li>[Highlight 3]</li></ul>
-      </div>
-      <div class="casino-cta"><a class="btn" href="#">Go to Casino</a><a class="review-link" href="#">Read Review</a></div>
-    </div>
-
-    <div class="casino-card">
-      <div class="logo-box">CASINO&nbsp;4</div>
-      <div class="casino-main">
-        <div class="top-row">
-          <span class="name">[Casino name 4]</span>
-          <span class="pill pill-green">#4</span>
-        </div>
-        <div class="rating"><span class="stars">★★★★☆</span> [X]/5</div>
-        <div class="bonus-text">Bonus: [Amount/terms]</div>
-        <ul class="highlights"><li>[Highlight 1]</li><li>[Highlight 2]</li><li>[Highlight 3]</li></ul>
-      </div>
-      <div class="casino-cta"><a class="btn" href="#">Go to Casino</a><a class="review-link" href="#">Read Review</a></div>
-    </div>
-
-    <div class="casino-card">
-      <div class="logo-box">CASINO&nbsp;5</div>
-      <div class="casino-main">
-        <div class="top-row">
-          <span class="name">[Casino name 5]</span>
-          <span class="pill pill-green">#5</span>
-        </div>
-        <div class="rating"><span class="stars">★★★★☆</span> [X]/5</div>
-        <div class="bonus-text">Bonus: [Amount/terms]</div>
-        <ul class="highlights"><li>[Highlight 1]</li><li>[Highlight 2]</li><li>[Highlight 3]</li></ul>
-      </div>
-      <div class="casino-cta"><a class="btn" href="#">Go to Casino</a><a class="review-link" href="#">Read Review</a></div>
-    </div>
-
-    <div class="casino-card">
-      <div class="logo-box">CASINO&nbsp;6</div>
-      <div class="casino-main">
-        <div class="top-row">
-          <span class="name">[Casino name 6]</span>
-          <span class="pill pill-green">#6</span>
-        </div>
-        <div class="rating"><span class="stars">★★★★☆</span> [X]/5</div>
-        <div class="bonus-text">Bonus: [Amount/terms]</div>
-        <ul class="highlights"><li>[Highlight 1]</li><li>[Highlight 2]</li><li>[Highlight 3]</li></ul>
-      </div>
-      <div class="casino-cta"><a class="btn" href="#">Go to Casino</a><a class="review-link" href="#">Read Review</a></div>
-    </div>
-
-    <div class="casino-card">
-      <div class="logo-box">CASINO&nbsp;7</div>
-      <div class="casino-main">
-        <div class="top-row">
-          <span class="name">[Casino name 7]</span>
-          <span class="pill pill-green">#7</span>
-        </div>
-        <div class="rating"><span class="stars">★★★☆☆</span> [X]/5</div>
-        <div class="bonus-text">Bonus: [Amount/terms]</div>
-        <ul class="highlights"><li>[Highlight 1]</li><li>[Highlight 2]</li><li>[Highlight 3]</li></ul>
-      </div>
-      <div class="casino-cta"><a class="btn" href="#">Go to Casino</a><a class="review-link" href="#">Read Review</a></div>
-    </div>
-
-    <div class="casino-card">
-      <div class="logo-box">CASINO&nbsp;8</div>
-      <div class="casino-main">
-        <div class="top-row">
-          <span class="name">[Casino name 8]</span>
-          <span class="pill pill-green">#8</span>
-        </div>
-        <div class="rating"><span class="stars">★★★☆☆</span> [X]/5</div>
-        <div class="bonus-text">Bonus: [Amount/terms]</div>
-        <ul class="highlights"><li>[Highlight 1]</li><li>[Highlight 2]</li><li>[Highlight 3]</li></ul>
-      </div>
-      <div class="casino-cta"><a class="btn" href="#">Go to Casino</a><a class="review-link" href="#">Read Review</a></div>
-    </div>
-
-    <div class="casino-card">
-      <div class="logo-box">CASINO&nbsp;9</div>
-      <div class="casino-main">
-        <div class="top-row">
-          <span class="name">[Casino name 9]</span>
-          <span class="pill pill-green">#9</span>
-        </div>
-        <div class="rating"><span class="stars">★★★☆☆</span> [X]/5</div>
-        <div class="bonus-text">Bonus: [Amount/terms]</div>
-        <ul class="highlights"><li>[Highlight 1]</li><li>[Highlight 2]</li><li>[Highlight 3]</li></ul>
-      </div>
-      <div class="casino-cta"><a class="btn" href="#">Go to Casino</a><a class="review-link" href="#">Read Review</a></div>
-    </div>
-
-    <div class="casino-card">
-      <div class="logo-box">CASINO&nbsp;10</div>
-      <div class="casino-main">
-        <div class="top-row">
-          <span class="name">[Casino name 10]</span>
-          <span class="pill pill-green">#10</span>
-        </div>
-        <div class="rating"><span class="stars">★★★☆☆</span> [X]/5</div>
-        <div class="bonus-text">Bonus: [Amount/terms]</div>
-        <ul class="highlights"><li>[Highlight 1]</li><li>[Highlight 2]</li><li>[Highlight 3]</li></ul>
-      </div>
-      <div class="casino-cta"><a class="btn" href="#">Go to Casino</a><a class="review-link" href="#">Read Review</a></div>
+    <div class="review-panel">
+      <b>More operators in review</b>
+      <p>We only publish a full profile once we've verified licensing, payment methods and bonus terms. We're currently reviewing 9 more operators for this region.</p>
     </div>
   </div>
 </section>
@@ -695,7 +580,6 @@
       <div>
         <h4>Legal</h4>
         <ul>
-          <li><a href="#">Legal Notice [ПРОВЕРИТЬ]</a></li>
           <li><a href="/en/privacy/">Privacy Policy</a></li>
           <li><a href="/en/terms/">Terms &amp; Conditions</a></li>
         </ul>
