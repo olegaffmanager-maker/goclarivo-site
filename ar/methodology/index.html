@@ -193,7 +193,7 @@
   .geo-switch-menu{
     position:absolute;top:calc(100% + 8px);right:0;
     background:var(--surface);border:1px solid var(--border);border-radius:12px;
-    padding:6px;display:flex;flex-direction:column;gap:2px;min-width:132px;
+    padding:6px;display:flex;flex-direction:column;gap:2px;min-width:172px;white-space:nowrap;
     box-shadow:0 16px 32px rgba(0,0,0,0.45);z-index:60;
   }
   .geo-switch-menu a{
@@ -263,15 +263,26 @@
   .verify-badge.verify-gray{background:var(--surface-2);color:var(--text-dim);}
   .verify-link{font-size:12px;color:var(--text-dim);text-decoration:underline;}
   .verify-link:hover{color:var(--text);}
+  .verify-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:10px;}
+  .verify-group-title{font-size:10px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--text-dim);margin-bottom:6px;}
+  .verify-item{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:4px 0;font-size:12.5px;border-bottom:1px solid var(--border);}
+  .verify-item:last-child{border-bottom:none;}
+  .verify-item-label{color:var(--text-dim);}
   .casino-cta{display:flex;flex-direction:column;align-items:flex-end;gap:8px;}
   .btn{
     background:var(--gold);color:var(--bg);font-weight:700;font-size:14px;
     padding:11px 20px;border-radius:10px;white-space:nowrap;
   }
   .btn:hover{filter:brightness(1.08);}
+  .hero-cta{display:flex;gap:12px;flex-wrap:wrap;margin:4px 0 8px;}
+  .btn-ghost{background:transparent;color:var(--text);border:1px solid var(--border);}
+  .btn-ghost:hover{border-color:var(--secondary);color:var(--secondary);filter:none;}
+  .rate-note{margin-top:18px;font-size:13px;color:var(--text-dim);}
+  .rate-note a{color:var(--secondary);text-decoration:none;font-weight:600;}
+  .rate-note a:hover{text-decoration:underline;}
   .review-link{font-size:12px;color:var(--text-dim);}
   @media (max-width:640px){
-    .casino-card{grid-template-columns:48px 1fr;}
+    .casino-card{grid-template-columns:48px 1fr;}.verify-grid{grid-template-columns:1fr;gap:2px;}
     .casino-cta{grid-column:1/-1;flex-direction:row;justify-content:space-between;align-items:center;margin-top:10px;}
     .logo-box{width:48px;height:48px;font-size:9px;}
   }
@@ -280,6 +291,9 @@
   .method-item{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:18px;}
   .method-item b{display:block;color:var(--gold);font-size:13px;margin-bottom:6px;}
   .method-item p{margin:0;font-size:13px;color:var(--text-dim);}
+  .method-head{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:6px;}
+  .method-head b{margin-bottom:0;}
+  .method-weight{font-size:12px;font-weight:700;color:var(--secondary);white-space:nowrap;}
   @media (max-width:900px){ .method-grid{grid-template-columns:repeat(2,1fr);} }
   @media (max-width:560px){ .method-grid{grid-template-columns:1fr;} }
 
@@ -365,15 +379,15 @@
     <details class="geo-switch">
       <summary><svg class="flag-icon"><use href="#flag-ar"/></svg><span class="code">AR</span><span class="chevron">&#9662;</span></summary>
       <div class="geo-switch-menu">
-        <a href="/de/"><svg class="flag-icon"><use href="#flag-de"/></svg><span class="code">DE</span></a>
-        <a href="/ar/" class="active"><svg class="flag-icon"><use href="#flag-ar"/></svg><span class="code">AR</span></a>
-        <a href="/mx/"><svg class="flag-icon"><use href="#flag-mx"/></svg><span class="code">MX</span></a>
-        <a href="/es/"><svg class="flag-icon"><use href="#flag-es"/></svg><span class="code">ES</span></a>
-        <a href="/it/"><svg class="flag-icon"><use href="#flag-it"/></svg><span class="code">IT</span></a>
-        <a href="/pe/"><svg class="flag-icon"><use href="#flag-pe"/></svg><span class="code">PE</span></a>
-        <a href="/bo/"><svg class="flag-icon"><use href="#flag-bo"/></svg><span class="code">BO</span></a>
-        <a href="/py/"><svg class="flag-icon"><use href="#flag-py"/></svg><span class="code">PY</span></a>
-        <a href="/en/"><svg class="flag-icon"><use href="#flag-en"/></svg><span class="code">EN</span></a>
+        <a href="/de/"><svg class="flag-icon"><use href="#flag-de"/></svg><span class="code">Alemania</span></a>
+        <a href="/ar/" class="active"><svg class="flag-icon"><use href="#flag-ar"/></svg><span class="code">Argentina</span></a>
+        <a href="/mx/"><svg class="flag-icon"><use href="#flag-mx"/></svg><span class="code">México</span></a>
+        <a href="/es/"><svg class="flag-icon"><use href="#flag-es"/></svg><span class="code">España</span></a>
+        <a href="/it/"><svg class="flag-icon"><use href="#flag-it"/></svg><span class="code">Italia</span></a>
+        <a href="/pe/"><svg class="flag-icon"><use href="#flag-pe"/></svg><span class="code">Perú</span></a>
+        <a href="/bo/"><svg class="flag-icon"><use href="#flag-bo"/></svg><span class="code">Bolivia</span></a>
+        <a href="/py/"><svg class="flag-icon"><use href="#flag-py"/></svg><span class="code">Paraguay</span></a>
+        <a href="/en/"><svg class="flag-icon"><use href="#flag-en"/></svg><span class="code">Internacional</span></a>
       </div>
     </details>
   </div>
@@ -438,6 +452,7 @@
           <li><a href="#guias">Guías</a></li>
           <li><a href="#faq">FAQ</a></li>
           <li><a href="/ar/glossary/">Glosario</a></li>
+          <li><a href="/ar/about/">Sobre GoClarivo</a></li>
         </ul>
       </div>
       <div>
@@ -447,6 +462,7 @@
           <li><a href="/ar/terms/">Términos y condiciones</a></li>
           <li><a href="/ar/methodology/">Metodología</a></li>
           <li><a href="/ar/editorial-policy/">Política editorial</a></li>
+          <li><a href="/ar/corrections/">Correcciones</a></li>
         </ul>
       </div>
       <div>

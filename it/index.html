@@ -175,7 +175,7 @@
   .geo-switch-menu{
     position:absolute;top:calc(100% + 8px);right:0;
     background:var(--surface);border:1px solid var(--border);border-radius:12px;
-    padding:6px;display:flex;flex-direction:column;gap:2px;min-width:132px;
+    padding:6px;display:flex;flex-direction:column;gap:2px;min-width:172px;white-space:nowrap;
     box-shadow:0 16px 32px rgba(0,0,0,0.45);z-index:60;
   }
   .geo-switch-menu a{
@@ -245,15 +245,26 @@
   .verify-badge.verify-gray{background:var(--surface-2);color:var(--text-dim);}
   .verify-link{font-size:12px;color:var(--text-dim);text-decoration:underline;}
   .verify-link:hover{color:var(--text);}
+  .verify-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:10px;}
+  .verify-group-title{font-size:10px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--text-dim);margin-bottom:6px;}
+  .verify-item{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:4px 0;font-size:12.5px;border-bottom:1px solid var(--border);}
+  .verify-item:last-child{border-bottom:none;}
+  .verify-item-label{color:var(--text-dim);}
   .casino-cta{display:flex;flex-direction:column;align-items:flex-end;gap:8px;}
   .btn{
     background:var(--gold);color:var(--bg);font-weight:700;font-size:14px;
     padding:11px 20px;border-radius:10px;white-space:nowrap;
   }
   .btn:hover{filter:brightness(1.08);}
+  .hero-cta{display:flex;gap:12px;flex-wrap:wrap;margin:4px 0 8px;}
+  .btn-ghost{background:transparent;color:var(--text);border:1px solid var(--border);}
+  .btn-ghost:hover{border-color:var(--secondary);color:var(--secondary);filter:none;}
+  .rate-note{margin-top:18px;font-size:13px;color:var(--text-dim);}
+  .rate-note a{color:var(--secondary);text-decoration:none;font-weight:600;}
+  .rate-note a:hover{text-decoration:underline;}
   .review-link{font-size:12px;color:var(--text-dim);}
   @media (max-width:640px){
-    .casino-card{grid-template-columns:48px 1fr;}
+    .casino-card{grid-template-columns:48px 1fr;}.verify-grid{grid-template-columns:1fr;gap:2px;}
     .casino-cta{grid-column:1/-1;flex-direction:row;justify-content:space-between;align-items:center;margin-top:10px;}
     .logo-box{width:48px;height:48px;font-size:9px;}
   }
@@ -262,6 +273,9 @@
   .method-item{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:18px;}
   .method-item b{display:block;color:var(--gold);font-size:13px;margin-bottom:6px;}
   .method-item p{margin:0;font-size:13px;color:var(--text-dim);}
+  .method-head{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:6px;}
+  .method-head b{margin-bottom:0;}
+  .method-weight{font-size:12px;font-weight:700;color:var(--secondary);white-space:nowrap;}
   @media (max-width:900px){ .method-grid{grid-template-columns:repeat(2,1fr);} }
   @media (max-width:560px){ .method-grid{grid-template-columns:1fr;} }
 
@@ -392,15 +406,15 @@
     <details class="geo-switch">
       <summary><svg class="flag-icon"><use href="#flag-it"/></svg><span class="code">IT</span><span class="chevron">&#9662;</span></summary>
       <div class="geo-switch-menu">
-        <a href="/de/"><svg class="flag-icon"><use href="#flag-de"/></svg><span class="code">DE</span></a>
-        <a href="/ar/"><svg class="flag-icon"><use href="#flag-ar"/></svg><span class="code">AR</span></a>
-        <a href="/mx/"><svg class="flag-icon"><use href="#flag-mx"/></svg><span class="code">MX</span></a>
-        <a href="/es/"><svg class="flag-icon"><use href="#flag-es"/></svg><span class="code">ES</span></a>
-        <a href="/it/" class="active"><svg class="flag-icon"><use href="#flag-it"/></svg><span class="code">IT</span></a>
-        <a href="/pe/"><svg class="flag-icon"><use href="#flag-pe"/></svg><span class="code">PE</span></a>
-        <a href="/bo/"><svg class="flag-icon"><use href="#flag-bo"/></svg><span class="code">BO</span></a>
-        <a href="/py/"><svg class="flag-icon"><use href="#flag-py"/></svg><span class="code">PY</span></a>
-        <a href="/en/"><svg class="flag-icon"><use href="#flag-en"/></svg><span class="code">EN</span></a>
+        <a href="/de/"><svg class="flag-icon"><use href="#flag-de"/></svg><span class="code">Germania</span></a>
+        <a href="/ar/"><svg class="flag-icon"><use href="#flag-ar"/></svg><span class="code">Argentina</span></a>
+        <a href="/mx/"><svg class="flag-icon"><use href="#flag-mx"/></svg><span class="code">Messico</span></a>
+        <a href="/es/"><svg class="flag-icon"><use href="#flag-es"/></svg><span class="code">Spagna</span></a>
+        <a href="/it/" class="active"><svg class="flag-icon"><use href="#flag-it"/></svg><span class="code">Italia</span></a>
+        <a href="/pe/"><svg class="flag-icon"><use href="#flag-pe"/></svg><span class="code">Perù</span></a>
+        <a href="/bo/"><svg class="flag-icon"><use href="#flag-bo"/></svg><span class="code">Bolivia</span></a>
+        <a href="/py/"><svg class="flag-icon"><use href="#flag-py"/></svg><span class="code">Paraguay</span></a>
+        <a href="/en/"><svg class="flag-icon"><use href="#flag-en"/></svg><span class="code">Internazionale</span></a>
       </div>
     </details>
   </div>
@@ -418,8 +432,9 @@
 
 <section class="hero">
   <div class="wrap">
-    <h1>I migliori casinò online in Italia — testati in modo indipendente per il 2026</h1>
-    <p class="lead">Analizziamo la concessione ADM, l'offerta di gioco, i metodi di pagamento e le condizioni dei bonus dei principali operatori, per permetterti di scegliere in modo informato.</p>
+    <h1>Confronta i casinò online con dati verificati</h1>
+    <p class="lead">Licenza, pagamenti, giochi e condizioni dei bonus — confrontati con una metodologia trasparente.</p>
+    <div class="hero-cta"><a class="btn" href="#top-liste">Esplora i casinò</a><a class="btn btn-ghost" href="#how-we-rate">Come valutiamo →</a></div>
     <div class="stats-row"><div class="stat"><b>0</b><span>Casinò verificati</span></div>
       <div class="stat"><b>10</b><span>In verifica</span></div>
       <div class="stat"><b>5</b><span>Criteri di valutazione</span></div>
@@ -443,23 +458,25 @@
   </div>
 </section>
 
-<section id="guide">
+<section id="how-we-rate">
   <div class="wrap">
     <div class="sec-head">
       <h2>Come valutiamo</h2>
       <p>Ogni casinò viene verificato secondo criteri fissi prima di entrare nella nostra classifica.</p>
     </div>
     <div class="method-grid">
-      <div class="method-item"><b>Concessione e sicurezza</b><p>Stato della concessione ADM (Agenzia delle Dogane e dei Monopoli) e misure di tutela del giocatore.</p></div>
-      <div class="method-item"><b>Offerta di gioco</b><p>Ampiezza e qualità dei giochi disponibili e dei fornitori software.</p></div>
-      <div class="method-item"><b>Depositi e prelievi</b><p>Metodi di pagamento disponibili, tempi e limiti di prelievo.</p></div>
-      <div class="method-item"><b>Condizioni dei bonus</b><p>Requisiti di scommessa, deposito minimo e trasparenza delle promozioni.</p></div>
-      <div class="method-item"><b>Esperienza mobile</b><p>Usabilità della piattaforma su smartphone e tablet.</p></div>
-    </div>
+      <div class="method-item"><div class="method-head"><b>Concessione e sicurezza</b><span class="method-weight">30%</span></div><p>Stato della concessione ADM (Agenzia delle Dogane e dei Monopoli) e misure di tutela del giocatore.</p></div>
+      <div class="method-item"><div class="method-head"><b>Offerta di gioco</b><span class="method-weight">20%</span></div><p>Ampiezza e qualità dei giochi disponibili e dei fornitori software.</p></div>
+      <div class="method-item"><div class="method-head"><b>Depositi e prelievi</b><span class="method-weight">25%</span></div><p>Metodi di pagamento disponibili, tempi e limiti di prelievo.</p></div>
+      <div class="method-item"><div class="method-head"><b>Condizioni dei bonus</b><span class="method-weight">10%</span></div><p>Requisiti di scommessa, deposito minimo e trasparenza delle promozioni.</p></div>
+      <div class="method-item"><div class="method-head"><b>Esperienza mobile</b><span class="method-weight">15%</span></div><p>Usabilità della piattaforma su smartphone e tablet.</p></div>
+    
+    <div class="rate-note">Il punteggio finale è la media ponderata delle cinque categorie. <a href="/it/methodology/">Vedi la metodologia completa →</a></div>
+  </div>
   </div>
 </section>
 
-<section>
+<section id="guide">
   <div class="wrap">
     <div class="sec-head">
       <h2>Articoli recenti</h2>
@@ -561,6 +578,12 @@
       </div>
       <div class="faq-a"><p>Ogni scheda mostra una data di "ultima verifica". Ricontrolliamo periodicamente le informazioni pubblicate e non appena veniamo informati di una modifica — non esiste ancora un ciclo fisso e automatizzato.</p></div>
     </div>
+    <div class="faq-item">
+      <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
+        Come guadagna GoClarivo? <span class="faq-icon">+</span>
+      </div>
+      <div class="faq-a"><p>Tramite commissioni di affiliazione: se ti registri presso un operatore cliccando un link su questo sito, potremmo ricevere un compenso. Questo non influenza i nostri punteggi né l'ordine in classifica — i dettagli sono nella pagina sulla <a href="/it/editorial-policy/">policy editoriale</a>.</p></div>
+    </div>
   </div>
 </section>
 
@@ -588,6 +611,7 @@
           <li><a href="/it/terms/">Termini e condizioni</a></li>
           <li><a href="/it/methodology/">Metodologia</a></li>
           <li><a href="/it/editorial-policy/">Policy editoriale</a></li>
+          <li><a href="/it/corrections/">Correzioni</a></li>
         </ul>
       </div>
       <div>
