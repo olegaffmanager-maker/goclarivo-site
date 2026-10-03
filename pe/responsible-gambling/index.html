@@ -116,9 +116,30 @@
   .brand span{color:var(--gold);}
   nav.main-nav{display:flex;gap:26px;font-size:14px;font-weight:600;color:var(--text-dim);}
   nav.main-nav a:hover{color:var(--text);}
-  .geo-switch{display:flex;gap:8px;align-items:center;font-size:13px;color:var(--text-dim);flex-wrap:wrap;}
-  .geo-switch a{padding:4px 8px;border-radius:8px;border:1px solid transparent;}
-  .geo-switch a.active{color:var(--text);border-color:var(--border);background:var(--surface);}
+  .geo-switch{position:relative;font-size:13px;}
+  .geo-switch summary{
+    display:flex;align-items:center;gap:7px;list-style:none;cursor:pointer;user-select:none;
+    padding:7px 11px;border-radius:9px;border:1px solid var(--border);background:var(--surface);
+    color:var(--text);font-weight:600;
+  }
+  .geo-switch summary::-webkit-details-marker{display:none;}
+  .geo-switch summary::marker{content:"";}
+  .geo-switch:hover summary{border-color:var(--gold);}
+  .geo-switch .flag{font-size:15px;line-height:1;}
+  .geo-switch summary .chevron{font-size:10px;color:var(--text-dim);transition:transform .15s ease;}
+  .geo-switch[open] summary .chevron{transform:rotate(180deg);}
+  .geo-switch-menu{
+    position:absolute;top:calc(100% + 8px);right:0;
+    background:var(--surface);border:1px solid var(--border);border-radius:12px;
+    padding:6px;display:flex;flex-direction:column;gap:2px;min-width:132px;
+    box-shadow:0 16px 32px rgba(0,0,0,0.45);z-index:60;
+  }
+  .geo-switch-menu a{
+    display:flex;align-items:center;gap:9px;padding:8px 10px;border-radius:8px;
+    color:var(--text-dim);font-weight:600;font-size:13px;
+  }
+  .geo-switch-menu a:hover{background:var(--surface-2);color:var(--text);}
+  .geo-switch-menu a.active{background:var(--gold-soft);color:var(--gold);}
 
   @media (max-width:820px){ nav.main-nav{display:none;} }
 
@@ -248,18 +269,31 @@
       <a href="/pe/#faq">FAQ</a>
       <a href="/pe/#sobre-nosotros">Sobre nosotros</a>
     </nav>
-    <div class="geo-switch">
-      <a href="/de/">🇩🇪 DE</a>
-      <a href="/ar/">🇦🇷 AR</a>
-      <a href="/mx/">🇲🇽 MX</a>
-      <a href="/es/">🇪🇸 ES</a>
-      <a href="/it/">🇮🇹 IT</a>
-      <a href="/pe/" class="active">🇵🇪 PE</a>
-      <a href="/bo/">🇧🇴 BO</a>
-      <a href="/py/">🇵🇾 PY</a>
-      <a href="/en/">🌐 EN</a>
-    </div>
+    <details class="geo-switch">
+      <summary><span class="flag">🇵🇪</span><span class="code">PE</span><span class="chevron">&#9662;</span></summary>
+      <div class="geo-switch-menu">
+        <a href="/de/"><span class="flag">🇩🇪</span><span class="code">DE</span></a>
+        <a href="/ar/"><span class="flag">🇦🇷</span><span class="code">AR</span></a>
+        <a href="/mx/"><span class="flag">🇲🇽</span><span class="code">MX</span></a>
+        <a href="/es/"><span class="flag">🇪🇸</span><span class="code">ES</span></a>
+        <a href="/it/"><span class="flag">🇮🇹</span><span class="code">IT</span></a>
+        <a href="/pe/" class="active"><span class="flag">🇵🇪</span><span class="code">PE</span></a>
+        <a href="/bo/"><span class="flag">🇧🇴</span><span class="code">BO</span></a>
+        <a href="/py/"><span class="flag">🇵🇾</span><span class="code">PY</span></a>
+        <a href="/en/"><span class="flag">🌐</span><span class="code">EN</span></a>
+      </div>
+    </details>
   </div>
+  <script>
+    document.querySelectorAll('details.geo-switch').forEach(function (d) {
+      document.addEventListener('click', function (e) {
+        if (d.open && !d.contains(e.target)) d.removeAttribute('open');
+      });
+      d.querySelectorAll('a').forEach(function (a) {
+        a.addEventListener('click', function () { d.removeAttribute('open'); });
+      });
+    });
+  </script>
 </header>
 
 <section>
