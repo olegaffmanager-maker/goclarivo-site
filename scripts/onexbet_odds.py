@@ -122,6 +122,28 @@ class OnexbetError(RuntimeError):
     pass
 
 
+#  Owner decision (2026-10-05): the API's Football tournament list (SportId=1)
+#  also includes virtual/esports simulated leagues (confirmed live: a real
+#  pull returned "Esoccer Battle Volta" -- gamers playing FIFA under
+#  nicknames, running almost around the clock, which crowded out real
+#  matches from the "soonest upcoming" list). Owner asked these excluded so
+#  the widget only ever shows real-world football. This is a conservative
+#  name-keyword filter, not a documented API flag (the docs don't expose an
+#  "is this virtual" field on the LoadTree tournaments response) -- it may
+#  need a keyword added later if another virtual-league name slips through.
+VIRTUAL_TOURNAMENT_KEYWORDS = (
+    "esoccer", "e-soccer", "efootball", "e-football", "cyber", "cybersport",
+    "battle", "virtual football", "gt league", "fifa",
+)
+
+
+def _is_virtual_tournament(name):
+    if not name:
+        return False
+    lowered = name.lower()
+    return any(kw in lowered for kw in VIRTUAL_TOURNAMENT_KEYWORDS)
+
+
 def _opponent_image_url(image_field):
     """image_field is the raw imageOpponent1/imageOpponent2 value from the
     API -- a list of filenames (sometimes containing null), sometimes
@@ -188,6 +210,9 @@ def fetch_upcoming_football_matches(session, token, ref, gr, lng, limit=4,
         debug_dir, f"tournaments_{lng}.json",
     )
     items = tournaments.get("items", tournaments) if isinstance(tournaments, dict) else tournaments
+    if not items:
+        return []
+    items = [t for t in items if not _is_virtual_tournament(t.get("tournamentNameLocalization"))]
     if not items:
         return []
 
@@ -262,42 +287,62 @@ def render_widget_html(lang, matches, updated_at_iso, state):
     elif state == "empty" or not matches:
         body = f'<div class="odds-widget-slot">{esc(t["no_matches"])}</div>'
     else:
-        def logo_img(url):
-            # Never fabricates a logo: renders nothing if the API didn't
-            # return one, and silently hides itself (onerror) rather than
-            # showing a broken-image icon if the CDN 404s for some team.
+        def logo_img(url, name):
+            # Never fabricates a logo: renders a plain placeholder circle
+            # (no image) if the API didn't return one for this team, and
+            # silently hides itself (onerror) rather than showing a
+            # broken-image icon if the CDN 404s for some team.
+            box = (
+                "width:24px;height:24px;flex:0 0 24px;border-radius:6px;"
+                "background:#fff;display:flex;align-items:center;justify-content:center;"
+            )
             if not url:
-                return ""
+                initial = esc(name[:1].upper()) if name else "?"
+                return (
+                    f'<div style="{box}color:#99a1ae;font-size:11px;font-weight:700;">{initial}</div>'
+                )
             return (
-                f'<img src="{esc(url)}" alt="" width="16" height="16" loading="lazy" '
-                f'style="vertical-align:middle;border-radius:2px;object-fit:contain;'
-                f'margin-right:4px;background:#fff;" onerror="this.style.display=\'none\'">'
+                f'<img src="{esc(url)}" alt="" width="24" height="24" loading="lazy" '
+                f'style="{box}object-fit:contain;padding:2px;" '
+                f'onerror="this.style.display=\'none\'">'
+            )
+
+        def odds_pill(label, value):
+            return (
+                f'<div style="text-align:center;background:var(--bg-2);border:1px solid var(--border);'
+                f'border-radius:6px;padding:4px 9px;min-width:40px;">'
+                f'<div style="font-size:10px;color:var(--text-dim);line-height:1.4;">{esc(str(label))}</div>'
+                f'<div style="font-size:13px;font-weight:700;color:var(--text);line-height:1.4;">{esc(value)}</div>'
+                f'</div>'
             )
 
         rows = []
         for m in matches:
             dt = datetime.fromtimestamp(m["start_date"], tz=timezone.utc).strftime("%d.%m %H:%M UTC")
-            odds_parts = []
-            for o in m["odds"][:3]:
-                value_str = f'{o["value"]:.2f}'
-                odds_parts.append(
-                    f'<span style="color:var(--text);font-weight:600;">{esc(str(o["label"]))} {esc(value_str)}</span>'
-                )
-            odds_html = " &nbsp;·&nbsp; ".join(odds_parts)
-            tourn = f'<div style="color:var(--text-dim);font-size:11px;margin-bottom:2px;">{esc(m["tournament"])} · {dt}</div>' if m["tournament"] else f'<div style="color:var(--text-dim);font-size:11px;margin-bottom:2px;">{dt}</div>'
-            opponents = (
-                f'{logo_img(m.get("img1"))}{esc(m["opp1"])} {esc(t["vs"])} '
-                f'{logo_img(m.get("img2"))}{esc(m["opp2"])}'
+            pills = [odds_pill(o["label"], f'{o["value"]:.2f}') for o in m["odds"][:3]]
+            odds_html = f'<div style="display:flex;gap:6px;flex-shrink:0;">{"".join(pills)}</div>'
+            tourn_text = f'{esc(m["tournament"])} · {dt}' if m["tournament"] else dt
+            tourn = f'<div style="color:var(--text-dim);font-size:11px;margin-bottom:8px;">{tourn_text}</div>'
+            team_row = lambda url, name: (
+                f'<div style="display:flex;align-items:center;gap:8px;">'
+                f'{logo_img(url, name)}'
+                f'<span style="font-size:13px;color:var(--text);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">{esc(name)}</span>'
+                f'</div>'
+            )
+            teams = (
+                f'<div style="display:flex;flex-direction:column;gap:6px;min-width:0;flex:1;">'
+                f'{team_row(m.get("img1"), m["opp1"])}'
+                f'{team_row(m.get("img2"), m["opp2"])}'
+                f'</div>'
             )
             body_row = (
-                f'<div style="padding:6px 0;border-bottom:1px dashed var(--border);">'
+                f'<div style="padding:12px 0;border-bottom:1px dashed var(--border);">'
                 f'{tourn}'
-                f'<div style="font-size:12.5px;color:var(--text);margin-bottom:3px;display:flex;align-items:center;flex-wrap:wrap;gap:1px;">{opponents}</div>'
-                f'<div style="font-size:12px;">{odds_html}</div>'
+                f'<div style="display:flex;align-items:center;justify-content:space-between;gap:10px;">{teams}{odds_html}</div>'
                 f'</div>'
             )
             rows.append(body_row)
-        updated_line = f'<div style="margin-top:6px;font-size:11px;color:var(--text-dim);">{esc(t["updated"])}: {esc(updated_at_iso)}</div>'
+        updated_line = f'<div style="margin-top:8px;font-size:11px;color:var(--text-dim);">{esc(t["updated"])}: {esc(updated_at_iso)}</div>'
         body = f'<div class="odds-widget-slot" style="border-style:solid;">{"".join(rows)}{updated_line}</div>'
 
     return (
