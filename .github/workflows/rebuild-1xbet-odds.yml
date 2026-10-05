@@ -1,0 +1,73 @@
+name: Rebuild 1xBet odds widget
+
+# Periodically refreshes the "Upcoming matches & odds" widget on the
+# /{geo}/sports/ pages from the 1xBet Marketing API, then commits the
+# change if anything moved. Runs on GitHub's infrastructure since the
+# static site has no server of its own to host a cron job on (GitHub Pages
+# only serves files — see scripts/onexbet_odds.py's docstring for the full
+# architecture note and exact API endpoints used).
+#
+# Required repository secrets (Settings -> Secrets and variables -> Actions):
+#   ONEXBET_CLIENT_ID      — from the 1xBet account manager
+#   ONEXBET_CLIENT_SECRET  — from the 1xBet account manager (treat as a password)
+#   ONEXBET_REF            — partner ID, from the manager. NOT the docs' example
+#                             default of 1 — that belongs to a different account.
+# Optional:
+#   ONEXBET_GR              — "group" id, from the manager. As of 2026-10-05 the
+#                             manager had declined to provide this ("look it up
+#                             in the manual yourselves") — odds/matches still
+#                             work without it; it only affects the video-
+#                             availability flag and the deeplink host.
+#
+# If any required secret is missing, the job fails fast at the "Run rebuild
+# script" step without touching any page (see onexbet_odds.py's main()).
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes — adjust to taste; mind the API's
+                              # documented rate limits (20s/line request) before
+                              # going much tighter than this
+  workflow_dispatch: {}       # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rebuild-1xbet-odds
+  cancel-in-progress: false   # never cancel a run mid-write; let it finish or fail cleanly
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run rebuild script
+        env:
+          ONEXBET_CLIENT_ID: ${{ secrets.ONEXBET_CLIENT_ID }}
+          ONEXBET_CLIENT_SECRET: ${{ secrets.ONEXBET_CLIENT_SECRET }}
+          ONEXBET_REF: ${{ secrets.ONEXBET_REF }}
+          ONEXBET_GR: ${{ secrets.ONEXBET_GR }}
+          SITE_ROOT: "."
+        run: python scripts/onexbet_odds.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "goclarivo-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "No changes — matches/odds unchanged since last run."
+            exit 0
+          fi
+          git add -- '*/sports/index.html'
+          git commit -m "chore: refresh 1xBet upcoming-matches odds widget"
+          git push
