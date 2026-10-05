@@ -35,6 +35,12 @@ browser session -- NOT guessed. Specifically:
     value, team name or market label is invented; if the API call fails or
     returns nothing usable, the widget falls back to an honest
     "temporarily unavailable" state -- it never fabricates a match.
+  - Club/opponent logos (added 2026-10-05, also confirmed from the live docs,
+    not guessed): sporteventDetail returns imageOpponent1/imageOpponent2 as
+    filenames; the docs' "Загрузка изображений" page documents the download
+    URL pattern as https://nimblecd.com/sfiles/logo_teams/{filename}. If the
+    API doesn't return a filename for a team, no logo is rendered for it --
+    never a placeholder/fake badge.
 
 ref and gr: ref is required (ID партнёра, "уточнять у менеджера"); gr is
 needed only for the video-availability flag and the deeplink host, not for
@@ -72,6 +78,15 @@ TOKEN_URL = os.environ.get("ONEXBET_TOKEN_URL", "https://cpservm.com/gateway/tok
 API_BASE = os.environ.get("ONEXBET_API_BASE", "https://cpservm.com/gateway/marketing")
 FOOTBALL_SPORT_ID = 1  # confirmed: Results > "Спорты с доступными результатами" example {"id":1,"name":"Football"}
 
+# Club/opponent logo CDN, confirmed directly from the live docs'
+# "Загрузка изображений" page (https://docs-marketing-sport.com/intro/downloads,
+# checked 2026-10-05): GET https://nimblecd.com/sfiles/{logo_path}/{image},
+# logo_path is "logo_teams" for opponents and "logo-champ" for tournaments.
+# {image} is exactly the filename sporteventDetail returns in
+# imageOpponent1/imageOpponent2 (e.g. "295169.png"). Not guessed -- this is
+# the documented download URL pattern.
+IMAGE_BASE = "https://nimblecd.com/sfiles"
+
 # Geos that carry the real 1xBet partner card (sports_content.py ONEXBET_GEOS),
 # each mapped to the language its /sports/ page is written in and the API
 # "lng" code to request localized tournament/market text in.
@@ -105,6 +120,19 @@ MARKER_END = "<!-- ONEXBET_ODDS_WIDGET:END -->"
 
 class OnexbetError(RuntimeError):
     pass
+
+
+def _opponent_image_url(image_field):
+    """image_field is the raw imageOpponent1/imageOpponent2 value from the
+    API -- a list of filenames (sometimes containing null), sometimes
+    missing entirely. Returns a full downloadable URL for the first real
+    filename found, or None if there isn't one (never fabricates a logo)."""
+    if not image_field:
+        return None
+    for name in image_field:
+        if name:
+            return f"{IMAGE_BASE}/logo_teams/{name}"
+    return None
 
 
 def get_token(session, client_id, client_secret):
@@ -209,6 +237,8 @@ def fetch_upcoming_football_matches(session, token, ref, gr, lng, limit=4,
             "tournament": detail.get("tournamentNameLocalization", ""),
             "opp1": detail.get("opponent1NameLocalization", "?"),
             "opp2": detail.get("opponent2NameLocalization", "?"),
+            "img1": _opponent_image_url(detail.get("imageOpponent1")),
+            "img2": _opponent_image_url(detail.get("imageOpponent2")),
             "start_date": start_date,
             "link": detail.get("link"),
             "odds": odds_rows,
@@ -232,6 +262,18 @@ def render_widget_html(lang, matches, updated_at_iso, state):
     elif state == "empty" or not matches:
         body = f'<div class="odds-widget-slot">{esc(t["no_matches"])}</div>'
     else:
+        def logo_img(url):
+            # Never fabricates a logo: renders nothing if the API didn't
+            # return one, and silently hides itself (onerror) rather than
+            # showing a broken-image icon if the CDN 404s for some team.
+            if not url:
+                return ""
+            return (
+                f'<img src="{esc(url)}" alt="" width="16" height="16" loading="lazy" '
+                f'style="vertical-align:middle;border-radius:2px;object-fit:contain;'
+                f'margin-right:4px;background:#fff;" onerror="this.style.display=\'none\'">'
+            )
+
         rows = []
         for m in matches:
             dt = datetime.fromtimestamp(m["start_date"], tz=timezone.utc).strftime("%d.%m %H:%M UTC")
@@ -243,10 +285,14 @@ def render_widget_html(lang, matches, updated_at_iso, state):
                 )
             odds_html = " &nbsp;·&nbsp; ".join(odds_parts)
             tourn = f'<div style="color:var(--text-dim);font-size:11px;margin-bottom:2px;">{esc(m["tournament"])} · {dt}</div>' if m["tournament"] else f'<div style="color:var(--text-dim);font-size:11px;margin-bottom:2px;">{dt}</div>'
+            opponents = (
+                f'{logo_img(m.get("img1"))}{esc(m["opp1"])} {esc(t["vs"])} '
+                f'{logo_img(m.get("img2"))}{esc(m["opp2"])}'
+            )
             body_row = (
                 f'<div style="padding:6px 0;border-bottom:1px dashed var(--border);">'
                 f'{tourn}'
-                f'<div style="font-size:12.5px;color:var(--text);margin-bottom:3px;">{esc(m["opp1"])} {esc(t["vs"])} {esc(m["opp2"])}</div>'
+                f'<div style="font-size:12.5px;color:var(--text);margin-bottom:3px;display:flex;align-items:center;flex-wrap:wrap;gap:1px;">{opponents}</div>'
                 f'<div style="font-size:12px;">{odds_html}</div>'
                 f'</div>'
             )
