@@ -41,6 +41,24 @@ browser session -- NOT guessed. Specifically:
     URL pattern as https://nimblecd.com/sfiles/logo_teams/{filename}. If the
     API doesn't return a filename for a team, no logo is rendered for it --
     never a placeholder/fake badge.
+  - Clickable match cards (added 2026-10-05): sporteventDetail already
+    includes a "link" field (the match's page on the bookmaker's own site)
+    that the widget fetched but never used. Each card is now wrapped in that
+    link when present -- never a fabricated or guessed URL, and a match
+    whose detail happens not to include a link simply renders as a plain,
+    non-clickable card instead of linking somewhere wrong.
+  - Live ("in-play") matches (added 2026-10-05, same confirmed-against-docs
+    standard as everything else here): the API has a SEPARATE feed for
+    matches currently being played, mirroring the prematch one path-for-path
+    under /datafeed/loadtree/live/api/v1/ instead of .../prematch/api/v1/
+    (tournaments -> sporteventIds -> sporteventDetail). The live
+    sporteventDetail additionally returns curScore ({"sc1":N,"sc2":N}) and
+    currentPeriodName/timeSec. The widget shows curScore and currentPeriodName
+    exactly as returned, and timeSec truncated to whole minutes (timeSec//60)
+    -- it never estimates or interpolates a score or a match clock itself.
+    A failure fetching the live feed never blocks the (already-working)
+    upcoming-matches widget -- it just means no "live now" section that run,
+    same no-fabrication-on-failure rule as everywhere else in this script.
 
 ref and gr: ref is required (ID партнёра, "уточнять у менеджера"); gr is
 needed only for the video-availability flag and the deeplink host, not for
@@ -105,6 +123,8 @@ WIDGET_TEXT = {
         "no_matches": "No hay partidos próximos disponibles en este momento.",
         "updated": "Última sincronización",
         "vs": "vs",
+        "live_now_heading": "En vivo ahora",
+        "upcoming_heading": "Próximos partidos",
     },
     "en": {
         "title": "Upcoming matches & odds (1xBet)",
@@ -115,6 +135,8 @@ WIDGET_TEXT = {
         "no_matches": "No upcoming matches available right now.",
         "updated": "Last synced",
         "vs": "vs",
+        "live_now_heading": "Live now",
+        "upcoming_heading": "Upcoming matches",
     },
 }
 
@@ -277,7 +299,107 @@ def fetch_upcoming_football_matches(session, token, ref, gr, lng, limit=4,
     return matches[:limit]
 
 
-def render_widget_html(lang, matches, updated_at_iso, state):
+def fetch_live_football_matches(session, token, ref, gr, lng, limit=3,
+                                 max_tournaments=10, max_candidate_events=12,
+                                 request_delay=1.2, debug_dir=None):
+    """Mirrors fetch_upcoming_football_matches but against the API's SEPARATE
+    live ("in-play") feed (/datafeed/loadtree/live/api/v1/... instead of
+    .../prematch/api/v1/...) -- confirmed from the docs as its own parallel
+    tournaments -> sporteventIds -> sporteventDetail path, not a filter on
+    the prematch one. Returns up to `limit` currently-live matches with
+    curScore/currentPeriodName/timeSec exactly as the API returns them.
+    Never raises for "nothing live right now" -- returns an empty list.
+    Raises OnexbetError only on actual API/auth failures; the caller treats
+    that as "no live matches to show this run" rather than blocking the
+    (already-working) upcoming-matches widget -- live is a bonus layered on
+    top, not a required piece. max_tournaments/max_candidate_events are kept
+    smaller than the upcoming fetch's defaults since this runs as a second,
+    additive pass every cycle and shouldn't double the run's wall-clock time
+    for little gain (there are usually far fewer live matches than upcoming
+    ones at any given moment anyway)."""
+    base_params = {"ref": ref}
+    if gr:
+        base_params["gr"] = gr
+
+    tournaments = api_get(
+        session, token, "/datafeed/loadtree/live/api/v1/tournaments",
+        {**base_params, "SportId": FOOTBALL_SPORT_ID, "lng": lng},
+        debug_dir, f"live_tournaments_{lng}.json",
+    )
+    items = tournaments.get("items", tournaments) if isinstance(tournaments, dict) else tournaments
+    if isinstance(items, dict):
+        items = [items]  # docs show a single live tournament returned as a bare object, not a list
+    if not items:
+        return []
+    items = [t for t in items if not _is_virtual_tournament(t.get("tournamentNameLocalization"))]
+    if not items:
+        return []
+
+    candidate_event_ids = []
+    for t in items[:max_tournaments]:
+        tid = t.get("tournamentId")
+        if tid is None:
+            continue
+        time.sleep(request_delay)
+        try:
+            ev = api_get(
+                session, token, "/datafeed/loadtree/live/api/v1/sporteventIds",
+                {**base_params, "tournamentId": tid},
+                debug_dir, f"live_sporteventIds_{tid}.json",
+            )
+        except OnexbetError:
+            continue  # one bad tournament shouldn't kill the whole run
+        ev_items = ev.get("items", []) if isinstance(ev, dict) else (ev or [])
+        candidate_event_ids.extend(ev_items)
+        if len(candidate_event_ids) >= max_candidate_events:
+            break
+
+    matches = []
+    for event_id in candidate_event_ids[:max_candidate_events]:
+        time.sleep(request_delay)
+        try:
+            detail = api_get(
+                session, token, "/datafeed/loadtree/live/api/v1/sporteventDetail",
+                {**base_params, "sportEventId": event_id, "schemeOfGettingOdds": "Get1X2Odds", "lng": lng},
+                debug_dir, f"live_sporteventDetail_{event_id}_{lng}.json",
+            )
+        except OnexbetError:
+            continue
+        cur_score = detail.get("curScore") or {}
+        matches.append({
+            "tournament": detail.get("tournamentNameLocalization", ""),
+            "opp1": detail.get("opponent1NameLocalization", "?"),
+            "opp2": detail.get("opponent2NameLocalization", "?"),
+            "img1": _opponent_image_url(detail.get("imageOpponent1")),
+            "img2": _opponent_image_url(detail.get("imageOpponent2")),
+            "sc1": cur_score.get("sc1"),
+            "sc2": cur_score.get("sc2"),
+            "period_name": detail.get("currentPeriodName") or "",
+            "time_sec": detail.get("timeSec"),
+            "link": detail.get("link"),
+        })
+        if len(matches) >= limit:
+            break
+
+    return matches[:limit]
+
+
+def _card_tags(url):
+    """A match card links straight to its page on the bookmaker's site when
+    the API actually returned a link for it, and stays a plain (non-clickable)
+    card otherwise -- never a guessed or fabricated URL. rel="sponsored" is
+    the correct annotation for an affiliate/partner link."""
+    if not url:
+        return '<div class="live-match-card">', '</div>'
+    esc = html.escape
+    return (
+        f'<a class="live-match-card" href="{esc(url)}" target="_blank" '
+        f'rel="noopener noreferrer sponsored" style="display:block;text-decoration:none;color:inherit;">',
+        '</a>'
+    )
+
+
+def render_widget_html(lang, matches, updated_at_iso, state, live_matches=None):
     """state: 'ok' | 'pending' | 'unavailable' | 'empty'. Never fabricates a
     match -- 'pending'/'unavailable'/'empty' all render an honest text
     message instead of invented fixtures.
@@ -292,13 +414,15 @@ def render_widget_html(lang, matches, updated_at_iso, state):
     class name changes on one side, it must change on the other."""
     t = WIDGET_TEXT[lang]
     esc = html.escape
+    live_matches = live_matches or []
+    has_live = bool(live_matches)
 
     # Only claim "live" (pulsing dot + live_badge label) when there is
-    # actually live data to show -- a pending/unavailable/empty state still
-    # shows the "powered by 1xBet" + last-synced line, but never the live
-    # claim, so the header itself never says more than the message below it.
-    is_live = state == "ok" and bool(matches)
-    if is_live:
+    # actually a live-now match to show -- a pending/unavailable/empty
+    # upcoming state, or simply no match currently in play, still shows the
+    # "powered by 1xBet" + last-synced line, but never the live claim, so the
+    # header itself never says more than the sections below it.
+    if has_live:
         badge_left = (
             f'<div class="badge-left">'
             f'<span class="live-badge-dot"></span>'
@@ -315,42 +439,97 @@ def render_widget_html(lang, matches, updated_at_iso, state):
         f'</div>'
     )
 
-    if state == "pending":
-        body = f'<div class="live-match-message">{esc(t["pending"])}</div>'
-    elif state == "unavailable":
-        body = f'<div class="live-match-message">{esc(t["unavailable"])}</div>'
-    elif state == "empty" or not matches:
-        body = f'<div class="live-match-message">{esc(t["no_matches"])}</div>'
-    else:
-        def logo_img(url, name):
-            # Never fabricates a logo: renders a plain placeholder circle
-            # (no image) if the API didn't return one for this team, and
-            # silently hides itself (onerror) rather than showing a
-            # broken-image icon if the CDN 404s for some team.
-            box = (
-                "width:28px;height:28px;flex:0 0 28px;border-radius:7px;"
-                "background:#fff;display:flex;align-items:center;justify-content:center;"
-            )
-            if not url:
-                initial = esc(name[:1].upper()) if name else "?"
-                return (
-                    f'<div style="{box}color:#99a1ae;font-size:12px;font-weight:700;">{initial}</div>'
-                )
-            return (
-                f'<img src="{esc(url)}" alt="" width="28" height="28" loading="lazy" '
-                f'style="{box}object-fit:contain;padding:3px;" '
-                f'onerror="this.style.display=\'none\'">'
-            )
+    def logo_img(url, name):
+        # Never fabricates a logo: renders a plain placeholder circle (no
+        # image) if the API didn't return one for this team, and silently
+        # hides itself (onerror) rather than showing a broken-image icon if
+        # the CDN 404s for some team.
+        box = (
+            "width:28px;height:28px;flex:0 0 28px;border-radius:7px;"
+            "background:#fff;display:flex;align-items:center;justify-content:center;"
+        )
+        if not url:
+            initial = esc(name[:1].upper()) if name else "?"
+            return f'<div style="{box}color:#99a1ae;font-size:12px;font-weight:700;">{initial}</div>'
+        return (
+            f'<img src="{esc(url)}" alt="" width="28" height="28" loading="lazy" '
+            f'style="{box}object-fit:contain;padding:3px;" '
+            f'onerror="this.style.display=\'none\'">'
+        )
 
-        def odds_pill(label, value):
-            return (
-                f'<div style="text-align:center;background:var(--bg-2);border:1px solid var(--border);'
-                f'border-radius:6px;padding:4px 9px;min-width:40px;">'
-                f'<div style="font-size:10px;color:var(--text-dim);line-height:1.4;">{esc(str(label))}</div>'
-                f'<div style="font-size:13px;font-weight:700;color:var(--text);line-height:1.4;">{esc(value)}</div>'
+    def odds_pill(label, value):
+        return (
+            f'<div style="text-align:center;background:var(--bg-2);border:1px solid var(--border);'
+            f'border-radius:6px;padding:4px 9px;min-width:40px;">'
+            f'<div style="font-size:10px;color:var(--text-dim);line-height:1.4;">{esc(str(label))}</div>'
+            f'<div style="font-size:13px;font-weight:700;color:var(--text);line-height:1.4;">{esc(value)}</div>'
+            f'</div>'
+        )
+
+    def section_heading(text, first):
+        margin = "0" if first else "20px"
+        return (
+            f'<div style="font-size:12px;font-weight:700;letter-spacing:.03em;text-transform:uppercase;'
+            f'color:var(--text-dim);margin:{margin} 0 10px;">{esc(text)}</div>'
+        )
+
+    sections = []
+
+    if has_live:
+        live_cards = []
+        for m in live_matches:
+            # timeSec is truncated to whole minutes, not estimated/interpolated
+            # -- a direct, honest transformation of the API's own field.
+            minutes = None
+            if m.get("time_sec") is not None:
+                try:
+                    minutes = int(m["time_sec"]) // 60
+                except (TypeError, ValueError):
+                    minutes = None
+            meta_bits = [b for b in [m.get("period_name"), f"{minutes}'" if minutes is not None else None] if b]
+            meta_text = " · ".join(meta_bits)
+            tourn_text = f'{esc(m["tournament"])} · {esc(meta_text)}' if m["tournament"] and meta_text else (esc(m["tournament"]) or esc(meta_text))
+            live_tag = (
+                f'<div style="display:flex;align-items:center;gap:6px;color:var(--text-dim);font-size:11px;margin-bottom:10px;">'
+                f'<span style="width:6px;height:6px;border-radius:50%;background:var(--red);display:inline-block;flex:0 0 6px;"></span>'
+                f'<span>{tourn_text}</span>'
                 f'</div>'
             )
 
+            def score_row(url, name, score):
+                score_html = (
+                    f'<span style="font-size:14px;font-weight:700;color:var(--text);min-width:18px;text-align:right;">{esc(str(score))}</span>'
+                    if score is not None else ''
+                )
+                return (
+                    f'<div style="display:flex;align-items:center;justify-content:space-between;gap:8px;">'
+                    f'<div style="display:flex;align-items:center;gap:8px;min-width:0;">'
+                    f'{logo_img(url, name)}'
+                    f'<span style="font-size:13px;color:var(--text);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">{esc(name)}</span>'
+                    f'</div>{score_html}</div>'
+                )
+
+            teams = (
+                f'<div style="display:flex;flex-direction:column;gap:8px;">'
+                f'{score_row(m.get("img1"), m["opp1"], m.get("sc1"))}'
+                f'{score_row(m.get("img2"), m["opp2"], m.get("sc2"))}'
+                f'</div>'
+            )
+            open_tag, close_tag = _card_tags(m.get("link"))
+            live_cards.append(f'{open_tag}{live_tag}{teams}{close_tag}')
+        sections.append(section_heading(t["live_now_heading"], first=True))
+        sections.append(f'<div class="live-matches-grid">{"".join(live_cards)}</div>')
+
+    if state == "pending":
+        upcoming_body = f'<div class="live-match-message">{esc(t["pending"])}</div>'
+    elif state == "unavailable":
+        upcoming_body = f'<div class="live-match-message">{esc(t["unavailable"])}</div>'
+    elif state == "empty" or not matches:
+        # Don't show a "no upcoming matches" note next to a live section that
+        # already has real content -- it would read as a contradiction even
+        # though both statements are individually true.
+        upcoming_body = None if has_live else f'<div class="live-match-message">{esc(t["no_matches"])}</div>'
+    else:
         cards = []
         for m in matches:
             # Teams stack full-width above the odds row (rather than squeezed
@@ -374,10 +553,16 @@ def render_widget_html(lang, matches, updated_at_iso, state):
                 f'{team_row(m.get("img2"), m["opp2"])}'
                 f'</div>'
             )
-            card = f'<div class="live-match-card">{tourn}{teams}{odds_html}</div>'
-            cards.append(card)
-        body = f'<div class="live-matches-grid">{"".join(cards)}</div>'
+            open_tag, close_tag = _card_tags(m.get("link"))
+            cards.append(f'{open_tag}{tourn}{teams}{odds_html}{close_tag}')
+        upcoming_body = f'<div class="live-matches-grid">{"".join(cards)}</div>'
 
+    if upcoming_body is not None:
+        if has_live:
+            sections.append(section_heading(t["upcoming_heading"], first=False))
+        sections.append(upcoming_body)
+
+    body = "".join(sections)
     return f'{MARKER_START}\n{header}\n{body}\n{MARKER_END}'
 
 
@@ -451,7 +636,20 @@ def main():
             any_failed = True
             continue  # do NOT overwrite a working widget with an error state
 
-        widget_html = render_widget_html(lang, matches, updated_at_iso, state)
+        # Live matches are a bonus layered on top of the (already-working)
+        # upcoming-matches widget above -- a failure here is logged but never
+        # blocks the page update, and just means no "live now" section this run.
+        print(f"[{geo}] fetching live football matches (lng={lang})...")
+        try:
+            live_matches = fetch_live_football_matches(
+                session, token, ref, gr, lang,
+                debug_dir=(os.path.join(args.debug_dir, geo) if args.debug_dir else None),
+            )
+        except OnexbetError as e:
+            print(f"[{geo}] live API error, showing upcoming matches only: {e}", file=sys.stderr)
+            live_matches = []
+
+        widget_html = render_widget_html(lang, matches, updated_at_iso, state, live_matches=live_matches)
 
         if args.dry_run:
             print(f"--- {geo} widget preview ---")
@@ -460,7 +658,7 @@ def main():
 
         try:
             changed = update_geo_page(args.site_root, geo, widget_html)
-            print(f"[{geo}] {'updated' if changed else 'no change'} ({len(matches)} matches)")
+            print(f"[{geo}] {'updated' if changed else 'no change'} ({len(matches)} upcoming, {len(live_matches)} live)")
         except (OnexbetError, FileNotFoundError) as e:
             print(f"[{geo}] failed to write page: {e}", file=sys.stderr)
             any_failed = True
