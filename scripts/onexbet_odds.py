@@ -59,6 +59,25 @@ browser session -- NOT guessed. Specifically:
     A failure fetching the live feed never blocks the (already-working)
     upcoming-matches widget -- it just means no "live now" section that run,
     same no-fabrication-on-failure rule as everywhere else in this script.
+  - Basketball & Tennis sub-tabs (added 2026-10-05, owner request): the
+    exact same tournaments -> sporteventIds -> sporteventDetail path works
+    for any sportId, prematch and live alike -- nothing sport-specific in
+    the API shape itself. sportId 3 (Basketball) and sportId 4 (Tennis) are
+    confirmed directly from the docs, not guessed: 3 appears in the
+    LoadSingle "vids" parameter note ("3 (Баскетбол) ... "), and 4 appears
+    as the sportId on the Tennis sporteventDetail response sample ("ITF.
+    Santa Margherita di Pula. Women"). See the SPORTS list below -- each
+    sport gets its own page section (build_sports.py renders them as
+    CSS-only sub-tabs) and its own marker pair, fetched and injected
+    independently so one sport's API trouble never blocks another's.
+    Basketball/tennis get smaller max_tournaments/max_candidate_events than
+    football (see SPORTS) since they're secondary content and every sport
+    now does two fetches (upcoming + live) -- keeping their footprint small
+    is what keeps a full 3-sport x 7-geo run inside the 30-minute schedule.
+    No virtual/esports keyword filter is applied to basketball or tennis --
+    unlike football, no contamination has actually been observed there, and
+    guessing a keyword list without evidence would be exactly the kind of
+    fabrication this script avoids everywhere else.
 
 ref and gr: ref is required (ID партнёра, "уточнять у менеджера"); gr is
 needed only for the video-availability flag and the deeplink host, not for
@@ -163,11 +182,54 @@ VIRTUAL_TOURNAMENT_KEYWORDS = (
 )
 
 
-def _is_virtual_tournament(name):
-    if not name:
+def _is_virtual_tournament(name, keywords):
+    # keywords is None for sports where no virtual/esports contamination has
+    # actually been observed (see SPORTS below) -- we don't guess a keyword
+    # list for a sport we haven't seen the problem on.
+    if not keywords or not name:
         return False
     lowered = name.lower()
-    return any(kw in lowered for kw in VIRTUAL_TOURNAMENT_KEYWORDS)
+    return any(kw in lowered for kw in keywords)
+
+
+# Sports the widget covers, confirmed directly from the live docs (not
+# guessed): sportId 1 (Football) from the Results sports-list example, and
+# sportId 3 (Basketball) / sportId 4 (Tennis) from the "vids" parameter note
+# on LoadSingle ("3 (Баскетбол) ... ") and the Tennis sporteventDetail
+# response sample ("sportId": 4, tournament "ITF. Santa Margherita di Pula")
+# respectively. Added 2026-10-05 at the owner's request to split the page
+# into per-sport sub-tabs instead of a football-only widget.
+#
+# Only football has a confirmed virtual/esports contamination problem (see
+# VIRTUAL_TOURNAMENT_KEYWORDS above) -- basketball/tennis get no filter
+# rather than a guessed keyword list, since that contamination hasn't been
+# observed for them.
+#
+# max_tournaments/max_candidate_events/limit are intentionally smaller than
+# football's for basketball and tennis: they're secondary/bonus sections and
+# every sport now doubles the work (upcoming + live), so keeping their
+# footprint small is what keeps a full 3-sport x 7-geo run inside the
+# 30-minute schedule.
+SPORTS = [
+    {
+        "key": "football", "sport_id": FOOTBALL_SPORT_ID,
+        "virtual_keywords": VIRTUAL_TOURNAMENT_KEYWORDS, "icon": "⚽",
+        "upcoming": dict(limit=4, max_tournaments=15, max_candidate_events=20, request_delay=1.2),
+        "live": dict(limit=3, max_tournaments=10, max_candidate_events=12, request_delay=1.2),
+    },
+    {
+        "key": "basketball", "sport_id": 3,
+        "virtual_keywords": None, "icon": "\U0001f3c0",
+        "upcoming": dict(limit=3, max_tournaments=6, max_candidate_events=8, request_delay=0.8),
+        "live": dict(limit=2, max_tournaments=5, max_candidate_events=6, request_delay=0.8),
+    },
+    {
+        "key": "tennis", "sport_id": 4,
+        "virtual_keywords": None, "icon": "\U0001f3be",
+        "upcoming": dict(limit=3, max_tournaments=6, max_candidate_events=8, request_delay=0.8),
+        "live": dict(limit=2, max_tournaments=5, max_candidate_events=6, request_delay=0.8),
+    },
+]
 
 
 def _opponent_image_url(image_field):
@@ -218,27 +280,27 @@ def api_get(session, token, path, params, debug_dir=None, debug_name=None):
         raise OnexbetError(f"{path} did not return JSON: {resp.text[:300]}")
 
 
-def fetch_upcoming_football_matches(session, token, ref, gr, lng, limit=4,
-                                     max_tournaments=15, max_candidate_events=20,
-                                     request_delay=1.2, debug_dir=None):
-    """Returns up to `limit` upcoming (startDate > now) football matches with
-    1X2 odds, soonest first. Never raises for "no matches found" -- returns
-    an empty list in that case. Raises OnexbetError on actual API/auth
-    failures so the caller can decide to keep the previous widget content
-    rather than overwrite it with a blank/wrong state."""
+def fetch_upcoming_matches(session, token, ref, gr, lng, sport_id, virtual_keywords=None,
+                            limit=4, max_tournaments=15, max_candidate_events=20,
+                            request_delay=1.2, debug_dir=None, debug_prefix=""):
+    """Returns up to `limit` upcoming (startDate > now) matches with 1X2 odds
+    for the given sport_id, soonest first. Never raises for "no matches
+    found" -- returns an empty list in that case. Raises OnexbetError on
+    actual API/auth failures so the caller can decide to keep the previous
+    widget content rather than overwrite it with a blank/wrong state."""
     base_params = {"ref": ref}
     if gr:
         base_params["gr"] = gr
 
     tournaments = api_get(
         session, token, "/datafeed/loadtree/prematch/api/v1/tournaments",
-        {**base_params, "SportId": FOOTBALL_SPORT_ID, "lng": lng},
-        debug_dir, f"tournaments_{lng}.json",
+        {**base_params, "SportId": sport_id, "lng": lng},
+        debug_dir, f"{debug_prefix}tournaments_{lng}.json",
     )
     items = tournaments.get("items", tournaments) if isinstance(tournaments, dict) else tournaments
     if not items:
         return []
-    items = [t for t in items if not _is_virtual_tournament(t.get("tournamentNameLocalization"))]
+    items = [t for t in items if not _is_virtual_tournament(t.get("tournamentNameLocalization"), virtual_keywords)]
     if not items:
         return []
 
@@ -252,7 +314,7 @@ def fetch_upcoming_football_matches(session, token, ref, gr, lng, limit=4,
             ev = api_get(
                 session, token, "/datafeed/loadtree/prematch/api/v1/sporteventIds",
                 {**base_params, "tournamentId": tid},
-                debug_dir, f"sporteventIds_{tid}.json",
+                debug_dir, f"{debug_prefix}sporteventIds_{tid}.json",
             )
         except OnexbetError:
             continue  # one bad tournament shouldn't kill the whole run
@@ -269,7 +331,7 @@ def fetch_upcoming_football_matches(session, token, ref, gr, lng, limit=4,
             detail = api_get(
                 session, token, "/datafeed/loadtree/prematch/api/v1/sporteventDetail",
                 {**base_params, "sportEventId": event_id, "schemeOfGettingOdds": "Get1X2Odds", "lng": lng},
-                debug_dir, f"sporteventDetail_{event_id}_{lng}.json",
+                debug_dir, f"{debug_prefix}sporteventDetail_{event_id}_{lng}.json",
             )
         except OnexbetError:
             continue
@@ -299,11 +361,11 @@ def fetch_upcoming_football_matches(session, token, ref, gr, lng, limit=4,
     return matches[:limit]
 
 
-def fetch_live_football_matches(session, token, ref, gr, lng, limit=3,
-                                 max_tournaments=10, max_candidate_events=12,
-                                 request_delay=1.2, debug_dir=None):
-    """Mirrors fetch_upcoming_football_matches but against the API's SEPARATE
-    live ("in-play") feed (/datafeed/loadtree/live/api/v1/... instead of
+def fetch_live_matches(session, token, ref, gr, lng, sport_id, virtual_keywords=None,
+                        limit=3, max_tournaments=10, max_candidate_events=12,
+                        request_delay=1.2, debug_dir=None, debug_prefix=""):
+    """Mirrors fetch_upcoming_matches but against the API's SEPARATE live
+    ("in-play") feed (/datafeed/loadtree/live/api/v1/... instead of
     .../prematch/api/v1/...) -- confirmed from the docs as its own parallel
     tournaments -> sporteventIds -> sporteventDetail path, not a filter on
     the prematch one. Returns up to `limit` currently-live matches with
@@ -312,26 +374,22 @@ def fetch_live_football_matches(session, token, ref, gr, lng, limit=3,
     Raises OnexbetError only on actual API/auth failures; the caller treats
     that as "no live matches to show this run" rather than blocking the
     (already-working) upcoming-matches widget -- live is a bonus layered on
-    top, not a required piece. max_tournaments/max_candidate_events are kept
-    smaller than the upcoming fetch's defaults since this runs as a second,
-    additive pass every cycle and shouldn't double the run's wall-clock time
-    for little gain (there are usually far fewer live matches than upcoming
-    ones at any given moment anyway)."""
+    top, not a required piece."""
     base_params = {"ref": ref}
     if gr:
         base_params["gr"] = gr
 
     tournaments = api_get(
         session, token, "/datafeed/loadtree/live/api/v1/tournaments",
-        {**base_params, "SportId": FOOTBALL_SPORT_ID, "lng": lng},
-        debug_dir, f"live_tournaments_{lng}.json",
+        {**base_params, "SportId": sport_id, "lng": lng},
+        debug_dir, f"{debug_prefix}live_tournaments_{lng}.json",
     )
     items = tournaments.get("items", tournaments) if isinstance(tournaments, dict) else tournaments
     if isinstance(items, dict):
         items = [items]  # docs show a single live tournament returned as a bare object, not a list
     if not items:
         return []
-    items = [t for t in items if not _is_virtual_tournament(t.get("tournamentNameLocalization"))]
+    items = [t for t in items if not _is_virtual_tournament(t.get("tournamentNameLocalization"), virtual_keywords)]
     if not items:
         return []
 
@@ -345,7 +403,7 @@ def fetch_live_football_matches(session, token, ref, gr, lng, limit=3,
             ev = api_get(
                 session, token, "/datafeed/loadtree/live/api/v1/sporteventIds",
                 {**base_params, "tournamentId": tid},
-                debug_dir, f"live_sporteventIds_{tid}.json",
+                debug_dir, f"{debug_prefix}live_sporteventIds_{tid}.json",
             )
         except OnexbetError:
             continue  # one bad tournament shouldn't kill the whole run
@@ -361,7 +419,7 @@ def fetch_live_football_matches(session, token, ref, gr, lng, limit=3,
             detail = api_get(
                 session, token, "/datafeed/loadtree/live/api/v1/sporteventDetail",
                 {**base_params, "sportEventId": event_id, "schemeOfGettingOdds": "Get1X2Odds", "lng": lng},
-                debug_dir, f"live_sporteventDetail_{event_id}_{lng}.json",
+                debug_dir, f"{debug_prefix}live_sporteventDetail_{event_id}_{lng}.json",
             )
         except OnexbetError:
             continue
@@ -566,23 +624,38 @@ def render_widget_html(lang, matches, updated_at_iso, state, live_matches=None):
     return f'{MARKER_START}\n{header}\n{body}\n{MARKER_END}'
 
 
-def inject_widget(html_text, widget_html):
-    start_idx = html_text.find(MARKER_START)
-    end_idx = html_text.find(MARKER_END)
+def _widget_markers(sport_key):
+    """Football keeps the original, already-deployed marker pair unchanged
+    (ONEXBET_ODDS_WIDGET:START/END) so its existing path on the page needs no
+    changes. Basketball/tennis (added 2026-10-05, for the per-sport sub-tabs
+    on /sports/) get their own marker pair each -- this naming must match
+    build_sports.py's _widget_markers() exactly; it's the shared contract
+    between the two codebases, duplicated here on purpose (see module
+    docstring)."""
+    if sport_key == "football":
+        return MARKER_START, MARKER_END
+    tag = sport_key.upper()
+    return f"<!-- ONEXBET_ODDS_WIDGET_{tag}:START -->", f"<!-- ONEXBET_ODDS_WIDGET_{tag}:END -->"
+
+
+def inject_widget(html_text, widget_html, start_marker=MARKER_START, end_marker=MARKER_END):
+    start_idx = html_text.find(start_marker)
+    end_idx = html_text.find(end_marker)
     if start_idx == -1 or end_idx == -1:
         raise OnexbetError(
-            "markers not found in page — run scaffold_widget_markers.py first "
-            "to insert them into the 1xBet card on this page"
+            f"markers {start_marker!r}/{end_marker!r} not found in page — run "
+            "scaffold_widget_markers.py (football) or regenerate the page from "
+            "build_sports.py (other sports) first"
         )
-    end_idx += len(MARKER_END)
+    end_idx += len(end_marker)
     return html_text[:start_idx] + widget_html + html_text[end_idx:]
 
 
-def update_geo_page(site_root, geo, widget_html):
+def update_geo_page(site_root, geo, widget_html, start_marker=MARKER_START, end_marker=MARKER_END):
     path = os.path.join(site_root, geo, "sports", "index.html")
     with open(path, encoding="utf-8") as f:
         src = f.read()
-    new_src = inject_widget(src, widget_html)
+    new_src = inject_widget(src, widget_html, start_marker, end_marker)
     if new_src == src:
         return False
     with open(path, "w", encoding="utf-8") as f:
@@ -624,44 +697,55 @@ def main():
         if not lang:
             print(f"[skip] {geo}: not in GEO_LANG map", file=sys.stderr)
             continue
-        print(f"[{geo}] fetching upcoming football matches (lng={lang})...")
-        try:
-            matches = fetch_upcoming_football_matches(
-                session, token, ref, gr, lang,
-                debug_dir=(os.path.join(args.debug_dir, geo) if args.debug_dir else None),
-            )
-            state = "ok" if matches else "empty"
-        except OnexbetError as e:
-            print(f"[{geo}] API error, leaving existing widget untouched: {e}", file=sys.stderr)
-            any_failed = True
-            continue  # do NOT overwrite a working widget with an error state
 
-        # Live matches are a bonus layered on top of the (already-working)
-        # upcoming-matches widget above -- a failure here is logged but never
-        # blocks the page update, and just means no "live now" section this run.
-        print(f"[{geo}] fetching live football matches (lng={lang})...")
-        try:
-            live_matches = fetch_live_football_matches(
-                session, token, ref, gr, lang,
-                debug_dir=(os.path.join(args.debug_dir, geo) if args.debug_dir else None),
-            )
-        except OnexbetError as e:
-            print(f"[{geo}] live API error, showing upcoming matches only: {e}", file=sys.stderr)
-            live_matches = []
+        for sport in SPORTS:
+            key = sport["key"]
+            start_marker, end_marker = _widget_markers(key)
+            debug_dir = os.path.join(args.debug_dir, geo) if args.debug_dir else None
 
-        widget_html = render_widget_html(lang, matches, updated_at_iso, state, live_matches=live_matches)
+            print(f"[{geo}/{key}] fetching upcoming matches (lng={lang})...")
+            try:
+                matches = fetch_upcoming_matches(
+                    session, token, ref, gr, lang, sport["sport_id"],
+                    virtual_keywords=sport["virtual_keywords"],
+                    debug_dir=debug_dir, debug_prefix=f"{key}_",
+                    **sport["upcoming"],
+                )
+                state = "ok" if matches else "empty"
+            except OnexbetError as e:
+                print(f"[{geo}/{key}] API error, leaving existing widget untouched: {e}", file=sys.stderr)
+                any_failed = True
+                continue  # do NOT overwrite a working widget with an error state -- next sport
 
-        if args.dry_run:
-            print(f"--- {geo} widget preview ---")
-            print(widget_html)
-            continue
+            # Live matches are a bonus layered on top of the (already-working)
+            # upcoming-matches widget above -- a failure here is logged but
+            # never blocks the page update, and just means no "live now"
+            # section for this sport this run.
+            print(f"[{geo}/{key}] fetching live matches (lng={lang})...")
+            try:
+                live_matches = fetch_live_matches(
+                    session, token, ref, gr, lang, sport["sport_id"],
+                    virtual_keywords=sport["virtual_keywords"],
+                    debug_dir=debug_dir, debug_prefix=f"{key}_",
+                    **sport["live"],
+                )
+            except OnexbetError as e:
+                print(f"[{geo}/{key}] live API error, showing upcoming matches only: {e}", file=sys.stderr)
+                live_matches = []
 
-        try:
-            changed = update_geo_page(args.site_root, geo, widget_html)
-            print(f"[{geo}] {'updated' if changed else 'no change'} ({len(matches)} upcoming, {len(live_matches)} live)")
-        except (OnexbetError, FileNotFoundError) as e:
-            print(f"[{geo}] failed to write page: {e}", file=sys.stderr)
-            any_failed = True
+            widget_html = render_widget_html(lang, matches, updated_at_iso, state, live_matches=live_matches)
+
+            if args.dry_run:
+                print(f"--- {geo}/{key} widget preview ---")
+                print(widget_html)
+                continue
+
+            try:
+                changed = update_geo_page(args.site_root, geo, widget_html, start_marker, end_marker)
+                print(f"[{geo}/{key}] {'updated' if changed else 'no change'} ({len(matches)} upcoming, {len(live_matches)} live)")
+            except (OnexbetError, FileNotFoundError) as e:
+                print(f"[{geo}/{key}] failed to write page: {e}", file=sys.stderr)
+                any_failed = True
 
     if any_failed:
         sys.exit(1)
