@@ -70,4 +70,20 @@ jobs:
           fi
           git add -- '*/sports/index.html'
           git commit -m "chore: refresh 1xBet upcoming-matches odds widget"
-          git push
+
+          # A manual run and the 30-minute schedule (or a human pushing other
+          # changes to the repo) can race to push at the same moment. Retry
+          # with a rebase on top of whatever landed first, instead of just
+          # failing the run and silently leaving stale data on the site.
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              echo "Pushed successfully."
+              exit 0
+            fi
+            echo "Push rejected (someone else pushed to main in the meantime) — retrying ($attempt/5)..."
+            git fetch origin main
+            git rebase origin/main
+            sleep 5
+          done
+          echo "Push still failing after 5 retries — needs a human look." >&2
+          exit 1
