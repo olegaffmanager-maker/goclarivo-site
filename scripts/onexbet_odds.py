@@ -74,10 +74,57 @@ browser session -- NOT guessed. Specifically:
     football (see SPORTS) since they're secondary content and every sport
     now does two fetches (upcoming + live) -- keeping their footprint small
     is what keeps a full 3-sport x 7-geo run inside the 30-minute schedule.
-    No virtual/esports keyword filter is applied to basketball or tennis --
-    unlike football, no contamination has actually been observed there, and
-    guessing a keyword list without evidence would be exactly the kind of
-    fabrication this script avoids everywhere else.
+  - Virtual/esports filter extended to every sport (2026-10-06): the
+    basketball live feed was observed showing a real match: "NBA 2K26. Cyber
+    League" with "Detroit Pistons (cyber)" vs "Milwaukee Bucks (cyber)" --
+    confirmed virtual/esports content under sportId 3, not real basketball.
+    Separately, the docs' OWN example response for the sports-with-results
+    endpoint also shows a tournament "NBA 2K21. Cyber ..." under sportId 3.
+    Two independent, directly-observed confirmations that virtual/esports
+    content isn't confined to football -- it can appear under any sport's
+    normal sportId, not a separate dedicated id. VIRTUAL_TOURNAMENT_KEYWORDS
+    is therefore now applied to every sport in SPORTS, not football alone.
+    The keyword list itself is unchanged (still not guessed): "cyber" is
+    what actually caught both observed cases above.
+  - More markets per card (added 2026-10-06, owner request): sporteventDetail
+    is now requested with schemeOfGettingOdds=GetAllOdds instead of
+    Get1X2Odds, returning every market instead of just the three 1X2
+    outcomes. Which extra markets to show is NOT guessed from market names --
+    it's matched against the API's own "Справочник маркетов" (Market
+    dictionary, GET /datafeed/directories/api/v2/sportevents) confirmed
+    directly from its documented example response: id 1/2/3 = W1/X/W2 (the
+    existing 1X2 pills), 7/8 = Handicap 1/Handicap 2, 9/10 = Total
+    Over/Total Under. Each oddsLocalization item's own `type` field (per the
+    deeplink endpoint's docs: "type ... oddsLocalization.type из ответа
+    метода получения маркетов") is matched against these confirmed ids; see
+    _extract_odds(). As always, every pill's label is the API's own
+    already-localized `display` text, never relabeled. A match missing a
+    given market (e.g. no total offered) just shows fewer pills; only a
+    missing 1X2 line disqualifies the match from the widget entirely, same
+    as before.
+  - "Recent results" section (added 2026-10-06, owner request): sourced from
+    the API's separate Results feed (/result/api/v1/..., confirmed from the
+    docs as its own path, distinct from LoadSingle/LoadList/LoadTree), via
+    /result/api/v1/tournaments (sports/tournaments with finished matches in
+    a date window) then /result/api/v1/sportevents (per tournament, the
+    matches' final score). Field names (opponent1NameLocalization, score as
+    a single string like "2:1 (1:1,0:0,1:0)", startDate, imageOpponent1/2,
+    type, vid) are confirmed directly from the docs' own expanded example
+    response for that endpoint -- not guessed. The Results API caps a single
+    dateFrom/dateTo window to 48 hours; this script looks back 47 hours. A
+    finished match the API reports as cancelled (no score field) is skipped
+    rather than inventing a cancellation message from an unconfirmed field
+    name. Only type=1/vid=1 (the main match-result event) is used.
+  - Hockey & Volleyball sub-tabs (added 2026-10-06, owner request, picked
+    from a list of docs-confirmed sports): sportId 2 (Ice Hockey) and
+    sportId 6 (Volleyball), both confirmed directly from the docs' own
+    example response for "Справочник спортов" (GET
+    /datafeed/directories/api/v2/sports), the same example that reconfirmed
+    1=Football, 3=Basketball, 4=Tennis exactly as already used. Same small
+    per-sport fetch budgets as basketball/tennis, for the same reason: every
+    additional sport (now x3 fetches each: upcoming, live, results) adds to
+    total run time, which already approached the 30-minute schedule window
+    at 3 sports -- this should be watched after the first run with 5.
 
 ref and gr: ref is required (ID партнёра, "уточнять у менеджера"); gr is
 needed only for the video-availability flag and the deeplink host, not for
@@ -144,6 +191,7 @@ WIDGET_TEXT = {
         "vs": "vs",
         "live_now_heading": "En vivo ahora",
         "upcoming_heading": "Próximos partidos",
+        "recent_results_heading": "Resultados recientes",
     },
     "en": {
         "title": "Upcoming matches & odds (1xBet)",
@@ -156,6 +204,7 @@ WIDGET_TEXT = {
         "vs": "vs",
         "live_now_heading": "Live now",
         "upcoming_heading": "Upcoming matches",
+        "recent_results_heading": "Recent results",
     },
 }
 
@@ -183,51 +232,105 @@ VIRTUAL_TOURNAMENT_KEYWORDS = (
 
 
 def _is_virtual_tournament(name, keywords):
-    # keywords is None for sports where no virtual/esports contamination has
-    # actually been observed (see SPORTS below) -- we don't guess a keyword
-    # list for a sport we haven't seen the problem on.
+    # keywords is None only if a caller explicitly opts a sport out (no
+    # sport currently does -- see SPORTS below, 2026-10-06: the filter now
+    # applies everywhere, see module docstring for why).
     if not keywords or not name:
         return False
     lowered = name.lower()
     return any(kw in lowered for kw in keywords)
 
 
+# Market type IDs from the API's own "Справочник маркетов" (Market
+# dictionary, GET /datafeed/directories/api/v2/sportevents), confirmed
+# directly from its documented example response (not guessed):
+#   1=W1, 2=X, 3=W2           -- the three 1X2 outcomes (already used)
+#   4=1X, 5=12, 6=2X          -- double chance (unused -- not asked for)
+#   7=Handicap 1, 8=Handicap 2
+#   9=Total Over, 10=Total Under
+MARKET_TYPE_1X2 = (1, 2, 3)
+MARKET_TYPE_HANDICAP = (7, 8)
+MARKET_TYPE_TOTAL = (9, 10)
+
+
+def _extract_odds(odds_items):
+    """Builds the pill list for a match card from the API's own
+    oddsLocalization array (requested with schemeOfGettingOdds=GetAllOdds,
+    which returns every market, not just 1X2 -- see module docstring).
+    Returns (main_rows, extra_rows): main_rows is the 1X2 pills (same as
+    before), extra_rows is Handicap 1/2 and Total Over/Under, each taken as
+    the FIRST line the API lists for that market type -- this script doesn't
+    pick a "preferred" handicap/total line itself. Every label is the API's
+    own already-localized `display` text, verbatim, never relabeled."""
+    usable = [
+        o for o in odds_items
+        if o.get("display") and o.get("oddsMarket") is not None and not o.get("isBlocked")
+    ]
+    by_type = {}
+    for o in usable:
+        t = o.get("type")
+        if t not in by_type:  # first occurrence only, per market type
+            by_type[t] = o
+
+    def rows_for(type_ids):
+        return [
+            {"label": by_type[t]["display"], "value": by_type[t]["oddsMarket"]}
+            for t in type_ids if t in by_type
+        ]
+
+    return rows_for(MARKET_TYPE_1X2), rows_for(MARKET_TYPE_HANDICAP + MARKET_TYPE_TOTAL)
+
+
 # Sports the widget covers, confirmed directly from the live docs (not
-# guessed): sportId 1 (Football) from the Results sports-list example, and
-# sportId 3 (Basketball) / sportId 4 (Tennis) from the "vids" parameter note
-# on LoadSingle ("3 (Баскетбол) ... ") and the Tennis sporteventDetail
-# response sample ("sportId": 4, tournament "ITF. Santa Margherita di Pula")
-# respectively. Added 2026-10-05 at the owner's request to split the page
-# into per-sport sub-tabs instead of a football-only widget.
+# guessed): sportId 1 (Football), 3 (Basketball), 4 (Tennis) were already
+# confirmed (see module docstring); sportId 2 (Ice Hockey) and 6 (Volleyball)
+# were added 2026-10-06, confirmed the same way, from the docs' own example
+# response for "Справочник спортов" (/datafeed/directories/api/v2/sports),
+# which also reconfirmed 1/3/4 exactly. The owner picked hockey + volleyball
+# from the full confirmed list (which also included Baseball=5, Rugby=7).
 #
-# Only football has a confirmed virtual/esports contamination problem (see
-# VIRTUAL_TOURNAMENT_KEYWORDS above) -- basketball/tennis get no filter
-# rather than a guessed keyword list, since that contamination hasn't been
-# observed for them.
+# The virtual/esports keyword filter now applies to every sport (2026-10-06
+# -- see module docstring for the two independent confirmations that led to
+# this, one of them basketball itself).
 #
 # max_tournaments/max_candidate_events/limit are intentionally smaller than
-# football's for basketball and tennis: they're secondary/bonus sections and
-# every sport now doubles the work (upcoming + live), so keeping their
-# footprint small is what keeps a full 3-sport x 7-geo run inside the
-# 30-minute schedule.
+# football's for every other sport: they're secondary/bonus sections and
+# every sport now does THREE fetches (upcoming, live, results), so keeping
+# their footprint small is what keeps the whole run inside the 30-minute
+# schedule -- this got noticeably tighter going from 3 to 5 sports plus the
+# new results fetch, so run time is worth watching after the first live run.
+_SECONDARY_BUDGET = dict(
+    upcoming=dict(limit=3, max_tournaments=6, max_candidate_events=8, request_delay=0.8),
+    live=dict(limit=2, max_tournaments=5, max_candidate_events=6, request_delay=0.8),
+    results=dict(limit=2, max_tournaments=3, request_delay=0.8),
+)
 SPORTS = [
     {
         "key": "football", "sport_id": FOOTBALL_SPORT_ID,
         "virtual_keywords": VIRTUAL_TOURNAMENT_KEYWORDS, "icon": "⚽",
         "upcoming": dict(limit=4, max_tournaments=15, max_candidate_events=20, request_delay=1.2),
         "live": dict(limit=3, max_tournaments=10, max_candidate_events=12, request_delay=1.2),
+        "results": dict(limit=2, max_tournaments=3, request_delay=1.0),
     },
     {
         "key": "basketball", "sport_id": 3,
-        "virtual_keywords": None, "icon": "\U0001f3c0",
-        "upcoming": dict(limit=3, max_tournaments=6, max_candidate_events=8, request_delay=0.8),
-        "live": dict(limit=2, max_tournaments=5, max_candidate_events=6, request_delay=0.8),
+        "virtual_keywords": VIRTUAL_TOURNAMENT_KEYWORDS, "icon": "\U0001f3c0",
+        **_SECONDARY_BUDGET,
     },
     {
         "key": "tennis", "sport_id": 4,
-        "virtual_keywords": None, "icon": "\U0001f3be",
-        "upcoming": dict(limit=3, max_tournaments=6, max_candidate_events=8, request_delay=0.8),
-        "live": dict(limit=2, max_tournaments=5, max_candidate_events=6, request_delay=0.8),
+        "virtual_keywords": VIRTUAL_TOURNAMENT_KEYWORDS, "icon": "\U0001f3be",
+        **_SECONDARY_BUDGET,
+    },
+    {
+        "key": "hockey", "sport_id": 2,
+        "virtual_keywords": VIRTUAL_TOURNAMENT_KEYWORDS, "icon": "\U0001f3d2",
+        **_SECONDARY_BUDGET,
+    },
+    {
+        "key": "volleyball", "sport_id": 6,
+        "virtual_keywords": VIRTUAL_TOURNAMENT_KEYWORDS, "icon": "\U0001f3d0",
+        **_SECONDARY_BUDGET,
     },
 ]
 
@@ -330,7 +433,7 @@ def fetch_upcoming_matches(session, token, ref, gr, lng, sport_id, virtual_keywo
         try:
             detail = api_get(
                 session, token, "/datafeed/loadtree/prematch/api/v1/sporteventDetail",
-                {**base_params, "sportEventId": event_id, "schemeOfGettingOdds": "Get1X2Odds", "lng": lng},
+                {**base_params, "sportEventId": event_id, "schemeOfGettingOdds": "GetAllOdds", "lng": lng},
                 debug_dir, f"{debug_prefix}sporteventDetail_{event_id}_{lng}.json",
             )
         except OnexbetError:
@@ -339,12 +442,8 @@ def fetch_upcoming_matches(session, token, ref, gr, lng, sport_id, virtual_keywo
         if not start_date or start_date <= now:
             continue
         odds = detail.get("oddsLocalization") or []
-        odds_rows = [
-            {"label": o.get("display"), "value": o.get("oddsMarket")}
-            for o in odds
-            if o.get("display") and o.get("oddsMarket") is not None and not o.get("isBlocked")
-        ]
-        if not odds_rows:
+        main_odds, extra_odds = _extract_odds(odds)
+        if not main_odds:
             continue
         matches.append({
             "tournament": detail.get("tournamentNameLocalization", ""),
@@ -354,7 +453,7 @@ def fetch_upcoming_matches(session, token, ref, gr, lng, sport_id, virtual_keywo
             "img2": _opponent_image_url(detail.get("imageOpponent2")),
             "start_date": start_date,
             "link": detail.get("link"),
-            "odds": odds_rows,
+            "odds": main_odds + extra_odds,
         })
 
     matches.sort(key=lambda m: m["start_date"])
@@ -442,6 +541,75 @@ def fetch_live_matches(session, token, ref, gr, lng, sport_id, virtual_keywords=
     return matches[:limit]
 
 
+def fetch_recent_results(session, token, ref, gr, lng, sport_id, virtual_keywords=None,
+                          limit=2, max_tournaments=3, request_delay=0.8,
+                          debug_dir=None, debug_prefix=""):
+    """Returns up to `limit` most-recently-finished matches for sport_id,
+    most recent first, sourced from the API's SEPARATE Results feed
+    (/result/api/v1/..., confirmed from the docs as its own path -- not a
+    filter on LoadSingle/LoadList/LoadTree). The Results API caps a single
+    dateFrom/dateTo window to 48 hours; this looks back 47 hours (never
+    widens the window to find more results). Only type=1/vid=1 events (the
+    main match-result event, not a corner/card sub-event) with a `score`
+    the API actually returned are included -- a match the API reports as
+    cancelled (no score field) is silently skipped rather than guessing a
+    cancellation message from an unconfirmed field name. Never raises for
+    "nothing finished recently" -- returns an empty list. Raises
+    OnexbetError only on actual API/auth failures; same "bonus section,
+    never blocks the rest of the page" rule as fetch_live_matches."""
+    base_params = {"ref": ref}
+    if gr:
+        base_params["gr"] = gr
+    now = int(time.time())
+    date_from, date_to = now - 47 * 3600, now
+
+    tournaments = api_get(
+        session, token, "/result/api/v1/tournaments",
+        {**base_params, "sportId": sport_id, "dateFrom": date_from, "dateTo": date_to, "lng": lng},
+        debug_dir, f"{debug_prefix}results_tournaments_{lng}.json",
+    )
+    items = tournaments.get("items", tournaments) if isinstance(tournaments, dict) else tournaments
+    if not items:
+        return []
+    items = [t for t in items if not _is_virtual_tournament(t.get("tournamentNameLocalization"), virtual_keywords)]
+    if not items:
+        return []
+
+    results = []
+    for t in items[:max_tournaments]:
+        tid = t.get("tournamentId")
+        if tid is None:
+            continue
+        time.sleep(request_delay)
+        try:
+            ev = api_get(
+                session, token, "/result/api/v1/sportevents",
+                {**base_params, "tournamentIds": tid, "dateFrom": date_from, "dateTo": date_to, "lng": lng},
+                debug_dir, f"{debug_prefix}results_sportevents_{tid}.json",
+            )
+        except OnexbetError:
+            continue  # one bad tournament shouldn't kill the whole run
+        ev_items = ev.get("items", []) if isinstance(ev, dict) else (ev or [])
+        for e in ev_items:
+            if e.get("type") != 1 or e.get("vid") != 1:
+                continue
+            score = e.get("score")
+            if not score:
+                continue  # cancelled or otherwise scoreless -- never invent a score/status
+            results.append({
+                "tournament": t.get("tournamentNameLocalization", ""),
+                "opp1": e.get("opponent1NameLocalization", "?"),
+                "opp2": e.get("opponent2NameLocalization", "?"),
+                "img1": _opponent_image_url(e.get("imageOpponent1")),
+                "img2": _opponent_image_url(e.get("imageOpponent2")),
+                "score": score,
+                "start_date": e.get("startDate") or 0,
+            })
+
+    results.sort(key=lambda r: r["start_date"], reverse=True)
+    return results[:limit]
+
+
 def _card_tags(url):
     """A match card links straight to its page on the bookmaker's site when
     the API actually returned a link for it, and stays a plain (non-clickable)
@@ -457,7 +625,7 @@ def _card_tags(url):
     )
 
 
-def render_widget_html(lang, matches, updated_at_iso, state, live_matches=None):
+def render_widget_html(lang, matches, updated_at_iso, state, live_matches=None, recent_results=None):
     """state: 'ok' | 'pending' | 'unavailable' | 'empty'. Never fabricates a
     match -- 'pending'/'unavailable'/'empty' all render an honest text
     message instead of invented fixtures.
@@ -474,6 +642,8 @@ def render_widget_html(lang, matches, updated_at_iso, state, live_matches=None):
     esc = html.escape
     live_matches = live_matches or []
     has_live = bool(live_matches)
+    recent_results = recent_results or []
+    has_recent = bool(recent_results)
 
     # Only claim "live" (pulsing dot + live_badge label) when there is
     # actually a live-now match to show -- a pending/unavailable/empty
@@ -595,8 +765,11 @@ def render_widget_html(lang, matches, updated_at_iso, state, live_matches=None):
             # the grid column itself is already narrow at 3-up, and real
             # names/pills together don't fit side by side there.
             dt = datetime.fromtimestamp(m["start_date"], tz=timezone.utc).strftime("%d.%m %H:%M UTC")
-            pills = [odds_pill(o["label"], f'{o["value"]:.2f}') for o in m["odds"][:3]]
-            odds_html = f'<div style="display:flex;gap:6px;margin-top:10px;">{"".join(pills)}</div>'
+            # No longer capped to 3: GetAllOdds (see module docstring) can
+            # return 1X2 plus Handicap 1/2 and Total Over/Under pills too --
+            # wrap rather than overflow a narrow card.
+            pills = [odds_pill(o["label"], f'{o["value"]:.2f}') for o in m["odds"]]
+            odds_html = f'<div style="display:flex;flex-wrap:wrap;gap:6px;margin-top:10px;">{"".join(pills)}</div>'
             tourn_text = f'{esc(m["tournament"])} · {dt}' if m["tournament"] else dt
             tourn = f'<div style="color:var(--text-dim);font-size:11px;margin-bottom:10px;">{tourn_text}</div>'
             team_row = lambda url, name: (
@@ -616,9 +789,54 @@ def render_widget_html(lang, matches, updated_at_iso, state, live_matches=None):
         upcoming_body = f'<div class="live-matches-grid">{"".join(cards)}</div>'
 
     if upcoming_body is not None:
-        if has_live:
-            sections.append(section_heading(t["upcoming_heading"], first=False))
+        sections.append(section_heading(t["upcoming_heading"], first=not sections))
         sections.append(upcoming_body)
+
+    if has_recent:
+        def score_text(score):
+            # score looks like "2:1 (1:1,0:0,1:0)" -- the API's own string,
+            # shown verbatim; split only to emphasize the final score over
+            # the period breakdown, never reinterpreted or recomputed.
+            parts = str(score).split(" ", 1)
+            return parts[0], (parts[1] if len(parts) > 1 else "")
+
+        recent_cards = []
+        for r in recent_results:
+            main_score, detail_score = score_text(r["score"])
+            tourn = (
+                f'<div style="color:var(--text-dim);font-size:11px;margin-bottom:10px;">{esc(r["tournament"])}</div>'
+                if r["tournament"] else ""
+            )
+            team_row = lambda url, name: (
+                f'<div style="display:flex;align-items:center;gap:8px;min-width:0;">'
+                f'{logo_img(url, name)}'
+                f'<span style="font-size:13px;color:var(--text);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">{esc(name)}</span>'
+                f'</div>'
+            )
+            teams = (
+                f'<div style="display:flex;flex-direction:column;gap:8px;">'
+                f'{team_row(r.get("img1"), r["opp1"])}'
+                f'{team_row(r.get("img2"), r["opp2"])}'
+                f'</div>'
+            )
+            detail_html = (
+                f'<div style="font-size:10px;color:var(--text-dim);margin-top:2px;">{esc(detail_score)}</div>'
+                if detail_score else ""
+            )
+            score_html = (
+                f'<div style="text-align:center;margin-top:10px;">'
+                f'<div style="font-size:16px;font-weight:700;color:var(--text);">{esc(main_score)}</div>'
+                f'{detail_html}'
+                f'</div>'
+            )
+            # The Results API never returns a "link" field (confirmed from
+            # its docs' expanded example response) -- these cards are never
+            # clickable, same honest fallback _card_tags already uses for
+            # an upcoming/live match the API didn't give a link for.
+            open_tag, close_tag = _card_tags(None)
+            recent_cards.append(f'{open_tag}{tourn}{teams}{score_html}{close_tag}')
+        sections.append(section_heading(t["recent_results_heading"], first=not sections))
+        sections.append(f'<div class="live-matches-grid">{"".join(recent_cards)}</div>')
 
     body = "".join(sections)
     return f'{MARKER_START}\n{header}\n{body}\n{MARKER_END}'
@@ -733,7 +951,24 @@ def main():
                 print(f"[{geo}/{key}] live API error, showing upcoming matches only: {e}", file=sys.stderr)
                 live_matches = []
 
-            widget_html = render_widget_html(lang, matches, updated_at_iso, state, live_matches=live_matches)
+            # Recent results are a bonus layered on top too -- same
+            # never-block-the-page rule as live matches above.
+            print(f"[{geo}/{key}] fetching recent results (lng={lang})...")
+            try:
+                recent_results = fetch_recent_results(
+                    session, token, ref, gr, lang, sport["sport_id"],
+                    virtual_keywords=sport["virtual_keywords"],
+                    debug_dir=debug_dir, debug_prefix=f"{key}_",
+                    **sport["results"],
+                )
+            except OnexbetError as e:
+                print(f"[{geo}/{key}] results API error, showing without recent results: {e}", file=sys.stderr)
+                recent_results = []
+
+            widget_html = render_widget_html(
+                lang, matches, updated_at_iso, state,
+                live_matches=live_matches, recent_results=recent_results,
+            )
 
             if args.dry_run:
                 print(f"--- {geo}/{key} widget preview ---")
@@ -742,7 +977,8 @@ def main():
 
             try:
                 changed = update_geo_page(args.site_root, geo, widget_html, start_marker, end_marker)
-                print(f"[{geo}/{key}] {'updated' if changed else 'no change'} ({len(matches)} upcoming, {len(live_matches)} live)")
+                print(f"[{geo}/{key}] {'updated' if changed else 'no change'} "
+                      f"({len(matches)} upcoming, {len(live_matches)} live, {len(recent_results)} results)")
             except (OnexbetError, FileNotFoundError) as e:
                 print(f"[{geo}/{key}] failed to write page: {e}", file=sys.stderr)
                 any_failed = True

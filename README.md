@@ -82,3 +82,77 @@ page untouched rather than guessing or writing a broken state.
   side"), not from guessing what a numeric market-type ID means — so a
   German/Spanish/English `lng` request naturally gets correctly localized
   labels without this script hardcoding any translation.
+- **Excludes virtual/esports football** (added 2026-10-05): the API's
+  Football tournament list also includes simulated leagues like "Esoccer
+  Battle Volta" (gamers playing FIFA under nicknames, running almost
+  around the clock) mixed in with real matches. A keyword filter on the
+  tournament name excludes these so the widget only shows real-world
+  football. Not a documented API flag — a name-keyword heuristic, so a new
+  virtual-league name could in theory slip through and need a keyword
+  added later.
+- **Club logos** (added 2026-10-05): the API returns a logo filename per
+  opponent (`imageOpponent1`/`imageOpponent2`); the script turns that into
+  a download URL using the pattern documented on the API's own "Загрузка
+  изображений" (image download) page —
+  `https://nimblecd.com/sfiles/logo_teams/{filename}` — not guessed. If a
+  team has no logo filename in the response, none is rendered for it (no
+  placeholder badge), and if the CDN ever 404s for a given file, the
+  broken-image icon is hidden client-side rather than shown.
+- **Clickable match cards** (added 2026-10-05): `sporteventDetail` already
+  includes a `link` field (the match's page on 1xBet's own site). Every
+  card is wrapped in that link when the API actually returned one for that
+  match, and stays a plain, non-clickable card otherwise — never a guessed
+  or constructed URL.
+- **Live ("in-play") matches** (added 2026-10-05): the API has a second,
+  separate feed for matches currently being played
+  (`/datafeed/loadtree/live/api/v1/...`, mirroring the prematch path
+  `tournaments -> sporteventIds -> sporteventDetail`). When there's a match
+  live right now, the widget shows an "En vivo ahora / Live now" section
+  above the upcoming-matches one, with the score (`curScore`) and current
+  period/elapsed time (`currentPeriodName`, `timeSec // 60`) exactly as the
+  API returns them — nothing interpolated or estimated between syncs. A
+  failure on this second feed never blocks the upcoming-matches widget; it
+  just means no live section that run. Same virtual/esports keyword filter
+  applies here as on the prematch feed.
+- **Basketball & Tennis sub-tabs** (added 2026-10-05): the page's live-match
+  section now has sport sub-tabs (CSS-only, no JS) — see "Hockey &
+  Volleyball" below, this grew to five sports on 2026-10-06. sportId 3
+  (Basketball) and sportId 4 (Tennis) come straight from the docs (the
+  LoadSingle `vids` parameter note, and the Tennis sporteventDetail response
+  sample), not guessed. Each sport is independently fetched and injected
+  into its own marker pair — one sport's API trouble never blocks another's.
+- **Virtual/esports filter extended to every sport** (2026-10-06): basketball
+  was observed live showing "NBA 2K26. Cyber League" — a simulated match
+  (gamers playing NBA2K), not real basketball, under basketball's normal
+  sportId rather than a separate one. The docs' own example response for
+  the Results API independently shows the same thing ("NBA 2K21. Cyber
+  ..." under sportId 3). With two independent confirmations that this
+  contamination isn't football-specific, `VIRTUAL_TOURNAMENT_KEYWORDS` (the
+  same keyword list, unchanged — "cyber" is what caught both cases above)
+  now applies to every sport, not football alone.
+- **More markets per card** (added 2026-10-06): cards now show Handicap and
+  Total (Over/Under) odds alongside the existing 1X2, when the API offers
+  them for that match. This isn't a guessed addition — `sporteventDetail` is
+  now requested with `schemeOfGettingOdds=GetAllOdds` instead of
+  `Get1X2Odds`, and the extra markets shown are matched against the API's
+  own "Справочник маркетов" (Market dictionary) confirmed example response:
+  market type IDs 7/8 = Handicap 1/2, 9/10 = Total Over/Under. Every pill's
+  label is still the API's own already-localized `display` text, verbatim.
+- **Recent results** (added 2026-10-06): a "Recent results" section shows
+  the last 1–2 finished matches per sport, sourced from the API's separate
+  Results feed (`/result/api/v1/...`, confirmed as its own path, not a
+  filter on the match-odds feeds used elsewhere). The score is shown exactly
+  as the API returns it (e.g. `2:1 (1:1,0:0,1:0)`) — split only to put the
+  final score first visually, never reinterpreted. A finished match the API
+  reports as cancelled (no `score` field) is skipped rather than guessing a
+  cancellation message from a field name this project hasn't confirmed.
+- **Hockey & Volleyball sub-tabs** (added 2026-10-06): sportId 2 (Ice
+  Hockey) and 6 (Volleyball), picked from the full list of sports confirmed
+  directly from the docs' own "Справочник спортов" example response (which
+  also reconfirmed Football=1, Basketball=3, Tennis=4). That response also
+  listed Baseball=5 and Rugby=7, not added this round. Every sport beyond
+  football now does three fetches per geo (upcoming, live, results) with
+  deliberately small limits (see `SPORTS` in `onexbet_odds.py`) to try to
+  keep a full 5-sport × 7-geo run inside the 30-minute schedule — this is
+  noticeably tighter than the 3-sport version and is worth watching on the
+  first few live runs.
