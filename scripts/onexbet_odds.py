@@ -98,6 +98,8 @@ GEO_LANG = {
 WIDGET_TEXT = {
     "es": {
         "title": "Próximos partidos y cuotas (1xBet)",
+        "live_badge": "En vivo",
+        "powered_by": "Datos de 1xBet",
         "pending": "Sincronización automática pendiente — los datos en vivo aparecerán aquí tras la primera actualización.",
         "unavailable": "Datos en vivo no disponibles en este momento. Mostrando la última actualización confirmada." ,
         "no_matches": "No hay partidos próximos disponibles en este momento.",
@@ -106,6 +108,8 @@ WIDGET_TEXT = {
     },
     "en": {
         "title": "Upcoming matches & odds (1xBet)",
+        "live_badge": "Live",
+        "powered_by": "Data by 1xBet",
         "pending": "Automatic sync pending — live data will appear here after the first update.",
         "unavailable": "Live data temporarily unavailable. Showing the last confirmed update.",
         "no_matches": "No upcoming matches available right now.",
@@ -276,16 +280,47 @@ def fetch_upcoming_football_matches(session, token, ref, gr, lng, limit=4,
 def render_widget_html(lang, matches, updated_at_iso, state):
     """state: 'ok' | 'pending' | 'unavailable' | 'empty'. Never fabricates a
     match -- 'pending'/'unavailable'/'empty' all render an honest text
-    message instead of invented fixtures."""
+    message instead of invented fixtures.
+
+    Owner decision (2026-10-05): live matches are now the main element of
+    the /sports/ page (full-width hero section, see build_sports.py's
+    _live_matches_section_html), not a small box tucked inside the 1xBet
+    ranking card. This renders into that hero section's marker slot using
+    the shared-contract CSS classes defined in build_sports.py's
+    ODDS_WIDGET_CSS (.live-widget-header / .live-badge-dot /
+    .live-matches-grid / .live-match-card / .live-match-message) -- if a
+    class name changes on one side, it must change on the other."""
     t = WIDGET_TEXT[lang]
     esc = html.escape
 
+    # Only claim "live" (pulsing dot + live_badge label) when there is
+    # actually live data to show -- a pending/unavailable/empty state still
+    # shows the "powered by 1xBet" + last-synced line, but never the live
+    # claim, so the header itself never says more than the message below it.
+    is_live = state == "ok" and bool(matches)
+    if is_live:
+        badge_left = (
+            f'<div class="badge-left">'
+            f'<span class="live-badge-dot"></span>'
+            f'<span class="badge-label">{esc(t["live_badge"])}</span>'
+            f'<span class="badge-powered">· {esc(t["powered_by"])}</span>'
+            f'</div>'
+        )
+    else:
+        badge_left = f'<div class="badge-left"><span class="badge-powered">{esc(t["powered_by"])}</span></div>'
+    header = (
+        f'<div class="live-widget-header">'
+        f'{badge_left}'
+        f'<div class="badge-updated">{esc(t["updated"])}: {esc(updated_at_iso)}</div>'
+        f'</div>'
+    )
+
     if state == "pending":
-        body = f'<div class="odds-widget-slot">{esc(t["pending"])}</div>'
+        body = f'<div class="live-match-message">{esc(t["pending"])}</div>'
     elif state == "unavailable":
-        body = f'<div class="odds-widget-slot">{esc(t["unavailable"])}</div>'
+        body = f'<div class="live-match-message">{esc(t["unavailable"])}</div>'
     elif state == "empty" or not matches:
-        body = f'<div class="odds-widget-slot">{esc(t["no_matches"])}</div>'
+        body = f'<div class="live-match-message">{esc(t["no_matches"])}</div>'
     else:
         def logo_img(url, name):
             # Never fabricates a logo: renders a plain placeholder circle
@@ -293,17 +328,17 @@ def render_widget_html(lang, matches, updated_at_iso, state):
             # silently hides itself (onerror) rather than showing a
             # broken-image icon if the CDN 404s for some team.
             box = (
-                "width:24px;height:24px;flex:0 0 24px;border-radius:6px;"
+                "width:28px;height:28px;flex:0 0 28px;border-radius:7px;"
                 "background:#fff;display:flex;align-items:center;justify-content:center;"
             )
             if not url:
                 initial = esc(name[:1].upper()) if name else "?"
                 return (
-                    f'<div style="{box}color:#99a1ae;font-size:11px;font-weight:700;">{initial}</div>'
+                    f'<div style="{box}color:#99a1ae;font-size:12px;font-weight:700;">{initial}</div>'
                 )
             return (
-                f'<img src="{esc(url)}" alt="" width="24" height="24" loading="lazy" '
-                f'style="{box}object-fit:contain;padding:2px;" '
+                f'<img src="{esc(url)}" alt="" width="28" height="28" loading="lazy" '
+                f'style="{box}object-fit:contain;padding:3px;" '
                 f'onerror="this.style.display=\'none\'">'
             )
 
@@ -316,42 +351,34 @@ def render_widget_html(lang, matches, updated_at_iso, state):
                 f'</div>'
             )
 
-        rows = []
+        cards = []
         for m in matches:
+            # Teams stack full-width above the odds row (rather than squeezed
+            # beside the pills) so a longer club name never gets clipped --
+            # the grid column itself is already narrow at 3-up, and real
+            # names/pills together don't fit side by side there.
             dt = datetime.fromtimestamp(m["start_date"], tz=timezone.utc).strftime("%d.%m %H:%M UTC")
             pills = [odds_pill(o["label"], f'{o["value"]:.2f}') for o in m["odds"][:3]]
-            odds_html = f'<div style="display:flex;gap:6px;flex-shrink:0;">{"".join(pills)}</div>'
+            odds_html = f'<div style="display:flex;gap:6px;margin-top:10px;">{"".join(pills)}</div>'
             tourn_text = f'{esc(m["tournament"])} · {dt}' if m["tournament"] else dt
-            tourn = f'<div style="color:var(--text-dim);font-size:11px;margin-bottom:8px;">{tourn_text}</div>'
+            tourn = f'<div style="color:var(--text-dim);font-size:11px;margin-bottom:10px;">{tourn_text}</div>'
             team_row = lambda url, name: (
-                f'<div style="display:flex;align-items:center;gap:8px;">'
+                f'<div style="display:flex;align-items:center;gap:8px;min-width:0;">'
                 f'{logo_img(url, name)}'
                 f'<span style="font-size:13px;color:var(--text);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">{esc(name)}</span>'
                 f'</div>'
             )
             teams = (
-                f'<div style="display:flex;flex-direction:column;gap:6px;min-width:0;flex:1;">'
+                f'<div style="display:flex;flex-direction:column;gap:8px;">'
                 f'{team_row(m.get("img1"), m["opp1"])}'
                 f'{team_row(m.get("img2"), m["opp2"])}'
                 f'</div>'
             )
-            body_row = (
-                f'<div style="padding:12px 0;border-bottom:1px dashed var(--border);">'
-                f'{tourn}'
-                f'<div style="display:flex;align-items:center;justify-content:space-between;gap:10px;">{teams}{odds_html}</div>'
-                f'</div>'
-            )
-            rows.append(body_row)
-        updated_line = f'<div style="margin-top:8px;font-size:11px;color:var(--text-dim);">{esc(t["updated"])}: {esc(updated_at_iso)}</div>'
-        body = f'<div class="odds-widget-slot" style="border-style:solid;">{"".join(rows)}{updated_line}</div>'
+            card = f'<div class="live-match-card">{tourn}{teams}{odds_html}</div>'
+            cards.append(card)
+        body = f'<div class="live-matches-grid">{"".join(cards)}</div>'
 
-    return (
-        f'{MARKER_START}\n'
-        f'<div style="margin-top:10px;font-size:11px;font-weight:700;letter-spacing:.04em;'
-        f'text-transform:uppercase;color:var(--text-dim);">{esc(t["title"])}</div>\n'
-        f'{body}\n'
-        f'{MARKER_END}'
-    )
+    return f'{MARKER_START}\n{header}\n{body}\n{MARKER_END}'
 
 
 def inject_widget(html_text, widget_html):

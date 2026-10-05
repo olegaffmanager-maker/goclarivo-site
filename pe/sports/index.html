@@ -358,7 +358,40 @@
   dl.glossary dd{margin:0 0 4px;color:var(--text-dim);}
 
 
-  /* ---------- sports betting ---------- */
+  /* ---------- sports betting: live matches hero ----------
+     Shared contract with onexbet_rebuild/scripts/onexbet_odds.py's
+     render_widget_html() -- these class names are emitted by that script,
+     this file only defines how they look. If one changes, the other must
+     match. */
+  .live-matches-grid{
+    display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px;
+  }
+  .live-match-card{
+    background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+    padding:14px 16px;
+  }
+  .live-widget-header{
+    display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;margin-bottom:14px;
+  }
+  .live-widget-header .badge-left{display:flex;align-items:center;gap:8px;}
+  .live-badge-dot{
+    width:8px;height:8px;border-radius:50%;background:var(--green);display:inline-block;flex:0 0 8px;
+    animation:onexbet-pulse 1.6s infinite;
+  }
+  @keyframes onexbet-pulse{
+    0%{box-shadow:0 0 0 0 rgba(53,201,128,.5);}
+    70%{box-shadow:0 0 0 6px rgba(53,201,128,0);}
+    100%{box-shadow:0 0 0 0 rgba(53,201,128,0);}
+  }
+  .live-widget-header .badge-label{
+    font-size:12px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--text);
+  }
+  .live-widget-header .badge-powered{font-size:12px;color:var(--text-dim);}
+  .live-widget-header .badge-updated{font-size:11px;color:var(--text-dim);}
+  .live-match-message{
+    padding:28px 16px;text-align:center;color:var(--text-dim);font-size:13px;
+    background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+  }
   .odds-widget-slot{
     margin-top:10px;border:1px dashed var(--border);border-radius:10px;
     padding:10px 12px;font-size:12px;color:var(--text-dim);background:var(--bg-2);
@@ -442,6 +475,20 @@
   </div>
 </section>
 
+<section id="live-matches">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>Partidos de hoy en vivo</h2>
+      <p>Próximos partidos y cuotas en tiempo real (1xBet), actualizados automáticamente.</p>
+    </div>
+    <!-- ONEXBET_ODDS_WIDGET:START -->
+    <div class="live-match-message">
+      Cargando partidos en vivo…
+    </div>
+    <!-- ONEXBET_ODDS_WIDGET:END -->
+  </div>
+</section>
+
 <section id="top-liste">
   <div class="wrap">
     <div class="sec-head">
@@ -468,10 +515,6 @@
           </div>
         </div>
         <a class="verify-link" href="/pe/methodology/" style="display:inline-block;margin-top:8px;">¿Cómo verificamos a los operadores?</a>
-        <!-- ONEXBET_ODDS_WIDGET:START -->
-<div style="margin-top:10px;font-size:11px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--text-dim);">Próximos partidos y cuotas (1xBet)</div>
-<div class="odds-widget-slot" style="border-style:solid;"><div style="padding:12px 0;border-bottom:1px dashed var(--border);"><div style="color:var(--text-dim);font-size:11px;margin-bottom:8px;">Polonia. Ekstraklasa · 09.10 16:00 UTC</div><div style="display:flex;align-items:center;justify-content:space-between;gap:10px;"><div style="display:flex;flex-direction:column;gap:6px;min-width:0;flex:1;"><div style="display:flex;align-items:center;gap:8px;"><img src="https://nimblecd.com/sfiles/logo_teams/3c13387708b6d25a460aa3e4e88945f3.png" alt="" width="24" height="24" loading="lazy" style="width:24px;height:24px;flex:0 0 24px;border-radius:6px;background:#fff;display:flex;align-items:center;justify-content:center;object-fit:contain;padding:2px;" onerror="this.style.display='none'"><span style="font-size:13px;color:var(--text);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Wieczysta Krakow</span></div><div style="display:flex;align-items:center;gap:8px;"><img src="https://nimblecd.com/sfiles/logo_teams/c66c5eac4a1a61d6d807f6c1e869a835.png" alt="" width="24" height="24" loading="lazy" style="width:24px;height:24px;flex:0 0 24px;border-radius:6px;background:#fff;display:flex;align-items:center;justify-content:center;object-fit:contain;padding:2px;" onerror="this.style.display='none'"><span style="font-size:13px;color:var(--text);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Wisla PLock</span></div></div><div style="display:flex;gap:6px;flex-shrink:0;"><div style="text-align:center;background:var(--bg-2);border:1px solid var(--border);border-radius:6px;padding:4px 9px;min-width:40px;"><div style="font-size:10px;color:var(--text-dim);line-height:1.4;">G1</div><div style="font-size:13px;font-weight:700;color:var(--text);line-height:1.4;">2.10</div></div><div style="text-align:center;background:var(--bg-2);border:1px solid var(--border);border-radius:6px;padding:4px 9px;min-width:40px;"><div style="font-size:10px;color:var(--text-dim);line-height:1.4;">X</div><div style="font-size:13px;font-weight:700;color:var(--text);line-height:1.4;">3.60</div></div><div style="text-align:center;background:var(--bg-2);border:1px solid var(--border);border-radius:6px;padding:4px 9px;min-width:40px;"><div style="font-size:10px;color:var(--text-dim);line-height:1.4;">G2</div><div style="font-size:13px;font-weight:700;color:var(--text);line-height:1.4;">3.07</div></div></div></div></div><div style="padding:12px 0;border-bottom:1px dashed var(--border);"><div style="color:var(--text-dim);font-size:11px;margin-bottom:8px;">Francia. Ligue 2 · 09.10 18:00 UTC</div><div style="display:flex;align-items:center;justify-content:space-between;gap:10px;"><div style="display:flex;flex-direction:column;gap:6px;min-width:0;flex:1;"><div style="display:flex;align-items:center;gap:8px;"><img src="https://nimblecd.com/sfiles/logo_teams/554a1d0fc5a054f9a29f97b941cf16f7.png" alt="" width="24" height="24" loading="lazy" style="width:24px;height:24px;flex:0 0 24px;border-radius:6px;background:#fff;display:flex;align-items:center;justify-content:center;object-fit:contain;padding:2px;" onerror="this.style.display='none'"><span style="font-size:13px;color:var(--text);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">FC Sochaux-Montbéliard</span></div><div style="display:flex;align-items:center;gap:8px;"><img src="https://nimblecd.com/sfiles/logo_teams/b004af15a50ab51b9f62590777039b6e.png" alt="" width="24" height="24" loading="lazy" style="width:24px;height:24px;flex:0 0 24px;border-radius:6px;background:#fff;display:flex;align-items:center;justify-content:center;object-fit:contain;padding:2px;" onerror="this.style.display='none'"><span style="font-size:13px;color:var(--text);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Boulogne</span></div></div><div style="display:flex;gap:6px;flex-shrink:0;"><div style="text-align:center;background:var(--bg-2);border:1px solid var(--border);border-radius:6px;padding:4px 9px;min-width:40px;"><div style="font-size:10px;color:var(--text-dim);line-height:1.4;">G1</div><div style="font-size:13px;font-weight:700;color:var(--text);line-height:1.4;">2.24</div></div><div style="text-align:center;background:var(--bg-2);border:1px solid var(--border);border-radius:6px;padding:4px 9px;min-width:40px;"><div style="font-size:10px;color:var(--text-dim);line-height:1.4;">X</div><div style="font-size:13px;font-weight:700;color:var(--text);line-height:1.4;">3.20</div></div><div style="text-align:center;background:var(--bg-2);border:1px solid var(--border);border-radius:6px;padding:4px 9px;min-width:40px;"><div style="font-size:10px;color:var(--text-dim);line-height:1.4;">G2</div><div style="font-size:13px;font-weight:700;color:var(--text);line-height:1.4;">3.21</div></div></div></div></div><div style="padding:12px 0;border-bottom:1px dashed var(--border);"><div style="color:var(--text-dim);font-size:11px;margin-bottom:8px;">Francia. Ligue 2 · 09.10 18:00 UTC</div><div style="display:flex;align-items:center;justify-content:space-between;gap:10px;"><div style="display:flex;flex-direction:column;gap:6px;min-width:0;flex:1;"><div style="display:flex;align-items:center;gap:8px;"><img src="https://nimblecd.com/sfiles/logo_teams/3dcf840ad54bdecff9c7c0cb44ce23f5.png" alt="" width="24" height="24" loading="lazy" style="width:24px;height:24px;flex:0 0 24px;border-radius:6px;background:#fff;display:flex;align-items:center;justify-content:center;object-fit:contain;padding:2px;" onerror="this.style.display='none'"><span style="font-size:13px;color:var(--text);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Pau FC</span></div><div style="display:flex;align-items:center;gap:8px;"><img src="https://nimblecd.com/sfiles/logo_teams/12b0f04b05583f4d39c6a557700324a2.png" alt="" width="24" height="24" loading="lazy" style="width:24px;height:24px;flex:0 0 24px;border-radius:6px;background:#fff;display:flex;align-items:center;justify-content:center;object-fit:contain;padding:2px;" onerror="this.style.display='none'"><span style="font-size:13px;color:var(--text);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Stade Lavallois</span></div></div><div style="display:flex;gap:6px;flex-shrink:0;"><div style="text-align:center;background:var(--bg-2);border:1px solid var(--border);border-radius:6px;padding:4px 9px;min-width:40px;"><div style="font-size:10px;color:var(--text-dim);line-height:1.4;">G1</div><div style="font-size:13px;font-weight:700;color:var(--text);line-height:1.4;">2.06</div></div><div style="text-align:center;background:var(--bg-2);border:1px solid var(--border);border-radius:6px;padding:4px 9px;min-width:40px;"><div style="font-size:10px;color:var(--text-dim);line-height:1.4;">X</div><div style="font-size:13px;font-weight:700;color:var(--text);line-height:1.4;">3.44</div></div><div style="text-align:center;background:var(--bg-2);border:1px solid var(--border);border-radius:6px;padding:4px 9px;min-width:40px;"><div style="font-size:10px;color:var(--text-dim);line-height:1.4;">G2</div><div style="font-size:13px;font-weight:700;color:var(--text);line-height:1.4;">3.40</div></div></div></div></div><div style="padding:12px 0;border-bottom:1px dashed var(--border);"><div style="color:var(--text-dim);font-size:11px;margin-bottom:8px;">Francia. Ligue 2 · 09.10 18:00 UTC</div><div style="display:flex;align-items:center;justify-content:space-between;gap:10px;"><div style="display:flex;flex-direction:column;gap:6px;min-width:0;flex:1;"><div style="display:flex;align-items:center;gap:8px;"><img src="https://nimblecd.com/sfiles/logo_teams/1f58af5f358e4dcadd50503875aae6ba.png" alt="" width="24" height="24" loading="lazy" style="width:24px;height:24px;flex:0 0 24px;border-radius:6px;background:#fff;display:flex;align-items:center;justify-content:center;object-fit:contain;padding:2px;" onerror="this.style.display='none'"><span style="font-size:13px;color:var(--text);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">FC Nancy</span></div><div style="display:flex;align-items:center;gap:8px;"><img src="https://nimblecd.com/sfiles/logo_teams/4f3f11486bd34ce8f0a0260406b27602.png" alt="" width="24" height="24" loading="lazy" style="width:24px;height:24px;flex:0 0 24px;border-radius:6px;background:#fff;display:flex;align-items:center;justify-content:center;object-fit:contain;padding:2px;" onerror="this.style.display='none'"><span style="font-size:13px;color:var(--text);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">En Avant de Guingamp</span></div></div><div style="display:flex;gap:6px;flex-shrink:0;"><div style="text-align:center;background:var(--bg-2);border:1px solid var(--border);border-radius:6px;padding:4px 9px;min-width:40px;"><div style="font-size:10px;color:var(--text-dim);line-height:1.4;">G1</div><div style="font-size:13px;font-weight:700;color:var(--text);line-height:1.4;">2.10</div></div><div style="text-align:center;background:var(--bg-2);border:1px solid var(--border);border-radius:6px;padding:4px 9px;min-width:40px;"><div style="font-size:10px;color:var(--text-dim);line-height:1.4;">X</div><div style="font-size:13px;font-weight:700;color:var(--text);line-height:1.4;">3.58</div></div><div style="text-align:center;background:var(--bg-2);border:1px solid var(--border);border-radius:6px;padding:4px 9px;min-width:40px;"><div style="font-size:10px;color:var(--text-dim);line-height:1.4;">G2</div><div style="font-size:13px;font-weight:700;color:var(--text);line-height:1.4;">3.19</div></div></div></div></div><div style="margin-top:8px;font-size:11px;color:var(--text-dim);">Última sincronización: 2026-10-05 11:49 UTC</div></div>
-<!-- ONEXBET_ODDS_WIDGET:END -->
       </div>
       <div class="casino-cta"><a class="btn" href="https://reffpa.com/L?tag=d_6171730m_97c_&site=6171730&ad=97&r=reg" rel="sponsored nofollow" target="_blank">Ver oferta</a></div>
     </div>
