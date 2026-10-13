@@ -68,7 +68,12 @@ jobs:
             echo "No changes — matches/odds unchanged since last run."
             exit 0
           fi
-          git add -- '*/sports/index.html'
+          # The new per-sport pages (added 2026-10-13) live one level
+          # deeper than the original hub pages -- e.g. es/sports/futbol/
+          # index.html, not just es/sports/index.html -- so both path
+          # depths need their own pathspec here, or the deeper ones
+          # never get staged/committed and silently go stale forever.
+          git add -- '*/sports/index.html' '*/sports/*/index.html'
           git commit -m "chore: refresh 1xBet upcoming-matches odds widget"
 
           # A manual run and the 30-minute schedule (or a human pushing other
