@@ -479,10 +479,32 @@
     <h1>Compare online casinos using verified data</h1>
     <p class="lead">Licensing, payments, games and bonus terms — compared using one transparent methodology.</p>
     <div class="hero-cta"><a class="btn" href="#top-liste">Explore Casinos</a><a class="btn btn-ghost" href="#how-we-rate">How We Rate →</a></div>
+
+    <!-- Trust strip: same 4 checks as the methodology below, surfaced above the fold. -->
+    <div style="display:flex;flex-wrap:wrap;gap:10px;margin:18px 0 0;">
+      <div style="display:inline-flex;align-items:center;gap:6px;background:var(--green-soft);color:var(--green);border-radius:8px;padding:7px 12px;font-size:12.5px;font-weight:600;">✓ License checked</div>
+      <div style="display:inline-flex;align-items:center;gap:6px;background:var(--green-soft);color:var(--green);border-radius:8px;padding:7px 12px;font-size:12.5px;font-weight:600;">✓ Payment methods verified</div>
+      <div style="display:inline-flex;align-items:center;gap:6px;background:var(--green-soft);color:var(--green);border-radius:8px;padding:7px 12px;font-size:12.5px;font-weight:600;">✓ Bonus terms reviewed</div>
+      <div style="display:inline-flex;align-items:center;gap:6px;background:var(--green-soft);color:var(--green);border-radius:8px;padding:7px 12px;font-size:12.5px;font-weight:600;">✓ Rechecked monthly</div>
+    </div>
+
     <div class="stats-row"><div class="stat"><b>01</b><span>Verified casino</span></div>
       <div class="stat"><b>09</b><span>In review</span></div>
       <div class="stat"><b>05</b><span>Rating criteria</span></div>
       <div class="stat"><b>3 October 2026</b><span>Last verified</span></div>
+    </div>
+
+    <!-- Thin progress bar, visual only -- doesn't restate the numbers above, just reinforces them. -->
+    <div style="margin-top:14px;height:8px;border-radius:5px;background:var(--surface-2);border:1px solid var(--border);overflow:hidden;" role="img" aria-label="1 of 10 operators verified so far">
+      <div style="height:100%;width:10%;background:linear-gradient(90deg,var(--gold),#7ef0d4);border-radius:5px;"></div>
+    </div>
+
+    <!-- Methodology weights, reusing the existing .stats-row/.stat component as-is. -->
+    <div class="stats-row" style="margin-top:16px;">
+      <div class="stat"><b>30%</b><span>License &amp; Safety</span></div>
+      <div class="stat"><b>25%</b><span>Deposits &amp; Withdrawals</span></div>
+      <div class="stat"><b>20%</b><span>Game Selection</span></div>
+      <div class="stat"><b>25%</b><span>Mobile + Bonus Terms</span></div>
     </div>
   </div>
 </section>
@@ -531,6 +553,28 @@
     <div class="review-panel">
       <b>More operators in review</b>
       <p>We're currently reviewing 9 more operators for this region.</p>
+    </div>
+  </div>
+</section>
+
+<section id="faq-preview">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>Common questions</h2>
+      <p>Three things people usually ask first. <a href="#faq" style="color:var(--secondary);text-decoration:none;font-weight:600;">See all FAQs →</a></p>
+    </div>
+
+    <div class="faq-item" onclick="this.classList.toggle('open')">
+      <div class="faq-q">How do I choose the right casino?<span class="faq-icon">+</span></div>
+      <div class="faq-a"><p>Look at licensing, payout speed, transparent bonus terms and available payment methods — not just the size of the welcome bonus.</p></div>
+    </div>
+    <div class="faq-item" onclick="this.classList.toggle('open')">
+      <div class="faq-q">How are casino scores calculated?<span class="faq-icon">+</span></div>
+      <div class="faq-a"><p>Each casino is rated against five weighted criteria — License &amp; Safety, Deposits &amp; Withdrawals, Game Selection, Mobile Experience and Bonus Transparency.</p></div>
+    </div>
+    <div class="faq-item" onclick="this.classList.toggle('open')">
+      <div class="faq-q">What should I check in a welcome bonus?<span class="faq-icon">+</span></div>
+      <div class="faq-a"><p>More important than the bonus amount are the wagering requirements, its validity period, and any restrictions on specific games. This information is in each operator's terms and conditions.</p></div>
     </div>
   </div>
 </section>
