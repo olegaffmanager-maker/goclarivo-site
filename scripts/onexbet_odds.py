@@ -625,7 +625,8 @@ def _card_tags(url):
     )
 
 
-def render_widget_html(lang, matches, updated_at_iso, state, live_matches=None, recent_results=None):
+def render_widget_html(lang, matches, updated_at_iso, state, live_matches=None, recent_results=None,
+                        start_marker=MARKER_START, end_marker=MARKER_END):
     """state: 'ok' | 'pending' | 'unavailable' | 'empty'. Never fabricates a
     match -- 'pending'/'unavailable'/'empty' all render an honest text
     message instead of invented fixtures.
@@ -839,7 +840,16 @@ def render_widget_html(lang, matches, updated_at_iso, state, live_matches=None, 
         sections.append(f'<div class="live-matches-grid">{"".join(recent_cards)}</div>')
 
     body = "".join(sections)
-    return f'{MARKER_START}\n{header}\n{body}\n{MARKER_END}'
+    # BUG FIX (2026-10-13): this used to hardcode the generic MARKER_START/
+    # MARKER_END here regardless of which sport was being rendered. That
+    # silently replaced a sport-specific marker (e.g.
+    # ONEXBET_ODDS_WIDGET_BASKETBALL:START) with the generic one on the
+    # very first successful injection, so every run after the first could
+    # no longer find that sport's marker and failed with "markers not
+    # found" again -- this is what actually caused the repeat failures.
+    # Now the function re-emits whichever marker pair it was asked to
+    # replace, so the page stays self-consistent run after run.
+    return f'{start_marker}\n{header}\n{body}\n{end_marker}'
 
 
 def _widget_markers(sport_key):
@@ -968,6 +978,7 @@ def main():
             widget_html = render_widget_html(
                 lang, matches, updated_at_iso, state,
                 live_matches=live_matches, recent_results=recent_results,
+                start_marker=start_marker, end_marker=end_marker,
             )
 
             if args.dry_run:
