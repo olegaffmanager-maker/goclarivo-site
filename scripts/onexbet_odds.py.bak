@@ -304,6 +304,17 @@ _SECONDARY_BUDGET = dict(
     live=dict(limit=2, max_tournaments=5, max_candidate_events=6, request_delay=0.8),
     results=dict(limit=2, max_tournaments=3, request_delay=0.8),
 )
+# Per-sport standalone pages (added 2026-10-13, ES pilot only -- see
+# /es/sports/<slug>/). Two independent knobs, both keyed by geo so every
+# other geo is completely unaffected:
+#   geo_page_overrides -- REPLACES the default "<geo>/sports/index.html"
+#     write target for that geo. Used for basketball/tennis/hockey/
+#     volleyball on ES: the hub page no longer has their markers (moved
+#     to their own page), so the default target would just fail there.
+#   geo_extra_targets -- an ADDITIONAL write, on top of the default
+#     target, best-effort (missing file = logged, never fails the run).
+#     Used for football on ES: the hub keeps showing it as before, and
+#     the new /es/sports/futbol/ page gets the same content too.
 SPORTS = [
     {
         "key": "football", "sport_id": FOOTBALL_SPORT_ID,
@@ -311,26 +322,31 @@ SPORTS = [
         "upcoming": dict(limit=4, max_tournaments=15, max_candidate_events=20, request_delay=1.2),
         "live": dict(limit=3, max_tournaments=10, max_candidate_events=12, request_delay=1.2),
         "results": dict(limit=2, max_tournaments=3, request_delay=1.0),
+        "geo_extra_targets": {"es": "es/sports/futbol/index.html"},
     },
     {
         "key": "basketball", "sport_id": 3,
         "virtual_keywords": VIRTUAL_TOURNAMENT_KEYWORDS, "icon": "\U0001f3c0",
         **_SECONDARY_BUDGET,
+        "geo_page_overrides": {"es": "es/sports/baloncesto/index.html"},
     },
     {
         "key": "tennis", "sport_id": 4,
         "virtual_keywords": VIRTUAL_TOURNAMENT_KEYWORDS, "icon": "\U0001f3be",
         **_SECONDARY_BUDGET,
+        "geo_page_overrides": {"es": "es/sports/tenis/index.html"},
     },
     {
         "key": "hockey", "sport_id": 2,
         "virtual_keywords": VIRTUAL_TOURNAMENT_KEYWORDS, "icon": "\U0001f3d2",
         **_SECONDARY_BUDGET,
+        "geo_page_overrides": {"es": "es/sports/hockey-sobre-hielo/index.html"},
     },
     {
         "key": "volleyball", "sport_id": 6,
         "virtual_keywords": VIRTUAL_TOURNAMENT_KEYWORDS, "icon": "\U0001f3d0",
         **_SECONDARY_BUDGET,
+        "geo_page_overrides": {"es": "es/sports/voleibol/index.html"},
     },
 ]
 
@@ -879,8 +895,12 @@ def inject_widget(html_text, widget_html, start_marker=MARKER_START, end_marker=
     return html_text[:start_idx] + widget_html + html_text[end_idx:]
 
 
-def update_geo_page(site_root, geo, widget_html, start_marker=MARKER_START, end_marker=MARKER_END):
-    path = os.path.join(site_root, geo, "sports", "index.html")
+def update_geo_page(site_root, geo, widget_html, start_marker=MARKER_START, end_marker=MARKER_END, rel_path=None):
+    """rel_path, when given, is a path relative to site_root (e.g.
+    "es/sports/futbol/index.html") used instead of the default
+    "<geo>/sports/index.html" -- see SPORTS' geo_page_overrides /
+    geo_extra_targets."""
+    path = os.path.join(site_root, rel_path) if rel_path else os.path.join(site_root, geo, "sports", "index.html")
     with open(path, encoding="utf-8") as f:
         src = f.read()
     new_src = inject_widget(src, widget_html, start_marker, end_marker)
@@ -986,13 +1006,24 @@ def main():
                 print(widget_html)
                 continue
 
+            primary_rel_path = sport.get("geo_page_overrides", {}).get(geo)
             try:
-                changed = update_geo_page(args.site_root, geo, widget_html, start_marker, end_marker)
+                changed = update_geo_page(args.site_root, geo, widget_html, start_marker, end_marker, rel_path=primary_rel_path)
                 print(f"[{geo}/{key}] {'updated' if changed else 'no change'} "
                       f"({len(matches)} upcoming, {len(live_matches)} live, {len(recent_results)} results)")
             except (OnexbetError, FileNotFoundError) as e:
                 print(f"[{geo}/{key}] failed to write page: {e}", file=sys.stderr)
                 any_failed = True
+
+            extra_rel_path = sport.get("geo_extra_targets", {}).get(geo)
+            if extra_rel_path:
+                try:
+                    extra_changed = update_geo_page(args.site_root, geo, widget_html, start_marker, end_marker, rel_path=extra_rel_path)
+                    print(f"[{geo}/{key}] extra target {extra_rel_path}: {'updated' if extra_changed else 'no change'}")
+                except (OnexbetError, FileNotFoundError) as e:
+                    # Best-effort only -- a missing/renamed extra page must
+                    # never fail the whole run or touch any_failed.
+                    print(f"[{geo}/{key}] extra target {extra_rel_path} skipped (non-fatal): {e}", file=sys.stderr)
 
     if any_failed:
         sys.exit(1)
