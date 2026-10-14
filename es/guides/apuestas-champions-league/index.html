@@ -370,6 +370,48 @@
   dl.glossary dt{font-family:'Sora',sans-serif;font-weight:700;color:var(--text);font-size:16px;margin:28px 0 6px;}
   dl.glossary dd{margin:0 0 4px;color:var(--text-dim);}
 
+
+  /* --- live-odds widget CSS, copied verbatim from the /sports/ pages'
+     own style block (shared contract with scripts/onexbet_odds.py's
+     render_widget_html / build_sports.py's ODDS_WIDGET_CSS) so the
+     Champions League / La Liga widget renders identically here. Added
+     2026-10-14. --- */
+  .live-widget-header{
+    display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;margin-bottom:14px;
+  }
+  .live-widget-header .badge-left{display:flex;align-items:center;gap:8px;}
+  .live-widget-header .badge-label{
+    font-size:12px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--text);
+  }
+  .live-widget-header .badge-powered{font-size:12px;color:var(--text-dim);}
+  .live-widget-header .badge-updated{font-size:11px;color:var(--text-dim);}
+  .live-badge-dot{
+    width:8px;height:8px;border-radius:50%;background:var(--green);display:inline-block;flex:0 0 8px;
+    animation:onexbet-pulse 1.6s infinite;
+  }
+  @keyframes onexbet-pulse{
+    0%{box-shadow:0 0 0 0 rgba(53,201,128,.5);}
+    70%{box-shadow:0 0 0 6px rgba(53,201,128,0);}
+    100%{box-shadow:0 0 0 0 rgba(53,201,128,0);}
+  }
+  .badge-left{display:flex;align-items:center;gap:8px;}
+  .badge-label{
+    font-size:12px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--text);
+  }
+  .badge-powered{font-size:12px;color:var(--text-dim);}
+  .badge-updated{font-size:11px;color:var(--text-dim);}
+  .live-matches-grid{
+    display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px;
+  }
+  .live-match-card{
+    background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+    padding:14px 16px;
+  }
+  .live-match-message{
+    padding:28px 16px;text-align:center;color:var(--text-dim);font-size:13px;
+    background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+  }
+  .sport-tabs{margin-top:4px;}
 </style>
 </head>
 <body class="article-page">
@@ -399,7 +441,7 @@
     <nav class="main-nav">
       <a href="/es/#top-liste">Casinos</a>
       <a href="/es/compare/">Comparar</a>
-      <details class="geo-switch"><summary style="border:none;background:transparent;padding:0;font-weight:600;color:var(--text-dim);">Apuestas deportivas<span class="chevron" style="margin-left:5px;">&#9662;</span></summary><div class="geo-switch-menu"><a href="/es/sports/">Todos los deportes</a><a href="/es/sports/futbol/">⚽ Fútbol</a><a href="/es/sports/baloncesto/">🏀 Baloncesto</a><a href="/es/sports/tenis/">🎾 Tenis</a><a href="/es/sports/hockey-sobre-hielo/">🏒 Hockey sobre hielo</a><a href="/es/sports/voleibol/">🏐 Vóleibol</a></div></details>
+      <details class="geo-switch"><summary style="border:none;background:transparent;padding:0;font-weight:600;color:var(--text-dim);font-size:14px;">Apuestas deportivas<span class="chevron" style="margin-left:5px;">&#9662;</span></summary><div class="geo-switch-menu"><a href="/es/sports/">Todos los deportes</a><a href="/es/sports/futbol/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="flex:0 0 16px;"><circle cx="12" cy="12" r="9"/><path d="M12 7l4 3-1.5 5h-5L8 10z"/><path d="M12 7V4M16 10l2.5-2M16 15l2 2.5M8 15l-2 2.5M8 10l-2.5-2"/></svg><span>Fútbol</span></a><a href="/es/sports/baloncesto/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" style="flex:0 0 16px;"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3v18M5.6 5.6c2.5 2.3 2.5 10.5 0 12.8M18.4 5.6c-2.5 2.3-2.5 10.5 0 12.8"/></svg><span>Baloncesto</span></a><a href="/es/sports/tenis/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" style="flex:0 0 16px;"><circle cx="12" cy="12" r="9"/><path d="M4.5 7.5c4 1 4 8 0 9M19.5 7.5c-4 1-4 8 0 9"/></svg><span>Tenis</span></a><a href="/es/sports/hockey-sobre-hielo/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="flex:0 0 16px;"><path d="M6.5 2.5l10 16.5"/><path d="M14.3 17.3h5.2l-1.1 2.2h-5.4z"/></svg><span>Hockey sobre hielo</span></a><a href="/es/sports/voleibol/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" style="flex:0 0 16px;"><circle cx="12" cy="12" r="9"/><path d="M12 3c3 3 3 15 0 18M4 8c4 2 12 2 16 0M4 16c4-2 12-2 16 0"/></svg><span>Vóleibol</span></a><div style="height:1px;background:var(--border);margin:4px 2px;"></div><a href="/es/guides/apuestas-champions-league/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="flex:0 0 16px;"><path d="M12 2l2.6 5.9 6.4.6-4.8 4.3 1.4 6.3L12 15.9 6.4 19.1l1.4-6.3-4.8-4.3 6.4-.6z"/></svg><span>Liga de Campeones</span></a><a href="/es/guides/apuestas-la-liga/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="flex:0 0 16px;"><path d="M12 2.5l6.5 2.8v5.4c0 4.6-2.7 7.5-6.5 8.8-3.8-1.3-6.5-4.2-6.5-8.8V5.3z"/></svg><span>La Liga</span></a></div></details>
       <a href="/es/#guias">Guías</a>
       <a href="/es/#faq">FAQ</a>
       <a href="/es/methodology/">Metodología</a>
@@ -452,34 +494,13 @@
 <h2>Qué vas a encontrar en esta página</h2>
 <p>Esta página reúne los próximos partidos de la Champions League con las cuotas actuales de 1xBet, junto a los operadores que ya verificamos en España, para que puedas ver ambas cosas en un mismo sitio. No damos pronósticos ni recomendamos un resultado — solo mostramos cuotas y datos verificados de cada operador, igual que en el resto de GoClarivo.</p>
 <h2>Próximos partidos</h2>
-<div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:12px 14px;margin-bottom:8px;">
-  <div style="font-size:10.5px;color:var(--text-dim);margin-bottom:8px;display:flex;align-items:center;gap:6px;"><span style="width:5px;height:5px;border-radius:50%;background:var(--gold);display:inline-block;"></span>Liga de Campeones de la UEFA &middot; 13.10 16:45 UTC</div>
-  <div style="display:flex;justify-content:space-between;align-items:center;font-size:13.5px;margin-bottom:8px;"><span>RC Lens</span><span style="color:var(--text-dim);font-size:11px;">vs</span><span>Sporting CP</span></div>
-  <div style="display:flex;gap:6px;">
-    <div style="flex:1;text-align:center;background:var(--bg-2);border:1px solid var(--border);border-radius:6px;padding:5px 4px;"><div style="font-size:9.5px;color:var(--text-dim);">1</div><div style="font-size:12.5px;font-weight:700;">2.48</div></div>
-    <div style="flex:1;text-align:center;background:var(--bg-2);border:1px solid var(--border);border-radius:6px;padding:5px 4px;"><div style="font-size:9.5px;color:var(--text-dim);">X</div><div style="font-size:12.5px;font-weight:700;">3.65</div></div>
-    <div style="flex:1;text-align:center;background:var(--bg-2);border:1px solid var(--border);border-radius:6px;padding:5px 4px;"><div style="font-size:9.5px;color:var(--text-dim);">2</div><div style="font-size:12.5px;font-weight:700;">2.74</div></div>
-  </div>
+<div class="sport-tabs">
+<!-- ONEXBET_ODDS_WIDGET_CHAMPIONS_LEAGUE:START -->
+<div class="live-widget-header"><div class="badge-left"><span class="badge-powered">Datos de 1xBet</span></div><div class="badge-updated">Última sincronización: pendiente</div></div>
+<div style="font-size:12px;font-weight:700;letter-spacing:.03em;text-transform:uppercase;color:var(--text-dim);margin:0 0 10px;">Próximos partidos</div><div class="live-match-message">Sincronización automática pendiente — los datos en vivo aparecerán aquí tras la primera actualización.</div>
+<!-- ONEXBET_ODDS_WIDGET_CHAMPIONS_LEAGUE:END -->
 </div>
-<div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:12px 14px;margin-bottom:8px;">
-  <div style="font-size:10.5px;color:var(--text-dim);margin-bottom:8px;display:flex;align-items:center;gap:6px;"><span style="width:5px;height:5px;border-radius:50%;background:var(--gold);display:inline-block;"></span>Liga de Campeones de la UEFA &middot; 13.10 16:45 UTC</div>
-  <div style="display:flex;justify-content:space-between;align-items:center;font-size:13.5px;margin-bottom:8px;"><span>Sabah Baku</span><span style="color:var(--text-dim);font-size:11px;">vs</span><span>Slavia Praga</span></div>
-  <div style="display:flex;gap:6px;">
-    <div style="flex:1;text-align:center;background:var(--bg-2);border:1px solid var(--border);border-radius:6px;padding:5px 4px;"><div style="font-size:9.5px;color:var(--text-dim);">1</div><div style="font-size:12.5px;font-weight:700;">4.18</div></div>
-    <div style="flex:1;text-align:center;background:var(--bg-2);border:1px solid var(--border);border-radius:6px;padding:5px 4px;"><div style="font-size:9.5px;color:var(--text-dim);">X</div><div style="font-size:12.5px;font-weight:700;">3.78</div></div>
-    <div style="flex:1;text-align:center;background:var(--bg-2);border:1px solid var(--border);border-radius:6px;padding:5px 4px;"><div style="font-size:9.5px;color:var(--text-dim);">2</div><div style="font-size:12.5px;font-weight:700;">1.86</div></div>
-  </div>
-</div>
-<div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:12px 14px;margin-bottom:8px;">
-  <div style="font-size:10.5px;color:var(--text-dim);margin-bottom:8px;display:flex;align-items:center;gap:6px;"><span style="width:5px;height:5px;border-radius:50%;background:var(--gold);display:inline-block;"></span>Liga de Campeones de la UEFA &middot; 13.10 19:00 UTC</div>
-  <div style="display:flex;justify-content:space-between;align-items:center;font-size:13.5px;margin-bottom:8px;"><span>RB Leipzig</span><span style="color:var(--text-dim);font-size:11px;">vs</span><span>PSV Eindhoven</span></div>
-  <div style="display:flex;gap:6px;">
-    <div style="flex:1;text-align:center;background:var(--bg-2);border:1px solid var(--border);border-radius:6px;padding:5px 4px;"><div style="font-size:9.5px;color:var(--text-dim);">1</div><div style="font-size:12.5px;font-weight:700;">1.57</div></div>
-    <div style="flex:1;text-align:center;background:var(--bg-2);border:1px solid var(--border);border-radius:6px;padding:5px 4px;"><div style="font-size:9.5px;color:var(--text-dim);">X</div><div style="font-size:12.5px;font-weight:700;">5.28</div></div>
-    <div style="flex:1;text-align:center;background:var(--bg-2);border:1px solid var(--border);border-radius:6px;padding:5px 4px;"><div style="font-size:9.5px;color:var(--text-dim);">2</div><div style="font-size:12.5px;font-weight:700;">5.28</div></div>
-  </div>
-</div>
-<p style="font-size:12px;color:var(--text-dim);text-align:right;margin-top:-4px;">Cuotas de 1xBet, actualizadas automáticamente cada 30 minutos.</p>
+<p style="font-size:12px;color:var(--text-dim);text-align:right;margin-top:8px;">Cuotas de 1xBet, actualizadas automáticamente cada 30 minutos.</p>
 <h2>Dónde apostar: operadores verificados en España</h2>
 <p>Estos son los operadores que ya comparamos en la página principal de GoClarivo España, con sus condiciones de bono vigentes.</p>
 <div style="display:flex;flex-direction:column;gap:14px;margin-top:14px;">

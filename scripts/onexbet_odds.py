@@ -228,6 +228,15 @@ class OnexbetError(RuntimeError):
 VIRTUAL_TOURNAMENT_KEYWORDS = (
     "esoccer", "e-soccer", "efootball", "e-football", "cyber", "cybersport",
     "battle", "virtual football", "gt league", "fifa",
+    # Added 2026-10-14, directly observed (not guessed): the live /sports/
+    # hub page showed a match under tournament name "VirtuaComp: La Liga"
+    # with opponents "Real Madrid (virtual_2)" / "Atlético de Madrid
+    # (virtual_5)" -- the API's own simulated-league branding, which the
+    # existing keywords above didn't catch (they only match "virtual
+    # football" as a full phrase). Needed now specifically because the new
+    # La Liga tournament filter below would otherwise match this same
+    # "VirtuaComp: La Liga" name on the "la liga" keyword.
+    "virtuacomp",
 )
 
 
@@ -235,6 +244,25 @@ def _is_virtual_tournament(name, keywords):
     # keywords is None only if a caller explicitly opts a sport out (no
     # sport currently does -- see SPORTS below, 2026-10-06: the filter now
     # applies everywhere, see module docstring for why).
+    if not keywords or not name:
+        return False
+    lowered = name.lower()
+    return any(kw in lowered for kw in keywords)
+
+
+def _matches_tournament_keywords(name, keywords):
+    """Added 2026-10-14 for the Champions League / La Liga guide pages
+    (see SPORTS' tournament_keyword_filter): True when the tournament's own
+    name contains one of the given keywords, case-insensitive -- the same
+    conservative substring-match heuristic _is_virtual_tournament already
+    uses, just opposite polarity (require a match instead of excluding
+    one). Not a documented API field (the docs don't expose a "competition
+    id" to filter on) -- same caveat as the virtual-tournament filter: may
+    need another keyword added later if a real tournament uses a naming
+    variant not covered here. Called AFTER _is_virtual_tournament in both
+    fetch_upcoming_matches and fetch_live_matches, so a simulated league
+    whose name happens to also contain the keyword (e.g. "VirtuaComp: La
+    Liga") is already excluded by the virtual filter before this ever runs."""
     if not keywords or not name:
         return False
     lowered = name.lower()
@@ -388,6 +416,56 @@ SPORTS = [
             "en": "en/sports/volleyball/index.html",
         },
     },
+    # Added 2026-10-14, owner request ("можно добавить кибеспорт?" thread
+    # led to a dropdown cleanup, which led to these two): dedicated guide
+    # pages for the Champions League and La Liga, each showing a REAL,
+    # auto-refreshing widget filtered to just that tournament -- not
+    # hand-typed fixtures. Both are sportId=1 (Football) with a
+    # tournament_keyword_filter instead of a dedicated sportId, because the
+    # API has no separate id for a single competition -- same
+    # keyword-heuristic approach VIRTUAL_TOURNAMENT_KEYWORDS already uses,
+    # see _matches_tournament_keywords(). max_tournaments is set high
+    # (every tournament the API returns for football) because the keyword
+    # filter runs BEFORE the max_tournaments slice -- so this costs nothing
+    # extra in practice: for these two entries the list is filtered down to
+    # the 0-1 tournaments whose name actually matches before any per-
+    # tournament API calls happen, regardless of how high the cap is.
+    {
+        "key": "champions_league", "sport_id": FOOTBALL_SPORT_ID,
+        "virtual_keywords": VIRTUAL_TOURNAMENT_KEYWORDS,
+        "tournament_keyword_filter": ("champions league", "liga de campeones"),
+        "icon": "⚽",
+        "upcoming": dict(limit=4, max_tournaments=500, max_candidate_events=10, request_delay=1.0),
+        "live": dict(limit=3, max_tournaments=500, max_candidate_events=8, request_delay=1.0),
+        "results": dict(limit=2, max_tournaments=500, request_delay=0.8),
+        "geo_page_overrides": {
+            "es": "es/guides/apuestas-champions-league/index.html",
+            "ar": "ar/guides/apuestas-champions-league/index.html",
+            "bo": "bo/guides/apuestas-champions-league/index.html",
+            "mx": "mx/guides/apuestas-champions-league/index.html",
+            "pe": "pe/guides/apuestas-champions-league/index.html",
+            "py": "py/guides/apuestas-champions-league/index.html",
+            "en": "en/guides/champions-league-betting/index.html",
+        },
+    },
+    {
+        "key": "la_liga", "sport_id": FOOTBALL_SPORT_ID,
+        "virtual_keywords": VIRTUAL_TOURNAMENT_KEYWORDS,
+        "tournament_keyword_filter": ("la liga", "laliga"),
+        "icon": "⚽",
+        "upcoming": dict(limit=4, max_tournaments=500, max_candidate_events=10, request_delay=1.0),
+        "live": dict(limit=3, max_tournaments=500, max_candidate_events=8, request_delay=1.0),
+        "results": dict(limit=2, max_tournaments=500, request_delay=0.8),
+        "geo_page_overrides": {
+            "es": "es/guides/apuestas-la-liga/index.html",
+            "ar": "ar/guides/apuestas-la-liga/index.html",
+            "bo": "bo/guides/apuestas-la-liga/index.html",
+            "mx": "mx/guides/apuestas-la-liga/index.html",
+            "pe": "pe/guides/apuestas-la-liga/index.html",
+            "py": "py/guides/apuestas-la-liga/index.html",
+            "en": "en/guides/la-liga-betting/index.html",
+        },
+    },
 ]
 
 
@@ -440,6 +518,7 @@ def api_get(session, token, path, params, debug_dir=None, debug_name=None):
 
 
 def fetch_upcoming_matches(session, token, ref, gr, lng, sport_id, virtual_keywords=None,
+                            tournament_keyword_filter=None,
                             limit=4, max_tournaments=15, max_candidate_events=20,
                             request_delay=1.2, debug_dir=None, debug_prefix=""):
     """Returns up to `limit` upcoming (startDate > now) matches with 1X2 odds
@@ -462,6 +541,10 @@ def fetch_upcoming_matches(session, token, ref, gr, lng, sport_id, virtual_keywo
     items = [t for t in items if not _is_virtual_tournament(t.get("tournamentNameLocalization"), virtual_keywords)]
     if not items:
         return []
+    if tournament_keyword_filter:
+        items = [t for t in items if _matches_tournament_keywords(t.get("tournamentNameLocalization"), tournament_keyword_filter)]
+        if not items:
+            return []
 
     candidate_event_ids = []
     for t in items[:max_tournaments]:
@@ -517,6 +600,7 @@ def fetch_upcoming_matches(session, token, ref, gr, lng, sport_id, virtual_keywo
 
 
 def fetch_live_matches(session, token, ref, gr, lng, sport_id, virtual_keywords=None,
+                        tournament_keyword_filter=None,
                         limit=3, max_tournaments=10, max_candidate_events=12,
                         request_delay=1.2, debug_dir=None, debug_prefix=""):
     """Mirrors fetch_upcoming_matches but against the API's SEPARATE live
@@ -547,6 +631,10 @@ def fetch_live_matches(session, token, ref, gr, lng, sport_id, virtual_keywords=
     items = [t for t in items if not _is_virtual_tournament(t.get("tournamentNameLocalization"), virtual_keywords)]
     if not items:
         return []
+    if tournament_keyword_filter:
+        items = [t for t in items if _matches_tournament_keywords(t.get("tournamentNameLocalization"), tournament_keyword_filter)]
+        if not items:
+            return []
 
     candidate_event_ids = []
     for t in items[:max_tournaments]:
@@ -598,6 +686,7 @@ def fetch_live_matches(session, token, ref, gr, lng, sport_id, virtual_keywords=
 
 
 def fetch_recent_results(session, token, ref, gr, lng, sport_id, virtual_keywords=None,
+                          tournament_keyword_filter=None,
                           limit=2, max_tournaments=3, request_delay=0.8,
                           debug_dir=None, debug_prefix=""):
     """Returns up to `limit` most-recently-finished matches for sport_id,
@@ -630,6 +719,10 @@ def fetch_recent_results(session, token, ref, gr, lng, sport_id, virtual_keyword
     items = [t for t in items if not _is_virtual_tournament(t.get("tournamentNameLocalization"), virtual_keywords)]
     if not items:
         return []
+    if tournament_keyword_filter:
+        items = [t for t in items if _matches_tournament_keywords(t.get("tournamentNameLocalization"), tournament_keyword_filter)]
+        if not items:
+            return []
 
     results = []
     for t in items[:max_tournaments]:
@@ -996,6 +1089,7 @@ def main():
                 matches = fetch_upcoming_matches(
                     session, token, ref, gr, lang, sport["sport_id"],
                     virtual_keywords=sport["virtual_keywords"],
+                    tournament_keyword_filter=sport.get("tournament_keyword_filter"),
                     debug_dir=debug_dir, debug_prefix=f"{key}_",
                     **sport["upcoming"],
                 )
@@ -1014,6 +1108,7 @@ def main():
                 live_matches = fetch_live_matches(
                     session, token, ref, gr, lang, sport["sport_id"],
                     virtual_keywords=sport["virtual_keywords"],
+                    tournament_keyword_filter=sport.get("tournament_keyword_filter"),
                     debug_dir=debug_dir, debug_prefix=f"{key}_",
                     **sport["live"],
                 )
@@ -1028,6 +1123,7 @@ def main():
                 recent_results = fetch_recent_results(
                     session, token, ref, gr, lang, sport["sport_id"],
                     virtual_keywords=sport["virtual_keywords"],
+                    tournament_keyword_filter=sport.get("tournament_keyword_filter"),
                     debug_dir=debug_dir, debug_prefix=f"{key}_",
                     **sport["results"],
                 )
