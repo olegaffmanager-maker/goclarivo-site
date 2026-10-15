@@ -437,7 +437,7 @@
       <a href="#top-liste">Casinos</a>
       <a href="/ke/compare/">Compare</a>
       <a href="/ke/sports/">Sports</a>
-      <a href="#guides">Guides</a>
+      <a href="#guides">Guides</a><a href="/ke/bonus-calculator/">Calculator</a><a href="/ke/industry/">Industry</a>
       <a href="#faq">FAQ</a>
       <a href="/ke/methodology/">Methodology</a>
       <a href="#about-us">About us</a>
@@ -466,7 +466,7 @@
       <a href="#top-liste">Casinos</a>
       <a href="/ke/compare/">Compare</a>
       <a href="/ke/sports/">Sports</a>
-      <a href="#guides">Guides</a>
+      <a href="#guides">Guides</a><a href="/ke/bonus-calculator/">Calculator</a><a href="/ke/industry/">Industry</a>
       <a href="#faq">FAQ</a>
       <a href="/ke/methodology/">Methodology</a>
       <a href="#about-us">About us</a>
@@ -659,6 +659,16 @@
         </div>
       </div>
       </a>
+      <a class="article-card-link" href="/ke/guides/wagering-requirements-explained/" style="display:block;color:inherit;text-decoration:none;">
+      <div class="article-card">
+        <div class="article-thumb">💰 Bonuses</div>
+        <div class="article-body">
+          <div class="article-date">06/10/2026</div>
+          <div class="article-title">What are bonus wagering requirements, and how are they calculated?</div>
+          <p class="article-excerpt">The wagering requirement decides whether a bonus is actually worth it. We explain the formula, a worked example with real numbers, and what else to check before claiming one.</p>
+        </div>
+      </div>
+      </a>
     </div>
   </div>
 </section>
@@ -692,7 +702,7 @@
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
         What should I check in a welcome bonus? <span class="faq-icon">+</span>
       </div>
-      <div class="faq-a"><p>More important than the bonus amount are the wagering requirements (how many times you need to play through the bonus), its validity period, and any restrictions on specific games. This information is in each operator's terms and conditions.</p></div>
+      <div class="faq-a"><p>More important than the bonus amount are the wagering requirements (how many times you need to play through the bonus), its validity period, and any restrictions on specific games. This information is in each operator's terms and conditions. Want to see exactly how much you’d need to wager with your own numbers? Try our <a href="/ke/bonus-calculator/">bonus wagering calculator</a>.</p></div>
     </div>
     <div class="faq-item">
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
@@ -746,7 +756,7 @@
         <ul>
           <li><a href="#top-liste">Casinos</a></li>
           <li><a href="/ke/compare/">Compare</a></li>
-          <li><a href="#guides">Guides</a></li>
+          <li><a href="#guides">Guides</a></li><li><a href="/ke/bonus-calculator/">Calculator</a></li><li><a href="/ke/industry/">Industry</a></li>
           <li><a href="#faq">FAQ</a></li>
           <li><a href="/ke/glossary/">Glossary</a></li>
           <li><a href="/ke/about/">About GoClarivo</a></li>

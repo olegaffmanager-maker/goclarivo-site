@@ -1,1 +1,8 @@
-assets\data\casinos.json
+ar\index.html
+mx\index.html
+pe\index.html
+ke\index.html
+gh\index.html
+en\index.html
+de\index.html
+it\index.html

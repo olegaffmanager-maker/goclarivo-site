@@ -451,7 +451,7 @@
       <a href="#top-liste">Casinos</a>
       <a href="/en/compare/">Compare</a>
       <details class="geo-switch"><summary style="border:none;background:transparent;padding:0;font-weight:600;color:var(--text-dim);font-size:14px;">Sports<span class="chevron" style="margin-left:5px;">&#9662;</span></summary><div class="geo-switch-menu"><a href="/en/sports/">All sports</a><a href="/en/sports/football/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="flex:0 0 16px;"><circle cx="12" cy="12" r="9"/><path d="M12 7l4 3-1.5 5h-5L8 10z"/><path d="M12 7V4M16 10l2.5-2M16 15l2 2.5M8 15l-2 2.5M8 10l-2.5-2"/></svg><span>Football</span></a><a href="/en/sports/basketball/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" style="flex:0 0 16px;"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3v18M5.6 5.6c2.5 2.3 2.5 10.5 0 12.8M18.4 5.6c-2.5 2.3-2.5 10.5 0 12.8"/></svg><span>Basketball</span></a><a href="/en/sports/tennis/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" style="flex:0 0 16px;"><circle cx="12" cy="12" r="9"/><path d="M4.5 7.5c4 1 4 8 0 9M19.5 7.5c-4 1-4 8 0 9"/></svg><span>Tennis</span></a><a href="/en/sports/ice-hockey/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="flex:0 0 16px;"><path d="M6.5 2.5l10 16.5"/><path d="M14.3 17.3h5.2l-1.1 2.2h-5.4z"/></svg><span>Ice Hockey</span></a><a href="/en/sports/volleyball/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" style="flex:0 0 16px;"><circle cx="12" cy="12" r="9"/><path d="M12 3c3 3 3 15 0 18M4 8c4 2 12 2 16 0M4 16c4-2 12-2 16 0"/></svg><span>Volleyball</span></a><div style="height:1px;background:var(--border);margin:4px 2px;"></div><a href="/en/guides/champions-league-betting/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="flex:0 0 16px;"><path d="M12 2l2.6 5.9 6.4.6-4.8 4.3 1.4 6.3L12 15.9 6.4 19.1l1.4-6.3-4.8-4.3 6.4-.6z"/></svg><span>Champions League</span></a><a href="/en/guides/la-liga-betting/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="flex:0 0 16px;"><path d="M12 2.5l6.5 2.8v5.4c0 4.6-2.7 7.5-6.5 8.8-3.8-1.3-6.5-4.2-6.5-8.8V5.3z"/></svg><span>La Liga</span></a></div></details>
-      <a href="#guides">Guides</a>
+      <a href="#guides">Guides</a><a href="/en/bonus-calculator/">Calculator</a><a href="/en/industry/">Industry</a>
       <a href="#faq">FAQ</a>
       <a href="/en/methodology/">Methodology</a>
       <a href="#about-us">About us</a>
@@ -480,7 +480,7 @@
       <a href="#top-liste">Casinos</a>
       <a href="/en/compare/">Compare</a>
       <div class="mobile-nav-section-label">Sports</div><a href="/en/sports/">All sports</a><a href="/en/sports/football/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="flex:0 0 16px;"><circle cx="12" cy="12" r="9"/><path d="M12 7l4 3-1.5 5h-5L8 10z"/><path d="M12 7V4M16 10l2.5-2M16 15l2 2.5M8 15l-2 2.5M8 10l-2.5-2"/></svg><span>Football</span></a><a href="/en/sports/basketball/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" style="flex:0 0 16px;"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3v18M5.6 5.6c2.5 2.3 2.5 10.5 0 12.8M18.4 5.6c-2.5 2.3-2.5 10.5 0 12.8"/></svg><span>Basketball</span></a><a href="/en/sports/tennis/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" style="flex:0 0 16px;"><circle cx="12" cy="12" r="9"/><path d="M4.5 7.5c4 1 4 8 0 9M19.5 7.5c-4 1-4 8 0 9"/></svg><span>Tennis</span></a><a href="/en/sports/ice-hockey/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="flex:0 0 16px;"><path d="M6.5 2.5l10 16.5"/><path d="M14.3 17.3h5.2l-1.1 2.2h-5.4z"/></svg><span>Ice Hockey</span></a><a href="/en/sports/volleyball/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" style="flex:0 0 16px;"><circle cx="12" cy="12" r="9"/><path d="M12 3c3 3 3 15 0 18M4 8c4 2 12 2 16 0M4 16c4-2 12-2 16 0"/></svg><span>Volleyball</span></a><div style="height:1px;background:var(--border);margin:4px 2px;"></div><a href="/en/guides/champions-league-betting/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="flex:0 0 16px;"><path d="M12 2l2.6 5.9 6.4.6-4.8 4.3 1.4 6.3L12 15.9 6.4 19.1l1.4-6.3-4.8-4.3 6.4-.6z"/></svg><span>Champions League</span></a><a href="/en/guides/la-liga-betting/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="flex:0 0 16px;"><path d="M12 2.5l6.5 2.8v5.4c0 4.6-2.7 7.5-6.5 8.8-3.8-1.3-6.5-4.2-6.5-8.8V5.3z"/></svg><span>La Liga</span></a>
-      <a href="#guides">Guides</a>
+      <a href="#guides">Guides</a><a href="/en/bonus-calculator/">Calculator</a><a href="/en/industry/">Industry</a>
       <a href="#faq">FAQ</a>
       <a href="/en/methodology/">Methodology</a>
       <a href="#about-us">About us</a>
@@ -684,6 +684,16 @@
         </div>
       </div>
       </a>
+      <a class="article-card-link" href="/en/guides/wagering-requirements-explained/" style="display:block;color:inherit;text-decoration:none;">
+      <div class="article-card">
+        <div class="article-thumb">💰 Bonuses</div>
+        <div class="article-body">
+          <div class="article-date">06/10/2026</div>
+          <div class="article-title">What are bonus wagering requirements, and how are they calculated?</div>
+          <p class="article-excerpt">The wagering requirement decides whether a bonus is actually worth it. We explain the formula, a worked example with real numbers, and what else to check before claiming one.</p>
+        </div>
+      </div>
+      </a>
     </div>
   </div>
 </section>
@@ -717,7 +727,7 @@
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
         What should I check in a welcome bonus? <span class="faq-icon">+</span>
       </div>
-      <div class="faq-a"><p>More important than the bonus amount are the wagering requirements (how many times you need to play through the bonus), its validity period, and any restrictions on specific games. This information is in each operator's terms and conditions.</p></div>
+      <div class="faq-a"><p>More important than the bonus amount are the wagering requirements (how many times you need to play through the bonus), its validity period, and any restrictions on specific games. This information is in each operator's terms and conditions. Want to see exactly how much you’d need to wager with your own numbers? Try our <a href="/en/bonus-calculator/">bonus wagering calculator</a>.</p></div>
     </div>
     <div class="faq-item">
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
@@ -771,7 +781,7 @@
         <ul>
           <li><a href="#top-liste">Casinos</a></li>
           <li><a href="/en/compare/">Compare</a></li>
-          <li><a href="#guides">Guides</a></li>
+          <li><a href="#guides">Guides</a></li><li><a href="/en/bonus-calculator/">Calculator</a></li><li><a href="/en/industry/">Industry</a></li>
           <li><a href="#faq">FAQ</a></li>
           <li><a href="/en/glossary/">Glossary</a></li>
           <li><a href="/en/about/">About GoClarivo</a></li>
