@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>GoClarivo — Comparativa de Casinos Online en Paraguay 2026</title>
-<meta name="description" content="Comparativa independiente de los mejores casinos online en Paraguay. Evaluados por licencia CONAJZAR, oferta de juegos, métodos de pago y condiciones de bonos.">
+<meta name="description" content="Comparativa independiente de los mejores casinos online en Paraguay. Evaluados por licencia DNIT, oferta de juegos, métodos de pago y condiciones de bonos.">
 
 <link rel="canonical" href="https://goclarivo.bet/py/">
 <meta name="robots" content="index, follow, max-image-preview:large">
@@ -37,7 +37,7 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:title" content="GoClarivo — Comparativa de Casinos Online en Paraguay 2026">
-<meta property="og:description" content="Comparativa independiente de los mejores casinos online en Paraguay. Evaluados por licencia CONAJZAR, oferta de juegos, métodos de pago y condiciones de bonos.">
+<meta property="og:description" content="Comparativa independiente de los mejores casinos online en Paraguay. Evaluados por licencia DNIT, oferta de juegos, métodos de pago y condiciones de bonos.">
 <meta property="og:locale" content="es_PY">
 <meta name="twitter:card" content="summary_large_image">
 
@@ -376,7 +376,7 @@
       "name": "¿Es legal el juego online en Paraguay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "En Paraguay, los juegos de azar y las apuestas —incluidos los casinos online— están regulados por la CONAJZAR (Comisión Nacional de Juegos de Azar). En los últimos años se aprobó un nuevo marco legal para el sector, y la CONAJZAR promueve el uso del dominio .bet.py como señal de que un operador cuenta con licencia vigente. Conviene verificar siempre la licencia antes de jugar."
+        "text": "En Paraguay, los juegos de azar y las apuestas —incluidos los casinos online— están regulados por la Dirección Nacional de Ingresos Tributarios (DNIT), que en 2024 asumió las funciones de la antigua CONAJZAR (Comisión Nacional de Juegos de Azar) tras la Ley N.° 7438. La DNIT promueve el uso del dominio .bet.py como señal de que un operador cuenta con licencia vigente. Conviene verificar siempre la licencia antes de jugar."
       }
     },
     {
@@ -384,7 +384,7 @@
       "name": "¿Cómo elijo el casino adecuado?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Fíjate en la licencia de la CONAJZAR, la rapidez de los pagos, la transparencia de las condiciones de los bonos y los métodos de pago disponibles — no solo en el importe del bono."
+        "text": "Fíjate en la licencia de la DNIT, la rapidez de los pagos, la transparencia de las condiciones de los bonos y los métodos de pago disponibles — no solo en el importe del bono."
       }
     },
     {
@@ -559,7 +559,7 @@
       <p>Cada casino se revisa según criterios fijos antes de entrar en nuestra clasificación.</p>
     </div>
     <div class="method-grid">
-      <div class="method-item"><div class="method-head"><b>Licencia y seguridad</b><span class="method-weight">30%</span></div><p>Estado de la licencia ante la CONAJZAR (Comisión Nacional de Juegos de Azar) y medidas de protección del jugador.</p></div>
+      <div class="method-item"><div class="method-head"><b>Licencia y seguridad</b><span class="method-weight">30%</span></div><p>Estado de la licencia ante la DNIT (Dirección Nacional de Ingresos Tributarios, antes CONAJZAR) y medidas de protección del jugador.</p></div>
       <div class="method-item"><div class="method-head"><b>Oferta de juegos</b><span class="method-weight">20%</span></div><p>Amplitud y calidad de los juegos disponibles y proveedores de software.</p></div>
       <div class="method-item"><div class="method-head"><b>Depósitos y retiros</b><span class="method-weight">25%</span></div><p>Métodos de pago disponibles, así como plazos y límites de retiro.</p></div>
       <div class="method-item"><div class="method-head"><b>Condiciones de bonos</b><span class="method-weight">10%</span></div><p>Requisitos de apuesta, depósito mínimo y transparencia de las promociones.</p></div>
@@ -657,13 +657,13 @@
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
         ¿Es legal el juego online en Paraguay? <span class="faq-icon">+</span>
       </div>
-      <div class="faq-a"><p>En Paraguay, los juegos de azar y las apuestas —incluidos los casinos online— están regulados por la CONAJZAR (Comisión Nacional de Juegos de Azar). En los últimos años se aprobó un nuevo marco legal para el sector, y la CONAJZAR promueve el uso del dominio .bet.py como señal de que un operador cuenta con licencia vigente. Conviene verificar siempre la licencia antes de jugar.</p></div>
+      <div class="faq-a"><p>En Paraguay, los juegos de azar y las apuestas —incluidos los casinos online— están regulados por la Dirección Nacional de Ingresos Tributarios (DNIT), que en 2024 asumió las funciones de la antigua CONAJZAR (Comisión Nacional de Juegos de Azar) tras la Ley N.° 7438. La DNIT promueve el uso del dominio .bet.py como señal de que un operador cuenta con licencia vigente. Conviene verificar siempre la licencia antes de jugar.</p></div>
     </div>
     <div class="faq-item">
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
         ¿Cómo elijo el casino adecuado? <span class="faq-icon">+</span>
       </div>
-      <div class="faq-a"><p>Fíjate en la licencia de la CONAJZAR, la rapidez de los pagos, la transparencia de las condiciones de los bonos y los métodos de pago disponibles — no solo en el importe del bono.</p></div>
+      <div class="faq-a"><p>Fíjate en la licencia de la DNIT, la rapidez de los pagos, la transparencia de las condiciones de los bonos y los métodos de pago disponibles — no solo en el importe del bono.</p></div>
     </div>
     <div class="faq-item">
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
@@ -748,7 +748,7 @@
       <div>
         <h4>Responsabilidad</h4>
         <ul>
-          <li><a href="https://www.dnit.gov.py/web/portal-institucional/conajzar">CONAJZAR</a></li>
+          <li><a href="https://www.dnit.gov.py/web/portal-institucional/conajzar">DNIT</a></li>
           <li><a href="/py/responsible-gambling/#autoexclusion">Autoexclusión</a></li>
         </ul>
       </div>
@@ -757,7 +757,8 @@
     <div class="badges">
       <span class="badge">18+</span>
       <span class="badge">El juego puede ser adictivo</span>
-      <span class="badge">Regulado por la CONAJZAR</span>
+      <span class="badge">Regulado por la DNIT</span>
+      <span class="badge">Línea 155: 155</span>
     </div>
 
     <div class="geo-switch-footer">
