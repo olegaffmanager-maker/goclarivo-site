@@ -58,8 +58,9 @@
   "datePublished": "2026-09-08",
   "dateModified": "2026-09-08",
   "author": {
-    "@type": "Organization",
-    "name": "GoClarivo"
+    "@type": "Person",
+    "name": "Oleg Melnikov",
+    "jobTitle": "Affiliate Analyst"
   },
   "publisher": {
     "@type": "Organization",
@@ -416,7 +417,7 @@
       <a href="/gh/#top-liste">Casinos</a>
       <a href="/gh/compare/">Compare</a>
       <a href="/gh/sports/">Sports</a>
-      <a href="/gh/#guides">Guides</a>
+      <a href="/gh/#guides">Guides</a><a href="/gh/bonus-calculator/">Calculator</a><a href="/gh/industry/">Industry</a>
       <a href="/gh/#faq">FAQ</a>
       <a href="/gh/methodology/">Methodology</a>
       <a href="/gh/#about-us">About us</a>
@@ -445,7 +446,7 @@
       <a href="/gh/#top-liste">Casinos</a>
       <a href="/gh/compare/">Compare</a>
       <a href="/gh/sports/">Sports</a>
-      <a href="/gh/#guides">Guides</a>
+      <a href="/gh/#guides">Guides</a><a href="/gh/bonus-calculator/">Calculator</a><a href="/gh/industry/">Industry</a>
       <a href="/gh/#faq">FAQ</a>
       <a href="/gh/methodology/">Methodology</a>
       <a href="/gh/#about-us">About us</a>
@@ -472,7 +473,7 @@
     <div class="article-head">
       <h1>How to Recognize a Trustworthy Online Casino</h1>
     </div>
-    <div class="article-meta">08/09/2026 &middot; 5 min</div>
+    <div class="article-meta">08/09/2026 &middot; 5 min &middot; By Oleg Melnikov</div>
     <div class="prose">
 <p>A flashy bonus says little about whether an online casino is actually trustworthy. Before you register, it helps to check a few verifiable criteria rather than relying on the marketing pitch alone.</p>
 <h2>1. A license that applies to your country</h2>
@@ -489,6 +490,7 @@
     <div class="back-cta">
       <a class="btn" href="/gh/">Back to comparison</a>
     </div>
+    <div class="legal-note-inline">About the author: Oleg Melnikov is an Affiliate Analyst at GoClarivo, with 4 years of experience in the gambling affiliate industry.</div>
   </div>
 </section>
 
@@ -505,7 +507,7 @@
         <ul>
           <li><a href="#top-liste">Casinos</a></li>
           <li><a href="/gh/compare/">Compare</a></li>
-          <li><a href="#guides">Guides</a></li>
+          <li><a href="#guides">Guides</a></li><li><a href="/gh/bonus-calculator/">Calculator</a></li><li><a href="/gh/industry/">Industry</a></li>
           <li><a href="#faq">FAQ</a></li>
           <li><a href="/gh/glossary/">Glossary</a></li>
           <li><a href="/gh/about/">About GoClarivo</a></li>

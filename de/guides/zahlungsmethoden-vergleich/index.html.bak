@@ -58,8 +58,9 @@
   "datePublished": "2026-09-15",
   "dateModified": "2026-09-15",
   "author": {
-    "@type": "Organization",
-    "name": "GoClarivo"
+    "@type": "Person",
+    "name": "Oleg Melnikov",
+    "jobTitle": "Affiliate-Analyst"
   },
   "publisher": {
     "@type": "Organization",
@@ -416,7 +417,7 @@
       <a href="/de/#top-liste">Casinos</a>
       <a href="/de/compare/">Vergleich</a>
       <a href="/de/sports/">Sportwetten</a>
-      <a href="/de/#ratgeber">Ratgeber</a>
+      <a href="/de/#ratgeber">Ratgeber</a><a href="/de/bonus-rechner/">Bonusrechner</a><a href="/de/branche/">Branche</a>
       <a href="/de/#faq">FAQ</a>
       <a href="/de/methodology/">Methodik</a>
       <a href="/de/#ueber-uns">Über uns</a>
@@ -445,7 +446,7 @@
       <a href="/de/#top-liste">Casinos</a>
       <a href="/de/compare/">Vergleich</a>
       <a href="/de/sports/">Sportwetten</a>
-      <a href="/de/#ratgeber">Ratgeber</a>
+      <a href="/de/#ratgeber">Ratgeber</a><a href="/de/bonus-rechner/">Bonusrechner</a><a href="/de/branche/">Branche</a>
       <a href="/de/#faq">FAQ</a>
       <a href="/de/methodology/">Methodik</a>
       <a href="/de/#ueber-uns">Über uns</a>
@@ -472,7 +473,7 @@
     <div class="article-head">
       <h1>Zahlungsmethoden im Vergleich: Ein- und Auszahlungen</h1>
     </div>
-    <div class="article-meta">15.09.2026 &middot; 4 min</div>
+    <div class="article-meta">15.09.2026 &middot; 4 min &middot; Von Oleg Melnikov</div>
     <div class="prose">
 <p>Die Wahl der Zahlungsmethode beeinflusst, wie schnell Geld ankommt und wie viel am Ende tatsächlich auf dem Konto landet.</p>
 <h2>E-Wallets (PayPal, Skrill, Neteller)</h2>
@@ -488,6 +489,7 @@
     <div class="back-cta">
       <a class="btn" href="/de/">Zurück zum Vergleich</a>
     </div>
+    <div class="legal-note-inline">Über den Autor: Oleg Melnikov ist Affiliate-Analyst bei GoClarivo, mit 4 Jahren Erfahrung in der Glücksspiel-Affiliate-Branche.</div>
   </div>
 </section>
 
@@ -504,7 +506,7 @@
         <ul>
           <li><a href="#top-liste">Casinos</a></li>
           <li><a href="/de/compare/">Vergleich</a></li>
-          <li><a href="#ratgeber">Ratgeber</a></li>
+          <li><a href="#ratgeber">Ratgeber</a></li><li><a href="/de/bonus-rechner/">Bonusrechner</a></li><li><a href="/de/branche/">Branche</a></li>
           <li><a href="#faq">FAQ</a></li>
           <li><a href="/de/glossary/">Glossar</a></li>
           <li><a href="/de/about/">Über GoClarivo</a></li>

@@ -58,8 +58,9 @@
   "datePublished": "2026-09-29",
   "dateModified": "2026-09-29",
   "author": {
-    "@type": "Organization",
-    "name": "GoClarivo"
+    "@type": "Person",
+    "name": "Oleg Melnikov",
+    "jobTitle": "Analista de Afiliação"
   },
   "publisher": {
     "@type": "Organization",
@@ -416,7 +417,7 @@
       <a href="/pt/#top-liste">Casinos</a>
       <a href="/pt/compare/">Comparar</a>
       <a href="/pt/sports/">Apostas Desportivas</a>
-      <a href="/pt/#guides">Guias</a>
+      <a href="/pt/#guides">Guias</a><a href="/pt/calculadora-bonus/">Calculadora</a><a href="/pt/industria/">Indústria</a>
       <a href="/pt/#faq">FAQ</a>
       <a href="/pt/methodology/">Metodologia</a>
       <a href="/pt/#about-us">Sobre nós</a>
@@ -445,7 +446,7 @@
       <a href="/pt/#top-liste">Casinos</a>
       <a href="/pt/compare/">Comparar</a>
       <a href="/pt/sports/">Apostas Desportivas</a>
-      <a href="/pt/#guides">Guias</a>
+      <a href="/pt/#guides">Guias</a><a href="/pt/calculadora-bonus/">Calculadora</a><a href="/pt/industria/">Indústria</a>
       <a href="/pt/#faq">FAQ</a>
       <a href="/pt/methodology/">Metodologia</a>
       <a href="/pt/#about-us">Sobre nós</a>
@@ -472,7 +473,7 @@
     <div class="article-head">
       <h1>Limites de depósito e autoexclusão: como funcionam realmente estas ferramentas de proteção</h1>
     </div>
-    <div class="article-meta">29/09/2026 &middot; 4 min</div>
+    <div class="article-meta">29/09/2026 &middot; 4 min &middot; Por Oleg Melnikov</div>
     <div class="prose">
 <p>A maioria dos operadores licenciados oferece o mesmo conjunto básico de ferramentas para manter o controlo sobre o jogo: limites de depósito, limites de perdas, limites de tempo e autoexclusão. Eis o que acontece realmente quando usa cada uma destas ferramentas.</p>
 <h2>Os limites de depósito não são simétricos</h2>
@@ -487,6 +488,7 @@
     <div class="back-cta">
       <a class="btn" href="/pt/">Voltar à comparação</a>
     </div>
+    <div class="legal-note-inline">Sobre o autor: Oleg Melnikov é Analista de Afiliação na GoClarivo, com 4 anos de experiência na indústria de afiliação de apostas e casino.</div>
   </div>
 </section>
 
@@ -503,7 +505,7 @@
         <ul>
           <li><a href="#top-liste">Casinos</a></li>
           <li><a href="/pt/compare/">Comparar</a></li>
-          <li><a href="#guides">Guias</a></li>
+          <li><a href="#guides">Guias</a></li><li><a href="/pt/calculadora-bonus/">Calculadora</a></li><li><a href="/pt/industria/">Indústria</a></li>
           <li><a href="#faq">FAQ</a></li>
           <li><a href="/pt/glossary/">Glossário</a></li>
           <li><a href="/pt/about/">Sobre o GoClarivo</a></li>

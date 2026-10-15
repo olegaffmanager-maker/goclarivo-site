@@ -58,8 +58,9 @@
   "datePublished": "2026-09-29",
   "dateModified": "2026-09-29",
   "author": {
-    "@type": "Organization",
-    "name": "GoClarivo"
+    "@type": "Person",
+    "name": "Oleg Melnikov",
+    "jobTitle": "Analyste Affilié"
   },
   "publisher": {
     "@type": "Organization",
@@ -416,7 +417,7 @@
       <a href="/fr/#top-liste">Casinos</a>
       <a href="/fr/compare/">Comparer</a>
       <a href="/fr/sports/">Paris sportifs</a>
-      <a href="/fr/#guides">Guides</a>
+      <a href="/fr/#guides">Guides</a><a href="/fr/calculateur-bonus/">Calculateur</a><a href="/fr/industrie/">Industrie</a>
       <a href="/fr/#faq">FAQ</a>
       <a href="/fr/methodology/">Méthodologie</a>
       <a href="/fr/#about-us">À propos</a>
@@ -445,7 +446,7 @@
       <a href="/fr/#top-liste">Casinos</a>
       <a href="/fr/compare/">Comparer</a>
       <a href="/fr/sports/">Paris sportifs</a>
-      <a href="/fr/#guides">Guides</a>
+      <a href="/fr/#guides">Guides</a><a href="/fr/calculateur-bonus/">Calculateur</a><a href="/fr/industrie/">Industrie</a>
       <a href="/fr/#faq">FAQ</a>
       <a href="/fr/methodology/">Méthodologie</a>
       <a href="/fr/#about-us">À propos</a>
@@ -472,7 +473,7 @@
     <div class="article-head">
       <h1>Limites de dépôt et auto-exclusion : comment fonctionnent vraiment ces outils de protection</h1>
     </div>
-    <div class="article-meta">29/09/2026 &middot; 4 min</div>
+    <div class="article-meta">29/09/2026 &middot; 4 min &middot; Par Oleg Melnikov</div>
     <div class="prose">
 <p>La plupart des opérateurs licenciés proposent la même boîte à outils de base pour rester maître de son jeu : limites de dépôt, limites de pertes, limites de temps et auto-exclusion. Voici ce qui se passe réellement lorsque vous utilisez chacun de ces outils.</p>
 <h2>Les limites de dépôt ne sont pas symétriques</h2>
@@ -487,6 +488,7 @@
     <div class="back-cta">
       <a class="btn" href="/fr/">Retour au comparatif</a>
     </div>
+    <div class="legal-note-inline">À propos de l'auteur : Oleg Melnikov est Analyste Affilié chez GoClarivo, avec 4 ans d'expérience dans l'affiliation des jeux d'argent et de casino.</div>
   </div>
 </section>
 
@@ -503,7 +505,7 @@
         <ul>
           <li><a href="#top-liste">Casinos</a></li>
           <li><a href="/fr/compare/">Comparer</a></li>
-          <li><a href="#guides">Guides</a></li>
+          <li><a href="#guides">Guides</a></li><li><a href="/fr/calculateur-bonus/">Calculateur</a></li><li><a href="/fr/industrie/">Industrie</a></li>
           <li><a href="#faq">FAQ</a></li>
           <li><a href="/fr/glossary/">Glossaire</a></li>
           <li><a href="/fr/about/">À propos de GoClarivo</a></li>

@@ -58,8 +58,9 @@
   "datePublished": "2026-09-29",
   "dateModified": "2026-09-29",
   "author": {
-    "@type": "Organization",
-    "name": "GoClarivo"
+    "@type": "Person",
+    "name": "Oleg Melnikov",
+    "jobTitle": "Affiliate Analyst"
   },
   "publisher": {
     "@type": "Organization",
@@ -416,7 +417,7 @@
       <a href="/zm/#top-liste">Casinos</a>
       <a href="/zm/compare/">Compare</a>
       <a href="/zm/sports/">Sports</a>
-      <a href="/zm/#guides">Guides</a>
+      <a href="/zm/#guides">Guides</a><a href="/zm/bonus-calculator/">Calculator</a><a href="/zm/industry/">Industry</a>
       <a href="/zm/#faq">FAQ</a>
       <a href="/zm/methodology/">Methodology</a>
       <a href="/zm/#about-us">About us</a>
@@ -445,7 +446,7 @@
       <a href="/zm/#top-liste">Casinos</a>
       <a href="/zm/compare/">Compare</a>
       <a href="/zm/sports/">Sports</a>
-      <a href="/zm/#guides">Guides</a>
+      <a href="/zm/#guides">Guides</a><a href="/zm/bonus-calculator/">Calculator</a><a href="/zm/industry/">Industry</a>
       <a href="/zm/#faq">FAQ</a>
       <a href="/zm/methodology/">Methodology</a>
       <a href="/zm/#about-us">About us</a>
@@ -472,7 +473,7 @@
     <div class="article-head">
       <h1>Deposit Limits and Self-Exclusion: How Player-Protection Tools Actually Work</h1>
     </div>
-    <div class="article-meta">29/09/2026 &middot; 4 min</div>
+    <div class="article-meta">29/09/2026 &middot; 4 min &middot; By Oleg Melnikov</div>
     <div class="prose">
 <p>Most licensed operators offer the same basic toolkit for staying in control: deposit limits, loss limits, time limits and self-exclusion. Here's what actually happens when you use each one.</p>
 <h2>Deposit limits aren't symmetrical</h2>
@@ -487,6 +488,7 @@
     <div class="back-cta">
       <a class="btn" href="/zm/">Back to comparison</a>
     </div>
+    <div class="legal-note-inline">About the author: Oleg Melnikov is an Affiliate Analyst at GoClarivo, with 4 years of experience in the gambling affiliate industry.</div>
   </div>
 </section>
 
@@ -503,7 +505,7 @@
         <ul>
           <li><a href="#top-liste">Casinos</a></li>
           <li><a href="/zm/compare/">Compare</a></li>
-          <li><a href="#guides">Guides</a></li>
+          <li><a href="#guides">Guides</a></li><li><a href="/zm/bonus-calculator/">Calculator</a></li><li><a href="/zm/industry/">Industry</a></li>
           <li><a href="#faq">FAQ</a></li>
           <li><a href="/zm/glossary/">Glossary</a></li>
           <li><a href="/zm/about/">About GoClarivo</a></li>
