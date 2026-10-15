@@ -132,7 +132,7 @@
     var box = document.getElementById("calc-offers");
     if (!box) return;
     fetch("/assets/data/casinos.json").then(function (r) { return r.json(); }).then(function (casinos) {
-      var pool = casinos.filter(function (c) { return c.verified && c.countries.indexOf(GEO) !== -1; }).slice(0, 2);
+      var pool = casinos.filter(function (c) { return c.verified && c.countries.indexOf(GEO) !== -1; }).slice(0, 3);
       if (pool.length === 0) return;
       var html = '<div class="calc-sub-row" style="border:none;padding-top:14px;"><span style="font-weight:700;color:var(--text);">' + T.offersTitle + "</span></div>";
       pool.forEach(function (c) {
