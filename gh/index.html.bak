@@ -501,8 +501,8 @@
 <section id="top-liste">
   <div class="wrap">
     <div class="sec-head">
-      <h2>Featured Casino</h2>
-      <p>We show the operator we already work with while its editorial review is still in progress — see how many more operators are currently in review below.</p>
+      <h2>Featured Casinos</h2>
+      <p>We show the operators we already work with while their editorial reviews are still in progress — this does not affect ranking order, which follows the same scoring methodology as every other operator once review is complete. See how many more are currently in review below.</p>
     </div>
 
     <div class="casino-card">
@@ -715,7 +715,7 @@
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
         How are casino scores calculated? <span class="faq-icon">+</span>
       </div>
-      <div class="faq-a"><p>Each casino is rated against five weighted criteria — License &amp; Safety, Deposits &amp; Withdrawals, Game Selection, Mobile Experience, and Bonus Transparency. See the full breakdown on our <a href="/gh/methodology/">methodology page</a>.</p></div>
+      <div class="faq-a"><p>Each casino is rated against five weighted criteria — License &amp; Safety, Deposits &amp; Withdrawals, Game Selection, Mobile Experience, and Bonus Terms. See the full breakdown on our <a href="/gh/methodology/">methodology page</a>.</p></div>
     </div>
     <div class="faq-item">
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
@@ -787,6 +787,7 @@
       <span class="badge">18+</span>
       <span class="badge">Gambling can be addictive</span>
       <span class="badge">Licensing varies by country — verify locally</span>
+      <span class="badge">Mental Health Authority Ghana: 0800 678 678</span>
       <span class="badge">Gamblers Anonymous: gamblersanonymous.org</span>
     </div>
 

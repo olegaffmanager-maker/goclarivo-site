@@ -458,21 +458,21 @@
     <div class="nav-right-group"><details class="geo-switch">
       <summary><svg class="flag-icon"><use href="#flag-de"/></svg><span class="code">DE</span><span class="chevron">&#9662;</span></summary>
       <div class="geo-switch-menu">
-        <a href="/ar/"><svg class="flag-icon"><use href="#flag-ar"/></svg><span class="code">Argentina</span></a>
-        <a href="/mx/"><svg class="flag-icon"><use href="#flag-mx"/></svg><span class="code">Mexico</span></a>
-        <a href="/es/"><svg class="flag-icon"><use href="#flag-es"/></svg><span class="code">Spain</span></a>
-        <a href="/it/"><svg class="flag-icon"><use href="#flag-it"/></svg><span class="code">Italy</span></a>
+        <a href="/ar/"><svg class="flag-icon"><use href="#flag-ar"/></svg><span class="code">Argentinien</span></a>
+        <a href="/mx/"><svg class="flag-icon"><use href="#flag-mx"/></svg><span class="code">Mexiko</span></a>
+        <a href="/es/"><svg class="flag-icon"><use href="#flag-es"/></svg><span class="code">Spanien</span></a>
+        <a href="/it/"><svg class="flag-icon"><use href="#flag-it"/></svg><span class="code">Italien</span></a>
         <a href="/pe/"><svg class="flag-icon"><use href="#flag-pe"/></svg><span class="code">Peru</span></a>
-        <a href="/bo/"><svg class="flag-icon"><use href="#flag-bo"/></svg><span class="code">Bolivia</span></a>
+        <a href="/bo/"><svg class="flag-icon"><use href="#flag-bo"/></svg><span class="code">Bolivien</span></a>
         <a href="/py/"><svg class="flag-icon"><use href="#flag-py"/></svg><span class="code">Paraguay</span></a>
         <a href="/en/"><svg class="flag-icon"><use href="#flag-en"/></svg><span class="code">International</span></a>
         <a href="/gh/"><svg class="flag-icon"><use href="#flag-gh"/></svg><span class="code">Ghana</span></a>
-        <a href="/ke/"><svg class="flag-icon"><use href="#flag-ke"/></svg><span class="code">Kenya</span></a>
-        <a href="/zm/"><svg class="flag-icon"><use href="#flag-zm"/></svg><span class="code">Zambia</span></a>
-        <a href="/fr/"><svg class="flag-icon"><use href="#flag-fr"/></svg><span class="code">France</span></a>
+        <a href="/ke/"><svg class="flag-icon"><use href="#flag-ke"/></svg><span class="code">Kenia</span></a>
+        <a href="/zm/"><svg class="flag-icon"><use href="#flag-zm"/></svg><span class="code">Sambia</span></a>
+        <a href="/fr/"><svg class="flag-icon"><use href="#flag-fr"/></svg><span class="code">Frankreich</span></a>
         <a href="/bf/"><svg class="flag-icon"><use href="#flag-bf"/></svg><span class="code">Burkina Faso</span></a>
         <a href="/pt/"><svg class="flag-icon"><use href="#flag-pt"/></svg><span class="code">Portugal</span></a>
-        <a href="/de/" class="active"><svg class="flag-icon"><use href="#flag-de"/></svg><span class="code">Germany</span></a>
+        <a href="/de/" class="active"><svg class="flag-icon"><use href="#flag-de"/></svg><span class="code">Deutschland</span></a>
       </div>
                 </details>
       <details class="geo-switch mobile-nav"><summary class="mobile-nav-toggle" aria-label="Menu"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><line x1="4" y1="7" x2="20" y2="7"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="17" x2="20" y2="17"/></svg></summary><div class="geo-switch-menu mobile-nav-menu">
@@ -525,12 +525,12 @@
         <div class="top-row">
           <span class="name">20Bet</span>
         </div>
-        <div class="bonus-text">100% bis zu 120 &euro;/$ + 120 Freispiele (bis zu 500 CAD, 500 PLN, 200 NZD) + BONUSSPIEL</div>
+        <div class="bonus-text">100% bis zu 120 &euro;/$ + 120 Freispiele (bis zu 500 CAD, 500 PLN, 200 NZD) + Bonusspiel</div>
         <div class="verify-grid">
           <div class="verify-group">
             <div class="verify-group-title">Verifizierungsstatus</div>
             <div class="verify-item"><span class="verify-item-label">Verifizierung</span><span class="verify-badge verify-green">✓ Geprüft</span></div>
-            <div class="verify-item"><span class="verify-item-label">Bonus</span><span style="text-align:right;max-width:60%;color:var(--text);font-weight:600;">100% bis zu 120 &euro;/$ + 120 Freispiele (bis zu 500 CAD, 500 PLN, 200 NZD) + BONUSSPIEL</span></div>
+            <div class="verify-item"><span class="verify-item-label">Bonus</span><span style="text-align:right;max-width:60%;color:var(--text);font-weight:600;">100% bis zu 120 &euro;/$ + 120 Freispiele (bis zu 500 CAD, 500 PLN, 200 NZD) + Bonusspiel</span></div>
           </div>
           <div class="verify-group">
             <div class="verify-group-title">Redaktionelle Prüfung</div>
@@ -880,26 +880,26 @@
     </div>
 
     <div class="geo-switch-footer">
-      <a href="/de/"><svg class="flag-icon"><use href="#flag-de"/></svg> Germany</a>
-      <a href="/ar/"><svg class="flag-icon"><use href="#flag-ar"/></svg> Argentina</a>
-      <a href="/mx/"><svg class="flag-icon"><use href="#flag-mx"/></svg> Mexico</a>
-      <a href="/es/"><svg class="flag-icon"><use href="#flag-es"/></svg> Spain</a>
-      <a href="/it/"><svg class="flag-icon"><use href="#flag-it"/></svg> Italy</a>
+      <a href="/de/"><svg class="flag-icon"><use href="#flag-de"/></svg> Deutschland</a>
+      <a href="/ar/"><svg class="flag-icon"><use href="#flag-ar"/></svg> Argentinien</a>
+      <a href="/mx/"><svg class="flag-icon"><use href="#flag-mx"/></svg> Mexiko</a>
+      <a href="/es/"><svg class="flag-icon"><use href="#flag-es"/></svg> Spanien</a>
+      <a href="/it/"><svg class="flag-icon"><use href="#flag-it"/></svg> Italien</a>
       <a href="/pe/"><svg class="flag-icon"><use href="#flag-pe"/></svg> Peru</a>
-      <a href="/bo/"><svg class="flag-icon"><use href="#flag-bo"/></svg> Bolivia</a>
+      <a href="/bo/"><svg class="flag-icon"><use href="#flag-bo"/></svg> Bolivien</a>
       <a href="/py/"><svg class="flag-icon"><use href="#flag-py"/></svg> Paraguay</a>
       <a href="/en/"><svg class="flag-icon"><use href="#flag-en"/></svg> International</a>
       <a href="/gh/"><svg class="flag-icon"><use href="#flag-gh"/></svg> Ghana</a>
-      <a href="/ke/"><svg class="flag-icon"><use href="#flag-ke"/></svg> Kenya</a>
-      <a href="/zm/"><svg class="flag-icon"><use href="#flag-zm"/></svg> Zambia</a>
-      <a href="/fr/"><svg class="flag-icon"><use href="#flag-fr"/></svg> France</a>
+      <a href="/ke/"><svg class="flag-icon"><use href="#flag-ke"/></svg> Kenia</a>
+      <a href="/zm/"><svg class="flag-icon"><use href="#flag-zm"/></svg> Sambia</a>
+      <a href="/fr/"><svg class="flag-icon"><use href="#flag-fr"/></svg> Frankreich</a>
       <a href="/bf/"><svg class="flag-icon"><use href="#flag-bf"/></svg> Burkina Faso</a>
       <a href="/pt/"><svg class="flag-icon"><use href="#flag-pt"/></svg> Portugal</a>
     </div>
 
     <div class="legal-note">
       <p style="margin:0 0 10px;font-weight:600;color:var(--text);">Werbehinweis: GoClarivo finanziert sich über Partnerprovisionen von Casino-Betreibern. Wenn du dich über einen Link auf dieser Seite registrierst, erhalten wir ggf. eine Vergütung — das hat keinen Einfluss auf unsere Bewertungen und Rangfolge.</p>
-      © 2026 GoClarivo. Alle Angaben ohne Gewähr. Glücksspiel ist ab 18 Jahren erlaubt. Sollten Sie oder eine Ihnen bekannte Person Probleme mit Glücksspiel haben, wenden Sie sich an eine lokale Beratungsstelle.
+      © 2026 GoClarivo. Alle Angaben ohne Gewähr. Glücksspiel ist ab 18 Jahren erlaubt. Solltest du oder eine dir bekannte Person Probleme mit Glücksspiel haben, wende dich an eine lokale Beratungsstelle.
     </div>
   </div>
 </footer>
