@@ -1,6 +1,2 @@
+ar\index.html
 mx\index.html
-pe\index.html
-bo\index.html
-bf\index.html
-ke\index.html
-in\index.html
