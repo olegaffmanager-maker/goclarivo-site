@@ -29,7 +29,7 @@
 <link rel="alternate" hreflang="en-IN" href="https://goclarivo.bet/in/">
 <link rel="alternate" hreflang="fr-BF" href="https://goclarivo.bet/bf/">
 <link rel="alternate" hreflang="pt-PT" href="https://goclarivo.bet/pt/">
-<link rel="alternate" hreflang="x-default" href="https://goclarivo.bet/">
+<link rel="alternate" hreflang="x-default" href="https://goclarivo.bet/en/">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://goclarivo.bet/de/">
 <meta property="og:site_name" content="GoClarivo">
@@ -447,7 +447,7 @@
   <div class="wrap nav-row">
     <a href="/de/" class="brand"><svg class="brand-icon" viewBox="0 0 24 24" width="24" height="24" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GoClarivo"><path d="M12 2.2 L20.5 5.4 V11 C20.5 16.3 17 19.9 12 21.6 C7 19.9 3.5 16.3 3.5 11 V5.4 Z" fill="var(--gold)"/><path d="M7.8 11.9 L10.6 14.7 L16.3 8.6" fill="none" stroke="var(--bg)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Go<span>Clarivo</span></a>
     <nav class="main-nav">
-      <a href="#top-liste">Casinos</a>
+      <a href="#top-list">Casinos</a>
       <a href="/de/compare/">Vergleich</a>
       <a href="/de/sports/">Sportwetten</a>
       <a href="#ratgeber">Ratgeber</a><a href="/de/bonus-rechner/">Bonusrechner</a><a href="/de/branche/">Branche</a>
@@ -476,7 +476,7 @@
       </div>
                 </details>
       <details class="geo-switch mobile-nav"><summary class="mobile-nav-toggle" aria-label="Menu"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><line x1="4" y1="7" x2="20" y2="7"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="17" x2="20" y2="17"/></svg></summary><div class="geo-switch-menu mobile-nav-menu">
-      <a href="#top-liste">Casinos</a>
+      <a href="#top-list">Casinos</a>
       <a href="/de/compare/">Vergleich</a>
       <a href="/de/sports/">Sportwetten</a>
       <a href="#ratgeber">Ratgeber</a><a href="/de/bonus-rechner/">Bonusrechner</a><a href="/de/branche/">Branche</a>
@@ -502,7 +502,7 @@
   <div class="wrap">
     <h1>Online-Casinos vergleichen — mit geprüften Daten</h1>
     <p class="lead">Lizenz, Zahlungen, Spiele und Bonusbedingungen — verglichen nach einer transparenten Methodik.</p>
-    <div class="hero-cta"><a class="btn" href="#top-liste">Casinos entdecken</a><a class="btn btn-ghost" href="#how-we-rate">Wie wir bewerten →</a></div>
+    <div class="hero-cta"><a class="btn" href="#top-list">Casinos entdecken</a><a class="btn btn-ghost" href="#how-we-rate">Wie wir bewerten →</a></div>
     <div class="stats-row"><div class="stat"><b>05</b><span>Geprüfte Casinos</span></div>
       <div class="stat"><b>06</b><span>In Prüfung</span></div>
       <div class="stat"><b>05</b><span>Bewertungskriterien</span></div>
@@ -511,11 +511,11 @@
   </div>
 </section>
 
-<section id="top-liste">
+<section id="top-list">
   <div class="wrap">
     <div class="sec-head">
       <h2>Ausgewähltes Casino</h2>
-      <p>Wir zeigen den Anbieter, mit dem wir bereits zusammenarbeiten, während die redaktionelle Prüfung noch läuft — weiter unten siehst du, wie viele weitere Anbieter wir aktuell prüfen.</p>
+      <p>Wir zeigen den Anbieter, mit dem wir bereits zusammenarbeiten, während die redaktionelle Prüfung noch läuft — das wirkt sich nicht auf die Rangfolge aus, die nach Abschluss der Prüfung derselben Bewertungsmethodik folgt wie bei jedem anderen Anbieter. Weiter unten siehst du, wie viele weitere Anbieter wir aktuell prüfen.</p>
     </div>
 
     <!-- Karte -- 20Bet (echter Partner, Playamo-Partners-Affiliate-Link, pid 420710). Bonus -- wörtlich aus der Marken-Datei. -->
@@ -529,7 +529,7 @@
         <div class="verify-grid">
           <div class="verify-group">
             <div class="verify-group-title">Verifizierungsstatus</div>
-            <div class="verify-item"><span class="verify-item-label">Verifizierung</span><span class="verify-badge verify-green">✓ Geprüft</span></div>
+            <div class="verify-item"><span class="verify-item-label">Verifizierung</span><span class="verify-badge verify-green">✓ Lizenz geprüft</span></div>
             <div class="verify-item"><span class="verify-item-label">Bonus</span><span style="text-align:right;max-width:60%;color:var(--text);font-weight:600;">100% bis zu 120 &euro;/$ + 120 Freispiele (bis zu 500 CAD, 500 PLN, 200 NZD) + Bonusspiel</span></div>
           </div>
           <div class="verify-group">
@@ -553,7 +553,7 @@
         <div class="verify-grid">
           <div class="verify-group">
             <div class="verify-group-title">Verifizierungsstatus</div>
-            <div class="verify-item"><span class="verify-item-label">Verifizierung</span><span class="verify-badge verify-green">✓ Geprüft</span></div>
+            <div class="verify-item"><span class="verify-item-label">Verifizierung</span><span class="verify-badge verify-green">✓ Lizenz geprüft</span></div>
             <div class="verify-item"><span class="verify-item-label">Bonus</span><span style="text-align:right;max-width:60%;color:var(--text);font-weight:600;">Willkommenspaket: 2.500 € + 250 Freispiele über 3 Einzahlungen — 100% bis 1.000 € + 100 FS, 50% bis 1.000 € + 100 FS, 75% bis 500 € + 50 FS. Mindesteinzahlung 20 €, Umsatzbedingung 40x (Bonus & Freispiele).</span></div>
           </div>
           <div class="verify-group">
@@ -577,7 +577,7 @@
         <div class="verify-grid">
           <div class="verify-group">
             <div class="verify-group-title">Verifizierungsstatus</div>
-            <div class="verify-item"><span class="verify-item-label">Verifizierung</span><span class="verify-badge verify-green">✓ Geprüft</span></div>
+            <div class="verify-item"><span class="verify-item-label">Verifizierung</span><span class="verify-badge verify-green">✓ Lizenz geprüft</span></div>
             <div class="verify-item"><span class="verify-item-label">Bonus</span><span style="text-align:right;max-width:60%;color:var(--text);font-weight:600;">Willkommenspaket: 5.000 € + 350 Freispiele über 5 Einzahlungen — 100% bis 1.000 € + 100 FS, 75% bis 1.000 € + 50 FS, 75% bis 500 € + 50 FS, 50% bis 1.000 € + 100 FS, 100% bis 500 € + 50 FS.</span></div>
           </div>
           <div class="verify-group">
@@ -627,7 +627,7 @@
         <div class="verify-grid">
           <div class="verify-group">
             <div class="verify-group-title">Verifizierungsstatus</div>
-            <div class="verify-item"><span class="verify-item-label">Verifizierung</span><span class="verify-badge verify-green">✓ Geprüft</span></div>
+            <div class="verify-item"><span class="verify-item-label">Verifizierung</span><span class="verify-badge verify-green">✓ Lizenz geprüft</span></div>
             <div class="verify-item"><span class="verify-item-label">Bonus</span><span style="text-align:right;max-width:60%;color:var(--text);font-weight:600;">Willkommenspaket: 2.500 € + 250 Freispiele über 3 Einzahlungen — 100% bis 1.000 € + 100 FS, 50% bis 1.000 € + 100 FS, 75% bis 500 € + 50 FS. Mindesteinzahlung 20 €.</span></div>
           </div>
           <div class="verify-group">
@@ -651,7 +651,7 @@
         <div class="verify-grid">
           <div class="verify-group">
             <div class="verify-group-title">Verifizierungsstatus</div>
-            <div class="verify-item"><span class="verify-item-label">Verifizierung</span><span class="verify-badge verify-green">✓ Geprüft</span></div>
+            <div class="verify-item"><span class="verify-item-label">Verifizierung</span><span class="verify-badge verify-green">✓ Lizenz geprüft</span></div>
             <div class="verify-item"><span class="verify-item-label">Bonus</span><span style="text-align:right;max-width:60%;color:var(--text);font-weight:600;">Willkommenspaket: 5.000 € + 500 Freispiele über 5 Einzahlungen — 100% bis 1.000 € + 100 FS, 50% bis 1.000 € + 100 FS, 75% bis 1.000 € + 100 FS, 50% bis 1.000 € + 100 FS, 100% bis 1.000 € + 100 FS.</span></div>
           </div>
           <div class="verify-group">
@@ -695,7 +695,7 @@
       <p>Jede Angabe auf GoClarivo trägt eines dieser vier Status-Labels.</p>
     </div>
     <div class="verify-legend">
-      <div class="verify-legend-item"><span class="verify-badge verify-green">✓ Geprüft</span><p>Durch eine offizielle Quelle oder eine unabhängige Prüfung bestätigt.</p></div>
+      <div class="verify-legend-item"><span class="verify-badge verify-green">✓ Lizenz geprüft</span><p>Durch eine offizielle Quelle oder eine unabhängige Prüfung bestätigt.</p></div>
       <div class="verify-legend-item"><span class="verify-badge verify-blue">Anbieter-Angabe</span><p>Vom Anbieter bereitgestellt, noch nicht unabhängig bestätigt.</p></div>
       <div class="verify-legend-item"><span class="verify-badge verify-purple">Redaktionell</span><p>Eigene redaktionelle Einschätzung von GoClarivo.</p></div>
       <div class="verify-legend-item"><span class="verify-badge verify-gray">Noch nicht geprüft</span><p>Noch nicht bestätigt.</p></div>
@@ -846,7 +846,7 @@
       <div>
         <h4>Navigation</h4>
         <ul>
-          <li><a href="#top-liste">Casinos</a></li>
+          <li><a href="#top-list">Casinos</a></li>
           <li><a href="/de/compare/">Vergleich</a></li>
           <li><a href="#ratgeber">Ratgeber</a></li><li><a href="/de/bonus-rechner/">Bonusrechner</a></li><li><a href="/de/branche/">Branche</a></li>
           <li><a href="#faq">FAQ</a></li>
