@@ -1,2 +1,8 @@
-cl\index.html
+en\index.html
+en\sports\index.html
+en\sports\football\index.html
+en\sports\basketball\index.html
+en\sports\ice-hockey\index.html
+en\sports\tennis\index.html
+en\sports\volleyball\index.html
 assets\data\casinos.json
