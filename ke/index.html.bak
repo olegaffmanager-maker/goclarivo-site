@@ -506,6 +506,28 @@
     </div>
 
     <div class="casino-card">
+      <div class="logo-box" style="background:#0a3d7a;border:none;padding:0;overflow:hidden;"><svg viewBox="0 0 64 64" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="1xBet"><text x="32" y="39" text-anchor="middle" font-family="Sora, system-ui, sans-serif" font-weight="800" font-size="18" fill="#ffffff">1<tspan fill="#5bc8ff">x</tspan>Bet</text></svg></div>
+      <div class="casino-main">
+        <div class="top-row">
+          <span class="name">1xBet</span>
+        </div>
+        <div class="verify-grid">
+          <div class="verify-group">
+            <div class="verify-group-title">Verification Status</div>
+            <div class="verify-item"><span class="verify-item-label">Verification</span><span class="verify-badge verify-green">✓ License checked</span></div>
+          </div>
+          <div class="verify-group">
+            <div class="verify-group-title">Editorial Review</div>
+            <div class="verify-item"><span class="verify-item-label">Status</span><span class="verify-badge verify-amber">In progress</span></div>
+          </div>
+        </div>
+        <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Licence: not published by the operator</p>
+        <a class="verify-link" href="/ke/methodology/" style="display:inline-block;margin-top:8px;">How do we verify operators?</a>
+      </div>
+      <div class="casino-cta"><a class="btn" href="https://reffpa.com/L?tag=d_6171730m_97c_&site=6171730&ad=97&r=reg" rel="sponsored nofollow" target="_blank">Go to Casino</a></div>
+    </div>
+
+    <div class="casino-card">
       <div class="logo-box" style="background:#ffffff;border:none;padding:6px;overflow:hidden;"><svg viewBox="735 290 450 495" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="BetAndYou Africa">
 <style>.st0{{fill:#FCB918;}}.st1{{fill:#C41C58;}}</style>
 <g>
