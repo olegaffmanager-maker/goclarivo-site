@@ -1,6 +1,3 @@
-assets\js\quiz.js
-assets\data\casinos.json
-sitemap.xml
 ar\index.html
 bf\index.html
 bo\index.html
