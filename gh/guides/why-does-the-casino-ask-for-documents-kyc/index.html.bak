@@ -18,7 +18,7 @@
 <link rel="alternate" hreflang="en-KE" href="https://goclarivo.bet/ke/guides/why-does-the-casino-ask-for-documents-kyc/">
 <link rel="alternate" hreflang="en-ZM" href="https://goclarivo.bet/zm/guides/why-does-the-casino-ask-for-documents-kyc/">
 <link rel="alternate" hreflang="en-IN" href="https://goclarivo.bet/in/guides/why-does-the-casino-ask-for-documents-kyc/">
-<link rel="alternate" hreflang="x-default" href="https://goclarivo.bet/">
+<link rel="alternate" hreflang="x-default" href="https://goclarivo.bet/en/guides/why-does-the-casino-ask-for-documents-kyc/">
 
 <meta name="robots" content="index, follow, max-image-preview:large">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -430,7 +430,7 @@
   <div class="wrap nav-row">
     <a href="/gh/" class="brand"><svg class="brand-icon" viewBox="0 0 24 24" width="24" height="24" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GoClarivo"><path d="M12 2.2 L20.5 5.4 V11 C20.5 16.3 17 19.9 12 21.6 C7 19.9 3.5 16.3 3.5 11 V5.4 Z" fill="var(--gold)"/><path d="M7.8 11.9 L10.6 14.7 L16.3 8.6" fill="none" stroke="var(--bg)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Go<span>Clarivo</span></a>
     <nav class="main-nav">
-      <a href="/gh/#top-liste">Casinos</a>
+      <a href="/gh/#top-list">Casinos</a>
       <a href="/gh/compare/">Compare</a>
       <a href="/gh/sports/">Sports</a>
       <a href="/gh/#guides">Guides</a><a href="/gh/bonus-calculator/">Calculator</a><a href="/gh/industry/">Industry</a>
@@ -459,7 +459,7 @@
       </div>
                 </details>
       <details class="geo-switch mobile-nav"><summary class="mobile-nav-toggle" aria-label="Menu"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><line x1="4" y1="7" x2="20" y2="7"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="17" x2="20" y2="17"/></svg></summary><div class="geo-switch-menu mobile-nav-menu">
-      <a href="/gh/#top-liste">Casinos</a>
+      <a href="/gh/#top-list">Casinos</a>
       <a href="/gh/compare/">Compare</a>
       <a href="/gh/sports/">Sports</a>
       <a href="/gh/#guides">Guides</a><a href="/gh/bonus-calculator/">Calculator</a><a href="/gh/industry/">Industry</a>
@@ -541,7 +541,7 @@
       <div>
         <h4>Navigation</h4>
         <ul>
-          <li><a href="#top-liste">Casinos</a></li>
+          <li><a href="#top-list">Casinos</a></li>
           <li><a href="/gh/compare/">Compare</a></li>
           <li><a href="#guides">Guides</a></li><li><a href="/gh/bonus-calculator/">Calculator</a></li><li><a href="/gh/industry/">Industry</a></li>
           <li><a href="#faq">FAQ</a></li>

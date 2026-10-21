@@ -295,7 +295,7 @@
   .verify-badge.verify-gray{background:var(--surface-2);color:var(--text-dim);}
   .verify-link{font-size:12px;color:var(--text-dim);text-decoration:underline;}
   .verify-link:hover{color:var(--text);}
-  .verify-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:10px;}
+  .verify-grid{display:grid;grid-template-columns:1fr;gap:16px;margin-top:10px;}
   .verify-group-title{font-size:10px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--text-dim);margin-bottom:6px;}
   .verify-item{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:4px 0;font-size:12.5px;border-bottom:1px solid var(--border);}
   .verify-item:last-child{border-bottom:none;}
@@ -502,10 +502,6 @@
             <div class="verify-group-title">Stato di verifica</div>
             <div class="verify-item"><span class="verify-item-label">Verifica</span><span class="verify-badge verify-green">✓ Licenza verificata</span></div>
           </div>
-          <div class="verify-group">
-            <div class="verify-group-title">Revisione editoriale</div>
-            <div class="verify-item"><span class="verify-item-label">Stato</span><span class="verify-badge verify-amber">In corso</span></div>
-          </div>
         </div>
         <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Licenza: non pubblicata dall'operatore</p>
         <a class="verify-link" href="/it/methodology/" style="display:inline-block;margin-top:8px;">Come verifichiamo gli operatori?</a>
@@ -534,10 +530,6 @@
             <div class="verify-item"><span class="verify-item-label">Verifica</span><span class="verify-badge verify-green">✓ Licenza verificata</span></div>
             <div class="verify-item"><span class="verify-item-label">Bonus</span><span style="text-align:right;max-width:60%;color:var(--text);font-weight:600;">100% fino a 100 EUR (rollover 5x, deposito min. 1 EUR)</span></div>
           </div>
-          <div class="verify-group">
-            <div class="verify-group-title">Revisione editoriale</div>
-            <div class="verify-item"><span class="verify-item-label">Stato</span><span class="verify-badge verify-amber">In corso</span></div>
-          </div>
         </div>
         <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Licenza: Curaçao (numero di licenza non pubblicato dall'operatore)</p>
         <a class="verify-link" href="/it/methodology/" style="display:inline-block;margin-top:8px;">Come verifichiamo gli operatori?</a>
@@ -554,10 +546,6 @@
           <div class="verify-group">
             <div class="verify-group-title">Stato di verifica</div>
             <div class="verify-item"><span class="verify-item-label">Verifica</span><span class="verify-badge verify-green">✓ Licenza verificata</span></div>
-          </div>
-          <div class="verify-group">
-            <div class="verify-group-title">Revisione editoriale</div>
-            <div class="verify-item"><span class="verify-item-label">Stato</span><span class="verify-badge verify-amber">In corso</span></div>
           </div>
         </div>
         <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Licenza: non pubblicata dall'operatore</p>
@@ -596,10 +584,6 @@
             <div class="verify-item"><span class="verify-item-label">Verifica</span><span class="verify-badge verify-green">✓ Licenza verificata</span></div>
             <div class="verify-item"><span class="verify-item-label">Bonus</span><span style="text-align:right;max-width:60%;color:var(--text);font-weight:600;">100% fino a 122 EUR (rollover 5x, deposito min. 1 EUR)</span></div>
           </div>
-          <div class="verify-group">
-            <div class="verify-group-title">Revisione editoriale</div>
-            <div class="verify-item"><span class="verify-item-label">Stato</span><span class="verify-badge verify-amber">In corso</span></div>
-          </div>
         </div>
         <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Licenza: Curaçao (numero di licenza non pubblicato dall'operatore)</p>
         <a class="verify-link" href="/it/methodology/" style="display:inline-block;margin-top:8px;">Come verifichiamo gli operatori?</a>
@@ -621,10 +605,6 @@
             <div class="verify-group-title">Stato di verifica</div>
             <div class="verify-item"><span class="verify-item-label">Verifica</span><span class="verify-badge verify-green">✓ Licenza verificata</span></div>
             <div class="verify-item"><span class="verify-item-label">Bonus</span><span style="text-align:right;max-width:60%;color:var(--text);font-weight:600;">100% fino a 100 EUR sul primo deposito da 1 EUR</span></div>
-          </div>
-          <div class="verify-group">
-            <div class="verify-group-title">Revisione editoriale</div>
-            <div class="verify-item"><span class="verify-item-label">Stato</span><span class="verify-badge verify-amber">In corso</span></div>
           </div>
         </div>
         <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Licenza: Curaçao (numero di licenza non pubblicato dall'operatore)</p>

@@ -22,7 +22,7 @@
 <link rel="alternate" hreflang="en-IN" href="https://goclarivo.bet/in/methodology/">
 <link rel="alternate" hreflang="fr-BF" href="https://goclarivo.bet/bf/methodology/">
 <link rel="alternate" hreflang="pt-PT" href="https://goclarivo.bet/pt/methodology/">
-<link rel="alternate" hreflang="x-default" href="https://goclarivo.bet/">
+<link rel="alternate" hreflang="x-default" href="https://goclarivo.bet/en/methodology/">
 
 <meta name="robots" content="index, follow, max-image-preview:large">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -426,7 +426,7 @@
   <div class="wrap nav-row">
     <a href="/gh/" class="brand"><svg class="brand-icon" viewBox="0 0 24 24" width="24" height="24" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GoClarivo"><path d="M12 2.2 L20.5 5.4 V11 C20.5 16.3 17 19.9 12 21.6 C7 19.9 3.5 16.3 3.5 11 V5.4 Z" fill="var(--gold)"/><path d="M7.8 11.9 L10.6 14.7 L16.3 8.6" fill="none" stroke="var(--bg)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Go<span>Clarivo</span></a>
     <nav class="main-nav">
-      <a href="/gh/#top-liste">Casinos</a>
+      <a href="/gh/#top-list">Casinos</a>
       <a href="/gh/compare/">Compare</a>
       <a href="/gh/sports/">Sports</a>
       <a href="/gh/#guides">Guides</a>
@@ -455,7 +455,7 @@
       </div>
                 </details>
       <details class="geo-switch mobile-nav"><summary class="mobile-nav-toggle" aria-label="Menu"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><line x1="4" y1="7" x2="20" y2="7"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="17" x2="20" y2="17"/></svg></summary><div class="geo-switch-menu mobile-nav-menu">
-      <a href="/gh/#top-liste">Casinos</a>
+      <a href="/gh/#top-list">Casinos</a>
       <a href="/gh/compare/">Compare</a>
       <a href="/gh/sports/">Sports</a>
       <a href="/gh/#guides">Guides</a>
@@ -488,7 +488,7 @@
     <div class="prose"><p>GoClarivo compares online casinos using a fixed, published methodology — not gut feeling, and not payment for a better spot. This page explains exactly how we work.</p>
 <h2>The 5 rating criteria</h2>
 <p>Once an operator's review is complete, it's rated against these five weighted criteria:</p>
-<table><thead><tr><th>Criterion</th><th>Weight</th></tr></thead><tbody><tr><td><strong>License &amp; Safety</strong><br><span style="font-size:13px;">A valid license for the relevant market, player-protection measures, and identifiable company information.</span></td><td>30%</td></tr><tr><td><strong>Deposits &amp; Withdrawals</strong><br><span style="font-size:13px;">Available deposit/withdrawal methods, and the processing times and limits the operator states.</span></td><td>25%</td></tr><tr><td><strong>Game Selection</strong><br><span style="font-size:13px;">Breadth and quality of the game catalogue and the software providers behind it.</span></td><td>20%</td></tr><tr><td><strong>Mobile Experience</strong><br><span style="font-size:13px;">How usable the platform is on desktop and mobile.</span></td><td>15%</td></tr><tr><td><strong>Bonus Transparency</strong><br><span style="font-size:13px;">How clearly and completely promotional terms are communicated.</span></td><td>10%</td></tr></tbody></table>
+<table><thead><tr><th>Criterion</th><th>Weight</th></tr></thead><tbody><tr><td><strong>License &amp; Safety</strong><br><span style="font-size:13px;">A valid license for the relevant market, player-protection measures, and identifiable company information.</span></td><td>30%</td></tr><tr><td><strong>Deposits &amp; Withdrawals</strong><br><span style="font-size:13px;">Available deposit/withdrawal methods, and the processing times and limits the operator states.</span></td><td>25%</td></tr><tr><td><strong>Game Selection</strong><br><span style="font-size:13px;">Breadth and quality of the game catalogue and the software providers behind it.</span></td><td>20%</td></tr><tr><td><strong>Mobile Experience</strong><br><span style="font-size:13px;">How usable the platform is on desktop and mobile.</span></td><td>15%</td></tr><tr><td><strong>Bonus Terms</strong><br><span style="font-size:13px;">How clearly and completely promotional terms are communicated.</span></td><td>10%</td></tr></tbody></table>
 <h2>How the score is calculated</h2>
 <p>Each criterion gets a sub-score from 0 to 10. Sub-scores are multiplied by the weight above and added together to produce the GoClarivo Score, out of 10. <strong>As of 3 October 2026, no operator has been fully scored yet</strong> — scores appear on a casino's profile only once its review is complete, not before.</p>
 <h2>What we verify</h2>
@@ -521,7 +521,7 @@
       <div>
         <h4>Navigation</h4>
         <ul>
-          <li><a href="#top-liste">Casinos</a></li>
+          <li><a href="#top-list">Casinos</a></li>
           <li><a href="/gh/compare/">Compare</a></li>
           <li><a href="#guides">Guides</a></li>
           <li><a href="#faq">FAQ</a></li>
