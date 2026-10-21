@@ -271,7 +271,7 @@
   .verify-badge.verify-gray{background:var(--surface-2);color:var(--text-dim);}
   .verify-link{font-size:12px;color:var(--text-dim);text-decoration:underline;}
   .verify-link:hover{color:var(--text);}
-  .verify-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:10px;}
+  .verify-grid{display:grid;grid-template-columns:1fr;gap:16px;margin-top:10px;}
   .verify-group-title{font-size:10px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--text-dim);margin-bottom:6px;}
   .verify-item{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:4px 0;font-size:12.5px;border-bottom:1px solid var(--border);}
   .verify-item:last-child{border-bottom:none;}
@@ -533,10 +533,6 @@
             <div class="verify-item"><span class="verify-item-label">Verificación</span><span class="verify-badge verify-green">✓ Licencia verificada</span></div>
             <div class="verify-item"><span class="verify-item-label">Bono</span><span style="text-align:right;max-width:60%;color:var(--text);font-weight:600;">100%, hasta $40,000 MXN más 150 Giros Gratis por sus 4 primeros depósitos</span></div>
           </div>
-          <div class="verify-group">
-            <div class="verify-group-title">Revisión editorial</div>
-            <div class="verify-item"><span class="verify-item-label">Estado</span><span class="verify-badge verify-amber">En curso</span></div>
-          </div>
         </div>
         <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Licencia: no publicada por el operador</p>
         <a class="verify-link" href="/mx/methodology/" style="display:inline-block;margin-top:8px;">¿Cómo verificamos a los operadores?</a>
@@ -555,10 +551,6 @@
           <div class="verify-group">
             <div class="verify-group-title">Estado de verificación</div>
             <div class="verify-item"><span class="verify-item-label">Verificación</span><span class="verify-badge verify-green">✓ Licencia verificada</span></div>
-          </div>
-          <div class="verify-group">
-            <div class="verify-group-title">Revisión editorial</div>
-            <div class="verify-item"><span class="verify-item-label">Estado</span><span class="verify-badge verify-amber">En curso</span></div>
           </div>
         </div>
         <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Sin licencia local · Licencia: Curaçao Gaming Authority (CGA), n.º OGL/2024/580/0570 — Carletta N.V. (Curaçao), registro n.º 142346. <a href="https://cert.cga.cw/certificate?id=ZXlKcGRpSTZJblZKWkZsRWMydHFiVmh0YVd4UFNWRlFabWd5TUVFOVBTSXNJblpoYkhWbElqb2lLM1p5SzNZeldGTkhNMlp3YUVRNWFIcHdTMVpWUVQwOUlpd2liV0ZqSWpvaVl6STNZVEEzWm1GbFl6VXhabVU1TkRsak1EaGhZMk0xWkdNek1tVXdZall5WTJWbFpqQXpOR0UxWkdNd05XUmxOemhoWWpjMFltSXdOV0kyWmpVelpDSXNJblJoWnlJNklpSjk=" target="_blank" rel="noopener">Ver registro →</a></p>
@@ -581,10 +573,6 @@
             <div class="verify-item"><span class="verify-item-label">Verificación</span><span class="verify-badge verify-green">✓ Licencia verificada</span></div>
             <div class="verify-item"><span class="verify-item-label">Bono</span><span style="text-align:right;max-width:60%;color:var(--text);font-weight:600;">Bono de bienvenida: hasta $150,000 MXN + 600 giros gratis en tus primeros 5 depósitos (hasta $30,000 MXN + 247 giros gratis en tu primer depósito). Código: GOCLARIVO</span></div>
           </div>
-          <div class="verify-group">
-            <div class="verify-group-title">Revisión editorial</div>
-            <div class="verify-item"><span class="verify-item-label">Estado</span><span class="verify-badge verify-amber">En curso</span></div>
-          </div>
         </div>
         <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Licencia: no publicada por el operador</p>
         <a class="verify-link" href="/mx/methodology/" style="display:inline-block;margin-top:8px;">¿Cómo verificamos a los operadores?</a>
@@ -606,10 +594,6 @@
             <div class="verify-item"><span class="verify-item-label">Verificación</span><span class="verify-badge verify-green">✓ Licencia verificada</span></div>
             <div class="verify-item"><span class="verify-item-label">Bono</span><span style="text-align:right;max-width:60%;color:var(--text);font-weight:600;">Deportes: Mega Bono de Bienvenida, hasta $17,500 MXN en 4 depósitos (empieza con el doble de saldo). Casino + Fast Games: paquete de bienvenida hasta $21,000 MXN + 300 giros gratis.</span></div>
           </div>
-          <div class="verify-group">
-            <div class="verify-group-title">Revisión editorial</div>
-            <div class="verify-item"><span class="verify-item-label">Estado</span><span class="verify-badge verify-amber">En curso</span></div>
-          </div>
         </div>
         <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Sin licencia local · Licencia: Curaçao Gaming Control Board, n.º OGL/2024/561/0554 — Pelican Entertainment B.V. (Curaçao).</p>
         <a class="verify-link" href="/mx/methodology/" style="display:inline-block;margin-top:8px;">¿Cómo verificamos a los operadores?</a>
@@ -630,10 +614,6 @@
             <div class="verify-group-title">Estado de verificación</div>
             <div class="verify-item"><span class="verify-item-label">Verificación</span><span class="verify-badge verify-green">✓ Licencia verificada</span></div>
             <div class="verify-item"><span class="verify-item-label">Bono</span><span style="text-align:right;max-width:60%;color:var(--text);font-weight:600;">Bono de bienvenida del 150% + 50 giros gratis en tu primer depósito</span></div>
-          </div>
-          <div class="verify-group">
-            <div class="verify-group-title">Revisión editorial</div>
-            <div class="verify-item"><span class="verify-item-label">Estado</span><span class="verify-badge verify-amber">En curso</span></div>
           </div>
         </div>
         <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Sin licencia local · Licencia: Anjouan Gaming Authority, n.º ALSI-132405050-FI3 — ZOSMA LLC. <a href="https://verification.anjouangamingboard.org/validate?domain=1redbet.com&seal_id=133f72aab026a2f4d41473255531074b153497680255e7f12f6a030f485027798848da306196edaa08e85ff634eef479&stamp=3809cbcca981089a7a3f9ebfca8d203f" target="_blank" rel="noopener">Ver registro →</a></p>

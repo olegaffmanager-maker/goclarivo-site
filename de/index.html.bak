@@ -276,7 +276,7 @@
   .verify-badge.verify-gray{background:var(--surface-2);color:var(--text-dim);}
   .verify-link{font-size:12px;color:var(--text-dim);text-decoration:underline;}
   .verify-link:hover{color:var(--text);}
-  .verify-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:10px;}
+  .verify-grid{display:grid;grid-template-columns:1fr;gap:16px;margin-top:10px;}
   .verify-group-title{font-size:10px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--text-dim);margin-bottom:6px;}
   .verify-item{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:4px 0;font-size:12.5px;border-bottom:1px solid var(--border);}
   .verify-item:last-child{border-bottom:none;}
@@ -532,10 +532,6 @@
             <div class="verify-item"><span class="verify-item-label">Verifizierung</span><span class="verify-badge verify-green">✓ Lizenz geprüft</span></div>
             <div class="verify-item"><span class="verify-item-label">Bonus</span><span style="text-align:right;max-width:60%;color:var(--text);font-weight:600;">100% bis zu 120 &euro;/$ + 120 Freispiele (bis zu 500 CAD, 500 PLN, 200 NZD) + Bonusspiel</span></div>
           </div>
-          <div class="verify-group">
-            <div class="verify-group-title">Redaktionelle Prüfung</div>
-            <div class="verify-item"><span class="verify-item-label">Status</span><span class="verify-badge verify-amber">In Prüfung</span></div>
-          </div>
         </div>
         <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Lizenz: vom Anbieter nicht veröffentlicht</p>
         <a class="verify-link" href="/de/methodology/" style="display:inline-block;margin-top:8px;">Wie prüfen wir Anbieter?</a>
@@ -557,10 +553,6 @@
             <div class="verify-item"><span class="verify-item-label">Verifizierung</span><span class="verify-badge verify-green">✓ Lizenz geprüft</span></div>
             <div class="verify-item"><span class="verify-item-label">Bonus</span><span style="text-align:right;max-width:60%;color:var(--text);font-weight:600;">Willkommenspaket: 2.500 € + 250 Freispiele über 3 Einzahlungen — 100% bis 1.000 € + 100 FS, 50% bis 1.000 € + 100 FS, 75% bis 500 € + 50 FS. Mindesteinzahlung 20 €, Umsatzbedingung 40x (Bonus & Freispiele).</span></div>
           </div>
-          <div class="verify-group">
-            <div class="verify-group-title">Redaktionelle Prüfung</div>
-            <div class="verify-item"><span class="verify-item-label">Status</span><span class="verify-badge verify-amber">In Prüfung</span></div>
-          </div>
         </div>
         <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Lizenz: vom Anbieter nicht veröffentlicht</p>
         <a class="verify-link" href="/de/methodology/" style="display:inline-block;margin-top:8px;">Wie prüfen wir Anbieter?</a>
@@ -581,10 +573,6 @@
             <div class="verify-group-title">Verifizierungsstatus</div>
             <div class="verify-item"><span class="verify-item-label">Verifizierung</span><span class="verify-badge verify-green">✓ Lizenz geprüft</span></div>
             <div class="verify-item"><span class="verify-item-label">Bonus</span><span style="text-align:right;max-width:60%;color:var(--text);font-weight:600;">Willkommenspaket: 5.000 € + 350 Freispiele über 5 Einzahlungen — 100% bis 1.000 € + 100 FS, 75% bis 1.000 € + 50 FS, 75% bis 500 € + 50 FS, 50% bis 1.000 € + 100 FS, 100% bis 500 € + 50 FS.</span></div>
-          </div>
-          <div class="verify-group">
-            <div class="verify-group-title">Redaktionelle Prüfung</div>
-            <div class="verify-item"><span class="verify-item-label">Status</span><span class="verify-badge verify-amber">In Prüfung</span></div>
           </div>
         </div>
         <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Lizenz: vom Anbieter nicht veröffentlicht</p>
@@ -633,10 +621,6 @@
             <div class="verify-item"><span class="verify-item-label">Verifizierung</span><span class="verify-badge verify-green">✓ Lizenz geprüft</span></div>
             <div class="verify-item"><span class="verify-item-label">Bonus</span><span style="text-align:right;max-width:60%;color:var(--text);font-weight:600;">Willkommenspaket: 2.500 € + 250 Freispiele über 3 Einzahlungen — 100% bis 1.000 € + 100 FS, 50% bis 1.000 € + 100 FS, 75% bis 500 € + 50 FS. Mindesteinzahlung 20 €.</span></div>
           </div>
-          <div class="verify-group">
-            <div class="verify-group-title">Redaktionelle Prüfung</div>
-            <div class="verify-item"><span class="verify-item-label">Status</span><span class="verify-badge verify-amber">In Prüfung</span></div>
-          </div>
         </div>
         <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Lizenz: vom Anbieter nicht veröffentlicht</p>
         <a class="verify-link" href="/de/methodology/" style="display:inline-block;margin-top:8px;">Wie prüfen wir Anbieter?</a>
@@ -657,10 +641,6 @@
             <div class="verify-group-title">Verifizierungsstatus</div>
             <div class="verify-item"><span class="verify-item-label">Verifizierung</span><span class="verify-badge verify-green">✓ Lizenz geprüft</span></div>
             <div class="verify-item"><span class="verify-item-label">Bonus</span><span style="text-align:right;max-width:60%;color:var(--text);font-weight:600;">Willkommenspaket: 5.000 € + 500 Freispiele über 5 Einzahlungen — 100% bis 1.000 € + 100 FS, 50% bis 1.000 € + 100 FS, 75% bis 1.000 € + 100 FS, 50% bis 1.000 € + 100 FS, 100% bis 1.000 € + 100 FS.</span></div>
-          </div>
-          <div class="verify-group">
-            <div class="verify-group-title">Redaktionelle Prüfung</div>
-            <div class="verify-item"><span class="verify-item-label">Status</span><span class="verify-badge verify-amber">In Prüfung</span></div>
           </div>
         </div>
         <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Lizenz: vom Anbieter nicht veröffentlicht</p>
@@ -685,10 +665,6 @@
             <div class="verify-item"><span class="verify-item-label">Verifizierung</span><span class="verify-badge verify-green">✓ Lizenz geprüft</span></div>
             <div class="verify-item"><span class="verify-item-label">Bonus</span><span style="text-align:right;max-width:60%;color:var(--text);font-weight:600;">100% bis zu 300 EUR + 30 Freispiele</span></div>
           </div>
-          <div class="verify-group">
-            <div class="verify-group-title">Redaktionelle Prüfung</div>
-            <div class="verify-item"><span class="verify-item-label">Status</span><span class="verify-badge verify-amber">In Prüfung</span></div>
-          </div>
         </div>
         <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Lizenz: Curaçao (Lizenznummer vom Anbieter nicht veröffentlicht)</p>
         <a class="verify-link" href="/de/methodology/" style="display:inline-block;margin-top:8px;">Wie prüfen wir Anbieter?</a>
@@ -705,10 +681,6 @@
           <div class="verify-group">
             <div class="verify-group-title">Verifizierungsstatus</div>
             <div class="verify-item"><span class="verify-item-label">Verifizierung</span><span class="verify-badge verify-green">✓ Lizenz geprüft</span></div>
-          </div>
-          <div class="verify-group">
-            <div class="verify-group-title">Redaktionelle Prüfung</div>
-            <div class="verify-item"><span class="verify-item-label">Status</span><span class="verify-badge verify-amber">In Prüfung</span></div>
           </div>
         </div>
         <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Lizenz: vom Anbieter nicht veröffentlicht</p>
@@ -737,10 +709,6 @@
             <div class="verify-group-title">Verifizierungsstatus</div>
             <div class="verify-item"><span class="verify-item-label">Verifizierung</span><span class="verify-badge verify-green">✓ Lizenz geprüft</span></div>
             <div class="verify-item"><span class="verify-item-label">Bonus</span><span style="text-align:right;max-width:60%;color:var(--text);font-weight:600;">100% bis zu 300 EUR + 30 Freispiele</span></div>
-          </div>
-          <div class="verify-group">
-            <div class="verify-group-title">Redaktionelle Prüfung</div>
-            <div class="verify-item"><span class="verify-item-label">Status</span><span class="verify-badge verify-amber">In Prüfung</span></div>
           </div>
         </div>
         <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Lizenz: Curaçao (Lizenznummer vom Anbieter nicht veröffentlicht)</p>

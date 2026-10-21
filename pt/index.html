@@ -340,6 +340,37 @@
   .footer-contact a:hover{color:var(--text);}
   .legal-note{border-top:1px solid var(--border);padding-top:20px;margin-top:20px;font-size:12px;line-height:1.6;}
   @media (max-width:800px){ .footer-grid{grid-template-columns:1fr 1fr;} }
+
+  /* ---------- casino picker quiz ---------- */
+  .quiz-section{padding:8px 0 56px;}
+  .quiz-card{
+    background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+    padding:28px 26px;max-width:720px;margin:0 auto;min-height:260px;
+  }
+  .quiz-progress{height:6px;border-radius:4px;background:var(--surface-2);border:1px solid var(--border);overflow:hidden;margin-bottom:20px;}
+  .quiz-progress-bar{display:block;height:100%;width:33%;background:linear-gradient(90deg,var(--gold),#7ef0d4);border-radius:4px;transition:width .3s ease;}
+  .quiz-kicker{font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--text-dim);margin:0 0 8px;}
+  .quiz-step h2{font-size:21px;margin:0 0 18px;}
+  .quiz-step h2:focus{outline:none;}
+  .quiz-options{display:flex;flex-direction:column;gap:10px;}
+  .quiz-opt{
+    display:block;width:100%;text-align:left;background:var(--surface-2);border:1px solid var(--border);
+    color:var(--text);font-family:inherit;font-weight:600;font-size:14.5px;padding:14px 16px;border-radius:10px;cursor:pointer;
+  }
+  .quiz-opt:hover{border-color:var(--gold);color:var(--gold);}
+  .quiz-opt:focus-visible{outline:2px solid var(--gold);outline-offset:1px;}
+  .quiz-back{margin-top:16px;background:transparent;border:none;color:var(--text-dim);font-family:inherit;font-size:13px;font-weight:600;cursor:pointer;padding:4px 0;}
+  .quiz-back:hover{color:var(--secondary);}
+  .quiz-result-card{margin-bottom:14px;}
+  .quiz-reason{margin:2px 0 0;font-size:13px;color:var(--text-dim);}
+  .quiz-disclosure{font-size:12px;color:var(--text-dim);margin:14px 0 0;}
+  .quiz-disclosure a{color:var(--secondary);text-decoration:none;}
+  .quiz-disclosure a:hover{text-decoration:underline;}
+  .quiz-result-actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:18px;align-items:center;}
+  .quiz-result-actions .quiz-retake{background:transparent;border:1px solid var(--border);color:var(--text);border-radius:10px;padding:11px 20px;font-family:inherit;font-weight:700;font-size:14px;cursor:pointer;}
+  .quiz-result-actions .quiz-retake:hover{border-color:var(--secondary);color:var(--secondary);}
+  @media (prefers-reduced-motion:reduce){ .quiz-progress-bar{transition:none;} }
+  @media (max-width:640px){ .quiz-card{padding:22px 18px;} }
 </style>
 <script type="application/ld+json">
 {
@@ -490,11 +521,58 @@
   <div class="wrap">
     <h1>Compare casinos online com dados verificados</h1>
     <p class="lead">Licença, pagamentos, jogos e condições de bónus — comparados com uma metodologia transparente.</p>
-    <div class="hero-cta"><a class="btn" href="#top-list">Explorar Casinos</a><a class="btn btn-ghost" href="#how-we-rate">Como Avaliamos →</a></div>
+    <div class="hero-cta"><a class="btn" href="#top-list">Explorar Casinos</a><a class="btn btn-ghost" href="#quiz">Encontrar O Meu Casino</a><a class="btn btn-ghost" href="#how-we-rate">Como Avaliamos →</a></div>
     <div class="stats-row"><div class="stat"><b>01</b><span>Casino verificado</span></div>
       <div class="stat"><b>10</b><span>Em verificação</span></div>
       <div class="stat"><b>05</b><span>Critérios de avaliação</span></div>
-      <div class="stat"><b>15 de outubro de 2026</b><span>Última verificação</span></div>
+      <div class="stat"><b>21 de outubro de 2026</b><span>Última verificação</span></div>
+    </div>
+  </div>
+</section>
+
+<section id="quiz" class="quiz-section" aria-labelledby="quiz-section-heading">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2 id="quiz-section-heading">Não sabe por onde começar?</h2>
+      <p>Responda a três perguntas rápidas e indicamos-lhe, entre os operadores acima, os que melhor combinam consigo, usando os mesmos dados de comparação do resto desta página.</p>
+    </div>
+    <div class="quiz-card" id="quiz-card">
+      <div class="quiz-progress" aria-hidden="true"><span class="quiz-progress-bar" style="width:33%"></span></div>
+
+      <div class="quiz-step" data-step="1">
+        <p class="quiz-kicker">Pergunta 1 de 3</p>
+        <h2>O que é mais importante para si agora?</h2>
+        <div class="quiz-options" role="group">
+          <button type="button" class="quiz-opt" data-q="priority" data-v="bonus">O maior bónus de boas-vindas</button>
+          <button type="button" class="quiz-opt" data-q="priority" data-v="payout">Pagamentos rápidos e fiáveis</button>
+          <button type="button" class="quiz-opt" data-q="priority" data-v="games">Uma grande seleção de jogos</button>
+        </div>
+      </div>
+
+      <div class="quiz-step" data-step="2" hidden>
+        <p class="quiz-kicker">Pergunta 2 de 3</p>
+        <h2>Em que dispositivo vai jogar principalmente?</h2>
+        <div class="quiz-options" role="group">
+          <button type="button" class="quiz-opt" data-q="device" data-v="mobile">Telemóvel</button>
+          <button type="button" class="quiz-opt" data-q="device" data-v="desktop">Computador</button>
+          <button type="button" class="quiz-opt" data-q="device" data-v="both">Ambos</button>
+        </div>
+        <button type="button" class="quiz-back" data-back="1">Voltar</button>
+      </div>
+
+      <div class="quiz-step" data-step="3" hidden>
+        <p class="quiz-kicker">Pergunta 3 de 3</p>
+        <h2>Como se descreveria?</h2>
+        <div class="quiz-options" role="group">
+          <button type="button" class="quiz-opt" data-q="experience" data-v="beginner">Novo nos casinos online</button>
+          <button type="button" class="quiz-opt" data-q="experience" data-v="pro">Jogador experiente</button>
+        </div>
+        <button type="button" class="quiz-back" data-back="2">Voltar</button>
+      </div>
+
+      <div class="quiz-step quiz-step-results" data-step="result" hidden aria-live="polite">
+        <div id="quiz-results"></div>
+      </div>
     </div>
   </div>
 </section>
@@ -857,5 +935,6 @@
   </div>
 </footer>
 
+<script defer src="/assets/js/quiz.js" data-geo="pt" data-locale="pt-PT" data-currency="EUR"></script>
 </body>
 </html>
