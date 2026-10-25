@@ -632,29 +632,5 @@
     "logo_html": "<img src=\"/assets/img/royalxo-logo.webp\" alt=\"RoyalXO\" style=\"width:100%;height:100%;object-fit:contain;display:block;\">",
     "logo_box_style": "background:#ffffff;border:none;padding:8px;overflow:hidden;",
     "verified": true
-  },
-  {
-    "id": "safecasino",
-    "name": "Safecasino",
-    "countries": [
-      "es",
-      "it"
-    ],
-    "scores": {
-      "bonus": 3,
-      "payout": 3,
-      "games": 3,
-      "mobile": 3,
-      "beginner": 3
-    },
-    "_scores_note": "bonus score reflects the confirmed bonus terms below; payout/games/mobile/beginner are neutral placeholders -- GoClarivo has no confirmed data to rate these yet, adjust from your own judgment before relying on them.",
-    "bonus": {},
-    "link": {
-      "es": "https://che.fluxbrox.com/redirect.aspx?pid=199767&lpid=1687&bid=1719",
-      "it": "https://che.fluxbrox.com/redirect.aspx?pid=199767&lpid=1687&bid=1719"
-    },
-    "logo_html": "<img src=\"/assets/img/safecasino-logo.webp\" alt=\"Safecasino\" style=\"width:100%;height:100%;object-fit:contain;display:block;\">",
-    "logo_box_style": "background:#ffffff;border:none;padding:8px;overflow:hidden;",
-    "verified": true
   }
 ]
