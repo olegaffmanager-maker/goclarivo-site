@@ -73,7 +73,18 @@ jobs:
           # index.html, not just es/sports/index.html -- so both path
           # depths need their own pathspec here, or the deeper ones
           # never get staged/committed and silently go stale forever.
-          git add -- '*/sports/index.html' '*/sports/*/index.html'
+          #
+          # BUG FIX (2026-10-26): the Champions League / La Liga (and now
+          # Europa League) guide pages live under */guides/<slug>/index.html,
+          # a path this pathspec never matched. The script WAS writing real
+          # fetched data into those files on every run, but this step never
+          # staged them, so git commit silently dropped those changes every
+          # single time -- the ephemeral runner then discarded the unstaged
+          # writes when the job ended, leaving those three pages stuck on
+          # their original "sync pending" placeholder forever while the
+          # */sports/ pages kept updating normally. Adding the guides
+          # pathspec here is the actual fix.
+          git add -- '*/sports/index.html' '*/sports/*/index.html' '*/guides/*/index.html'
           git commit -m "chore: refresh 1xBet upcoming-matches odds widget"
 
           # A manual run and the 30-minute schedule (or a human pushing other

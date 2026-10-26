@@ -459,6 +459,40 @@ SPORTS = [
             "en": "en/guides/la-liga-betting/index.html",
         },
     },
+    # Added 2026-10-26, owner request ("добавь лигу европы если она тоже
+    # там есть"). Same approach as champions_league/la_liga immediately
+    # above: sportId=1 (Football) with a tournament_keyword_filter, since
+    # the API has no dedicated competition id for a single tournament.
+    # "europa league" / "uefa europa league" / "liga europa" are the
+    # reasonable name variants for the UEFA Europa League, same conservative
+    # substring-match heuristic as every other tournament_keyword_filter
+    # here -- NOT yet confirmed against a live API response (this sandbox's
+    # network policy blocks the 1xBet API domain outright, same limitation
+    # noted when champions_league/la_liga were first added), so the first
+    # real scheduled run is what actually confirms whether the API lists
+    # this tournament under these names. If a real run's widget stays on
+    # "no upcoming matches" for this entry specifically (while
+    # champions_league/la_liga populate normally), check a --debug-dir dump
+    # of this tournament list for the API's actual spelling and add it to
+    # tournament_keyword_filter below -- don't assume the competition is
+    # unavailable from an empty widget alone.
+    {
+        "key": "europa_league", "sport_id": FOOTBALL_SPORT_ID,
+        "virtual_keywords": VIRTUAL_TOURNAMENT_KEYWORDS,
+        "tournament_keyword_filter": ("europa league", "uefa europa league", "liga europa"),
+        "icon": "⚽",
+        "upcoming": dict(limit=4, max_tournaments=500, max_candidate_events=10, request_delay=1.0),
+        "live": dict(limit=3, max_tournaments=500, max_candidate_events=8, request_delay=1.0),
+        "results": dict(limit=2, max_tournaments=500, request_delay=0.8),
+        "geo_page_overrides": {
+            "es": "es/guides/apuestas-europa-league/index.html",
+            "ar": "ar/guides/apuestas-europa-league/index.html",
+            "bo": "bo/guides/apuestas-europa-league/index.html",
+            "mx": "mx/guides/apuestas-europa-league/index.html",
+            "pe": "pe/guides/apuestas-europa-league/index.html",
+            "en": "en/guides/europa-league-betting/index.html",
+        },
+    },
 ]
 
 
