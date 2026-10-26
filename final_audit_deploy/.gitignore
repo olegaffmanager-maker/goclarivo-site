@@ -1,0 +1,13 @@
+# Local deploy-package staging and scratch files.
+# These are tools used once on this machine to apply a change,
+# never content that belongs in the live site repository.
+*_deploy/
+*_fix/
+/sports_pages/
+*.bak
+*.bat
+files_list.txt
+dirs_list.txt
+bat_list.txt
+bak_list.txt
+.wrangler/
