@@ -221,7 +221,7 @@
   .hero{padding:64px 0 40px;}
   .hero h1{font-size:38px;line-height:1.15;max-width:720px;margin:0 0 16px;}
   .hero p.lead{color:var(--text-dim);font-size:17px;max-width:600px;margin:0 0 28px;}
-  .stats-row{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-top:36px;}
+  .stats-row{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin-top:36px;}
   .stat{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:18px;text-align:center;}
   .stat b{display:block;font-family:'Sora',sans-serif;font-size:28px;letter-spacing:.01em;color:var(--gold);}
   .stat span{font-size:12px;color:var(--text-dim);}
@@ -544,9 +544,7 @@
       <div style="display:inline-flex;align-items:center;gap:6px;background:var(--green-soft);color:var(--green);border-radius:8px;padding:7px 12px;font-size:12.5px;font-weight:600;">✓ Rechecked periodically</div>
     </div>
 
-    <div class="stats-row"><div class="stat"><b>05</b><span>Verified casinos</span></div>
-      <div class="stat"><b>05</b><span>In review</span></div>
-      <div class="stat"><b>05</b><span>Rating criteria</span></div>
+    <div class="stats-row">      <div class="stat"><b>05</b><span>Rating criteria</span></div>
       <div class="stat"><b>21 October 2026</b><span>Last verified</span></div>
     </div>
 
@@ -637,14 +635,7 @@
         <div class="top-row">
           <span class="name">1xBet</span>
         </div>
-        <div class="verify-grid">
-          <div class="verify-group">
-            <div class="verify-group-title">Verification Status</div>
-            <div class="verify-item"><span class="verify-item-label">Verification</span><span class="verify-badge verify-green">✓ License checked</span></div>
-          </div>
-        </div>
-        <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Licence: not published by the operator</p>
-        <a class="verify-link" href="/en/methodology/" style="display:inline-block;margin-top:8px;">How do we verify operators?</a>
+<a class="verify-link" href="/en/methodology/" style="display:inline-block;margin-top:8px;">How do we verify operators?</a>
       </div>
       <div class="casino-cta"><a class="btn" href="https://reffpa.com/L?tag=d_6171730m_97c_&site=6171730&ad=97&r=reg" rel="sponsored nofollow" target="_blank">Go to Casino</a></div>
     </div>
@@ -656,14 +647,7 @@
         <div class="top-row">
           <span class="name">Mostbet</span>
         </div>
-        <div class="verify-grid">
-          <div class="verify-group">
-            <div class="verify-group-title">Verification Status</div>
-            <div class="verify-item"><span class="verify-item-label">Verification</span><span class="verify-badge verify-green">✓ License checked</span></div>
-          </div>
-        </div>
-        <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Licence: not published by the operator</p>
-        <a class="verify-link" href="/en/methodology/" style="display:inline-block;margin-top:8px;">How do we verify operators?</a>
+<a class="verify-link" href="/en/methodology/" style="display:inline-block;margin-top:8px;">How do we verify operators?</a>
       </div>
       <div class="casino-cta"><a class="btn" href="https://oikimjmb.com/mqtU" rel="sponsored nofollow" target="_blank">Go to Casino</a></div>
     </div>
@@ -693,14 +677,7 @@
         <div class="top-row">
           <span class="name">22bet</span>
         </div>
-        <div class="verify-grid">
-          <div class="verify-group">
-            <div class="verify-group-title">Verification Status</div>
-            <div class="verify-item"><span class="verify-item-label">Verification</span><span class="verify-badge verify-green">✓ License checked</span></div>
-          </div>
-        </div>
-        <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Licence: Curaçao (licence number not published by the operator)</p>
-        <a class="verify-link" href="/en/methodology/" style="display:inline-block;margin-top:8px;">How do we verify operators?</a>
+<a class="verify-link" href="/en/methodology/" style="display:inline-block;margin-top:8px;">How do we verify operators?</a>
       </div>
       <div class="casino-cta"><a class="btn" href="https://che.fluxbrox.com/redirect.aspx?pid=199767&lpid=223&bid=1484" rel="sponsored nofollow" target="_blank">Go to Casino</a></div>
     </div>
@@ -721,14 +698,7 @@
         <div class="top-row">
           <span class="name">Betlabel</span>
         </div>
-        <div class="verify-grid">
-          <div class="verify-group">
-            <div class="verify-group-title">Verification Status</div>
-            <div class="verify-item"><span class="verify-item-label">Verification</span><span class="verify-badge verify-green">✓ License checked</span></div>
-          </div>
-        </div>
-        <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Licence: Curaçao (licence number not published by the operator)</p>
-        <a class="verify-link" href="/en/methodology/" style="display:inline-block;margin-top:8px;">How do we verify operators?</a>
+<a class="verify-link" href="/en/methodology/" style="display:inline-block;margin-top:8px;">How do we verify operators?</a>
       </div>
       <div class="casino-cta"><a class="btn" href="https://che.fluxbrox.com/redirect.aspx?pid=199767&lpid=1574&bid=1650" rel="sponsored nofollow" target="_blank">Go to Casino</a></div>
     </div>
@@ -743,14 +713,7 @@
         <div class="top-row">
           <span class="name">Planbet</span>
         </div>
-        <div class="verify-grid">
-          <div class="verify-group">
-            <div class="verify-group-title">Verification Status</div>
-            <div class="verify-item"><span class="verify-item-label">Verification</span><span class="verify-badge verify-green">✓ License checked</span></div>
-          </div>
-        </div>
-        <p style="font-size:12px;color:var(--text-dim);margin-top:8px;">Licence: Curaçao (licence number not published by the operator)</p>
-        <a class="verify-link" href="/en/methodology/" style="display:inline-block;margin-top:8px;">How do we verify operators?</a>
+<a class="verify-link" href="/en/methodology/" style="display:inline-block;margin-top:8px;">How do we verify operators?</a>
       </div>
       <div class="casino-cta"><a class="btn" href="https://che.fluxbrox.com/redirect.aspx?pid=199767&lpid=1826&bid=1753" rel="sponsored nofollow" target="_blank">Go to Casino</a></div>
     </div>
