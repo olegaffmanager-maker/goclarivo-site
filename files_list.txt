@@ -1,7 +1,1 @@
-bo\sports\index.html
-en\guides\what-is-wagering-explained-simply\index.html
-gh\guides\what-is-wagering-explained-simply\index.html
-ke\guides\what-is-wagering-explained-simply\index.html
-zm\guides\what-is-wagering-explained-simply\index.html
-in\guides\what-is-wagering-explained-simply\index.html
-sitemap.xml
+.gitignore
