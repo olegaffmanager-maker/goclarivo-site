@@ -175,7 +175,7 @@ IMAGE_BASE = "https://nimblecd.com/sfiles"
 # each mapped to the language its /sports/ page is written in and the API
 # "lng" code to request localized tournament/market text in.
 GEO_LANG = {
-    "es": "es", "mx": "es", "ar": "es", "pe": "es", "bo": "es", "py": "es",
+    "es": "es", "mx": "es", "ar": "es", "pe": "es", "bo": "es",
     "en": "en",
 }
 
@@ -356,7 +356,6 @@ SPORTS = [
             "bo": "bo/sports/futbol/index.html",
             "mx": "mx/sports/futbol/index.html",
             "pe": "pe/sports/futbol/index.html",
-            "py": "py/sports/futbol/index.html",
             "en": "en/sports/football/index.html",
         },
     },
@@ -370,7 +369,6 @@ SPORTS = [
             "bo": "bo/sports/baloncesto/index.html",
             "mx": "mx/sports/baloncesto/index.html",
             "pe": "pe/sports/baloncesto/index.html",
-            "py": "py/sports/baloncesto/index.html",
             "en": "en/sports/basketball/index.html",
         },
     },
@@ -384,7 +382,6 @@ SPORTS = [
             "bo": "bo/sports/tenis/index.html",
             "mx": "mx/sports/tenis/index.html",
             "pe": "pe/sports/tenis/index.html",
-            "py": "py/sports/tenis/index.html",
             "en": "en/sports/tennis/index.html",
         },
     },
@@ -398,7 +395,6 @@ SPORTS = [
             "bo": "bo/sports/hockey-sobre-hielo/index.html",
             "mx": "mx/sports/hockey-sobre-hielo/index.html",
             "pe": "pe/sports/hockey-sobre-hielo/index.html",
-            "py": "py/sports/hockey-sobre-hielo/index.html",
             "en": "en/sports/ice-hockey/index.html",
         },
     },
@@ -412,7 +408,6 @@ SPORTS = [
             "bo": "bo/sports/voleibol/index.html",
             "mx": "mx/sports/voleibol/index.html",
             "pe": "pe/sports/voleibol/index.html",
-            "py": "py/sports/voleibol/index.html",
             "en": "en/sports/volleyball/index.html",
         },
     },
@@ -444,7 +439,6 @@ SPORTS = [
             "bo": "bo/guides/apuestas-champions-league/index.html",
             "mx": "mx/guides/apuestas-champions-league/index.html",
             "pe": "pe/guides/apuestas-champions-league/index.html",
-            "py": "py/guides/apuestas-champions-league/index.html",
             "en": "en/guides/champions-league-betting/index.html",
         },
     },
@@ -462,7 +456,6 @@ SPORTS = [
             "bo": "bo/guides/apuestas-la-liga/index.html",
             "mx": "mx/guides/apuestas-la-liga/index.html",
             "pe": "pe/guides/apuestas-la-liga/index.html",
-            "py": "py/guides/apuestas-la-liga/index.html",
             "en": "en/guides/la-liga-betting/index.html",
         },
     },
