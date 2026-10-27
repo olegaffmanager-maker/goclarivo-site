@@ -352,10 +352,10 @@
     padding:28px 26px;max-width:720px;margin:0 auto;min-height:260px;
   }
   .quiz-progress{height:6px;border-radius:4px;background:var(--surface-2);border:1px solid var(--border);overflow:hidden;margin-bottom:20px;}
-  .quiz-progress-bar{display:block;height:100%;width:33%;background:linear-gradient(90deg,var(--gold),#7ef0d4);border-radius:4px;transition:width .3s ease;}
+  .quiz-progress-bar{display:block;height:100%;width:0%;background:linear-gradient(90deg,var(--gold),#7ef0d4);border-radius:4px;transition:width .3s ease;}
   .quiz-kicker{font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--text-dim);margin:0 0 8px;}
-  .quiz-step h2{font-size:21px;margin:0 0 18px;}
-  .quiz-step h2:focus{outline:none;}
+  .quiz-step h3{font-size:21px;margin:0 0 18px;}
+  .quiz-step h3:focus{outline:none;}
   .quiz-options{display:flex;flex-direction:column;gap:10px;}
   .quiz-opt{
     display:block;width:100%;text-align:left;background:var(--surface-2);border:1px solid var(--border);
@@ -539,11 +539,11 @@
       <p>Answer three quick questions and we'll point you to the operators above that match, using the same comparison data as the rest of this page.</p>
     </div>
     <div class="quiz-card" id="quiz-card">
-      <div class="quiz-progress" aria-hidden="true"><span class="quiz-progress-bar" style="width:33%"></span></div>
+      <div class="quiz-progress" aria-hidden="true"><span class="quiz-progress-bar" style="width:0%"></span></div>
 
       <div class="quiz-step" data-step="1">
         <p class="quiz-kicker">Question 1 of 3</p>
-        <h2>What matters most to you right now?</h2>
+        <h3>What matters most to you right now?</h3>
         <div class="quiz-options" role="group">
           <button type="button" class="quiz-opt" data-q="priority" data-v="bonus">The biggest welcome bonus</button>
           <button type="button" class="quiz-opt" data-q="priority" data-v="payout">Fast, reliable payouts</button>
@@ -553,7 +553,7 @@
 
       <div class="quiz-step" data-step="2" hidden>
         <p class="quiz-kicker">Question 2 of 3</p>
-        <h2>Which device will you mostly play on?</h2>
+        <h3>Which device will you mostly play on?</h3>
         <div class="quiz-options" role="group">
           <button type="button" class="quiz-opt" data-q="device" data-v="mobile">Mobile</button>
           <button type="button" class="quiz-opt" data-q="device" data-v="desktop">Desktop</button>
@@ -564,7 +564,7 @@
 
       <div class="quiz-step" data-step="3" hidden>
         <p class="quiz-kicker">Question 3 of 3</p>
-        <h2>How would you describe yourself?</h2>
+        <h3>How would you describe yourself?</h3>
         <div class="quiz-options" role="group">
           <button type="button" class="quiz-opt" data-q="experience" data-v="beginner">New to online casinos</button>
           <button type="button" class="quiz-opt" data-q="experience" data-v="pro">Experienced player</button>

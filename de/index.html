@@ -360,10 +360,10 @@
     padding:28px 26px;max-width:720px;margin:0 auto;min-height:260px;
   }
   .quiz-progress{height:6px;border-radius:4px;background:var(--surface-2);border:1px solid var(--border);overflow:hidden;margin-bottom:20px;}
-  .quiz-progress-bar{display:block;height:100%;width:33%;background:linear-gradient(90deg,var(--gold),#7ef0d4);border-radius:4px;transition:width .3s ease;}
+  .quiz-progress-bar{display:block;height:100%;width:0%;background:linear-gradient(90deg,var(--gold),#7ef0d4);border-radius:4px;transition:width .3s ease;}
   .quiz-kicker{font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--text-dim);margin:0 0 8px;}
-  .quiz-step h2{font-size:21px;margin:0 0 18px;}
-  .quiz-step h2:focus{outline:none;}
+  .quiz-step h3{font-size:21px;margin:0 0 18px;}
+  .quiz-step h3:focus{outline:none;}
   .quiz-options{display:flex;flex-direction:column;gap:10px;}
   .quiz-opt{
     display:block;width:100%;text-align:left;background:var(--surface-2);border:1px solid var(--border);
@@ -547,11 +547,11 @@
       <p>Beantworte drei kurze Fragen und wir zeigen dir, welcher der oben genannten Anbieter am besten zu dir passt -- basierend auf denselben Vergleichsdaten wie der Rest dieser Seite.</p>
     </div>
     <div class="quiz-card" id="quiz-card">
-      <div class="quiz-progress" aria-hidden="true"><span class="quiz-progress-bar" style="width:33%"></span></div>
+      <div class="quiz-progress" aria-hidden="true"><span class="quiz-progress-bar" style="width:0%"></span></div>
 
       <div class="quiz-step" data-step="1">
         <p class="quiz-kicker">Frage 1 von 3</p>
-        <h2>Was ist dir gerade am wichtigsten?</h2>
+        <h3>Was ist dir gerade am wichtigsten?</h3>
         <div class="quiz-options" role="group">
           <button type="button" class="quiz-opt" data-q="priority" data-v="bonus">Der größte Willkommensbonus</button>
           <button type="button" class="quiz-opt" data-q="priority" data-v="payout">Schnelle, zuverlässige Auszahlungen</button>
@@ -561,7 +561,7 @@
 
       <div class="quiz-step" data-step="2" hidden>
         <p class="quiz-kicker">Frage 2 von 3</p>
-        <h2>Auf welchem Gerät spielst du hauptsächlich?</h2>
+        <h3>Auf welchem Gerät spielst du hauptsächlich?</h3>
         <div class="quiz-options" role="group">
           <button type="button" class="quiz-opt" data-q="device" data-v="mobile">Mobil</button>
           <button type="button" class="quiz-opt" data-q="device" data-v="desktop">Desktop</button>
@@ -572,7 +572,7 @@
 
       <div class="quiz-step" data-step="3" hidden>
         <p class="quiz-kicker">Frage 3 von 3</p>
-        <h2>Wie würdest du dich beschreiben?</h2>
+        <h3>Wie würdest du dich beschreiben?</h3>
         <div class="quiz-options" role="group">
           <button type="button" class="quiz-opt" data-q="experience" data-v="beginner">Neu bei Online-Casinos</button>
           <button type="button" class="quiz-opt" data-q="experience" data-v="pro">Erfahrener Spieler</button>

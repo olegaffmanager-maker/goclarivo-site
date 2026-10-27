@@ -36,7 +36,14 @@
       cta: "Go to Casino",
       disclosure: "This uses the same comparison data as the list above. GoClarivo may earn a commission from these operators -- it does not affect which one is shown first. Full detail: ",
       disclosureLink: "editorial policy",
-      disclosureHref: "/en/editorial-policy/"
+      // BUG FIX (2026-10-26): this was hardcoded to "/en/editorial-policy/".
+      // This "en" string set is shared by gh/in/ke/zm too (every geo whose
+      // <html lang> starts with "en" -- see lang()), so visitors on those
+      // four geos were being sent to the EN editorial policy page instead
+      // of their own. Built from GEO like the "es" block already does.
+      disclosureHref: "/" + GEO + "/editorial-policy/",
+      beginnerTip: "New to online casinos? Our guide on choosing your first one covers what to check before you sign up.",
+      beginnerTipLink: "How to choose your first online casino"
     },
     es: {
       bestMatch: "Mejor opción",
@@ -50,7 +57,9 @@
       cta: "Ir al casino",
       disclosure: "Esto usa los mismos datos de comparación que la lista de arriba. GoClarivo puede recibir una comisión de estos operadores -- esto no influye en cuál se muestra primero. Más detalle: ",
       disclosureLink: "política editorial",
-      disclosureHref: "/" + GEO + "/editorial-policy/"
+      disclosureHref: "/" + GEO + "/editorial-policy/",
+      beginnerTip: "¿Nuevo en los casinos online? Nuestra guía para elegir tu primer casino explica qué revisar antes de registrarte.",
+      beginnerTipLink: "Cómo elegir tu primer casino online"
     },
     de: {
       bestMatch: "Beste Übereinstimmung",
@@ -64,7 +73,9 @@
       cta: "Zum Casino",
       disclosure: "Dies nutzt dieselben Vergleichsdaten wie die Liste oben. GoClarivo kann von diesen Anbietern eine Provision erhalten -- das beeinflusst nicht, welcher zuerst angezeigt wird. Details: ",
       disclosureLink: "redaktionelle Richtlinie",
-      disclosureHref: "/de/editorial-policy/"
+      disclosureHref: "/de/editorial-policy/",
+      beginnerTip: "Neu bei Online-Casinos? Unser Leitfaden zeigt, worauf du vor der Anmeldung achten solltest.",
+      beginnerTipLink: "Wie man ein seriöses Casino erkennt"
     },
     it: {
       bestMatch: "Il migliore per te",
@@ -78,7 +89,9 @@
       cta: "Vai al casinò",
       disclosure: "Questo usa gli stessi dati di confronto della lista sopra. GoClarivo potrebbe ricevere una commissione da questi operatori -- questo non influisce su quale viene mostrato per primo. Dettagli: ",
       disclosureLink: "policy editoriale",
-      disclosureHref: "/it/editorial-policy/"
+      disclosureHref: "/it/editorial-policy/",
+      beginnerTip: "Nuovo nei casinò online? La nostra guida spiega cosa controllare prima di registrarti.",
+      beginnerTipLink: "Come riconoscere un casinò affidabile"
     },
     pt: {
       bestMatch: "Melhor opção",
@@ -92,7 +105,9 @@
       cta: "Ir para o casino",
       disclosure: "Isto usa os mesmos dados de comparação da lista acima. A GoClarivo pode receber uma comissão destes operadores -- isto não influencia qual é mostrado primeiro. Mais detalhe: ",
       disclosureLink: "política editorial",
-      disclosureHref: "/pt/editorial-policy/"
+      disclosureHref: "/pt/editorial-policy/",
+      beginnerTip: "Novo nos casinos online? O nosso guia explica o que verificar antes de se registar.",
+      beginnerTipLink: "Como reconhecer um casino de confiança"
     },
     fr: {
       bestMatch: "Meilleur choix",
@@ -106,8 +121,36 @@
       cta: "Aller au casino",
       disclosure: "Ceci utilise les mêmes données de comparaison que la liste ci-dessus. GoClarivo peut recevoir une commission de ces opérateurs -- cela n'influence pas lequel est affiché en premier. Détails : ",
       disclosureLink: "politique éditoriale",
-      disclosureHref: "/bf/editorial-policy/"
+      disclosureHref: "/bf/editorial-policy/",
+      beginnerTip: "Nouveau dans les casinos en ligne ? Notre guide explique ce qu'il faut vérifier avant de vous inscrire.",
+      beginnerTipLink: "Comment reconnaître un casino fiable"
     }
+  };
+
+  // Per-geo link for the beginner tip (added 2026-10-26, see renderResults()):
+  // only shown when answers.experience === "beginner". Every URL below is an
+  // already-published guide page on this geo -- never a new or invented one.
+  // en-language geos (en/gh/in/ke/zm) share the same English slug; the
+  // es-language geos (es/ar/bo/cl/mx/pe) share the same Spanish slug; de/it
+  // have their own guide under a geo-specific slug; pt/bf don't have a
+  // "first casino" guide, so they link to their closest equivalent
+  // ("how to recognize a trustworthy casino") instead -- never a guessed path.
+  var BEGINNER_GUIDE = {
+    en: "/en/guides/how-to-choose-your-first-online-casino/",
+    gh: "/gh/guides/how-to-choose-your-first-online-casino/",
+    "in": "/in/guides/how-to-choose-your-first-online-casino/",
+    ke: "/ke/guides/how-to-choose-your-first-online-casino/",
+    zm: "/zm/guides/how-to-choose-your-first-online-casino/",
+    es: "/es/guides/como-elegir-tu-primer-casino-online/",
+    ar: "/ar/guides/como-elegir-tu-primer-casino-online/",
+    bo: "/bo/guides/como-elegir-tu-primer-casino-online/",
+    cl: "/cl/guides/como-elegir-tu-primer-casino-online/",
+    mx: "/mx/guides/como-elegir-tu-primer-casino-online/",
+    pe: "/pe/guides/como-elegir-tu-primer-casino-online/",
+    de: "/de/guides/casino-seriositaet-erkennen/",
+    it: "/it/guides/come-riconoscere-casino-affidabile/",
+    pt: "/pt/guides/how-to-recognize-a-trustworthy-online-casino/",
+    bf: "/bf/guides/how-to-recognize-a-trustworthy-online-casino/"
   };
 
   function lang() {
@@ -136,10 +179,19 @@
       el.hidden = el.getAttribute("data-step") !== String(n);
     });
     if (progressBar) {
-      var pct = n === "result" ? 100 : Math.round((Number(n) / 3) * 100);
+      // BUG FIX (2026-10-26): this used to compute n/3, which put the bar
+      // at 100% while question 3 was still on screen (unanswered) -- a full
+      // step early. It now reflects questions actually ANSWERED so far
+      // ((n-1)/3), reaching 100% only once the result step is shown.
+      var pct = n === "result" ? 100 : Math.round(((Number(n) - 1) / 3) * 100);
       progressBar.style.width = pct + "%";
     }
-    var heading = root.querySelector('.quiz-step[data-step="' + n + '"] h2');
+    // h3, not h2 (fixed 2026-10-26): each step's own heading sits inside the
+    // quiz section, which already has its own h2 ("Not sure where to
+    // start?") -- these were a second h2 right after it, breaking the
+    // page's heading outline. See the matching markup/CSS change on every
+    // /{geo}/ homepage.
+    var heading = root.querySelector('.quiz-step[data-step="' + n + '"] h3');
     if (heading) {
       heading.setAttribute("tabindex", "-1");
       heading.focus({ preventScroll: true });
@@ -198,8 +250,20 @@
           '<div class="casino-cta"><a class="btn" href="' + esc(c.link[GEO]) + '" rel="sponsored nofollow noopener" target="_blank" data-quiz-click="' + esc(c.id) + '">' + esc(T.cta) + "</a></div>" +
         "</div>";
     });
+    // Added 2026-10-26: the only one of the three questions that didn't
+    // change anything about the result was "experience" (beginner/pro) --
+    // casinos.json documents that payout/games/mobile/beginner scores are
+    // flat placeholders, so there's no real per-operator data to rank
+    // beginners differently. Rather than invent one, this surfaces an
+    // already-published guide instead -- real content, just newly
+    // conditional on a real answer instead of always-ignored.
+    var beginnerGuideHref = BEGINNER_GUIDE[GEO];
+    var beginnerTipHtml = (answers.experience === "beginner" && T.beginnerTip && beginnerGuideHref)
+      ? '<p class="quiz-disclosure" style="margin-top:14px;">' + esc(T.beginnerTip) + ' <a href="' + esc(beginnerGuideHref) + '">' + esc(T.beginnerTipLink) + "</a></p>"
+      : "";
     html +=
       '<p class="quiz-disclosure">' + esc(T.disclosure) + '<a href="' + esc(T.disclosureHref) + '">' + esc(T.disclosureLink) + "</a></p>" +
+      beginnerTipHtml +
       '<div class="quiz-result-actions"><a class="btn btn-ghost" href="#top-list">' + esc(T.seeAll) + "</a>" +
       '<button type="button" class="btn-ghost quiz-retake" id="quiz-retake">' + esc(T.retake) + "</button></div>";
     box.innerHTML = html;
@@ -239,7 +303,9 @@
     }
     var back = e.target.closest(".quiz-back");
     if (back) {
-      showStep(back.getAttribute("data-back"));
+      var backTo = back.getAttribute("data-back");
+      track("quiz_back", { to: backTo });
+      showStep(backTo);
     }
   });
 })();

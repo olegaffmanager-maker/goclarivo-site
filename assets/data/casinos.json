@@ -632,5 +632,29 @@
     "logo_html": "<img src=\"/assets/img/royalxo-logo.webp\" alt=\"RoyalXO\" style=\"width:100%;height:100%;object-fit:contain;display:block;\">",
     "logo_box_style": "background:#ffffff;border:none;padding:8px;overflow:hidden;",
     "verified": true
+  },
+  {
+    "id": "ondabet",
+    "name": "Onda.bet",
+    "countries": [
+      "ar"
+    ],
+    "scores": {
+      "bonus": 5,
+      "payout": 3,
+      "games": 3,
+      "mobile": 3,
+      "beginner": 3
+    },
+    "_scores_note": "bonus score reflects the confirmed bonus terms below; payout/games/mobile/beginner are neutral placeholders -- GoClarivo has no confirmed data to rate these yet, adjust from your own judgment before relying on them. bonus=5 is a judgment call made by comparing headline percentages to the other AR operators already in this file (Mostbet at 427% is a 5, 1xBet at 100% is a 4) -- Onda.bet's combined casino (350%) + sports (425%) welcome packs sit in the same range as Mostbet's; revisit this if you disagree.",
+    "bonus": {
+      "ar": "Pack de bienvenida: 350% hasta $4.500.000 ARS + 450 Giros Gratis en casino, y 425% hasta $4.500.000 ARS + Apuestas Gratis de $16.000 ARS en deportes"
+    },
+    "link": {
+      "ar": "https://bonusar.online/?serial=61375028&creative_id=10015&anid=%7Bclickid%7D_%7Bweb%7D_%7Bforyoursub%7D&tsrc=organic_seo"
+    },
+    "logo_html": "<img src=\"/assets/img/ondabet-logo.webp\" alt=\"Onda.bet\" style=\"width:100%;height:100%;object-fit:contain;display:block;\">",
+    "logo_box_style": "background:#000000;border:none;padding:0;overflow:hidden;",
+    "verified": true
   }
 ]
