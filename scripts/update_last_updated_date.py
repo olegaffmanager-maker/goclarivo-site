@@ -1,31 +1,34 @@
 #!/usr/bin/env python3
 """
-Keeps the "site last updated" line in each locale homepage's footer current.
+Keeps the "Last verified" hero stat on each locale homepage current.
 
 Why this exists: the site has no build process or CMS -- every deploy is a
-manual copy-paste of changed HTML files via GitHub Desktop. The homepage
-footer of each of the 15 locale homepages (ar/bo/cl/de/en/es/gh/in/it/ke/mx/
-pe/pt/zm/bf -- NOT py/, which is a redirect-only stub with no real homepage)
-shows a "site last updated" date, scoped to just these 15 files per an
-explicit decision (not sitewide -- guides/reviews/etc. don't carry this
-line, to avoid having to touch hundreds of files on every deploy).
+manual copy-paste of changed HTML files via GitHub Desktop. Each of the 15
+locale homepages (ar/bo/cl/de/en/es/gh/in/it/ke/mx/pe/pt/zm/bf -- NOT py/,
+which is a redirect-only stub with no real homepage) already had a hero
+stat box reading e.g. "21 October 2026 / Last verified" (in its own
+language) sitting next to the "05 / Rating criteria" box at the top of the
+page. That date was hardcoded in the HTML and nobody had a way to keep it
+current -- this script is that way.
 
 HOW TO USE THIS ON EVERY FUTURE DEPLOY:
   python3 scripts/update_last_updated_date.py
-This stamps today's date (read from the system clock) into all 15 pages,
-each in its own language, and only rewrites a file if the date actually
-changed (so running it twice in the same day, or multiple times during one
-deploy's prep, is always safe and touches nothing on the second run).
+This stamps today's date (read from the system clock) into all 15 pages'
+hero stat, each in its own language, and only rewrites a file if the date
+actually changed (so running it twice in the same day, or multiple times
+during one deploy's prep, is always safe and touches nothing on the second
+run).
 To stamp a specific date instead of "today" (e.g. backfilling, or testing):
   python3 scripts/update_last_updated_date.py 2026-11-03
 
-The markup convention (already inserted once into all 15 files as of
-2026-10-27): inside each page's <div class="legal-note">, right after the
-copyright paragraph:
-  <p id="site-last-updated" style="...">{locale label} <span id="site-last-updated-date">{locale-formatted date}</span></p>
-Only the inner <span id="site-last-updated-date"> text is ever touched by
-this script -- the surrounding label stays in that page's own language and
-is never regenerated, so translations made by hand are never clobbered.
+The markup convention (added 2026-10-27, replacing the plain hardcoded
+"<b>21 October 2026</b>"): inside each page's hero .stats-row, the second
+.stat box is:
+  <div class="stat"><b id="hero-last-verified-date">{locale-formatted date}</b><span>{locale label, e.g. "Last verified"}</span></div>
+Only the text inside <b id="hero-last-verified-date">...</b> is ever
+touched by this script -- the surrounding label stays in that page's own
+language and is never regenerated, so translations made by hand are never
+clobbered.
 """
 import re
 import sys
@@ -33,7 +36,7 @@ import datetime
 
 REPO_ROOT = __file__.rsplit("/scripts/", 1)[0] if "/scripts/" in __file__ else "."
 
-# geo -> language family used for date formatting + label text
+# geo -> language family used for date formatting
 LOCALES = {
     "ar": "es", "bo": "es", "cl": "es", "es": "es", "mx": "es", "pe": "es",
     "en": "en", "gh": "en", "in": "en", "ke": "en", "zm": "en",
@@ -58,15 +61,6 @@ MONTHS = {
            "août", "septembre", "octobre", "novembre", "décembre"],
 }
 
-LABELS = {
-    "es": "Última actualización del sitio:",
-    "en": "Site last updated:",
-    "de": "Zuletzt aktualisiert:",
-    "it": "Ultimo aggiornamento del sito:",
-    "pt": "Última atualização do site:",
-    "fr": "Dernière mise à jour du site :",
-}
-
 
 def format_date(d, lang):
     month = MONTHS[lang][d.month - 1]
@@ -74,25 +68,25 @@ def format_date(d, lang):
         return f"{month} {d.day}, {d.year}"
     if lang == "de":
         return f"{d.day}. {month} {d.year}"
-    return f"{d.day} de {month} de {d.year}" if lang in ("es", "pt") else (
-        f"{d.day} {month} {d.year}"
-    )
+    if lang in ("es", "pt"):
+        return f"{d.day} de {month} de {d.year}"
+    return f"{d.day} {month} {d.year}"  # fr and anything else "D month YYYY"
 
 
-SPAN_RE = re.compile(
-    r'(<span id="site-last-updated-date">)(.*?)(</span>)', re.DOTALL
+TAG_RE = re.compile(
+    r'(<b id="hero-last-verified-date">)([^<]*)(</b>)'
 )
 
 
 def update_file(path, new_text):
     with open(path, encoding="utf-8") as f:
         content = f.read()
-    if 'id="site-last-updated-date"' not in content:
+    if 'id="hero-last-verified-date"' not in content:
         return "MISSING_MARKER"
-    m = SPAN_RE.search(content)
+    m = TAG_RE.search(content)
     if m and m.group(2) == new_text:
         return "UNCHANGED"
-    new_content = SPAN_RE.sub(lambda mo: mo.group(1) + new_text + mo.group(3), content, count=1)
+    new_content = TAG_RE.sub(lambda mo: mo.group(1) + new_text + mo.group(3), content, count=1)
     with open(path, "w", encoding="utf-8") as f:
         f.write(new_content)
     return "UPDATED"

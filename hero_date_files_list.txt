@@ -1,0 +1,16 @@
+ar\index.html
+bo\index.html
+cl\index.html
+es\index.html
+mx\index.html
+pe\index.html
+en\index.html
+gh\index.html
+in\index.html
+ke\index.html
+zm\index.html
+de\index.html
+it\index.html
+pt\index.html
+bf\index.html
+scripts\update_last_updated_date.py
