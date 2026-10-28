@@ -1,0 +1,5 @@
+cl\resenas\pin-up\index.html
+cl\index.html
+go\pinup-cl\index.html
+assets\data\casinos.json
+sitemap.xml
