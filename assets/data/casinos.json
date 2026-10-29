@@ -662,5 +662,32 @@
     "logo_html": "<img src=\"/assets/img/ondabet-logo.webp\" alt=\"Onda.bet\" style=\"width:100%;height:100%;object-fit:contain;display:block;\">",
     "logo_box_style": "background:#000000;border:none;padding:0;overflow:hidden;",
     "verified": true
+  },
+  {
+    "id": "1xcasino",
+    "name": "1xCasino",
+    "countries": [
+      "ar",
+      "cl"
+    ],
+    "scores": {
+      "bonus": 4,
+      "payout": 3,
+      "games": 3,
+      "mobile": 3,
+      "beginner": 3
+    },
+    "_scores_note": "bonus score reflects the confirmed tiered welcome bonus below (real amounts in ARS/CLP, with wagering terms); payout/games/mobile/beginner are neutral placeholders -- GoClarivo has not independently verified these yet, adjust from your own judgment before relying on them.",
+    "bonus": {
+      "ar": "Bono de bienvenida de hasta 200% y $2.900.000 ARS + 380 giros gratis, según el monto del depósito (desde $5.000 ARS, rollover x25).",
+      "cl": "Bono de bienvenida de hasta 200% y $2.150.000 CLP + 380 giros gratis, según el monto del depósito (desde $5.000 CLP, rollover x25)."
+    },
+    "link": {
+      "ar": "https://refpa94475.com/L?tag=d_6272048m_67279c_&site=6272048&ad=67279&r=registration",
+      "cl": "https://refpa94475.com/L?tag=d_6272048m_67279c_&site=6272048&ad=67279&r=registration"
+    },
+    "logo_html": "<img src=\"/assets/img/1xcasino-logo.webp\" alt=\"1xCasino\" style=\"width:100%;height:100%;object-fit:contain;display:block;\">",
+    "logo_box_style": "background:#000000;border:none;padding:0;overflow:hidden;",
+    "verified": true
   }
 ]

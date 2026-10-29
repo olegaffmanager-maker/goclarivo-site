@@ -1,0 +1,13 @@
+assets\img\1xcasino-logo.webp
+go\1xcasino-ar\index.html
+go\1xcasino-cl\index.html
+ar\resenas\1xcasino\index.html
+cl\resenas\1xcasino\index.html
+ar\index.html
+ar\sports\index.html
+ar\casino\index.html
+cl\index.html
+cl\sports\index.html
+cl\casino\index.html
+assets\data\casinos.json
+sitemap.xml
