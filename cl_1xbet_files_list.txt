@@ -1,0 +1,4 @@
+cl\resenas\1xbet\index.html
+cl\index.html
+assets\data\casinos.json
+sitemap.xml

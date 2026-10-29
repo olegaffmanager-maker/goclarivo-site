@@ -8,7 +8,8 @@
       "en",
       "es",
       "mx",
-      "pe"
+      "pe",
+      "cl"
     ],
     "scores": {
       "bonus": 4,
@@ -24,7 +25,8 @@
       "en": "Bonus: in review — confirm current terms on the operator's site",
       "es": "Bono: en revisión — confirma las condiciones vigentes en el sitio del operador",
       "mx": "Bono del 100%, hasta $40,000 más 150 Giros Grátis por sus 4 primeros depósitos",
-      "pe": "Bono: en revisión — confirma las condiciones vigentes en el sitio del operador"
+      "pe": "Bono: en revisión — confirma las condiciones vigentes en el sitio del operador",
+      "cl": "Bono: en revisión — confirma las condiciones vigentes en el sitio del operador"
     },
     "link": {
       "ar": "https://reffpa.com/L?tag=d_6171730m_97c_&site=6171730&ad=97&r=reg",
@@ -32,7 +34,8 @@
       "en": "https://reffpa.com/L?tag=d_6171730m_97c_&site=6171730&ad=97&r=reg",
       "es": "https://reffpa.com/L?tag=d_6171730m_97c_&site=6171730&ad=97&r=reg",
       "mx": "https://reffpa.com/L?tag=d_6171730m_97c_&site=6171730&ad=97&r=reg",
-      "pe": "https://reffpa.com/L?tag=d_6171730m_97c_&site=6171730&ad=97&r=reg"
+      "pe": "https://reffpa.com/L?tag=d_6171730m_97c_&site=6171730&ad=97&r=reg",
+      "cl": "https://reffpa.com/L?tag=d_6171730m_97c_&site=6171730&ad=97&r=reg"
     },
     "logo_html": "<svg viewBox=\"0 0 64 64\" width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"1xBet\"><text x=\"32\" y=\"39\" text-anchor=\"middle\" font-family=\"Sora, system-ui, sans-serif\" font-weight=\"800\" font-size=\"18\" fill=\"#ffffff\">1<tspan fill=\"#5bc8ff\">x</tspan>Bet</text></svg>",
     "logo_box_style": "background:#0a3d7a;border:none;padding:0;overflow:hidden;",
