@@ -1,0 +1,17 @@
+assets\img\spinarium-logo.png
+go\spinarium-ar\index.html
+go\spinarium-mx\index.html
+go\spinarium-de\index.html
+ar\resenas\spinarium\index.html
+mx\resenas\spinarium\index.html
+de\resenas\spinarium\index.html
+ar\index.html
+ar\sports\index.html
+ar\casino\index.html
+mx\index.html
+mx\sports\index.html
+mx\casino\index.html
+de\index.html
+de\sports\index.html
+assets\data\casinos.json
+sitemap.xml
