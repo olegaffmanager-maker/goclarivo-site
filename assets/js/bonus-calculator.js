@@ -128,17 +128,28 @@
     btnBoth.addEventListener("click", function () { base = "both"; btnBoth.classList.add("active"); btnBonus.classList.remove("active"); calc(); });
   }
 
-  // Confirmed rollover (wagering) multipliers per operator, sourced from the
-  // audited terms text (not invented). Only operators with a confirmed "x"
-  // value get their wager field prefilled; others still get the scroll/focus
-  // fallback below since casinos.json otherwise stores bonus text only.
+  // The offers box ("Bonos con rollover claro" / "Bonuses with clear
+  // wagering terms") is meant to surface operators where we can show real
+  // wagering math, not just any verified operator -- so it is keyed to this
+  // fixed list of brand ids rather than the generic `verified` flag. Order
+  // here is the display order. Confirmed rollover (wagering) multipliers,
+  // sourced from the audited terms text (not invented): only operators with
+  // a confirmed "x" value get their wager field prefilled; Melbet still gets
+  // a card (and the scroll/focus fallback below) but no confirmed multiplier
+  // exists for it anywhere in the site's data, so it is left out of
+  // WAGER_PRESETS rather than guessed.
+  var FEATURED_BRANDS = ["betwinner", "1redbet", "melbet", "spinarium"];
   var WAGER_PRESETS = { betwinner: 35, "1redbet": 35, spinarium: 15 };
 
   function loadOffers() {
     var box = document.getElementById("calc-offers");
     if (!box) return;
     fetch("/assets/data/casinos.json").then(function (r) { return r.json(); }).then(function (casinos) {
-      var pool = casinos.filter(function (c) { return c.verified && c.countries.indexOf(GEO) !== -1; }).slice(0, 3);
+      var byId = {};
+      casinos.forEach(function (c) { byId[c.id] = c; });
+      var pool = FEATURED_BRANDS
+        .map(function (id) { return byId[id]; })
+        .filter(function (c) { return c && c.countries.indexOf(GEO) !== -1; });
       if (pool.length === 0) return;
       var html = '<div class="calc-sub-row" style="border:none;padding-top:14px;"><span style="font-weight:700;color:var(--text);">' + T.offersTitle + "</span></div>";
       pool.forEach(function (c) {
