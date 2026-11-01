@@ -128,6 +128,12 @@
     btnBoth.addEventListener("click", function () { base = "both"; btnBoth.classList.add("active"); btnBonus.classList.remove("active"); calc(); });
   }
 
+  // Confirmed rollover (wagering) multipliers per operator, sourced from the
+  // audited terms text (not invented). Only operators with a confirmed "x"
+  // value get their wager field prefilled; others still get the scroll/focus
+  // fallback below since casinos.json otherwise stores bonus text only.
+  var WAGER_PRESETS = { betwinner: 35, "1redbet": 35, spinarium: 15 };
+
   function loadOffers() {
     var box = document.getElementById("calc-offers");
     if (!box) return;
@@ -143,20 +149,27 @@
           '<div class="logo-box" style="width:40px;height:40px;' + (c.logo_box_style || "") + '">' + c.logo_html + "</div>" +
           '<div class="calc-offer-main"><div class="name">' + c.name + '</div><div class="bonus-text">' + bonus + "</div></div>" +
           '<div class="calc-offer-actions">' +
-          '<button type="button" class="calc-use-btn">' + T.useBtn + "</button>" +
+          '<button type="button" class="calc-use-btn" data-brand="' + c.id + '">' + T.useBtn + "</button>" +
           '<a class="btn" style="padding:6px 10px;font-size:12px;" href="' + href + '" rel="sponsored nofollow" target="_blank">' + T.ctaBtn + "</a>" +
           "</div></div>";
       });
       box.innerHTML = html;
       // NOTE: casinos.json only stores each operator's bonus as free text
-      // (copied from the live site), not structured %/max/wager/RTP values,
-      // so this button cannot honestly prefill an operator's real terms
-      // without inventing numbers. It focuses the deposit field instead;
-      // wire it to real structured terms once that data exists per operator.
+      // (copied from the live site), not full structured %/max/RTP values,
+      // so this button still can't honestly prefill an operator's complete
+      // terms without inventing numbers. Where a confirmed rollover
+      // multiplier exists (WAGER_PRESETS above) it prefills f-wager; it
+      // always focuses the deposit field so the person can fill in the rest.
       box.querySelectorAll(".calc-use-btn").forEach(function (btn) {
         btn.addEventListener("click", function () {
+          var preset = WAGER_PRESETS[btn.getAttribute("data-brand")];
+          if (preset) {
+            var wagerEl = document.getElementById("f-wager");
+            wagerEl.value = preset;
+          }
           document.getElementById("f-deposit").scrollIntoView({ behavior: "smooth", block: "center" });
           document.getElementById("f-deposit").focus();
+          calc();
         });
       });
     }).catch(function () { /* offers are optional, calculator still works without them */ });
