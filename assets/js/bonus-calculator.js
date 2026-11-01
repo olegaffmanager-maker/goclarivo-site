@@ -133,13 +133,25 @@
   // wagering math, not just any verified operator -- so it is keyed to this
   // fixed list of brand ids rather than the generic `verified` flag. Order
   // here is the display order. Confirmed rollover (wagering) multipliers,
-  // sourced from the audited terms text (not invented): only operators with
-  // a confirmed "x" value get their wager field prefilled; Melbet still gets
-  // a card (and the scroll/focus fallback below) but no confirmed multiplier
-  // exists for it anywhere in the site's data, so it is left out of
-  // WAGER_PRESETS rather than guessed.
+  // sourced from the audited terms text (not invented). A value is either a
+  // single number (same multiplier in every geo the brand has) or an object
+  // keyed by geo code, for brands whose casino rollover differs by country
+  // (Melbet: MX/BO x25, CL/PE x40; no confirmed value yet for BF/IN/KE, so
+  // those geos fall back to the plain scroll/focus behavior below).
   var FEATURED_BRANDS = ["betwinner", "1redbet", "melbet", "spinarium"];
-  var WAGER_PRESETS = { betwinner: 35, "1redbet": 35, spinarium: 15 };
+  var WAGER_PRESETS = {
+    betwinner: 35,
+    "1redbet": 35,
+    melbet: { mx: 25, bo: 25, cl: 40, pe: 40 },
+    spinarium: 15,
+  };
+
+  function wagerPresetFor(brandId) {
+    var preset = WAGER_PRESETS[brandId];
+    if (preset == null) return null;
+    if (typeof preset === "object") return preset[GEO] || null;
+    return preset;
+  }
 
   function loadOffers() {
     var box = document.getElementById("calc-offers");
@@ -173,7 +185,7 @@
       // always focuses the deposit field so the person can fill in the rest.
       box.querySelectorAll(".calc-use-btn").forEach(function (btn) {
         btn.addEventListener("click", function () {
-          var preset = WAGER_PRESETS[btn.getAttribute("data-brand")];
+          var preset = wagerPresetFor(btn.getAttribute("data-brand"));
           if (preset) {
             var wagerEl = document.getElementById("f-wager");
             wagerEl.value = preset;
