@@ -467,6 +467,19 @@
     padding:10px 12px;font-size:12px;color:var(--text-dim);background:var(--bg-2);
   }
 
+  .more-casinos{border:none;margin-top:4px;}
+  .more-casinos summary{
+    display:flex;align-items:center;justify-content:center;gap:8px;
+    list-style:none;cursor:pointer;
+    background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+    padding:14px;font-weight:700;font-size:14px;color:var(--text);
+    margin-bottom:16px;
+  }
+  .more-casinos summary::-webkit-details-marker{display:none;}
+  .more-casinos summary:hover{border-color:var(--gold);}
+  .more-casinos summary .chevron{font-size:11px;color:var(--text-dim);transition:transform .15s ease;}
+  .more-casinos[open] summary .chevron{transform:rotate(180deg);}
+  .more-casinos-cards .casino-card{margin-bottom:16px;}
 </style>
 </head>
 <body>
@@ -586,17 +599,8 @@
       <h2>Casas de apuestas que recomendamos</h2>
       <p>Evaluamos licencia, pagos y condiciones de bono con el mismo criterio que en nuestra comparativa de casinos.</p>
     </div>
-        <div class="casino-card">
-      <div class="logo-box" style="background:#0a3d7a;border:none;padding:0;overflow:hidden;"><img src="/assets/img/1xbet-logo.webp" alt="1xBet" style="width:100%;height:100%;object-fit:contain;display:block;"></div>
-      <div class="casino-main">
-        <div class="top-row">
-          <span class="name">1xBet</span>
-        </div>
-        <div class="bonus-text">Bono del 100%, hasta $2.130.000 ARS + 150 Giros Gratis, en tus 4 primeros depósitos.</div>
-<a class="verify-link" href="/ar/methodology/" style="display:inline-block;margin-top:8px;">&iquest;C&oacute;mo verificamos a los operadores?</a>
-      </div>
-      <div class="casino-cta"><a class="btn" href="/go/1xbet/" rel="sponsored nofollow" target="_blank">Ver oferta</a></div>
-    </div>
+        
+
     <div class="casino-card">
       <div class="logo-box" style="background:#0d1b3d;border:none;padding:0;overflow:hidden;"><svg viewBox="0 0 130 64" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mostbet"><text x="4" y="43" font-family="Sora, system-ui, sans-serif" font-weight="800" font-style="italic" font-size="30" fill="#ffffff">M<tspan opacity="0">O</tspan></text><circle cx="30" cy="32" r="10" fill="#FB4D00"/><polygon points="30.00,22.00 32.25,28.91 39.51,28.91 33.63,33.18 35.88,40.09 30.00,35.82 24.12,40.09 26.37,33.18 20.49,28.91 27.75,28.91" fill="#ffffff"/><text x="42" y="43" font-family="Sora, system-ui, sans-serif" font-weight="800" font-style="italic" font-size="26" fill="#ffffff">STBET</text></svg></div>
       <div class="casino-main">
@@ -608,6 +612,7 @@
       </div>
       <div class="casino-cta"><a class="btn" href="/go/mostbet/" rel="sponsored nofollow" target="_blank">Ver oferta</a></div>
     </div>
+
     <div class="casino-card">
       <div class="logo-box" style="padding:6px;overflow:hidden;"><img src="/assets/img/spinarium-logo.png" alt="Spinarium" style="width:100%;height:100%;object-fit:contain;display:block;"></div>
       <div class="casino-main">
@@ -618,6 +623,30 @@
 <a class="verify-link" href="/ar/methodology/" style="display:inline-block;margin-top:8px;">&iquest;C&oacute;mo verificamos a los operadores?</a> <a class="review-link" href="/ar/resenas/spinarium/" style="display:inline-block;margin-top:8px;margin-left:10px;">Leer rese&ntilde;a completa &rarr;</a>
       </div>
       <div class="casino-cta"><a class="btn" href="/go/spinarium-ar/" rel="sponsored nofollow" target="_blank">Ver oferta</a></div>
+    </div>
+
+    <div class="casino-card">
+      <div class="logo-box" style="background:#0a3d7a;border:none;padding:0;overflow:hidden;"><img src="/assets/img/1xbet-logo.webp" alt="1xBet" style="width:100%;height:100%;object-fit:contain;display:block;"></div>
+      <div class="casino-main">
+        <div class="top-row">
+          <span class="name">1xBet</span>
+        </div>
+        <div class="bonus-text">Bono del 100%, hasta $2.130.000 ARS + 150 Giros Gratis, en tus 4 primeros depósitos.</div>
+<a class="verify-link" href="/ar/methodology/" style="display:inline-block;margin-top:8px;">&iquest;C&oacute;mo verificamos a los operadores?</a>
+      </div>
+      <div class="casino-cta"><a class="btn" href="/go/1xbet/" rel="sponsored nofollow" target="_blank">Ver oferta</a></div>
+    </div>
+
+    <div class="casino-card">
+      <div class="logo-box" style="background:#000000;border:none;padding:0;overflow:hidden;"><img src="/assets/img/1xcasino-logo.webp" alt="1xCasino" style="width:100%;height:100%;object-fit:contain;display:block;"></div>
+      <div class="casino-main">
+        <div class="top-row">
+          <span class="name">1xCasino</span>
+        </div>
+        <div class="bonus-text">Bono de bienvenida de hasta 200% y $2.900.000 ARS + 380 giros gratis, según el monto del depósito (desde $5.000 ARS, rollover x25).</div>
+<a class="verify-link" href="/ar/methodology/" style="display:inline-block;margin-top:8px;">&iquest;C&oacute;mo verificamos a los operadores?</a> <a class="review-link" href="/ar/resenas/1xcasino/" style="display:inline-block;margin-top:8px;margin-left:10px;">Leer rese&ntilde;a completa &rarr;</a>
+      </div>
+      <div class="casino-cta"><a class="btn" href="/go/1xcasino-ar/" rel="sponsored nofollow" target="_blank">Ver oferta</a></div>
     </div>
 
     <div class="casino-card">
@@ -642,17 +671,6 @@
 <a class="verify-link" href="/ar/methodology/" style="display:inline-block;margin-top:8px;">&iquest;C&oacute;mo verificamos a los operadores?</a>
       </div>
       <div class="casino-cta"><a class="btn" href="/go/1redbet/" rel="sponsored nofollow" target="_blank">Ver oferta</a></div>
-    </div>
-    <div class="casino-card">
-      <div class="logo-box" style="background:#000000;border:none;padding:0;overflow:hidden;"><img src="/assets/img/1xcasino-logo.webp" alt="1xCasino" style="width:100%;height:100%;object-fit:contain;display:block;"></div>
-      <div class="casino-main">
-        <div class="top-row">
-          <span class="name">1xCasino</span>
-        </div>
-        <div class="bonus-text">Bono de bienvenida de hasta 200% y $2.900.000 ARS + 380 giros gratis, según el monto del depósito (desde $5.000 ARS, rollover x25).</div>
-<a class="verify-link" href="/ar/methodology/" style="display:inline-block;margin-top:8px;">&iquest;C&oacute;mo verificamos a los operadores?</a> <a class="review-link" href="/ar/resenas/1xcasino/" style="display:inline-block;margin-top:8px;margin-left:10px;">Leer rese&ntilde;a completa &rarr;</a>
-      </div>
-      <div class="casino-cta"><a class="btn" href="/go/1xcasino-ar/" rel="sponsored nofollow" target="_blank">Ver oferta</a></div>
     </div>
 
 
@@ -682,7 +700,7 @@
     <div class="prose">
       <h2>F&uacute;tbol y otros deportes populares para apostar en Argentina</h2>
       <p>El fútbol es, con diferencia, el deporte más apostado en Argentina. La Liga Profesional de Fútbol reúne a los clubes más seguidos del país &mdash;Boca Juniors y River Plate protagonizan el Superlásico, el partido de mayor interés del fútbol sudamericano, junto a Racing Club, Independiente, San Lorenzo y Talleres entre los grandes&mdash;. A nivel continental, los clubes argentinos son los más laureados de la Copa Libertadores, torneo que concentra un volumen muy alto de apuestas cada temporada.</p>
-      <p>Fuera del fútbol, las casas de apuestas que listamos en esta página también cubren baloncesto, tenis, hockey sobre hielo y vóleibol, con el mismo widget de cuotas en vivo que ves más arriba. La demanda es menor que la del fútbol, pero crece durante torneos internacionales como los Grand Slams de tenis (Argentina tiene fuerte tradición tenista).</p>
+      <p>Fuera del fútbol, las casas de apuestas que listamos en esta página también cubren baloncesto, <a href="/ar/guides/casas-de-apuestas-tenis/">tenis</a>, hockey sobre hielo y vóleibol, con el mismo widget de cuotas en vivo que ves más arriba. La demanda es menor que la del fútbol, pero crece durante torneos internacionales como los Grand Slams de tenis (Argentina tiene fuerte tradición tenista).</p>
     </div>
   </div>
 </section>

@@ -467,6 +467,19 @@
     padding:10px 12px;font-size:12px;color:var(--text-dim);background:var(--bg-2);
   }
 
+  .more-casinos{border:none;margin-top:4px;}
+  .more-casinos summary{
+    display:flex;align-items:center;justify-content:center;gap:8px;
+    list-style:none;cursor:pointer;
+    background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+    padding:14px;font-weight:700;font-size:14px;color:var(--text);
+    margin-bottom:16px;
+  }
+  .more-casinos summary::-webkit-details-marker{display:none;}
+  .more-casinos summary:hover{border-color:var(--gold);}
+  .more-casinos summary .chevron{font-size:11px;color:var(--text-dim);transition:transform .15s ease;}
+  .more-casinos[open] summary .chevron{transform:rotate(180deg);}
+  .more-casinos-cards .casino-card{margin-bottom:16px;}
 </style>
 </head>
 <body>
@@ -586,7 +599,21 @@
       <h2>Casas de apuestas que recomendamos</h2>
       <p>Evaluamos licencia, pagos y condiciones de bono con el mismo criterio que en nuestra comparativa de casinos.</p>
     </div>
-        <div class="casino-card">
+        
+
+    <div class="casino-card">
+      <div class="logo-box" style="background:#0a3d7a;border:none;padding:0;overflow:hidden;"><img src="/assets/img/1xbet-logo.webp" alt="1xBet" style="width:100%;height:100%;object-fit:contain;display:block;"></div>
+      <div class="casino-main">
+        <div class="top-row">
+          <span class="name">1xBet</span>
+        </div>
+        <div class="bonus-text">Bono: en revisión &mdash; confirma las condiciones vigentes en el sitio del operador</div>
+<a class="verify-link" href="/cl/methodology/" style="display:inline-block;margin-top:8px;">&iquest;C&oacute;mo verificamos a los operadores?</a>
+      </div>
+      <div class="casino-cta"><a class="btn" href="/go/1xbet/" rel="sponsored nofollow" target="_blank">Ver oferta</a></div>
+    </div>
+
+    <div class="casino-card">
       <div class="logo-box" style="background:#1c1c28;border:none;padding:10px;overflow:hidden;"><svg style="width:100%;height:100%;" width="396" height="145" viewBox="0 0 396 145" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_1_33)">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M173.882 121.054C174.423 120.613 174.654 119.952 174.654 119.144C174.731 117.455 173.651 116.573 171.49 116.573H169.869V121.789H171.49C172.57 121.789 173.342 121.495 173.882 121.054Z" fill="#00CFA6"/>
@@ -615,17 +642,19 @@
       </div>
       <div class="casino-cta"><a class="btn" href="/go/pinup-cl/" rel="sponsored nofollow" target="_blank">Ver oferta</a></div>
     </div>
+
     <div class="casino-card">
-      <div class="logo-box" style="background:#0a3d7a;border:none;padding:0;overflow:hidden;"><img src="/assets/img/1xbet-logo.webp" alt="1xBet" style="width:100%;height:100%;object-fit:contain;display:block;"></div>
+      <div class="logo-box" style="background:#000000;border:none;padding:0;overflow:hidden;"><img src="/assets/img/1xcasino-logo.webp" alt="1xCasino" style="width:100%;height:100%;object-fit:contain;display:block;"></div>
       <div class="casino-main">
         <div class="top-row">
-          <span class="name">1xBet</span>
+          <span class="name">1xCasino</span>
         </div>
-        <div class="bonus-text">Bono: en revisión &mdash; confirma las condiciones vigentes en el sitio del operador</div>
-<a class="verify-link" href="/cl/methodology/" style="display:inline-block;margin-top:8px;">&iquest;C&oacute;mo verificamos a los operadores?</a>
+        <div class="bonus-text">Bono de bienvenida de hasta 200% y $2.150.000 CLP + 380 giros gratis, según el monto del depósito (desde $5.000 CLP, rollover x25).</div>
+<a class="verify-link" href="/cl/methodology/" style="display:inline-block;margin-top:8px;">&iquest;C&oacute;mo verificamos a los operadores?</a> <a class="review-link" href="/cl/resenas/1xcasino/" style="display:inline-block;margin-top:8px;margin-left:10px;">Leer rese&ntilde;a completa &rarr;</a>
       </div>
-      <div class="casino-cta"><a class="btn" href="/go/1xbet/" rel="sponsored nofollow" target="_blank">Ver oferta</a></div>
+      <div class="casino-cta"><a class="btn" href="/go/1xcasino-cl/" rel="sponsored nofollow" target="_blank">Ver oferta</a></div>
     </div>
+
     <div class="casino-card">
       <div class="logo-box" style="background:#13503A;border:none;padding:0;overflow:hidden;"><img src="/assets/img/betwinner-logo.svg" alt="Betwinner" style="width:100%;height:100%;object-fit:contain;display:block;"></div>
       <div class="casino-main">
@@ -648,17 +677,6 @@
 <a class="verify-link" href="/cl/methodology/" style="display:inline-block;margin-top:8px;">&iquest;C&oacute;mo verificamos a los operadores?</a>
       </div>
       <div class="casino-cta"><a class="btn" href="/go/melbet-cl/" rel="sponsored nofollow" target="_blank">Ver oferta</a></div>
-    </div>
-    <div class="casino-card">
-      <div class="logo-box" style="background:#000000;border:none;padding:0;overflow:hidden;"><img src="/assets/img/1xcasino-logo.webp" alt="1xCasino" style="width:100%;height:100%;object-fit:contain;display:block;"></div>
-      <div class="casino-main">
-        <div class="top-row">
-          <span class="name">1xCasino</span>
-        </div>
-        <div class="bonus-text">Bono de bienvenida de hasta 200% y $2.150.000 CLP + 380 giros gratis, según el monto del depósito (desde $5.000 CLP, rollover x25).</div>
-<a class="verify-link" href="/cl/methodology/" style="display:inline-block;margin-top:8px;">&iquest;C&oacute;mo verificamos a los operadores?</a> <a class="review-link" href="/cl/resenas/1xcasino/" style="display:inline-block;margin-top:8px;margin-left:10px;">Leer rese&ntilde;a completa &rarr;</a>
-      </div>
-      <div class="casino-cta"><a class="btn" href="/go/1xcasino-cl/" rel="sponsored nofollow" target="_blank">Ver oferta</a></div>
     </div>
 
 
@@ -688,7 +706,7 @@
     <div class="prose">
       <h2>F&uacute;tbol y otros deportes populares para apostar en Chile</h2>
       <p>El fútbol es, con diferencia, el deporte más apostado en Chile. La Primera División reúne a los clubes más seguidos del país &mdash;Colo-Colo y Universidad de Chile protagonizan el Superclásico, el partido de mayor interés, junto a Universidad Católica y Palestino entre los grandes&mdash;. A nivel continental, los clubes chilenos compiten cada año en la Copa Libertadores y la Copa Sudamericana, torneos que concentran un volumen alto de apuestas entre aficionados locales.</p>
-      <p>Fuera del fútbol, las casas de apuestas que listamos en esta página también cubren baloncesto, tenis, hockey sobre hielo y vóleibol, con el mismo widget de cuotas en vivo que ves más arriba. La demanda es menor que la del fútbol, pero crece durante torneos internacionales como los Grand Slams de tenis.</p>
+      <p>Fuera del fútbol, las casas de apuestas que listamos en esta página también cubren baloncesto, <a href="/cl/guides/casas-de-apuestas-tenis/">tenis</a>, hockey sobre hielo y vóleibol, con el mismo widget de cuotas en vivo que ves más arriba. La demanda es menor que la del fútbol, pero crece durante torneos internacionales como los Grand Slams de tenis.</p>
     </div>
   </div>
 </section>
