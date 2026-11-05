@@ -400,7 +400,41 @@
     background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
   }
   .sport-tabs{margin-top:4px;}
-</style>
+
+  /* ---------- visual refresh additions ---------- */
+  .hero{background:radial-gradient(ellipse 760px 420px at 15% -15%,rgba(94,231,196,.14),transparent 60%),radial-gradient(ellipse 620px 360px at 95% -10%,rgba(124,140,255,.12),transparent 60%);}
+  body > section:nth-of-type(even){background:var(--bg-2);}
+
+  .casino-card{transition:transform .15s ease,box-shadow .15s ease,border-color .15s ease;}
+  .casino-card:hover{transform:translateY(-2px);box-shadow:var(--shadow);border-color:var(--secondary);}
+
+  .logo-box{border:1px solid var(--border);box-shadow:0 2px 8px rgba(0,0,0,.3);}
+
+  .bonus-text{font-size:14.5px;color:var(--text);font-weight:600;background:var(--gold-soft);border-left:3px solid var(--gold);padding:9px 12px;border-radius:0 8px 8px 0;margin-bottom:10px;}
+
+  .casino-card.featured-card{border-color:var(--gold);box-shadow:0 0 0 1px var(--gold),var(--shadow);position:relative;overflow:visible;}
+  .casino-card.featured-card::before{content:"★";position:absolute;top:-12px;left:20px;background:var(--gold);color:var(--bg);font-size:11px;font-weight:800;letter-spacing:.03em;text-transform:uppercase;padding:4px 11px;border-radius:999px;box-shadow:0 2px 8px rgba(0,0,0,.35);}
+  html[lang^="es"] .casino-card.featured-card::before{content:"★ Mejor oferta";}
+  html[lang^="en"] .casino-card.featured-card::before{content:"★ Top pick";}
+  html[lang^="fr"] .casino-card.featured-card::before{content:"★ Meilleure offre";}
+  @media (max-width:640px){ .casino-card.featured-card::before{top:-11px;left:14px;font-size:10px;padding:3px 9px;} }
+
+  .verify-legend-item{border-left:3px solid var(--border);}
+  .verify-legend-item:has(.verify-green){border-left-color:var(--green);}
+  .verify-legend-item:has(.verify-blue){border-left-color:var(--blue);}
+  .verify-legend-item:has(.verify-purple){border-left-color:var(--secondary);}
+  .verify-legend-item:has(.verify-gray){border-left-color:var(--text-dim);}
+
+  .article-card{transition:transform .15s ease,border-color .15s ease;}
+  .article-card:hover{transform:translateY(-2px);border-color:var(--secondary);}
+  .article-thumb{font-size:21px;font-weight:800;letter-spacing:.01em;font-family:'Sora',sans-serif;color:var(--text);}
+  .article-card:nth-of-type(3n+1) .article-thumb{background:linear-gradient(135deg,var(--gold-soft),var(--surface-2));}
+  .article-card:nth-of-type(3n+2) .article-thumb{background:linear-gradient(135deg,var(--secondary-soft),var(--surface-2));}
+  .article-card:nth-of-type(3n+3) .article-thumb{background:linear-gradient(135deg,var(--blue-soft),var(--surface-2));}
+
+  .geo-switch-footer a{transition:border-color .15s ease,color .15s ease;}
+  .geo-switch-footer a:hover{border-color:var(--gold);color:var(--gold);}
+  </style>
 
 </head>
 
