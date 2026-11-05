@@ -545,7 +545,12 @@
     "name": "1xCasino",
     "countries": [
       "ar",
-      "cl"
+      "cl",
+      "gh",
+      "ke",
+      "zm",
+      "bf",
+      "in"
     ],
     "scores": {
       "bonus": 4,
@@ -554,14 +559,24 @@
       "mobile": 3,
       "beginner": 3
     },
-    "_scores_note": "bonus score reflects the confirmed tiered welcome bonus below (real amounts in ARS/CLP, with wagering terms); payout/games/mobile/beginner are neutral placeholders -- GoClarivo has not independently verified these yet, adjust from your own judgment before relying on them.",
+    "_scores_note": "bonus score reflects the confirmed tiered welcome bonus below (real amounts in ARS/CLP, with wagering terms); payout/games/mobile/beginner are neutral placeholders -- GoClarivo has not independently verified these yet, adjust from your own judgment before relying on them. gh/ke/zm/bf/in use the site's standard honest 'in review' fallback since no country-specific bonus terms were supplied for those markets yet (only the referral links were) -- do not invent figures for them.",
     "bonus": {
       "ar": "Bono de bienvenida de hasta 200% y $2.900.000 ARS + 380 giros gratis, según el monto del depósito (desde $5.000 ARS, rollover x25). Código: GOCLARIVO.",
-      "cl": "Bono de bienvenida de hasta 200% y $2.150.000 CLP + 380 giros gratis, según el monto del depósito (desde $5.000 CLP, rollover x25). Código: GOCLARIVO."
+      "cl": "Bono de bienvenida de hasta 200% y $2.150.000 CLP + 380 giros gratis, según el monto del depósito (desde $5.000 CLP, rollover x25). Código: GOCLARIVO.",
+      "gh": "Bonus: in review — confirm current terms on the operator's site",
+      "ke": "Bonus: in review — confirm current terms on the operator's site",
+      "zm": "Bonus: in review — confirm current terms on the operator's site",
+      "bf": "Bonus : en cours de vérification — merci de confirmer les conditions actuelles sur le site de l'opérateur.",
+      "in": "Bonus: in review — confirm current terms on the operator's site"
     },
     "link": {
       "ar": "https://refpa94475.com/L?tag=d_6272048m_67279c_&site=6272048&ad=67279&r=registration",
-      "cl": "https://refpa94475.com/L?tag=d_6272048m_67279c_&site=6272048&ad=67279&r=registration"
+      "cl": "https://refpa94475.com/L?tag=d_6272048m_67279c_&site=6272048&ad=67279&r=registration",
+      "gh": "https://refpa94475.com/L?tag=d_6272048m_79149c_&site=6272048&ad=79149&r=registration",
+      "ke": "https://refpa94475.com/L?tag=d_6272048m_79149c_&site=6272048&ad=79149&r=registration",
+      "zm": "https://refpa94475.com/L?tag=d_6272048m_79149c_&site=6272048&ad=79149&r=registration",
+      "bf": "https://refpa94475.com/L?tag=d_6272048m_79149c_&site=6272048&ad=79149&r=registration",
+      "in": "https://refpa94475.com/L?tag=d_6272048m_76625c_&site=6272048&ad=76625&r=registration"
     },
     "logo_html": "<img src=\"/assets/img/1xcasino-logo.webp\" alt=\"1xCasino\" style=\"width:100%;height:100%;object-fit:contain;display:block;\">",
     "logo_box_style": "background:#000000;border:none;padding:0;overflow:hidden;",
