@@ -401,6 +401,20 @@
 
   .geo-switch-footer a{transition:border-color .15s ease,color .15s ease;}
   .geo-switch-footer a:hover{border-color:var(--gold);color:var(--gold);}
+  
+  /* ---------- visual refresh round 2 ---------- */
+  .rating-label{font-size:10.5px;font-weight:700;color:var(--text-dim);text-transform:uppercase;letter-spacing:.03em;}
+  .prose table tbody tr:nth-child(even){background:var(--surface-2);}
+  .review-panel b::before{content:"🔍 ";}
+
+  .sticky-cta{position:fixed;left:0;right:0;bottom:0;z-index:70;background:rgba(17,23,34,.97);backdrop-filter:blur(10px);border-top:1px solid var(--border);box-shadow:0 -8px 24px rgba(0,0,0,.35);padding:10px 16px;transform:translateY(110%);transition:transform .25s ease;display:none;}
+  .sticky-cta.visible{transform:translateY(0);}
+  .sticky-cta-inner{display:flex;align-items:center;justify-content:space-between;gap:12px;max-width:640px;margin:0 auto;}
+  .sticky-cta-label{font-size:12.5px;color:var(--text-dim);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+  .sticky-cta-label .gold-star{color:var(--gold);}
+  .sticky-cta-label b{color:var(--text);font-family:'Sora',sans-serif;}
+  .sticky-cta .btn{padding:9px 16px;font-size:13px;flex-shrink:0;}
+  @media (max-width:640px){ .sticky-cta{display:block;} }
   </style>
 <script type="application/ld+json">
 {
@@ -617,7 +631,7 @@
       <div class="logo-box" style="background:#0a3d7a;border:none;padding:0;overflow:hidden;"><img src="/assets/img/1xbet-logo.webp" alt="1xBet" style="width:100%;height:100%;object-fit:contain;display:block;"></div>
       <div class="casino-main">
         <div class="top-row">
-          <span class="name">1xBet</span>
+          <span class="name">1xBet</span><span class="rating"><span class="stars">★★★★☆</span><span class="rating-label">Bono</span></span>
         </div>
         <div class="bonus-text">Bono: en revisión — confirma las condiciones vigentes en el sitio del operador. Código: GOCLARIVO.</div>
 <a class="verify-link" href="/ec/methodology/" style="display:inline-block;margin-top:8px;">¿Cómo verificamos a los operadores?</a> <a class="review-link" href="/ec/resenas/1xbet/" style="display:inline-block;margin-top:8px;margin-left:10px;">Leer reseña &rarr;</a>
@@ -630,7 +644,7 @@
       <div class="logo-box" style="background:#ffffff;border:none;padding:10px;overflow:hidden;"><img src="/assets/img/melbet-logo.jpg" alt="Melbet" style="width:100%;height:100%;object-fit:contain;"></div>
       <div class="casino-main">
         <div class="top-row">
-          <span class="name">Melbet</span>
+          <span class="name">Melbet</span><span class="rating"><span class="stars">★★★☆☆</span><span class="rating-label">Bono</span></span>
         </div>
         <div class="bonus-text">Casino: hasta 1.170 USD + 220 giros gratis en los 3 primeros depósitos (hasta 390 USD por depósito). Depósito mínimo 10 USD. Deportes: 100% hasta 100 USD en el primer depósito. Depósito mínimo 1 USD. Código: GOCLARIVO.</div>
 <a class="verify-link" href="/ec/methodology/" style="display:inline-block;margin-top:8px;">¿Cómo verificamos a los operadores?</a> <a class="review-link" href="/ec/resenas/melbet/" style="display:inline-block;margin-top:8px;margin-left:10px;">Leer reseña &rarr;</a>
@@ -891,5 +905,7 @@
 </footer>
 
 <script defer src="/assets/js/quiz.js" data-geo="ec" data-locale="es-EC" data-currency="USD"></script>
+<div class="sticky-cta" id="stickyCta"><div class="sticky-cta-inner"><span class="sticky-cta-label"><span class="gold-star">★</span> <b>1xBet</b></span><a class="btn" href="/go/1xbet/" rel="sponsored nofollow" target="_blank">Ir al casino</a></div></div>
+<script>(function(){var b=document.getElementById('stickyCta');if(!b)return;var hero=document.querySelector('.hero');var shown=false;function onScroll(){var y=window.scrollY||0;var trigger=hero?hero.offsetHeight:400;if(y>trigger&&!shown){b.classList.add('visible');shown=true;}else if(y<=trigger&&shown){b.classList.remove('visible');shown=false;}}window.addEventListener('scroll',onScroll,{passive:true});onScroll();})();</script>
 </body>
 </html>

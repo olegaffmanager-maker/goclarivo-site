@@ -491,6 +491,20 @@
 
   .geo-switch-footer a{transition:border-color .15s ease,color .15s ease;}
   .geo-switch-footer a:hover{border-color:var(--gold);color:var(--gold);}
+  
+  /* ---------- visual refresh round 2 ---------- */
+  .rating-label{font-size:10.5px;font-weight:700;color:var(--text-dim);text-transform:uppercase;letter-spacing:.03em;}
+  .prose table tbody tr:nth-child(even){background:var(--surface-2);}
+  .review-panel b::before{content:"🔍 ";}
+
+  .sticky-cta{position:fixed;left:0;right:0;bottom:0;z-index:70;background:rgba(17,23,34,.97);backdrop-filter:blur(10px);border-top:1px solid var(--border);box-shadow:0 -8px 24px rgba(0,0,0,.35);padding:10px 16px;transform:translateY(110%);transition:transform .25s ease;display:none;}
+  .sticky-cta.visible{transform:translateY(0);}
+  .sticky-cta-inner{display:flex;align-items:center;justify-content:space-between;gap:12px;max-width:640px;margin:0 auto;}
+  .sticky-cta-label{font-size:12.5px;color:var(--text-dim);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+  .sticky-cta-label .gold-star{color:var(--gold);}
+  .sticky-cta-label b{color:var(--text);font-family:'Sora',sans-serif;}
+  .sticky-cta .btn{padding:9px 16px;font-size:13px;flex-shrink:0;}
+  @media (max-width:640px){ .sticky-cta{display:block;} }
   </style>
 </head>
 <body>
@@ -605,7 +619,7 @@
       <div class="logo-box" style="background:#0a3d7a;border:none;padding:0;overflow:hidden;"><img src="/assets/img/1xbet-logo.webp" alt="1xBet" style="width:100%;height:100%;object-fit:contain;display:block;"></div>
       <div class="casino-main">
         <div class="top-row">
-          <span class="name">1xBet</span>
+          <span class="name">1xBet</span><span class="rating"><span class="stars">★★★★☆</span><span class="rating-label">Bono</span></span>
         </div>
         <div class="bonus-text">Bono: en revisión — confirma las condiciones vigentes en el sitio del operador</div>
 <a class="verify-link" href="/es/methodology/" style="display:inline-block;margin-top:8px;">¿Cómo verificamos a los operadores?</a>
@@ -662,7 +676,7 @@
 </svg></div>
       <div class="casino-main">
         <div class="top-row">
-          <span class="name">Spinania</span>
+          <span class="name">Spinania</span><span class="rating"><span class="stars">★★★★☆</span><span class="rating-label">Bono</span></span>
         </div>
         <div class="bonus-text">Bono: en revisión — confirma las condiciones vigentes en el sitio del operador</div>
 <a class="verify-link" href="/es/methodology/" style="display:inline-block;margin-top:8px;">¿Cómo verificamos a los operadores?</a>
@@ -713,7 +727,7 @@
 </svg></div>
       <div class="casino-main">
         <div class="top-row">
-          <span class="name">NeedForSlots</span>
+          <span class="name">NeedForSlots</span><span class="rating"><span class="stars">★★★☆☆</span><span class="rating-label">Bono</span></span>
         </div>
         <div class="bonus-text">Bono: en revisión — confirma las condiciones vigentes en el sitio del operador</div>
 <a class="verify-link" href="/es/methodology/" style="display:inline-block;margin-top:8px;">¿Cómo verificamos a los operadores?</a>
@@ -724,7 +738,7 @@
       <div class="logo-box" style="background:#1a1a2e;border:none;padding:0;overflow:hidden;"><svg viewBox="0 0 64 64" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="DragonSlots"><text x="32" y="39" text-anchor="middle" font-family="Sora, system-ui, sans-serif" font-weight="800" font-size="12" fill="#ffffff">Dragon<tspan fill="#ff5b5b">Slots</tspan></text></svg></div>
       <div class="casino-main">
         <div class="top-row">
-          <span class="name">DragonSlots</span>
+          <span class="name">DragonSlots</span><span class="rating"><span class="stars">★★★☆☆</span><span class="rating-label">Bono</span></span>
         </div>
         <div class="bonus-text">Bono: en revisión — confirma las condiciones vigentes en el sitio del operador</div>
 <a class="verify-link" href="/es/methodology/" style="display:inline-block;margin-top:8px;">¿Cómo verificamos a los operadores?</a>
@@ -745,7 +759,7 @@
 </svg></div>
       <div class="casino-main">
         <div class="top-row">
-          <span class="name">Betlabel</span>
+          <span class="name">Betlabel</span><span class="rating"><span class="stars">★★★☆☆</span><span class="rating-label">Bono</span></span>
         </div>
         <div class="bonus-text">100% hasta 100 EUR (rollover 5x, depósito mín. 1 EUR)</div>
 <a class="verify-link" href="/es/methodology/" style="display:inline-block;margin-top:8px;">¿Cómo verificamos a los operadores?</a>
@@ -774,7 +788,7 @@
 </svg></div>
       <div class="casino-main">
         <div class="top-row">
-          <span class="name">22bet</span>
+          <span class="name">22bet</span><span class="rating"><span class="stars">★★★☆☆</span><span class="rating-label">Bono</span></span>
         </div>
         <div class="bonus-text">100% hasta 122 EUR (rollover 5x, depósito mín. 1 EUR)</div>
 <a class="verify-link" href="/es/methodology/" style="display:inline-block;margin-top:8px;">¿Cómo verificamos a los operadores?</a>
@@ -875,5 +889,7 @@
   </div>
 </footer>
 
+<div class="sticky-cta" id="stickyCta"><div class="sticky-cta-inner"><span class="sticky-cta-label"><span class="gold-star">★</span> <b>1xBet</b></span><a class="btn" href="/go/1xbet/" rel="sponsored nofollow" target="_blank">Ver oferta</a></div></div>
+<script>(function(){var b=document.getElementById('stickyCta');if(!b)return;var hero=document.querySelector('.hero');var shown=false;function onScroll(){var y=window.scrollY||0;var trigger=hero?hero.offsetHeight:400;if(y>trigger&&!shown){b.classList.add('visible');shown=true;}else if(y<=trigger&&shown){b.classList.remove('visible');shown=false;}}window.addEventListener('scroll',onScroll,{passive:true});onScroll();})();</script>
 </body>
 </html>

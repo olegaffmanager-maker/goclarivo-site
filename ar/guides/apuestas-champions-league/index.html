@@ -464,6 +464,20 @@
 
   .geo-switch-footer a{transition:border-color .15s ease,color .15s ease;}
   .geo-switch-footer a:hover{border-color:var(--gold);color:var(--gold);}
+  
+  /* ---------- visual refresh round 2 ---------- */
+  .rating-label{font-size:10.5px;font-weight:700;color:var(--text-dim);text-transform:uppercase;letter-spacing:.03em;}
+  .prose table tbody tr:nth-child(even){background:var(--surface-2);}
+  .review-panel b::before{content:"🔍 ";}
+
+  .sticky-cta{position:fixed;left:0;right:0;bottom:0;z-index:70;background:rgba(17,23,34,.97);backdrop-filter:blur(10px);border-top:1px solid var(--border);box-shadow:0 -8px 24px rgba(0,0,0,.35);padding:10px 16px;transform:translateY(110%);transition:transform .25s ease;display:none;}
+  .sticky-cta.visible{transform:translateY(0);}
+  .sticky-cta-inner{display:flex;align-items:center;justify-content:space-between;gap:12px;max-width:640px;margin:0 auto;}
+  .sticky-cta-label{font-size:12.5px;color:var(--text-dim);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+  .sticky-cta-label .gold-star{color:var(--gold);}
+  .sticky-cta-label b{color:var(--text);font-family:'Sora',sans-serif;}
+  .sticky-cta .btn{padding:9px 16px;font-size:13px;flex-shrink:0;}
+  @media (max-width:640px){ .sticky-cta{display:block;} }
   </style>
 </head>
 <body class="article-page">
@@ -568,7 +582,7 @@
       <div class="logo-box" style="background:#0a3d7a;border:none;padding:0;overflow:hidden;"><img src="/assets/img/1xbet-logo.webp" alt="1xBet" style="width:100%;height:100%;object-fit:contain;display:block;"></div>
       <div class="casino-main">
         <div class="top-row">
-          <span class="name">1xBet</span>
+          <span class="name">1xBet</span><span class="rating"><span class="stars">★★★★☆</span><span class="rating-label">Bono</span></span>
         </div>
         <div class="bonus-text">Bono del 100%, hasta $2.130.000 más 150 Giros Gratis por sus 4 primeros depósitos</div>
 <a class="verify-link" href="/ar/methodology/" style="display:inline-block;margin-top:8px;">¿Cómo verificamos a los operadores?</a>
@@ -579,7 +593,7 @@
       <div class="logo-box" style="background:#141518;border:none;padding:0;overflow:hidden;"><svg viewBox="0 0 64 64" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="20Bet"><text x="32" y="39" text-anchor="middle" font-family="Sora, system-ui, sans-serif" font-weight="800" font-size="16" fill="#ffffff">20<tspan fill="#ffb020">Bet</tspan></text></svg></div>
       <div class="casino-main">
         <div class="top-row">
-          <span class="name">20Bet</span>
+          <span class="name">20Bet</span><span class="rating"><span class="stars">★★★☆☆</span><span class="rating-label">Bono</span></span>
         </div>
         <div class="bonus-text">Bono de 100% hasta 120 &euro;/$ + 120 Giros Gratis (hasta 500 CAD, 500 PLN, 200 NZD) + Juego de Bono</div>
 <a class="verify-link" href="/ar/methodology/" style="display:inline-block;margin-top:8px;">¿Cómo verificamos a los operadores?</a>
