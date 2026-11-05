@@ -11,17 +11,15 @@
       var params = new URLSearchParams(window.location.search);
       if (params.get('nogeo') === '1') return; // ?nogeo=1 always shows the picker
       var map = {
-        'de': '/de/',
         'es-es': '/es/',
         'es-mx': '/mx/',
         'es-ar': '/ar/',
         'es-pe': '/pe/',
         'es-bo': '/bo/',
         'es-cl': '/cl/',
-        'it': '/it/',
+        'es-ec': '/ec/',
         'en-in': '/in/',
         'fr-bf': '/bf/',
-        'pt-pt': '/pt/',
         'en-gh': '/gh/',
         'en-ke': '/ke/',
         'en-zm': '/zm/'
@@ -58,18 +56,16 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
-<link rel="alternate" hreflang="de-DE" href="https://goclarivo.bet/de/">
 <link rel="alternate" hreflang="es-ES" href="https://goclarivo.bet/es/">
 <link rel="alternate" hreflang="es-MX" href="https://goclarivo.bet/mx/">
 <link rel="alternate" hreflang="es-AR" href="https://goclarivo.bet/ar/">
-<link rel="alternate" hreflang="it-IT" href="https://goclarivo.bet/it/">
 <link rel="alternate" hreflang="es-PE" href="https://goclarivo.bet/pe/">
+<link rel="alternate" hreflang="es-EC" href="https://goclarivo.bet/ec/">
 <link rel="alternate" hreflang="es-BO" href="https://goclarivo.bet/bo/">
 <link rel="alternate" hreflang="es-CL" href="https://goclarivo.bet/cl/">
 <link rel="alternate" hreflang="en" href="https://goclarivo.bet/en/">
 <link rel="alternate" hreflang="en-IN" href="https://goclarivo.bet/in/">
 <link rel="alternate" hreflang="fr-BF" href="https://goclarivo.bet/bf/">
-<link rel="alternate" hreflang="pt-PT" href="https://goclarivo.bet/pt/">
 <link rel="alternate" hreflang="en-GH" href="https://goclarivo.bet/gh/">
 <link rel="alternate" hreflang="en-KE" href="https://goclarivo.bet/ke/">
 <link rel="alternate" hreflang="en-ZM" href="https://goclarivo.bet/zm/">
@@ -206,11 +202,11 @@
 <body>
 <svg aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden" xmlns="http://www.w3.org/2000/svg">
 <defs>
-<symbol id="flag-de" viewBox="0 0 20 15"><rect width="20" height="15" fill="#FFCE00"/><rect width="20" height="10" fill="#DD0000"/><rect width="20" height="5" fill="#000000"/></symbol>
+<symbol id="flag-ec" viewBox="0 0 20 15"><rect width="20" height="15" fill="#FFD100"/><rect y="7.5" width="20" height="7.5" fill="#034EA2"/><rect y="11.25" width="20" height="3.75" fill="#EF3340"/></symbol>
 <symbol id="flag-es" viewBox="0 0 20 15"><rect width="20" height="15" fill="#AA151B"/><rect y="3.75" width="20" height="7.5" fill="#F1BF00"/></symbol>
 <symbol id="flag-mx" viewBox="0 0 20 15"><rect width="20" height="15" fill="#FFFFFF"/><rect width="6.67" height="15" fill="#006847"/><rect x="13.33" width="6.67" height="15" fill="#CE1126"/><circle cx="10" cy="7.5" r="1.6" fill="#8B5A2B" opacity="0.85"/></symbol>
 <symbol id="flag-ar" viewBox="0 0 20 15"><rect width="20" height="15" fill="#FFFFFF"/><rect width="20" height="5" fill="#74ACDF"/><rect y="10" width="20" height="5" fill="#74ACDF"/><circle cx="10" cy="7.5" r="1.7" fill="#F6B40E" stroke="#85340A" stroke-width="0.3"/></symbol>
-<symbol id="flag-it" viewBox="0 0 20 15"><rect width="20" height="15" fill="#FFFFFF"/><rect width="6.67" height="15" fill="#009246"/><rect x="13.33" width="6.67" height="15" fill="#CE2B37"/></symbol>
+
 <symbol id="flag-pe" viewBox="0 0 20 15"><rect width="20" height="15" fill="#FFFFFF"/><rect width="6.67" height="15" fill="#D91023"/><rect x="13.33" width="6.67" height="15" fill="#D91023"/></symbol>
 <symbol id="flag-bo" viewBox="0 0 20 15"><rect width="20" height="15" fill="#F9E300"/><rect width="20" height="5" fill="#D52B1E"/><rect y="10" width="20" height="5" fill="#007934"/></symbol>
 <symbol id="flag-cl" viewBox="0 0 20 15"><rect width="20" height="15" fill="#FFFFFF"/><rect y="7.5" width="20" height="7.5" fill="#D52B1E"/><rect width="8" height="7.5" fill="#0039A6"/><polygon points="4,2.15 4.425,3.35 5.7,3.35 4.65,4.125 5.025,5.35 4,4.6 2.975,5.35 3.35,4.125 2.3,3.35 3.575,3.35" fill="#FFFFFF"/></symbol>
@@ -222,12 +218,11 @@
     <h1 style="font-family:'Sora',system-ui,sans-serif;font-size:20px;font-weight:700;margin:2px 0 10px;color:var(--text);">GoClarivo — choose your country</h1>
     <p class="lead">Independent online casino comparisons. Choose your region / Elige tu región / Wähle deine Region.</p>
     <div class="geo-grid">
-      <a href="/de/"><svg class="flag-icon"><use href="#flag-de"/></svg><span>Deutschland</span></a>
       <a href="/es/"><svg class="flag-icon"><use href="#flag-es"/></svg><span>España</span></a>
       <a href="/mx/"><svg class="flag-icon"><use href="#flag-mx"/></svg><span>México</span></a>
       <a href="/ar/"><svg class="flag-icon"><use href="#flag-ar"/></svg><span>Argentina</span></a>
-      <a href="/it/"><svg class="flag-icon"><use href="#flag-it"/></svg><span>Italia</span></a>
       <a href="/pe/"><svg class="flag-icon"><use href="#flag-pe"/></svg><span>Perú</span></a>
+      <a href="/ec/"><svg class="flag-icon"><use href="#flag-ec"/></svg><span>Ecuador</span></a>
       <a href="/bo/"><svg class="flag-icon"><use href="#flag-bo"/></svg><span>Bolivia</span></a>
       <a href="/cl/"><svg class="flag-icon"><use href="#flag-cl"/></svg><span>Chile</span></a>
       <a href="/en/"><svg class="flag-icon"><use href="#flag-en"/></svg><span>International</span></a>
