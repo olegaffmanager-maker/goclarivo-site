@@ -61,54 +61,6 @@
       beginnerTip: "¿Nuevo en los casinos online? Nuestra guía para elegir tu primer casino explica qué revisar antes de registrarte.",
       beginnerTipLink: "Cómo elegir tu primer casino online"
     },
-    de: {
-      bestMatch: "Beste Übereinstimmung",
-      retake: "Quiz wiederholen",
-      seeAll: "Alle verglichenen Casinos ansehen",
-      resultsHeading: "Deine Treffer",
-      noResultsTitle: "Noch kein verglichener Anbieter für dein Land",
-      noResults: "Für dein Land gibt es in diesem Quiz noch keinen verglichenen Anbieter. Sieh dir den vollständigen Vergleich unten an.",
-      reasonBonus: "Hier am besten bewertet für den Bonuswert.",
-      reasonGeneric: "Einer der Anbieter, die wir aktuell für dein Land vergleichen.",
-      cta: "Zum Casino",
-      disclosure: "Dies nutzt dieselben Vergleichsdaten wie die Liste oben. GoClarivo kann von diesen Anbietern eine Provision erhalten -- das beeinflusst nicht, welcher zuerst angezeigt wird. Details: ",
-      disclosureLink: "redaktionelle Richtlinie",
-      disclosureHref: "/de/editorial-policy/",
-      beginnerTip: "Neu bei Online-Casinos? Unser Leitfaden zeigt, worauf du vor der Anmeldung achten solltest.",
-      beginnerTipLink: "Wie man ein seriöses Casino erkennt"
-    },
-    it: {
-      bestMatch: "Il migliore per te",
-      retake: "Rifai il quiz",
-      seeAll: "Vedi tutti i casinò comparati",
-      resultsHeading: "I tuoi risultati",
-      noResultsTitle: "Ancora nessun operatore comparato per il tuo paese",
-      noResults: "Per il tuo paese non abbiamo ancora un operatore comparato in questo quiz. Guarda il confronto completo qui sotto.",
-      reasonBonus: "Il punteggio più alto qui per il valore del bonus.",
-      reasonGeneric: "Uno degli operatori che confrontiamo attualmente per il tuo paese.",
-      cta: "Vai al casinò",
-      disclosure: "Questo usa gli stessi dati di confronto della lista sopra. GoClarivo potrebbe ricevere una commissione da questi operatori -- questo non influisce su quale viene mostrato per primo. Dettagli: ",
-      disclosureLink: "policy editoriale",
-      disclosureHref: "/it/editorial-policy/",
-      beginnerTip: "Nuovo nei casinò online? La nostra guida spiega cosa controllare prima di registrarti.",
-      beginnerTipLink: "Come riconoscere un casinò affidabile"
-    },
-    pt: {
-      bestMatch: "Melhor opção",
-      retake: "Refazer o quiz",
-      seeAll: "Ver todos os casinos comparados",
-      resultsHeading: "Os seus resultados",
-      noResultsTitle: "Ainda não há um operador comparado para o seu país",
-      noResults: "Ainda não temos um operador comparado para o seu país neste quiz. Veja a comparação completa abaixo.",
-      reasonBonus: "O mais bem pontuado aqui pelo valor do bónus.",
-      reasonGeneric: "Um dos operadores que comparamos atualmente para o seu país.",
-      cta: "Ir para o casino",
-      disclosure: "Isto usa os mesmos dados de comparação da lista acima. A GoClarivo pode receber uma comissão destes operadores -- isto não influencia qual é mostrado primeiro. Mais detalhe: ",
-      disclosureLink: "política editorial",
-      disclosureHref: "/pt/editorial-policy/",
-      beginnerTip: "Novo nos casinos online? O nosso guia explica o que verificar antes de se registar.",
-      beginnerTipLink: "Como reconhecer um casino de confiança"
-    },
     fr: {
       bestMatch: "Meilleur choix",
       retake: "Refaire le quiz",
@@ -131,10 +83,10 @@
   // only shown when answers.experience === "beginner". Every URL below is an
   // already-published guide page on this geo -- never a new or invented one.
   // en-language geos (en/gh/in/ke/zm) share the same English slug; the
-  // es-language geos (es/ar/bo/cl/mx/pe) share the same Spanish slug; de/it
-  // have their own guide under a geo-specific slug; pt/bf don't have a
-  // "first casino" guide, so they link to their closest equivalent
-  // ("how to recognize a trustworthy casino") instead -- never a guessed path.
+  // es-language geos (es/ar/bo/cl/mx/pe/py) share the same Spanish slug;
+  // bf doesn't have a "first casino" guide, so it links to its closest
+  // equivalent ("how to recognize a trustworthy casino") instead -- never a
+  // guessed path.
   var BEGINNER_GUIDE = {
     en: "/en/guides/how-to-choose-your-first-online-casino/",
     gh: "/gh/guides/how-to-choose-your-first-online-casino/",
@@ -147,14 +99,12 @@
     cl: "/cl/guides/como-elegir-tu-primer-casino-online/",
     mx: "/mx/guides/como-elegir-tu-primer-casino-online/",
     pe: "/pe/guides/como-elegir-tu-primer-casino-online/",
-    de: "/de/guides/casino-seriositaet-erkennen/",
-    it: "/it/guides/come-riconoscere-casino-affidabile/",
-    pt: "/pt/guides/how-to-recognize-a-trustworthy-online-casino/",
+    py: "/py/guides/como-elegir-tu-primer-casino-online/",
     bf: "/bf/guides/how-to-recognize-a-trustworthy-online-casino/"
   };
 
   function lang() {
-    var m = { es: "es", en: "en", de: "de", it: "it", fr: "fr", pt: "pt" };
+    var m = { es: "es", en: "en", fr: "fr" };
     var l = (document.documentElement.lang || "en").split("-")[0];
     return m[l] || "en";
   }

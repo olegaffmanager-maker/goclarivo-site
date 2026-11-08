@@ -1,0 +1,13 @@
+# Cloudflare Pages redirects (https://developers.cloudflare.com/pages/configuration/redirects/).
+# These geo sections were removed from the site; send any lingering inbound
+# links or bookmarks to a live equivalent instead of letting them 404.
+
+# German, Italian and Portuguese were never launched as separate geos --
+# send them to the country picker so visitors can pick a real match.
+/de/*  /  301
+/it/*  /  301
+/pt/*  /  301
+
+# French content now lives only under /bf/ (Burkina Faso); the old
+# standalone /fr/ section has been removed.
+/fr/*  /bf/  301
