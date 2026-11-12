@@ -465,6 +465,7 @@ header{background:rgba(11,16,32,.82);box-shadow:0 4px 24px rgba(3,6,20,.45);}
 .stat b{background:linear-gradient(90deg,#7aa2ff,#c18bff);-webkit-background-clip:text;background-clip:text;color:transparent;-webkit-text-fill-color:transparent;}
 .casino-card{background:linear-gradient(180deg,#ffffff0b,#ffffff06),var(--surface);}
 .casino-card.featured-card{box-shadow:0 0 0 1px #7aa2ff,0 10px 34px rgba(91,131,255,.18);}
+.stats-row{grid-template-columns:repeat(auto-fit,minmax(180px,300px));}
 @media (max-width:900px){.hero .wrap.hero-grid{grid-template-columns:1fr;gap:28px;}.hero h1{font-size:32px;}.hero{padding:36px 0 24px;}}
 </style>
 <script type="application/ld+json">
@@ -619,7 +620,6 @@ header{background:rgba(11,16,32,.82);box-shadow:0 4px 24px rgba(3,6,20,.45);}
     <p class="lead">Licencias, pagos, juegos y condiciones de bono — comparados con una metodología transparente.</p>
     <div class="hero-cta"><a class="btn" href="#top-list">Explorar casinos</a><a class="btn btn-ghost" href="#quiz">Encontrar Mi Casino</a><a class="btn btn-ghost" href="#how-we-rate">Cómo evaluamos →</a></div>
     <div class="stats-row"><div class="stat"><b>05</b><span>Criterios de evaluación</span></div>
-      <div class="stat"><b id="hero-last-verified-date">27 de octubre de 2026</b><span>Última verificación</span></div>
     </div>
     </div>
     <aside class="hero-side"><div class="hero-glass"><div class="hg-title">Cada dato en GoClarivo lleva una de estas cuatro etiquetas.</div><div class="hg-item"><span class="hg-dot verify-green"></span><div class="hg-name">Licencia verificada</div><div class="hg-desc">Confirmado mediante una fuente oficial o una comprobación independiente.</div></div><div class="hg-item"><span class="hg-dot verify-blue"></span><div class="hg-name">Dato del operador</div><div class="hg-desc">Proporcionado por el operador, aún sin confirmar de forma independiente.</div></div><div class="hg-item"><span class="hg-dot verify-purple"></span><div class="hg-name">Editorial</div><div class="hg-desc">Valoración propia del equipo editorial de GoClarivo.</div></div><div class="hg-item"><span class="hg-dot verify-gray"></span><div class="hg-name">Aún no verificado</div><div class="hg-desc">Todavía no se ha confirmado.</div></div></div><div class="hero-pick"><div class="logo-box" style="background:#0a3d7a;border:none;padding:0;overflow:hidden;"><img src="/assets/img/1xbet-logo.webp" alt="1xBet" style="width:100%;height:100%;object-fit:contain;display:block;"></div><div class="hp-name">1xBet</div><span class="rating"><span class="stars">★★★★☆</span><span class="rating-label">Bono</span></span><div class="hp-bonus">Bono: en revisión — confirma las condiciones vigentes en el sitio del operador. Código: GOCLARIVO.</div><a class="btn" href="/go/1xbet/" rel="sponsored nofollow" target="_blank">Ir al casino</a></div></aside>
@@ -886,7 +886,7 @@ header{background:rgba(11,16,32,.82);box-shadow:0 4px 24px rgba(3,6,20,.45);}
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
         ¿Con qué frecuencia actualizan las reseñas? <span class="faq-icon">+</span>
       </div>
-      <div class="faq-a"><p>Cada ficha muestra una fecha de «última verificación». Revisamos la información publicada de forma periódica y en cuanto se nos notifica un cambio; por ahora no existe un ciclo automático fijo.</p></div>
+      <div class="faq-a"><p>Revisamos la información publicada de forma periódica y en cuanto se nos notifica un cambio; por ahora no existe un ciclo automático fijo.</p></div>
     </div>
     <div class="faq-item">
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
