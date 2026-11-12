@@ -479,6 +479,7 @@ header{background:rgba(11,16,32,.82);box-shadow:0 4px 24px rgba(3,6,20,.45);}
 .stat b{background:linear-gradient(90deg,#7aa2ff,#c18bff);-webkit-background-clip:text;background-clip:text;color:transparent;-webkit-text-fill-color:transparent;}
 .casino-card{background:linear-gradient(180deg,#ffffff0b,#ffffff06),var(--surface);}
 .casino-card.featured-card{box-shadow:0 0 0 1px #7aa2ff,0 10px 34px rgba(91,131,255,.18);}
+.stats-row{grid-template-columns:repeat(auto-fit,minmax(180px,300px));}
 @media (max-width:900px){.hero .wrap.hero-grid{grid-template-columns:1fr;gap:28px;}.hero h1{font-size:32px;}.hero{padding:36px 0 24px;}}
 </style>
 <script type="application/ld+json">
@@ -642,7 +643,6 @@ header{background:rgba(11,16,32,.82);box-shadow:0 4px 24px rgba(3,6,20,.45);}
     </div>
 
     <div class="stats-row">      <div class="stat"><b>05</b><span>Rating criteria</span></div>
-      <div class="stat"><b id="hero-last-verified-date">November 12, 2026</b><span>Last verified</span></div>
     </div>
 
     <!-- Thin progress bar, visual only -- doesn't restate the numbers above, just reinforces them. -->
@@ -1019,7 +1019,7 @@ header{background:rgba(11,16,32,.82);box-shadow:0 4px 24px rgba(3,6,20,.45);}
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
         How often do you update reviews? <span class="faq-icon">+</span>
       </div>
-      <div class="faq-a"><p>Every profile shows a "last verified" date. We re-check published information periodically and whenever we're notified of a change — there isn't yet a fixed, automated cycle.</p></div>
+      <div class="faq-a"><p>We re-check published information periodically and whenever we're notified of a change — there isn't yet a fixed, automated cycle.</p></div>
     </div>
     <div class="faq-item">
       <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">
