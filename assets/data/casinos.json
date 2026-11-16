@@ -571,6 +571,39 @@
     "verified": true
   },
   {
+    "id": "paripesa",
+    "name": "PariPesa",
+    "countries": [
+      "ke",
+      "gh",
+      "zm",
+      "bf"
+    ],
+    "scores": {
+      "bonus": 3,
+      "payout": 3,
+      "games": 3,
+      "mobile": 3,
+      "beginner": 3
+    },
+    "_scores_note": "All scores are neutral placeholders. Bonus amounts, payment methods, minimums and payout time come from the operator (16.11.2026); no wagering terms were supplied, so none are shown. 21+ disclaimer is mandatory for these markets.",
+    "bonus": {
+      "ke": "Sports bonus: 18,000 KES · Casino bonus: 200,000 KES (operator data). Deposit from 10 KES and withdraw from 150 KES via M-Pesa or Airtel; payouts in about 15 minutes. 21+ only.",
+      "gh": "Sports bonus: 2,200 GHS · Casino bonus: 25,000 GHS (operator data). Deposit from 5 GHS and withdraw from 10 GHS via MTN, Vodafone or AirtelTigo; payouts in about 15 minutes. 21+ only.",
+      "zm": "Sports bonus: 3,700 ZMW · Casino bonus: 40,000 ZMW (operator data). Deposit from 1 ZMW and withdraw from 1 ZMW via Airtel, MTN or Zamtel; payouts in about 15 minutes. 21+ only.",
+      "bf": "Bonus paris sportifs : 85 000 XOF · Bonus casino : 975 000 XOF (données de l’opérateur). Dépôt dès 100 XOF et retrait dès 500 XOF via Orange Money ou Wave ; paiements en 15 minutes environ. Réservé aux 21 ans et plus."
+    },
+    "link": {
+      "ke": "https://paripesa.bet/goclarivocas",
+      "gh": "https://paripesa.bet/goclarivocas",
+      "zm": "https://paripesa.bet/goclarivocas",
+      "bf": "https://paripesa.bet/goclarivocas"
+    },
+    "logo_html": "<span style=\"display:flex;align-items:center;justify-content:center;width:100%;height:100%;font-weight:800;font-size:11px;line-height:1.05;text-align:center;color:#ffffff;\">Pari<br>Pesa</span>",
+    "logo_box_style": "background:#1b2a4a;border:none;padding:0;overflow:hidden;",
+    "verified": true
+  },
+  {
     "id": "betwinner",
     "name": "Betwinner",
     "countries": [
