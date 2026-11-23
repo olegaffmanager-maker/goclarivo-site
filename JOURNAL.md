@@ -22,3 +22,4 @@
 - Сборка: 1558 страниц (AR 500, ES 224, MX 186, EC 161, CL 157, BO 154, PY 96, PE 15, /futbol/ 67), битых внутренних ссылок 0. Перу пока пустое: Liga 1 нет в линии 1xBet (межсезонье) → добавлен фиксированный tournamentId 2892390 для результатов, заполнится при следующем прогоне.
 - Чили — с 1xBet (решение Олега).
 - 23.11 19:14: Олег поставил ONEXBET_CLIENT_ID / ONEXBET_CLIENT_SECRET / ONEXBET_REF (Secret, Production) в Cloudflare Pages → деплой этим коммитом, чтобы /api/live их подхватил.
+- 23.11 19:17: sitemap-futbol.xml отправлен в Search Console — «Успешно», 1758 URL. Живой счёт /api/live работает (estado ok); из лайва убраны виртуальные/киберфутбол.
