@@ -3,7 +3,7 @@
 // Sin variables responde una lista vacía (las páginas siguen funcionando). Caché 30 s.
 const API = 'https://cpservm.com/gateway';
 const KEEP = /^(argentina|mexico|chile|peru|ecuador|bolivia|paraguay|espana)\.|libertadores|sudamericana|^liga de campeones de la uefa$|^uefa champions league$|^inglaterra\. premier league$/;
-const SKIP = /femen|women|\(f\)|reserv|sub-?\d|u-?\d\d|juvenil/;
+const SKIP = /femen|women|\(f\)|reserv|sub-?\d|u-?\d\d|juvenil|virtual|ecomp|e-?sport|cyber|fifa|4x4|5x5|short/;
 const slug = (s) => String(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const low = (x) => String(x || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().trim();
 let TOK = null, TOKX = 0, MEM = null, MEMX = 0, STAT = '', NALL = 0;
@@ -28,7 +28,7 @@ async function live(env) {
   if (!r.ok) { STAT = 'api-' + r.status; return []; }
   const j = await r.json();
   STAT = 'ok'; NALL = (j.items || []).length;
-  return (j.items || []).filter((e) => { const t = low(e.tournamentNameLocalization); return KEEP.test(t) && !SKIP.test(t); })
+  return (j.items || []).filter((e) => { const t = low(e.tournamentNameLocalization); return KEEP.test(t) && !SKIP.test(t) && !/virtual|esports|\(e\)/i.test((e.opponent1NameLocalization || '') + (e.opponent2NameLocalization || '')); })
     .map((e) => ({ k: slug(e.opponent1NameLocalization) + '|' + slug(e.opponent2NameLocalization), h: e.opponent1NameLocalization, a: e.opponent2NameLocalization, tn: e.tournamentNameLocalization, s: [(e.curScore || {}).sc1 || 0, (e.curScore || {}).sc2 || 0], min: e.timeSec ? Math.floor(e.timeSec / 60) : null, p: e.currentPeriodName || e.periodName || '', st: e.startDate }));
 }
 export async function onRequestGet({ request, env, waitUntil }) {
