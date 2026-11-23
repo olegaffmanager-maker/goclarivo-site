@@ -1,0 +1,331 @@
+{
+ "updated": "2026-11-23T15:57:47+00:00",
+ "groups": [
+  {
+   "key": "liga",
+   "name": "División Profesional de Bolivia",
+   "matches": [
+    {
+     "tournament": "Bolivia. Primera División",
+     "home": "Real Oruro",
+     "away": "Guabira",
+     "start": 1795460400,
+     "odds": {
+      "1": 1.46,
+      "X": 4.33,
+      "2": 5.25
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/7c17b3695b3ccfde40756fda2f98d68f.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/12dc2acb4625a7cdbfecc6d30af62ce5.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/2869549-Bolivia-Primera-Division/388719946-Real-Oruro-Guabira",
+     "eid": 769546624,
+     "tid": 2869549,
+     "coupon": {
+      "1": "K8LMJ",
+      "X": "68LMJ",
+      "2": "88LMJ"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.088,
+       "12": 1.128,
+       "X2": 2.34
+      },
+      "ou25": {
+       "o": 1.28,
+       "u": 3.08
+      },
+      "btts": {
+       "y": 1.39,
+       "n": 2.729
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1785014100,
+        "h": "Guabira",
+        "a": "Real Oruro",
+        "s": [
+         4,
+         1
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": false
+       },
+       {
+        "d": 1758844800,
+        "h": "Real Oruro",
+        "a": "Guabira",
+        "s": [
+         3,
+         6
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": true
+       },
+       {
+        "d": 1746900900,
+        "h": "Guabira",
+        "a": "Real Oruro",
+        "s": [
+         3,
+         1
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": false
+       }
+      ],
+      "f1": [
+       {
+        "d": 1794078000,
+        "o": "Gualberto Villarroel",
+        "gf": 3,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1793473200,
+        "o": "Nacional Potosí",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1792954800,
+        "o": "Always Ready",
+        "gf": 1,
+        "ga": 5,
+        "dom": false
+       },
+       {
+        "d": 1792263600,
+        "o": "Club Aurora",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1791658800,
+        "o": "Universitario de Vinto",
+        "gf": 3,
+        "ga": 1,
+        "dom": false
+       }
+      ],
+      "f2": [
+       {
+        "d": 1794094200,
+        "o": "San Antonio Bulo Bulo",
+        "gf": 5,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793567700,
+        "o": "Bolivar",
+        "gf": 1,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1793052000,
+        "o": "Nacional Potosí",
+        "gf": 0,
+        "ga": 3,
+        "dom": false
+       },
+       {
+        "d": 1792366200,
+        "o": "Oriente Petrolero",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1791831600,
+        "o": "Gualberto Villarroel",
+        "gf": 1,
+        "ga": 4,
+        "dom": false
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "Bolivia. Primera División",
+     "home": "Universitario de Vinto",
+     "away": "Gualberto Villarroel",
+     "start": 1795468500,
+     "odds": {
+      "1": 1.51,
+      "X": 4.1,
+      "2": 4.995
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/089b36cb795ece824e5eb5b82b8109c6.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/01120978e61d687168fea2f4a17c35f3.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/2869549-Bolivia-Primera-Division/389370982-Universitario-de-Vinto-Gualberto-Villarroel",
+     "eid": 770043711,
+     "tid": 2869549,
+     "coupon": {
+      "1": "JAMMJ",
+      "X": "8AMMJ"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.1,
+       "12": 1.145,
+       "X2": 2.22
+      },
+      "ou25": {
+       "o": 1.44,
+       "u": 2.43
+      },
+      "btts": {
+       "y": 1.53,
+       "n": 2.321
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1785178800,
+        "h": "Gualberto Villarroel",
+        "a": "Universitario de Vinto",
+        "s": [
+         2,
+         1
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": false
+       },
+       {
+        "d": 1765661400,
+        "h": "Gualberto Villarroel",
+        "a": "Universitario de Vinto",
+        "s": [
+         5,
+         0
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": false
+       },
+       {
+        "d": 1752969600,
+        "h": "Universitario de Vinto",
+        "a": "Gualberto Villarroel",
+        "s": [
+         4,
+         0
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": true
+       },
+       {
+        "d": 1733252400,
+        "h": "Gualberto Villarroel",
+        "a": "Universitario de Vinto",
+        "s": [
+         4,
+         1
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": false
+       },
+       {
+        "d": 1723057200,
+        "h": "Universitario de Vinto",
+        "a": "Gualberto Villarroel",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": true
+       }
+      ],
+      "f1": [
+       {
+        "d": 1794270600,
+        "o": "Club Aurora",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1793575800,
+        "o": "Always Ready",
+        "gf": 1,
+        "ga": 3,
+        "dom": true
+       },
+       {
+        "d": 1793059200,
+        "o": "Bolivar",
+        "gf": 1,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1792271700,
+        "o": "San Antonio Bulo Bulo",
+        "gf": 2,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1791658800,
+        "o": "Real Oruro",
+        "gf": 1,
+        "ga": 3,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1794078000,
+        "o": "Real Oruro",
+        "gf": 1,
+        "ga": 3,
+        "dom": true
+       },
+       {
+        "d": 1793559600,
+        "o": "The Strongest",
+        "gf": 2,
+        "ga": 4,
+        "dom": false
+       },
+       {
+        "d": 1792873200,
+        "o": "Club Blooming",
+        "gf": 2,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1792195200,
+        "o": "Real Tomayapo",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1791831600,
+        "o": "Guabira",
+        "gf": 4,
+        "ga": 1,
+        "dom": true
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "key": "seleccion",
+   "name": "Selección",
+   "matches": []
+  }
+ ]
+}

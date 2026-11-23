@@ -1,0 +1,49 @@
+secret lengths: client_id=41 client_secret=64 ref=1
+DEBUG tour 127733: spain. la liga
+DEBUG tour 13521: scotland. premier league
+DEBUG tour 2740174: afc champions league elite
+DEBUG tour 30693: poland championship. liga 1
+DEBUG tour 105759: england. championship
+DEBUG tour 88637: england. premier league
+DEBUG tour 118587: uefa champions league
+DEBUG tour 196313: botswana championship
+DEBUG tour 2421233: russian championship. league 1
+DEBUG tour 118745: jamaica. national premier league
+DEBUG tour 2783103: india. mumbai. premier league
+DEBUG tour 2726129: uefa european championship 2028. winner
+DEBUG tour 40311: poland championship. liga 2
+DEBUG tour 38317: caf champions league
+DEBUG tour 147087: egypt. premier league
+DEBUG tour 218103: uefa champions league. winner
+DEBUG tour 995727: maldives. premier league
+DEBUG tour 29949: ukraine. premier league
+DEBUG tour 281713: scotland. championship
+DEBUG tour 1800476: england. southern premier league. south
+DEBUG tour 34711: england. northern premier league
+DEBUG tour 142091: copa libertadores
+DEBUG tour 225733: russia. premier league
+DEBUG tour 2743971: afc champions league 2
+DEBUG tour 104509: australian championship
+DEBUG tour 1800014: england. southern premier league. central
+DEBUG tour 27695: switzerland championship
+DEBUG tour 13721: wales. premier league
+DEBUG tour 52245: poland championship. liga 3
+DEBUG tour 1675485: aruba championship
+DEBUG tour 1015483: belarus. premier league
+DEBUG tour 605255: libya. premier league
+DEBUG tour 2765014: hong kong. premier league u22
+DEBUG tour 3108732: antigua and barbuda. premier league
+DEBUG tour 47513: qatar championship
+DEBUG tour 1791926: china. champions league
+DEBUG tour 40053: armenia. premier league
+DEBUG tour 2706692: uefa champions league. team vs player
+DEBUG tour 41199: israel. premier league
+DEBUG tour 2809583: spain. la liga. team vs player
+DEBUG tour 1225239: georgia championship
+DEBUG tour 2809690: england. premier league. team vs player
+liga: 
+liga: 0 tournaments, 0 matches
+seleccion: UEFA Nations League | CONCACAF Caribbean Cup | Friendlies. National Teams
+seleccion: 3 tournaments, 0 matches
+results: 0 fetched, 0 stored
+No matches returned, keeping previous data

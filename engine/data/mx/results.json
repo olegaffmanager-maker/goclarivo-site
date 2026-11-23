@@ -1,0 +1,5484 @@
+{
+ "updated": "2026-11-23T15:43:57+00:00",
+ "backfilled": [
+  2306111,
+  1706694,
+  125983
+ ],
+ "matches": [
+  {
+   "id": 664165435,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Necaxa",
+   "away": "Cruz Azul",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1761094800,
+   "group": "liga"
+  },
+  {
+   "id": 664165223,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Club America",
+   "away": "Puebla FC",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1761094800,
+   "group": "liga"
+  },
+  {
+   "id": 664182317,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Mazatlan",
+   "away": "Santos Laguna",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1761102000,
+   "group": "liga"
+  },
+  {
+   "id": 664182229,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Monterrey",
+   "away": "Juárez",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (2:0,2:2)",
+   "start": 1761102300,
+   "group": "liga"
+  },
+  {
+   "id": 664458389,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "Guadalajara",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1761180300,
+   "group": "liga"
+  },
+  {
+   "id": 664458388,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "Tigres de la UANL",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1761180300,
+   "group": "liga"
+  },
+  {
+   "id": 664475455,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlas Guadalajara",
+   "away": "Leon",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1761188400,
+   "group": "liga"
+  },
+  {
+   "id": 664475469,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Tijuana",
+   "away": "FC Toluca",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1761188400,
+   "group": "liga"
+  },
+  {
+   "id": 664488612,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlas Guadalajara",
+   "away": "Leon",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1761188400,
+   "group": "liga"
+  },
+  {
+   "id": 664477331,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pumas UNAM",
+   "away": "Atletico San Luis",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1761188700,
+   "group": "liga"
+  },
+  {
+   "id": 665039269,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Juárez",
+   "away": "Puebla FC",
+   "score": [
+    4,
+    4
+   ],
+   "detail": "4:4 (2:1,2:3)",
+   "start": 1761353100,
+   "group": "liga"
+  },
+  {
+   "id": 665057780,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Mazatlan",
+   "away": "Club America",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:1,0:1)",
+   "start": 1761360300,
+   "group": "liga"
+  },
+  {
+   "id": 665356371,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Tigres de la UANL",
+   "away": "FC Tijuana",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1761432300,
+   "group": "liga"
+  },
+  {
+   "id": 665366964,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Guadalajara",
+   "away": "Atlas Guadalajara",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (3:0,1:1)",
+   "start": 1761435900,
+   "group": "liga"
+  },
+  {
+   "id": 665376774,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Leon",
+   "away": "Pumas UNAM",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1761440400,
+   "group": "liga"
+  },
+  {
+   "id": 665393929,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Cruz Azul",
+   "away": "FC Monterrey",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1761447900,
+   "group": "liga"
+  },
+  {
+   "id": 665668395,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Santos Laguna",
+   "away": "Queretaro",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1761519600,
+   "group": "liga"
+  },
+  {
+   "id": 665685952,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atletico San Luis",
+   "away": "Necaxa",
+   "score": [
+    3,
+    4
+   ],
+   "detail": "3:4 (0:0,3:4)",
+   "start": 1761526800,
+   "group": "liga"
+  },
+  {
+   "id": 665685970,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "Pachuca FC",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:1,0:1)",
+   "start": 1761526800,
+   "group": "liga"
+  },
+  {
+   "id": 667072351,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Necaxa",
+   "away": "Santos Laguna",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (3:1,1:0)",
+   "start": 1761958800,
+   "group": "liga"
+  },
+  {
+   "id": 667090265,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atletico San Luis",
+   "away": "Juárez",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1761966000,
+   "group": "liga"
+  },
+  {
+   "id": 667090854,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Puebla FC",
+   "away": "Cruz Azul",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1761966300,
+   "group": "liga"
+  },
+  {
+   "id": 667380424,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlas Guadalajara",
+   "away": "FC Toluca",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762037100,
+   "group": "liga"
+  },
+  {
+   "id": 667399967,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Monterrey",
+   "away": "Tigres de la UANL",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1762045500,
+   "group": "liga"
+  },
+  {
+   "id": 667418716,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Club America",
+   "away": "Leon",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1762052400,
+   "group": "liga"
+  },
+  {
+   "id": 667626295,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pumas UNAM",
+   "away": "FC Tijuana",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (3:0,1:1)",
+   "start": 1762106400,
+   "group": "liga"
+  },
+  {
+   "id": 667683014,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "Mazatlan",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1762124400,
+   "group": "liga"
+  },
+  {
+   "id": 667698973,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "Guadalajara",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1762130700,
+   "group": "liga"
+  },
+  {
+   "id": 669045785,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Juárez",
+   "away": "Queretaro",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1762563600,
+   "group": "liga"
+  },
+  {
+   "id": 669065683,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Tijuana",
+   "away": "Atlas Guadalajara",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1762569900,
+   "group": "liga"
+  },
+  {
+   "id": 669065686,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Mazatlan",
+   "away": "Necaxa",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1762569900,
+   "group": "liga"
+  },
+  {
+   "id": 669356195,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Tigres de la UANL",
+   "away": "Atletico San Luis",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1762642800,
+   "group": "liga"
+  },
+  {
+   "id": 669356912,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Guadalajara",
+   "away": "FC Monterrey",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (3:0,1:2)",
+   "start": 1762643220,
+   "group": "liga"
+  },
+  {
+   "id": 669376384,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Leon",
+   "away": "Puebla FC",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1762650000,
+   "group": "liga"
+  },
+  {
+   "id": 669376507,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "Club America",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1762650000,
+   "group": "liga"
+  },
+  {
+   "id": 669396319,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Cruz Azul",
+   "away": "Pumas UNAM",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (2:1,0:2)",
+   "start": 1762657500,
+   "group": "liga"
+  },
+  {
+   "id": 669656064,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Santos Laguna",
+   "away": "Pachuca FC",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1762728300,
+   "group": "liga"
+  },
+  {
+   "id": 672581108,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "Pumas UNAM",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1763686800,
+   "group": "liga"
+  },
+  {
+   "id": 672597755,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Tijuana",
+   "away": "Juárez",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1763694000,
+   "group": "liga"
+  },
+  {
+   "id": 673474324,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Juárez",
+   "away": "Pachuca FC",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1763946000,
+   "group": "liga"
+  },
+  {
+   "id": 674238547,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Juárez",
+   "away": "FC Toluca",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1764205200,
+   "group": "liga"
+  },
+  {
+   "id": 674258230,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Monterrey",
+   "away": "Club America",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1764212700,
+   "group": "liga"
+  },
+  {
+   "id": 674272106,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Tijuana",
+   "away": "Tigres de la UANL",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1764218700,
+   "group": "liga"
+  },
+  {
+   "id": 674503958,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Guadalajara",
+   "away": "Cruz Azul",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1764295620,
+   "group": "liga"
+  },
+  {
+   "id": 675051735,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Club America",
+   "away": "FC Monterrey",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1764456300,
+   "group": "liga"
+  },
+  {
+   "id": 675072869,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "Juárez",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1764464700,
+   "group": "liga"
+  },
+  {
+   "id": 675089426,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Tigres de la UANL",
+   "away": "FC Tijuana",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (3:0,2:0)",
+   "start": 1764472200,
+   "group": "liga"
+  },
+  {
+   "id": 675345584,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Cruz Azul",
+   "away": "Guadalajara",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:2,2:0)",
+   "start": 1764549900,
+   "group": "liga"
+  },
+  {
+   "id": 676081064,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Cruz Azul",
+   "away": "Tigres de la UANL",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1764810000,
+   "group": "liga"
+  },
+  {
+   "id": 676100936,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Monterrey",
+   "away": "FC Toluca",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1764817800,
+   "group": "liga"
+  },
+  {
+   "id": 676936616,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "FC Monterrey",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:0,1:2)",
+   "start": 1765068300,
+   "group": "liga"
+  },
+  {
+   "id": 676955344,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Tigres de la UANL",
+   "away": "Cruz Azul",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1765077000,
+   "group": "liga"
+  },
+  {
+   "id": 678205128,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Tigres de la UANL",
+   "away": "FC Toluca",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1765504800,
+   "group": "liga"
+  },
+  {
+   "id": 679043014,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "Tigres de la UANL",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,1:0,0:0,1:0)",
+   "start": 1765760400,
+   "group": "liga"
+  },
+  {
+   "id": 679058509,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "Tigres de la UANL",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1765760400,
+   "group": "liga"
+  },
+  {
+   "id": 679063227,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "Tigres de la UANL",
+   "score": [
+    9,
+    8
+   ],
+   "detail": "9:8 (9:8)",
+   "start": 1765760400,
+   "group": "liga"
+  },
+  {
+   "id": 685400054,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Mazatlan",
+   "away": "Juárez",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1768006800,
+   "group": "liga"
+  },
+  {
+   "id": 685416912,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlas Guadalajara",
+   "away": "Puebla FC",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1768014000,
+   "group": "liga"
+  },
+  {
+   "id": 685416676,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Tijuana",
+   "away": "Club America",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1768014000,
+   "group": "liga"
+  },
+  {
+   "id": 685700198,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Guadalajara",
+   "away": "Pachuca FC",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1768085100,
+   "group": "liga"
+  },
+  {
+   "id": 685720533,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Leon",
+   "away": "Cruz Azul",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1768093200,
+   "group": "liga"
+  },
+  {
+   "id": 685720563,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Santos Laguna",
+   "away": "Necaxa",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:2,0:1)",
+   "start": 1768093200,
+   "group": "liga"
+  },
+  {
+   "id": 685739010,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Monterrey",
+   "away": "FC Toluca",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1768100400,
+   "group": "liga"
+  },
+  {
+   "id": 685942512,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pumas UNAM",
+   "away": "Queretaro",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1768154400,
+   "group": "liga"
+  },
+  {
+   "id": 686017222,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atletico San Luis",
+   "away": "Tigres de la UANL",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1768179600,
+   "group": "liga"
+  },
+  {
+   "id": 686511741,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Puebla FC",
+   "away": "Mazatlan",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1768344300,
+   "group": "liga"
+  },
+  {
+   "id": 686532451,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Necaxa",
+   "away": "FC Monterrey",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1768352400,
+   "group": "liga"
+  },
+  {
+   "id": 686534297,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "Leon",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1768352760,
+   "group": "liga"
+  },
+  {
+   "id": 686552045,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Juárez",
+   "away": "Guadalajara",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1768359600,
+   "group": "liga"
+  },
+  {
+   "id": 686799548,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Cruz Azul",
+   "away": "Atlas Guadalajara",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1768430700,
+   "group": "liga"
+  },
+  {
+   "id": 686820560,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "FC Tijuana",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1768437900,
+   "group": "liga"
+  },
+  {
+   "id": 686822446,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Club America",
+   "away": "Atletico San Luis",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1768439100,
+   "group": "liga"
+  },
+  {
+   "id": 686840077,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Tigres de la UANL",
+   "away": "Pumas UNAM",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1768446360,
+   "group": "liga"
+  },
+  {
+   "id": 686840646,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "Santos Laguna",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:1,3:0)",
+   "start": 1768446600,
+   "group": "liga"
+  },
+  {
+   "id": 687404470,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Mazatlan",
+   "away": "FC Monterrey",
+   "score": [
+    1,
+    5
+   ],
+   "detail": "1:5 (0:3,1:2)",
+   "start": 1768618800,
+   "group": "liga"
+  },
+  {
+   "id": 687695816,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Necaxa",
+   "away": "Atlas Guadalajara",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1768690800,
+   "group": "liga"
+  },
+  {
+   "id": 687698332,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Guadalajara",
+   "away": "Queretaro",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1768691220,
+   "group": "liga"
+  },
+  {
+   "id": 687719078,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Tigres de la UANL",
+   "away": "FC Toluca",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1768698000,
+   "group": "liga"
+  },
+  {
+   "id": 687740994,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Cruz Azul",
+   "away": "Puebla FC",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1768705500,
+   "group": "liga"
+  },
+  {
+   "id": 687740991,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Tijuana",
+   "away": "Atletico San Luis",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1768705560,
+   "group": "liga"
+  },
+  {
+   "id": 687949412,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pumas UNAM",
+   "away": "Leon",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1768759200,
+   "group": "liga"
+  },
+  {
+   "id": 688007260,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Santos Laguna",
+   "away": "Juárez",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1768776300,
+   "group": "liga"
+  },
+  {
+   "id": 688027881,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "Club America",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1768784400,
+   "group": "liga"
+  },
+  {
+   "id": 691520555,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Puebla FC",
+   "away": "FC Toluca",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1769821200,
+   "group": "liga"
+  },
+  {
+   "id": 691539520,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pumas UNAM",
+   "away": "Santos Laguna",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (4:0,0:0)",
+   "start": 1769827500,
+   "group": "liga"
+  },
+  {
+   "id": 691540587,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Juárez",
+   "away": "Cruz Azul",
+   "score": [
+    3,
+    4
+   ],
+   "detail": "3:4 (1:3,2:1)",
+   "start": 1769828760,
+   "group": "liga"
+  },
+  {
+   "id": 691824904,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Club America",
+   "away": "Necaxa",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1769896800,
+   "group": "liga"
+  },
+  {
+   "id": 691834732,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atletico San Luis",
+   "away": "Guadalajara",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:2,1:1)",
+   "start": 1769899500,
+   "group": "liga"
+  },
+  {
+   "id": 691835036,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlas Guadalajara",
+   "away": "Mazatlan",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1769900400,
+   "group": "liga"
+  },
+  {
+   "id": 691857785,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Monterrey",
+   "away": "FC Tijuana",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1769907600,
+   "group": "liga"
+  },
+  {
+   "id": 691859861,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Leon",
+   "away": "Tigres de la UANL",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1769908200,
+   "group": "liga"
+  },
+  {
+   "id": 692154298,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "Pachuca FC",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1769986800,
+   "group": "liga"
+  },
+  {
+   "id": 693538840,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Tigres de la UANL",
+   "away": "Santos Laguna",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (2:1,3:0)",
+   "start": 1770426000,
+   "group": "liga"
+  },
+  {
+   "id": 693538713,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Necaxa",
+   "away": "Atletico San Luis",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (1:0,3:1)",
+   "start": 1770426000,
+   "group": "liga"
+  },
+  {
+   "id": 693557973,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Tijuana",
+   "away": "Puebla FC",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1770433560,
+   "group": "liga"
+  },
+  {
+   "id": 693557398,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Mazatlan",
+   "away": "Guadalajara",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1770433560,
+   "group": "liga"
+  },
+  {
+   "id": 693843222,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "Cruz Azul",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1770505200,
+   "group": "liga"
+  },
+  {
+   "id": 693843208,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "Leon",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1770505200,
+   "group": "liga"
+  },
+  {
+   "id": 693863929,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "Juárez",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1770511500,
+   "group": "liga"
+  },
+  {
+   "id": 693864979,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlas Guadalajara",
+   "away": "Pumas UNAM",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:2,1:0)",
+   "start": 1770512700,
+   "group": "liga"
+  },
+  {
+   "id": 693882475,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Club America",
+   "away": "FC Monterrey",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1770519600,
+   "group": "liga"
+  },
+  {
+   "id": 695483045,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Puebla FC",
+   "away": "Pumas UNAM",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (2:1,0:2)",
+   "start": 1771029900,
+   "group": "liga"
+  },
+  {
+   "id": 695501883,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "FC Tijuana",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1771038300,
+   "group": "liga"
+  },
+  {
+   "id": 695781523,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "Atlas Guadalajara",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1771109100,
+   "group": "liga"
+  },
+  {
+   "id": 695781555,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atletico San Luis",
+   "away": "Queretaro",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1771109100,
+   "group": "liga"
+  },
+  {
+   "id": 695800210,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Monterrey",
+   "away": "Leon",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1771117200,
+   "group": "liga"
+  },
+  {
+   "id": 695802400,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Juárez",
+   "away": "Necaxa",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1771117560,
+   "group": "liga"
+  },
+  {
+   "id": 695818446,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Guadalajara",
+   "away": "Club America",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1771124820,
+   "group": "liga"
+  },
+  {
+   "id": 696069878,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Cruz Azul",
+   "away": "Tigres de la UANL",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1771193700,
+   "group": "liga"
+  },
+  {
+   "id": 696074973,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Santos Laguna",
+   "away": "Mazatlan",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1771195500,
+   "group": "liga"
+  },
+  {
+   "id": 697429262,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Tigres de la UANL",
+   "away": "Pachuca FC",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1771634700,
+   "group": "liga"
+  },
+  {
+   "id": 697449208,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Puebla FC",
+   "away": "Club America",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:1,0:3)",
+   "start": 1771643160,
+   "group": "liga"
+  },
+  {
+   "id": 697743432,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlas Guadalajara",
+   "away": "Atletico San Luis",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:2,2:0)",
+   "start": 1771714800,
+   "group": "liga"
+  },
+  {
+   "id": 697765560,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Leon",
+   "away": "Santos Laguna",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1771722000,
+   "group": "liga"
+  },
+  {
+   "id": 697765602,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Necaxa",
+   "away": "FC Toluca",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:0,0:3)",
+   "start": 1771722000,
+   "group": "liga"
+  },
+  {
+   "id": 697786738,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Cruz Azul",
+   "away": "Guadalajara",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1771729500,
+   "group": "liga"
+  },
+  {
+   "id": 697806031,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Tijuana",
+   "away": "Mazatlan",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1771736400,
+   "group": "liga"
+  },
+  {
+   "id": 698056131,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pumas UNAM",
+   "away": "FC Monterrey",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1771801200,
+   "group": "liga"
+  },
+  {
+   "id": 694132185,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "Juárez",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1771808400,
+   "group": "liga"
+  },
+  {
+   "id": 699412940,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "Santos Laguna",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:2,0:0)",
+   "start": 1772240400,
+   "group": "liga"
+  },
+  {
+   "id": 699412964,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Mazatlan",
+   "away": "Pachuca FC",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1772240400,
+   "group": "liga"
+  },
+  {
+   "id": 699431153,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Juárez",
+   "away": "Atlas Guadalajara",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1772247600,
+   "group": "liga"
+  },
+  {
+   "id": 699431799,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Tijuana",
+   "away": "Pumas UNAM",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1772247960,
+   "group": "liga"
+  },
+  {
+   "id": 699713810,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atletico San Luis",
+   "away": "Puebla FC",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1772318700,
+   "group": "liga"
+  },
+  {
+   "id": 699714342,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "Guadalajara",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1772319600,
+   "group": "liga"
+  },
+  {
+   "id": 699736422,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Monterrey",
+   "away": "Cruz Azul",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1772325900,
+   "group": "liga"
+  },
+  {
+   "id": 699736285,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Leon",
+   "away": "Necaxa",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1772327160,
+   "group": "liga"
+  },
+  {
+   "id": 699755365,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Club America",
+   "away": "Tigres de la UANL",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (0:2,1:2)",
+   "start": 1772334000,
+   "group": "liga"
+  },
+  {
+   "id": 700544188,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "Necaxa",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1772585100,
+   "group": "liga"
+  },
+  {
+   "id": 700544217,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Santos Laguna",
+   "away": "Cruz Azul",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1772586000,
+   "group": "liga"
+  },
+  {
+   "id": 700562323,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atletico San Luis",
+   "away": "Mazatlan",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (0:0,4:1)",
+   "start": 1772593200,
+   "group": "liga"
+  },
+  {
+   "id": 700564008,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pumas UNAM",
+   "away": "FC Toluca",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:1,1:2)",
+   "start": 1772593800,
+   "group": "liga"
+  },
+  {
+   "id": 700828088,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Puebla FC",
+   "away": "Tigres de la UANL",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1772671500,
+   "group": "liga"
+  },
+  {
+   "id": 700828014,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Monterrey",
+   "away": "Queretaro",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (1:0,3:0)",
+   "start": 1772672400,
+   "group": "liga"
+  },
+  {
+   "id": 700845755,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlas Guadalajara",
+   "away": "FC Tijuana",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1772679600,
+   "group": "liga"
+  },
+  {
+   "id": 700845842,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Club America",
+   "away": "Juárez",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1772679600,
+   "group": "liga"
+  },
+  {
+   "id": 701392228,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Mazatlan",
+   "away": "Leon",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (2:1,2:1)",
+   "start": 1772845200,
+   "group": "liga"
+  },
+  {
+   "id": 701410762,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Necaxa",
+   "away": "Pumas UNAM",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1772852400,
+   "group": "liga"
+  },
+  {
+   "id": 701709825,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Cruz Azul",
+   "away": "Atletico San Luis",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1772924400,
+   "group": "liga"
+  },
+  {
+   "id": 701709904,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "Club America",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1772924400,
+   "group": "liga"
+  },
+  {
+   "id": 701734020,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlas Guadalajara",
+   "away": "Guadalajara",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1772931900,
+   "group": "liga"
+  },
+  {
+   "id": 701734023,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "Puebla FC",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1772931960,
+   "group": "liga"
+  },
+  {
+   "id": 701752713,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Tigres de la UANL",
+   "away": "FC Monterrey",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1772938800,
+   "group": "liga"
+  },
+  {
+   "id": 702020824,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "Juárez",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:0,3:1)",
+   "start": 1773010800,
+   "group": "liga"
+  },
+  {
+   "id": 702054759,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Tijuana",
+   "away": "Santos Laguna",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1773025560,
+   "group": "liga"
+  },
+  {
+   "id": 703400386,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Puebla FC",
+   "away": "Necaxa",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1773450000,
+   "group": "liga"
+  },
+  {
+   "id": 703420378,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Juárez",
+   "away": "FC Monterrey",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:2,2:0)",
+   "start": 1773457200,
+   "group": "liga"
+  },
+  {
+   "id": 703719029,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atletico San Luis",
+   "away": "Pachuca FC",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1773529200,
+   "group": "liga"
+  },
+  {
+   "id": 703720232,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Guadalajara",
+   "away": "Santos Laguna",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1773529620,
+   "group": "liga"
+  },
+  {
+   "id": 703742599,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "Atlas Guadalajara",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1773536400,
+   "group": "liga"
+  },
+  {
+   "id": 703742619,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Leon",
+   "away": "FC Tijuana",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:3,0:0)",
+   "start": 1773536400,
+   "group": "liga"
+  },
+  {
+   "id": 703763314,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pumas UNAM",
+   "away": "Cruz Azul",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:2,2:0)",
+   "start": 1773544200,
+   "group": "liga"
+  },
+  {
+   "id": 704030825,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Tigres de la UANL",
+   "away": "Queretaro",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1773615600,
+   "group": "liga"
+  },
+  {
+   "id": 704049327,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Club America",
+   "away": "Mazatlan",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1773621900,
+   "group": "liga"
+  },
+  {
+   "id": 704863024,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Guadalajara",
+   "away": "Leon",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (1:0,4:0)",
+   "start": 1773886020,
+   "group": "liga"
+  },
+  {
+   "id": 705426679,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Necaxa",
+   "away": "FC Tijuana",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1774054800,
+   "group": "liga"
+  },
+  {
+   "id": 705449961,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Mazatlan",
+   "away": "Cruz Azul",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1774062360,
+   "group": "liga"
+  },
+  {
+   "id": 705748746,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlas Guadalajara",
+   "away": "Queretaro",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1774134000,
+   "group": "liga"
+  },
+  {
+   "id": 705774205,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atletico San Luis",
+   "away": "Leon",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1774140300,
+   "group": "liga"
+  },
+  {
+   "id": 705775692,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Monterrey",
+   "away": "Guadalajara",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:1,2:2)",
+   "start": 1774141500,
+   "group": "liga"
+  },
+  {
+   "id": 706074291,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Santos Laguna",
+   "away": "Puebla FC",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1774220400,
+   "group": "liga"
+  },
+  {
+   "id": 706074281,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "FC Toluca",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1774220400,
+   "group": "liga"
+  },
+  {
+   "id": 706095112,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Juárez",
+   "away": "Tigres de la UANL",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1774227600,
+   "group": "liga"
+  },
+  {
+   "id": 709495352,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Puebla FC",
+   "away": "Juárez",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1775264400,
+   "group": "liga"
+  },
+  {
+   "id": 709514526,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Necaxa",
+   "away": "Mazatlan",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1775271600,
+   "group": "liga"
+  },
+  {
+   "id": 709514898,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Tijuana",
+   "away": "Tigres de la UANL",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1775271960,
+   "group": "liga"
+  },
+  {
+   "id": 709788326,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "FC Toluca",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1775343600,
+   "group": "liga"
+  },
+  {
+   "id": 709788317,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Monterrey",
+   "away": "Atletico San Luis",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1775343600,
+   "group": "liga"
+  },
+  {
+   "id": 709809749,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Leon",
+   "away": "Atlas Guadalajara",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1775350800,
+   "group": "liga"
+  },
+  {
+   "id": 709810271,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Cruz Azul",
+   "away": "Pachuca FC",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1775351100,
+   "group": "liga"
+  },
+  {
+   "id": 709828800,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Santos Laguna",
+   "away": "Club America",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1775358600,
+   "group": "liga"
+  },
+  {
+   "id": 710102718,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Guadalajara",
+   "away": "Pumas UNAM",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:2,2:0)",
+   "start": 1775440800,
+   "group": "liga"
+  },
+  {
+   "id": 710622574,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "Juárez",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1775606400,
+   "group": "liga"
+  },
+  {
+   "id": 711504122,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Puebla FC",
+   "away": "Leon",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1775869200,
+   "group": "liga"
+  },
+  {
+   "id": 711525020,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Juárez",
+   "away": "FC Tijuana",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1775875500,
+   "group": "liga"
+  },
+  {
+   "id": 711826916,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Tigres de la UANL",
+   "away": "Guadalajara",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (2:1,2:0)",
+   "start": 1775948400,
+   "group": "liga"
+  },
+  {
+   "id": 711826991,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "Necaxa",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1775948400,
+   "group": "liga"
+  },
+  {
+   "id": 711850406,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlas Guadalajara",
+   "away": "FC Monterrey",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1775954700,
+   "group": "liga"
+  },
+  {
+   "id": 711850414,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "Santos Laguna",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (2:1,2:1)",
+   "start": 1775954700,
+   "group": "liga"
+  },
+  {
+   "id": 711870642,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Club America",
+   "away": "Cruz Azul",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1775963100,
+   "group": "liga"
+  },
+  {
+   "id": 712084600,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pumas UNAM",
+   "away": "Mazatlan",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1776016800,
+   "group": "liga"
+  },
+  {
+   "id": 712162259,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "Atletico San Luis",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1776042000,
+   "group": "liga"
+  },
+  {
+   "id": 713532683,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Mazatlan",
+   "away": "Queretaro",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1776474000,
+   "group": "liga"
+  },
+  {
+   "id": 713532644,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atletico San Luis",
+   "away": "Pumas UNAM",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1776474000,
+   "group": "liga"
+  },
+  {
+   "id": 713852111,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Cruz Azul",
+   "away": "FC Tijuana",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1776553200,
+   "group": "liga"
+  },
+  {
+   "id": 713852072,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Necaxa",
+   "away": "Tigres de la UANL",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1776553200,
+   "group": "liga"
+  },
+  {
+   "id": 713874868,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Monterrey",
+   "away": "Pachuca FC",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:0,0:3)",
+   "start": 1776560700,
+   "group": "liga"
+  },
+  {
+   "id": 713874877,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Guadalajara",
+   "away": "Puebla FC",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (2:0,3:0)",
+   "start": 1776560820,
+   "group": "liga"
+  },
+  {
+   "id": 713894355,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Leon",
+   "away": "Juárez",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1776567960,
+   "group": "liga"
+  },
+  {
+   "id": 713894492,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Club America",
+   "away": "FC Toluca",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1776568200,
+   "group": "liga"
+  },
+  {
+   "id": 714164693,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Santos Laguna",
+   "away": "Atlas Guadalajara",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1776639600,
+   "group": "liga"
+  },
+  {
+   "id": 714705203,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "Cruz Azul",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1776818700,
+   "group": "liga"
+  },
+  {
+   "id": 714705350,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pumas UNAM",
+   "away": "Juárez",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (0:2,4:0)",
+   "start": 1776819600,
+   "group": "liga"
+  },
+  {
+   "id": 714723203,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Monterrey",
+   "away": "Puebla FC",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1776826800,
+   "group": "liga"
+  },
+  {
+   "id": 714723885,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Leon",
+   "away": "Club America",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (2:2,0:1)",
+   "start": 1776827160,
+   "group": "liga"
+  },
+  {
+   "id": 714989304,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atletico San Luis",
+   "away": "Santos Laguna",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1776906000,
+   "group": "liga"
+  },
+  {
+   "id": 714989474,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Mazatlan",
+   "away": "FC Toluca",
+   "score": [
+    4,
+    3
+   ],
+   "detail": "4:3 (0:1,4:2)",
+   "start": 1776906000,
+   "group": "liga"
+  },
+  {
+   "id": 714989241,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlas Guadalajara",
+   "away": "Tigres de la UANL",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1776906000,
+   "group": "liga"
+  },
+  {
+   "id": 715008192,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Tijuana",
+   "away": "Pachuca FC",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1776913200,
+   "group": "liga"
+  },
+  {
+   "id": 715008179,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Necaxa",
+   "away": "Guadalajara",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1776913200,
+   "group": "liga"
+  },
+  {
+   "id": 715582866,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Puebla FC",
+   "away": "Queretaro",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1777085100,
+   "group": "liga"
+  },
+  {
+   "id": 715882001,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "Pumas UNAM",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1777157100,
+   "group": "liga"
+  },
+  {
+   "id": 715882011,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Tigres de la UANL",
+   "away": "Mazatlan",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (1:0,4:1)",
+   "start": 1777158000,
+   "group": "liga"
+  },
+  {
+   "id": 715904004,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "Leon",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (1:1,3:0)",
+   "start": 1777165200,
+   "group": "liga"
+  },
+  {
+   "id": 715905466,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Guadalajara",
+   "away": "FC Tijuana",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1777165620,
+   "group": "liga"
+  },
+  {
+   "id": 715921765,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Juárez",
+   "away": "Atletico San Luis",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1777172400,
+   "group": "liga"
+  },
+  {
+   "id": 715922604,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Club America",
+   "away": "Atlas Guadalajara",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1777172400,
+   "group": "liga"
+  },
+  {
+   "id": 716196016,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Santos Laguna",
+   "away": "FC Monterrey",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1777244400,
+   "group": "liga"
+  },
+  {
+   "id": 716215197,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Cruz Azul",
+   "away": "Necaxa",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (0:0,4:1)",
+   "start": 1777251600,
+   "group": "liga"
+  },
+  {
+   "id": 717903597,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Tigres de la UANL",
+   "away": "Guadalajara",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1777770000,
+   "group": "liga"
+  },
+  {
+   "id": 717922682,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlas Guadalajara",
+   "away": "Cruz Azul",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:1,2:2)",
+   "start": 1777778100,
+   "group": "liga"
+  },
+  {
+   "id": 718180421,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Club America",
+   "away": "Pumas UNAM",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (1:2,2:1)",
+   "start": 1777849200,
+   "group": "liga"
+  },
+  {
+   "id": 718201239,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "Pachuca FC",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1777857300,
+   "group": "liga"
+  },
+  {
+   "id": 719834875,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Guadalajara",
+   "away": "Tigres de la UANL",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1778375220,
+   "group": "liga"
+  },
+  {
+   "id": 719855423,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Cruz Azul",
+   "away": "Atlas Guadalajara",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1778382900,
+   "group": "liga"
+  },
+  {
+   "id": 720111175,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "FC Toluca",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1778453100,
+   "group": "liga"
+  },
+  {
+   "id": 720131929,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pumas UNAM",
+   "away": "Club America",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (3:2,0:1)",
+   "start": 1778462100,
+   "group": "liga"
+  },
+  {
+   "id": 720929941,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Cruz Azul",
+   "away": "Guadalajara",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1778724000,
+   "group": "liga"
+  },
+  {
+   "id": 721182469,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "Pumas UNAM",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1778805900,
+   "group": "liga"
+  },
+  {
+   "id": 721776714,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Guadalajara",
+   "away": "Cruz Azul",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1778979600,
+   "group": "liga"
+  },
+  {
+   "id": 722057708,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pumas UNAM",
+   "away": "Pachuca FC",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1779066000,
+   "group": "liga"
+  },
+  {
+   "id": 723116520,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Cruz Azul",
+   "away": "Pumas UNAM",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1779414300,
+   "group": "liga"
+  },
+  {
+   "id": 723398513,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "México",
+   "away": "Ghana",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1779500700,
+   "group": "seleccion"
+  },
+  {
+   "id": 723966831,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pumas UNAM",
+   "away": "Cruz Azul",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1779670800,
+   "group": "liga"
+  },
+  {
+   "id": 725530059,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "México",
+   "away": "Australia",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1780192800,
+   "group": "seleccion"
+  },
+  {
+   "id": 726766871,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "México",
+   "away": "Serbia",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (2:1,3:0)",
+   "start": 1780623900,
+   "group": "seleccion"
+  },
+  {
+   "id": 736980647,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Necaxa",
+   "away": "Atlante",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1784250000,
+   "group": "liga"
+  },
+  {
+   "id": 736996215,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Tijuana",
+   "away": "Tigres de la UANL",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1784257800,
+   "group": "liga"
+  },
+  {
+   "id": 737231551,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Leon",
+   "away": "Atlas Guadalajara",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:1,1:2)",
+   "start": 1784336400,
+   "group": "liga"
+  },
+  {
+   "id": 737231513,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atletico San Luis",
+   "away": "Cruz Azul",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:0,2:3)",
+   "start": 1784336400,
+   "group": "liga"
+  },
+  {
+   "id": 737249959,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Juárez",
+   "away": "Puebla FC",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1784343600,
+   "group": "liga"
+  },
+  {
+   "id": 737471882,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pumas UNAM",
+   "away": "Pachuca FC",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1784415600,
+   "group": "liga"
+  },
+  {
+   "id": 737490281,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Monterrey",
+   "away": "Santos Laguna",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (3:1,0:1)",
+   "start": 1784423100,
+   "group": "liga"
+  },
+  {
+   "id": 737489317,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Guadalajara",
+   "away": "FC Toluca",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1784423220,
+   "group": "liga"
+  },
+  {
+   "id": 737505998,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "Club America",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1784430000,
+   "group": "liga"
+  },
+  {
+   "id": 738188104,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Cruz Azul",
+   "away": "Puebla FC",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1784682000,
+   "group": "liga"
+  },
+  {
+   "id": 738206037,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "Pumas UNAM",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1784689500,
+   "group": "liga"
+  },
+  {
+   "id": 738961839,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlante",
+   "away": "Club America",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1784947500,
+   "group": "liga"
+  },
+  {
+   "id": 738961909,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Tijuana",
+   "away": "Leon",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1784947500,
+   "group": "liga"
+  },
+  {
+   "id": 739194512,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Guadalajara",
+   "away": "Juárez",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1785020820,
+   "group": "liga"
+  },
+  {
+   "id": 739228320,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Santos Laguna",
+   "away": "Atlas Guadalajara",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1785034800,
+   "group": "liga"
+  },
+  {
+   "id": 739228454,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Tigres de la UANL",
+   "away": "Atletico San Luis",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1785034800,
+   "group": "liga"
+  },
+  {
+   "id": 739448407,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Necaxa",
+   "away": "FC Monterrey",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1785106800,
+   "group": "liga"
+  },
+  {
+   "id": 739466729,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "Queretaro",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1785114000,
+   "group": "liga"
+  },
+  {
+   "id": 740724465,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Puebla FC",
+   "away": "Guadalajara",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1785546000,
+   "group": "liga"
+  },
+  {
+   "id": 740742685,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atletico San Luis",
+   "away": "FC Tijuana",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1785553200,
+   "group": "liga"
+  },
+  {
+   "id": 740742692,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Juárez",
+   "away": "Pumas UNAM",
+   "score": [
+    1,
+    5
+   ],
+   "detail": "1:5 (1:3,0:2)",
+   "start": 1785553200,
+   "group": "liga"
+  },
+  {
+   "id": 740984300,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "Tigres de la UANL",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:1,1:1)",
+   "start": 1785625200,
+   "group": "liga"
+  },
+  {
+   "id": 741005328,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Leon",
+   "away": "Pachuca FC",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1785632400,
+   "group": "liga"
+  },
+  {
+   "id": 741005106,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlas Guadalajara",
+   "away": "FC Monterrey",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1785632400,
+   "group": "liga"
+  },
+  {
+   "id": 741021868,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Cruz Azul",
+   "away": "Atlante",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:1,2:2)",
+   "start": 1785639600,
+   "group": "liga"
+  },
+  {
+   "id": 741243897,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Club America",
+   "away": "Santos Laguna",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1785710700,
+   "group": "liga"
+  },
+  {
+   "id": 741262306,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "Necaxa",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1785717900,
+   "group": "liga"
+  },
+  {
+   "id": 744615688,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlante",
+   "away": "FC Toluca",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1786834800,
+   "group": "liga"
+  },
+  {
+   "id": 744637522,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Monterrey",
+   "away": "Juárez",
+   "score": [
+    6,
+    1
+   ],
+   "detail": "6:1 (4:1,2:0)",
+   "start": 1786842600,
+   "group": "liga"
+  },
+  {
+   "id": 744654789,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlas Guadalajara",
+   "away": "Tigres de la UANL",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1786849800,
+   "group": "liga"
+  },
+  {
+   "id": 744831753,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pumas UNAM",
+   "away": "Queretaro",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1786903200,
+   "group": "liga"
+  },
+  {
+   "id": 744888728,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Club America",
+   "away": "Atletico San Luis",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1786921200,
+   "group": "liga"
+  },
+  {
+   "id": 744907739,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Santos Laguna",
+   "away": "Guadalajara",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1786929000,
+   "group": "liga"
+  },
+  {
+   "id": 744920964,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Tijuana",
+   "away": "Cruz Azul",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1786935600,
+   "group": "liga"
+  },
+  {
+   "id": 745146779,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Necaxa",
+   "away": "Leon",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1787014800,
+   "group": "liga"
+  },
+  {
+   "id": 745163091,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "Puebla FC",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:2,1:1)",
+   "start": 1787022000,
+   "group": "liga"
+  },
+  {
+   "id": 746207889,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Leon",
+   "away": "FC Monterrey",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1787360400,
+   "group": "liga"
+  },
+  {
+   "id": 746207821,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Tigres de la UANL",
+   "away": "Atlante",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1787360400,
+   "group": "liga"
+  },
+  {
+   "id": 746227644,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Juárez",
+   "away": "Club America",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1787367600,
+   "group": "liga"
+  },
+  {
+   "id": 746230310,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "FC Toluca",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1787368200,
+   "group": "liga"
+  },
+  {
+   "id": 746483867,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Guadalajara",
+   "away": "FC Tijuana",
+   "score": [
+    5,
+    2
+   ],
+   "detail": "5:2 (3:0,2:2)",
+   "start": 1787439600,
+   "group": "liga"
+  },
+  {
+   "id": 746502740,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Puebla FC",
+   "away": "Santos Laguna",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:1,2:1)",
+   "start": 1787446800,
+   "group": "liga"
+  },
+  {
+   "id": 746521346,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Cruz Azul",
+   "away": "Atlas Guadalajara",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1787454000,
+   "group": "liga"
+  },
+  {
+   "id": 746756621,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atletico San Luis",
+   "away": "Pachuca FC",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1787525100,
+   "group": "liga"
+  },
+  {
+   "id": 746775635,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pumas UNAM",
+   "away": "Necaxa",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1787533200,
+   "group": "liga"
+  },
+  {
+   "id": 748100509,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Necaxa",
+   "away": "Cruz Azul",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:1,1:2)",
+   "start": 1787965200,
+   "group": "liga"
+  },
+  {
+   "id": 748101096,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlante",
+   "away": "Leon",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1787965200,
+   "group": "liga"
+  },
+  {
+   "id": 748119434,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Tijuana",
+   "away": "Pumas UNAM",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1787972400,
+   "group": "liga"
+  },
+  {
+   "id": 748386479,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlas Guadalajara",
+   "away": "Queretaro",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:1,0:2)",
+   "start": 1788044400,
+   "group": "liga"
+  },
+  {
+   "id": 748386497,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "Guadalajara",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1788044400,
+   "group": "liga"
+  },
+  {
+   "id": 748407981,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Club America",
+   "away": "Puebla FC",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1788051900,
+   "group": "liga"
+  },
+  {
+   "id": 748427388,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Santos Laguna",
+   "away": "Tigres de la UANL",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1788059400,
+   "group": "liga"
+  },
+  {
+   "id": 748686176,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "Juárez",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1788134400,
+   "group": "liga"
+  },
+  {
+   "id": 748702706,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Monterrey",
+   "away": "Atletico San Luis",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:2,1:1)",
+   "start": 1788142200,
+   "group": "liga"
+  },
+  {
+   "id": 748690467,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Puebla FC",
+   "away": "FC Toluca",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1788570000,
+   "group": "liga"
+  },
+  {
+   "id": 750077344,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Juárez",
+   "away": "Pachuca FC",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1788576300,
+   "group": "liga"
+  },
+  {
+   "id": 750357499,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atletico San Luis",
+   "away": "Guadalajara",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1788649200,
+   "group": "liga"
+  },
+  {
+   "id": 750357505,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "FC Monterrey",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1788649200,
+   "group": "liga"
+  },
+  {
+   "id": 748667747,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "FC Monterrey",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1788649200,
+   "group": "liga"
+  },
+  {
+   "id": 748662440,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "FC Monterrey",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1788649200,
+   "group": "liga"
+  },
+  {
+   "id": 747648219,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "FC Monterrey",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1788649200,
+   "group": "liga"
+  },
+  {
+   "id": 750378456,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Club America",
+   "away": "FC Tijuana",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1788656400,
+   "group": "liga"
+  },
+  {
+   "id": 748414984,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Club America",
+   "away": "FC Tijuana",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1788656400,
+   "group": "liga"
+  },
+  {
+   "id": 750378312,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Tigres de la UANL",
+   "away": "Necaxa",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1788656400,
+   "group": "liga"
+  },
+  {
+   "id": 750396144,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlas Guadalajara",
+   "away": "Atlante",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1788663600,
+   "group": "liga"
+  },
+  {
+   "id": 747753584,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pumas UNAM",
+   "away": "Leon",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1788717600,
+   "group": "liga"
+  },
+  {
+   "id": 750665428,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Cruz Azul",
+   "away": "Santos Laguna",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1788735600,
+   "group": "liga"
+  },
+  {
+   "id": 751799692,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pumas UNAM",
+   "away": "Leon",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1789095900,
+   "group": "liga"
+  },
+  {
+   "id": 752073185,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Necaxa",
+   "away": "Puebla FC",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1789174800,
+   "group": "liga"
+  },
+  {
+   "id": 752093346,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlante",
+   "away": "Pachuca FC",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:3,0:0)",
+   "start": 1789182000,
+   "group": "liga"
+  },
+  {
+   "id": 752094451,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Tijuana",
+   "away": "Queretaro",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1789182000,
+   "group": "liga"
+  },
+  {
+   "id": 752379413,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "Atlas Guadalajara",
+   "score": [
+    5,
+    2
+   ],
+   "detail": "5:2 (3:0,2:2)",
+   "start": 1789254000,
+   "group": "liga"
+  },
+  {
+   "id": 752401238,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Monterrey",
+   "away": "Tigres de la UANL",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1789261200,
+   "group": "liga"
+  },
+  {
+   "id": 752422883,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Cruz Azul",
+   "away": "Club America",
+   "score": [
+    4,
+    3
+   ],
+   "detail": "4:3 (3:0,1:3)",
+   "start": 1789269300,
+   "group": "liga"
+  },
+  {
+   "id": 752706971,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Santos Laguna",
+   "away": "Juárez",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1789347600,
+   "group": "liga"
+  },
+  {
+   "id": 752707985,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Guadalajara",
+   "away": "Pumas UNAM",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1789348020,
+   "group": "liga"
+  },
+  {
+   "id": 752959252,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Leon",
+   "away": "Atletico San Luis",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1789434000,
+   "group": "liga"
+  },
+  {
+   "id": 753233705,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Puebla FC",
+   "away": "FC Toluca",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1789520400,
+   "group": "liga"
+  },
+  {
+   "id": 754120340,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Puebla FC",
+   "away": "Atlante",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1789778700,
+   "group": "liga"
+  },
+  {
+   "id": 754141057,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Juárez",
+   "away": "Tigres de la UANL",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1789786800,
+   "group": "liga"
+  },
+  {
+   "id": 754438310,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atletico San Luis",
+   "away": "Necaxa",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1789858800,
+   "group": "liga"
+  },
+  {
+   "id": 754438305,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlas Guadalajara",
+   "away": "Pumas UNAM",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1789858800,
+   "group": "liga"
+  },
+  {
+   "id": 754460954,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Monterrey",
+   "away": "Cruz Azul",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1789866000,
+   "group": "liga"
+  },
+  {
+   "id": 754480932,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Club America",
+   "away": "Guadalajara",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:2,2:0)",
+   "start": 1789874100,
+   "group": "liga"
+  },
+  {
+   "id": 754762841,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "FC Tijuana",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:2,2:0)",
+   "start": 1789947900,
+   "group": "liga"
+  },
+  {
+   "id": 754764214,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "Santos Laguna",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (2:1,0:2)",
+   "start": 1789948800,
+   "group": "liga"
+  },
+  {
+   "id": 754781824,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "Leon",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1789956300,
+   "group": "liga"
+  },
+  {
+   "id": 756102524,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlante",
+   "away": "FC Monterrey",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (1:1,3:1)",
+   "start": 1790383500,
+   "group": "liga"
+  },
+  {
+   "id": 756122031,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Tijuana",
+   "away": "Atlas Guadalajara",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (2:1,0:2)",
+   "start": 1790391600,
+   "group": "liga"
+  },
+  {
+   "id": 756411402,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Guadalajara",
+   "away": "Queretaro",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1790462700,
+   "group": "liga"
+  },
+  {
+   "id": 756409218,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Cruz Azul",
+   "away": "FC Toluca",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (2:0,1:3)",
+   "start": 1790463000,
+   "group": "liga"
+  },
+  {
+   "id": 756432476,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "México",
+   "away": "Colombia",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1790470800,
+   "group": "seleccion"
+  },
+  {
+   "id": 756451902,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Santos Laguna",
+   "away": "Pachuca FC",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1790478300,
+   "group": "liga"
+  },
+  {
+   "id": 756452526,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Tigres de la UANL",
+   "away": "Puebla FC",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1790478600,
+   "group": "liga"
+  },
+  {
+   "id": 756655612,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pumas UNAM",
+   "away": "Atletico San Luis",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:1,2:2)",
+   "start": 1790532000,
+   "group": "liga"
+  },
+  {
+   "id": 756729897,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Leon",
+   "away": "Juárez",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1790556300,
+   "group": "liga"
+  },
+  {
+   "id": 756746351,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Necaxa",
+   "away": "Club America",
+   "score": [
+    2,
+    4
+   ],
+   "detail": "2:4 (2:2,0:2)",
+   "start": 1790565000,
+   "group": "liga"
+  },
+  {
+   "id": 757251373,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "México",
+   "away": "Perú",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1790730000,
+   "group": "seleccion"
+  },
+  {
+   "id": 758437630,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "EE.UU.",
+   "away": "México",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1791079200,
+   "group": "seleccion"
+  },
+  {
+   "id": 759284197,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "México",
+   "away": "Chile",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1791340200,
+   "group": "seleccion"
+  },
+  {
+   "id": 760140920,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Puebla FC",
+   "away": "Leon",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1791594000,
+   "group": "liga"
+  },
+  {
+   "id": 760160766,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Tigres de la UANL",
+   "away": "FC Toluca",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:1,1:1)",
+   "start": 1791601200,
+   "group": "liga"
+  },
+  {
+   "id": 760469786,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Juárez",
+   "away": "FC Tijuana",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1791673200,
+   "group": "liga"
+  },
+  {
+   "id": 760469797,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "Atlante",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1791673200,
+   "group": "liga"
+  },
+  {
+   "id": 760492156,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlas Guadalajara",
+   "away": "Guadalajara",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1791680400,
+   "group": "liga"
+  },
+  {
+   "id": 760513570,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Club America",
+   "away": "FC Monterrey",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1791687600,
+   "group": "liga"
+  },
+  {
+   "id": 760801287,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atletico San Luis",
+   "away": "Santos Laguna",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1791759600,
+   "group": "liga"
+  },
+  {
+   "id": 760803350,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "Necaxa",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (1:2,2:1)",
+   "start": 1791760200,
+   "group": "liga"
+  },
+  {
+   "id": 760822592,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pumas UNAM",
+   "away": "Cruz Azul",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (2:1,1:2)",
+   "start": 1791767700,
+   "group": "liga"
+  },
+  {
+   "id": 762271613,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Necaxa",
+   "away": "Atlas Guadalajara",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1792198800,
+   "group": "liga"
+  },
+  {
+   "id": 762292673,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlante",
+   "away": "Pumas UNAM",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1792206000,
+   "group": "liga"
+  },
+  {
+   "id": 762292328,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Tijuana",
+   "away": "Puebla FC",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1792206000,
+   "group": "liga"
+  },
+  {
+   "id": 762615048,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Santos Laguna",
+   "away": "Queretaro",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (2:0,3:0)",
+   "start": 1792278000,
+   "group": "liga"
+  },
+  {
+   "id": 762616199,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Guadalajara",
+   "away": "Tigres de la UANL",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1792278420,
+   "group": "liga"
+  },
+  {
+   "id": 762636917,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "Atletico San Luis",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1792285200,
+   "group": "liga"
+  },
+  {
+   "id": 762636869,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Leon",
+   "away": "Club America",
+   "score": [
+    3,
+    5
+   ],
+   "detail": "3:5 (0:2,3:3)",
+   "start": 1792285200,
+   "group": "liga"
+  },
+  {
+   "id": 762659651,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Cruz Azul",
+   "away": "Juárez",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (3:0,2:0)",
+   "start": 1792292400,
+   "group": "liga"
+  },
+  {
+   "id": 762972974,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Monterrey",
+   "away": "Pachuca FC",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1792371600,
+   "group": "liga"
+  },
+  {
+   "id": 763526393,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Guadalajara",
+   "away": "Necaxa",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1792541220,
+   "group": "liga"
+  },
+  {
+   "id": 763534006,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atletico San Luis",
+   "away": "Queretaro",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1792544400,
+   "group": "liga"
+  },
+  {
+   "id": 763533993,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Juárez",
+   "away": "Atlante",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1792544400,
+   "group": "liga"
+  },
+  {
+   "id": 763552010,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Tigres de la UANL",
+   "away": "Leon",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1792551600,
+   "group": "liga"
+  },
+  {
+   "id": 763828290,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Puebla FC",
+   "away": "FC Monterrey",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (0:3,1:1)",
+   "start": 1792630800,
+   "group": "liga"
+  },
+  {
+   "id": 763828285,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlas Guadalajara",
+   "away": "Club America",
+   "score": [
+    2,
+    5
+   ],
+   "detail": "2:5 (0:2,2:3)",
+   "start": 1792630800,
+   "group": "liga"
+  },
+  {
+   "id": 763828298,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "FC Tijuana",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:1,2:1)",
+   "start": 1792630800,
+   "group": "liga"
+  },
+  {
+   "id": 763848396,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "Cruz Azul",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1792638000,
+   "group": "liga"
+  },
+  {
+   "id": 763848565,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Santos Laguna",
+   "away": "Pumas UNAM",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1792638000,
+   "group": "liga"
+  },
+  {
+   "id": 764419426,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Necaxa",
+   "away": "Juárez",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1792803600,
+   "group": "liga"
+  },
+  {
+   "id": 764442192,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlante",
+   "away": "Atletico San Luis",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1792809900,
+   "group": "liga"
+  },
+  {
+   "id": 764758825,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Leon",
+   "away": "FC Toluca",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1792882800,
+   "group": "liga"
+  },
+  {
+   "id": 764782048,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Monterrey",
+   "away": "Guadalajara",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1792890000,
+   "group": "liga"
+  },
+  {
+   "id": 764802181,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pumas UNAM",
+   "away": "Tigres de la UANL",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1792897800,
+   "group": "liga"
+  },
+  {
+   "id": 765088007,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlas Guadalajara",
+   "away": "Puebla FC",
+   "score": [
+    4,
+    3
+   ],
+   "detail": "4:3 (1:1,3:2)",
+   "start": 1792969200,
+   "group": "liga"
+  },
+  {
+   "id": 765108578,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "Cruz Azul",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:3,0:0)",
+   "start": 1792975500,
+   "group": "liga"
+  },
+  {
+   "id": 765108555,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Club America",
+   "away": "Pachuca FC",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1792975500,
+   "group": "liga"
+  },
+  {
+   "id": 765126711,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Tijuana",
+   "away": "Santos Laguna",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (2:0,2:1)",
+   "start": 1792983600,
+   "group": "liga"
+  },
+  {
+   "id": 766006815,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Club America",
+   "away": "FC Tijuana",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1793242800,
+   "group": "liga"
+  },
+  {
+   "id": 766589604,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Juárez",
+   "away": "Queretaro",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1793407500,
+   "group": "liga"
+  },
+  {
+   "id": 766589683,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atletico San Luis",
+   "away": "Atlas Guadalajara",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1793408400,
+   "group": "liga"
+  },
+  {
+   "id": 766611872,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Puebla FC",
+   "away": "Pumas UNAM",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1793415600,
+   "group": "liga"
+  },
+  {
+   "id": 766927936,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "Tigres de la UANL",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1793487600,
+   "group": "liga"
+  },
+  {
+   "id": 766951127,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Monterrey",
+   "away": "FC Tijuana",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (2:2,1:1)",
+   "start": 1793495100,
+   "group": "liga"
+  },
+  {
+   "id": 766951134,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Guadalajara",
+   "away": "Atlante",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (2:0,2:2)",
+   "start": 1793495220,
+   "group": "liga"
+  },
+  {
+   "id": 766970767,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Club America",
+   "away": "FC Toluca",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:1,2:1)",
+   "start": 1793502600,
+   "group": "liga"
+  },
+  {
+   "id": 767256656,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Santos Laguna",
+   "away": "Necaxa",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1793574000,
+   "group": "liga"
+  },
+  {
+   "id": 767276436,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Cruz Azul",
+   "away": "Leon",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1793580300,
+   "group": "liga"
+  },
+  {
+   "id": 768679839,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Necaxa",
+   "away": "FC Tijuana",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1794013200,
+   "group": "liga"
+  },
+  {
+   "id": 768679838,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atletico San Luis",
+   "away": "Juárez",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1794013200,
+   "group": "liga"
+  },
+  {
+   "id": 768700454,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlante",
+   "away": "Santos Laguna",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1794020400,
+   "group": "liga"
+  },
+  {
+   "id": 769000882,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Atlas Guadalajara",
+   "away": "Pachuca FC",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (0:2,1:2)",
+   "start": 1794092400,
+   "group": "liga"
+  },
+  {
+   "id": 769021945,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "FC Monterrey",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1794099600,
+   "group": "liga"
+  },
+  {
+   "id": 769021942,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Tigres de la UANL",
+   "away": "Cruz Azul",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:1,1:2)",
+   "start": 1794099600,
+   "group": "liga"
+  },
+  {
+   "id": 769043561,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pumas UNAM",
+   "away": "Club America",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1794106800,
+   "group": "liga"
+  },
+  {
+   "id": 769322669,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "Puebla FC",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1794182400,
+   "group": "liga"
+  },
+  {
+   "id": 769341784,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Leon",
+   "away": "Guadalajara",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1794189600,
+   "group": "liga"
+  },
+  {
+   "id": 771001848,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "FC Monterrey",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1794697200,
+   "group": "liga"
+  },
+  {
+   "id": 772718179,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Puebla FC",
+   "away": "Atletico San Luis",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1795222800,
+   "group": "liga"
+  },
+  {
+   "id": 772736930,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Juárez",
+   "away": "Atlas Guadalajara",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (1:1,2:2)",
+   "start": 1795230000,
+   "group": "liga"
+  },
+  {
+   "id": 772737097,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Tijuana",
+   "away": "Atlante",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1795230000,
+   "group": "liga"
+  },
+  {
+   "id": 773041379,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "FC Toluca",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1795301400,
+   "group": "liga"
+  },
+  {
+   "id": 773043004,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Santos Laguna",
+   "away": "Leon",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1795302000,
+   "group": "liga"
+  },
+  {
+   "id": 773065401,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pumas UNAM",
+   "away": "FC Monterrey",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1795308300,
+   "group": "liga"
+  },
+  {
+   "id": 773085473,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Tigres de la UANL",
+   "away": "Club America",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1795316400,
+   "group": "liga"
+  },
+  {
+   "id": 773367368,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Guadalajara",
+   "away": "Cruz Azul",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1795388400,
+   "group": "liga"
+  },
+  {
+   "id": 773384624,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Queretaro",
+   "away": "Necaxa",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1795396200,
+   "group": "liga"
+  }
+ ]
+}

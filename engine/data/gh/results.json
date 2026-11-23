@@ -1,0 +1,52 @@
+{
+ "updated": "2026-11-23T16:09:06+00:00",
+ "backfilled": [
+  1706694,
+  2905343,
+  125983
+ ],
+ "matches": [
+  {
+   "id": 723398513,
+   "tid": 125983,
+   "tname": "Friendlies. National Teams",
+   "home": "Mexico",
+   "away": "Ghana",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1779500700,
+   "group": "seleccion"
+  },
+  {
+   "id": 726193381,
+   "tid": 125983,
+   "tname": "Friendlies. National Teams",
+   "home": "Wales",
+   "away": "Ghana",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1780425900,
+   "group": "seleccion"
+  },
+  {
+   "id": 754329901,
+   "tid": 125983,
+   "tname": "Friendlies. National Teams",
+   "home": "Morocco",
+   "away": "Ghana",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1791136800,
+   "group": "seleccion"
+  }
+ ]
+}

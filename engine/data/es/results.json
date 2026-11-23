@@ -1,0 +1,6114 @@
+{
+ "updated": "2026-11-23T16:06:28+00:00",
+ "backfilled": [
+  127733,
+  1706694,
+  125983
+ ],
+ "matches": [
+  {
+   "id": 663529330,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Rayo Vallecano",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1760891400,
+   "group": "liga"
+  },
+  {
+   "id": 663566475,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Getafe",
+   "away": "Real Madrid",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1760899500,
+   "group": "liga"
+  },
+  {
+   "id": 663817764,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo Alavés",
+   "away": "Valencia CF",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1760986800,
+   "group": "liga"
+  },
+  {
+   "id": 664971947,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Sociedad",
+   "away": "Sevilla",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1761332400,
+   "group": "liga"
+  },
+  {
+   "id": 665172528,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Girona FC",
+   "away": "Real Oviedo",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (0:1,3:2)",
+   "start": 1761392700,
+   "group": "liga"
+  },
+  {
+   "id": 665218044,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "RCD Espanyol",
+   "away": "Elche",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1761401700,
+   "group": "liga"
+  },
+  {
+   "id": 665266086,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Athletic Club",
+   "away": "Getafe",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1761409800,
+   "group": "liga"
+  },
+  {
+   "id": 665310976,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Valencia CF",
+   "away": "Villarreal",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1761418800,
+   "group": "liga"
+  },
+  {
+   "id": 665515524,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Mallorca",
+   "away": "Levante UD",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1761483600,
+   "group": "liga"
+  },
+  {
+   "id": 665556830,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Madrid",
+   "away": "FC Barcelona",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1761491700,
+   "group": "liga"
+  },
+  {
+   "id": 665598515,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Osasuna",
+   "away": "Celta de Vigo",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (2:1,0:2)",
+   "start": 1761499800,
+   "group": "liga"
+  },
+  {
+   "id": 665634865,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Deportivo Alavés",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1761508800,
+   "group": "liga"
+  },
+  {
+   "id": 665883143,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Betis",
+   "away": "Atlético de Madrid",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1761595200,
+   "group": "liga"
+  },
+  {
+   "id": 667017848,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Getafe",
+   "away": "Girona FC",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1761940800,
+   "group": "liga"
+  },
+  {
+   "id": 667212842,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Villarreal",
+   "away": "Rayo Vallecano",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (1:0,3:0)",
+   "start": 1762002000,
+   "group": "liga"
+  },
+  {
+   "id": 667257361,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Atlético de Madrid",
+   "away": "Sevilla",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (0:0,3:0)",
+   "start": 1762010100,
+   "group": "liga"
+  },
+  {
+   "id": 667301918,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Sociedad",
+   "away": "Athletic Club",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:1,2:1)",
+   "start": 1762018200,
+   "group": "liga"
+  },
+  {
+   "id": 667347118,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Madrid",
+   "away": "Valencia CF",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (3:0,1:0)",
+   "start": 1762027200,
+   "group": "liga"
+  },
+  {
+   "id": 667536130,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Celta de Vigo",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1762088400,
+   "group": "liga"
+  },
+  {
+   "id": 667577012,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo Alavés",
+   "away": "RCD Espanyol",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1762096500,
+   "group": "liga"
+  },
+  {
+   "id": 667618470,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "FC Barcelona",
+   "away": "Elche",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1762104600,
+   "group": "liga"
+  },
+  {
+   "id": 667652286,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Betis",
+   "away": "Mallorca",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (3:0,0:0)",
+   "start": 1762113600,
+   "group": "liga"
+  },
+  {
+   "id": 667898194,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Oviedo",
+   "away": "Osasuna",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762200000,
+   "group": "liga"
+  },
+  {
+   "id": 668990067,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Elche",
+   "away": "Real Sociedad",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1762545600,
+   "group": "liga"
+  },
+  {
+   "id": 669192237,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Girona FC",
+   "away": "Deportivo Alavés",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1762606800,
+   "group": "liga"
+  },
+  {
+   "id": 669236414,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Sevilla",
+   "away": "Osasuna",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1762614900,
+   "group": "liga"
+  },
+  {
+   "id": 669280369,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Atlético de Madrid",
+   "away": "Levante UD",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1762623000,
+   "group": "liga"
+  },
+  {
+   "id": 669321562,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "RCD Espanyol",
+   "away": "Villarreal",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1762632000,
+   "group": "liga"
+  },
+  {
+   "id": 669514091,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Athletic Club",
+   "away": "Real Oviedo",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1762693200,
+   "group": "liga"
+  },
+  {
+   "id": 669551630,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Real Madrid",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762701300,
+   "group": "liga"
+  },
+  {
+   "id": 669591700,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Mallorca",
+   "away": "Getafe",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1762709400,
+   "group": "liga"
+  },
+  {
+   "id": 669591110,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Valencia CF",
+   "away": "Real Betis",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1762709400,
+   "group": "liga"
+  },
+  {
+   "id": 669625019,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Celta de Vigo",
+   "away": "FC Barcelona",
+   "score": [
+    2,
+    4
+   ],
+   "detail": "2:4 (2:3,0:1)",
+   "start": 1762717500,
+   "group": "liga"
+  },
+  {
+   "id": 672802806,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Valencia CF",
+   "away": "Levante UD",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1763755200,
+   "group": "liga"
+  },
+  {
+   "id": 672995640,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo Alavés",
+   "away": "Celta de Vigo",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1763816400,
+   "group": "liga"
+  },
+  {
+   "id": 673037284,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "FC Barcelona",
+   "away": "Athletic Club",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1763824500,
+   "group": "liga"
+  },
+  {
+   "id": 673081849,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Osasuna",
+   "away": "Real Sociedad",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:0,0:3)",
+   "start": 1763832600,
+   "group": "liga"
+  },
+  {
+   "id": 673124184,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Villarreal",
+   "away": "Mallorca",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1763841600,
+   "group": "liga"
+  },
+  {
+   "id": 673314689,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Oviedo",
+   "away": "Rayo Vallecano",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1763902800,
+   "group": "liga"
+  },
+  {
+   "id": 673352179,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Betis",
+   "away": "Girona FC",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1763910900,
+   "group": "liga"
+  },
+  {
+   "id": 673392393,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Getafe",
+   "away": "Atlético de Madrid",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1763919000,
+   "group": "liga"
+  },
+  {
+   "id": 673426799,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Elche",
+   "away": "Real Madrid",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:0,2:2)",
+   "start": 1763928000,
+   "group": "liga"
+  },
+  {
+   "id": 673658529,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "RCD Espanyol",
+   "away": "Sevilla",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1764014400,
+   "group": "liga"
+  },
+  {
+   "id": 674712537,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Getafe",
+   "away": "Elche",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1764360000,
+   "group": "liga"
+  },
+  {
+   "id": 674895626,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Mallorca",
+   "away": "Osasuna",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:0,2:2)",
+   "start": 1764421200,
+   "group": "liga"
+  },
+  {
+   "id": 674937747,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "FC Barcelona",
+   "away": "Deportivo Alavés",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1764429300,
+   "group": "liga"
+  },
+  {
+   "id": 674978960,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Athletic Club",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1764437400,
+   "group": "liga"
+  },
+  {
+   "id": 675018870,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Atlético de Madrid",
+   "away": "Real Oviedo",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1764446400,
+   "group": "liga"
+  },
+  {
+   "id": 675194722,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Sociedad",
+   "away": "Villarreal",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:1,2:2)",
+   "start": 1764507600,
+   "group": "liga"
+  },
+  {
+   "id": 675232154,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Sevilla",
+   "away": "Real Betis",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1764515700,
+   "group": "liga"
+  },
+  {
+   "id": 675267598,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Celta de Vigo",
+   "away": "RCD Espanyol",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1764523800,
+   "group": "liga"
+  },
+  {
+   "id": 675299931,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Girona FC",
+   "away": "Real Madrid",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1764532800,
+   "group": "liga"
+  },
+  {
+   "id": 675525726,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Valencia CF",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1764619200,
+   "group": "liga"
+  },
+  {
+   "id": 675767328,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "FC Barcelona",
+   "away": "Atlético de Madrid",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1764705600,
+   "group": "liga"
+  },
+  {
+   "id": 675998573,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Athletic Club",
+   "away": "Real Madrid",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1764784800,
+   "group": "liga"
+  },
+  {
+   "id": 676563060,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Oviedo",
+   "away": "Mallorca",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1764964800,
+   "group": "liga"
+  },
+  {
+   "id": 676757703,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Villarreal",
+   "away": "Getafe",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1765026000,
+   "group": "liga"
+  },
+  {
+   "id": 676799008,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo Alavés",
+   "away": "Real Sociedad",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1765034100,
+   "group": "liga"
+  },
+  {
+   "id": 676843184,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Betis",
+   "away": "FC Barcelona",
+   "score": [
+    3,
+    5
+   ],
+   "detail": "3:5 (1:4,2:1)",
+   "start": 1765042200,
+   "group": "liga"
+  },
+  {
+   "id": 676883104,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Athletic Club",
+   "away": "Atlético de Madrid",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1765051200,
+   "group": "liga"
+  },
+  {
+   "id": 677067332,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Elche",
+   "away": "Girona FC",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1765112400,
+   "group": "liga"
+  },
+  {
+   "id": 677106663,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Valencia CF",
+   "away": "Sevilla",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1765120500,
+   "group": "liga"
+  },
+  {
+   "id": 677147788,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "RCD Espanyol",
+   "away": "Rayo Vallecano",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1765128600,
+   "group": "liga"
+  },
+  {
+   "id": 677181249,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Madrid",
+   "away": "Celta de Vigo",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1765136700,
+   "group": "liga"
+  },
+  {
+   "id": 677419870,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Osasuna",
+   "away": "Levante UD",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1765224000,
+   "group": "liga"
+  },
+  {
+   "id": 678412721,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Sociedad",
+   "away": "Girona FC",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1765569600,
+   "group": "liga"
+  },
+  {
+   "id": 678594001,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Atlético de Madrid",
+   "away": "Valencia CF",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1765630800,
+   "group": "liga"
+  },
+  {
+   "id": 678634443,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Mallorca",
+   "away": "Elche",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1765638900,
+   "group": "liga"
+  },
+  {
+   "id": 678676765,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "FC Barcelona",
+   "away": "Osasuna",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1765647000,
+   "group": "liga"
+  },
+  {
+   "id": 678716836,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Getafe",
+   "away": "RCD Espanyol",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1765656000,
+   "group": "liga"
+  },
+  {
+   "id": 678890246,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Sevilla",
+   "away": "Real Oviedo",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1765717200,
+   "group": "liga"
+  },
+  {
+   "id": 678928012,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Celta de Vigo",
+   "away": "Athletic Club",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1765725300,
+   "group": "liga"
+  },
+  {
+   "id": 675352474,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Villarreal",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1765733400,
+   "group": "liga"
+  },
+  {
+   "id": 678996312,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo Alavés",
+   "away": "Real Madrid",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1765742400,
+   "group": "liga"
+  },
+  {
+   "id": 679217008,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Real Betis",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1765828800,
+   "group": "liga"
+  },
+  {
+   "id": 680225292,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Valencia CF",
+   "away": "Mallorca",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1766174400,
+   "group": "liga"
+  },
+  {
+   "id": 680407733,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Oviedo",
+   "away": "Celta de Vigo",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1766235600,
+   "group": "liga"
+  },
+  {
+   "id": 680447857,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Real Sociedad",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1766243700,
+   "group": "liga"
+  },
+  {
+   "id": 680488992,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Osasuna",
+   "away": "Deportivo Alavés",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (0:0,3:0)",
+   "start": 1766251800,
+   "group": "liga"
+  },
+  {
+   "id": 680527806,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Madrid",
+   "away": "Sevilla",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1766260800,
+   "group": "liga"
+  },
+  {
+   "id": 680706287,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Girona FC",
+   "away": "Atlético de Madrid",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1766322000,
+   "group": "liga"
+  },
+  {
+   "id": 680742724,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Villarreal",
+   "away": "FC Barcelona",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1766330100,
+   "group": "liga"
+  },
+  {
+   "id": 680780622,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Elche",
+   "away": "Rayo Vallecano",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (1:0,3:0)",
+   "start": 1766338200,
+   "group": "liga"
+  },
+  {
+   "id": 680811171,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Betis",
+   "away": "Getafe",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (1:0,3:0)",
+   "start": 1766347200,
+   "group": "liga"
+  },
+  {
+   "id": 681035558,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Athletic Club",
+   "away": "RCD Espanyol",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1766432700,
+   "group": "liga"
+  },
+  {
+   "id": 683494329,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Getafe",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1767384000,
+   "group": "liga"
+  },
+  {
+   "id": 683659515,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Celta de Vigo",
+   "away": "Valencia CF",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (1:0,3:1)",
+   "start": 1767445200,
+   "group": "liga"
+  },
+  {
+   "id": 683693334,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Osasuna",
+   "away": "Athletic Club",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1767453300,
+   "group": "liga"
+  },
+  {
+   "id": 683728387,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Elche",
+   "away": "Villarreal",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:2,0:1)",
+   "start": 1767461400,
+   "group": "liga"
+  },
+  {
+   "id": 683764006,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "RCD Espanyol",
+   "away": "FC Barcelona",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1767470400,
+   "group": "liga"
+  },
+  {
+   "id": 683942187,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Sevilla",
+   "away": "Levante UD",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1767531600,
+   "group": "liga"
+  },
+  {
+   "id": 683976034,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Madrid",
+   "away": "Real Betis",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (1:0,4:1)",
+   "start": 1767539700,
+   "group": "liga"
+  },
+  {
+   "id": 684013841,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Mallorca",
+   "away": "Girona FC",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1767547800,
+   "group": "liga"
+  },
+  {
+   "id": 684013896,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo Alavés",
+   "away": "Real Oviedo",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1767547800,
+   "group": "liga"
+  },
+  {
+   "id": 684046692,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Sociedad",
+   "away": "Atlético de Madrid",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1767555900,
+   "group": "liga"
+  },
+  {
+   "id": 685345907,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Getafe",
+   "away": "Real Sociedad",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1767988800,
+   "group": "liga"
+  },
+  {
+   "id": 685538319,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Oviedo",
+   "away": "Real Betis",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1768050000,
+   "group": "liga"
+  },
+  {
+   "id": 685580261,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Villarreal",
+   "away": "Deportivo Alavés",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:0,3:1)",
+   "start": 1768058100,
+   "group": "liga"
+  },
+  {
+   "id": 685623407,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Girona FC",
+   "away": "Osasuna",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1768066200,
+   "group": "liga"
+  },
+  {
+   "id": 685665954,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Valencia CF",
+   "away": "Elche",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1768075200,
+   "group": "liga"
+  },
+  {
+   "id": 685855718,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Mallorca",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1768136400,
+   "group": "liga"
+  },
+  {
+   "id": 685895653,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "RCD Espanyol",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1768144500,
+   "group": "liga"
+  },
+  {
+   "id": 686214179,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Sevilla",
+   "away": "Celta de Vigo",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1768248000,
+   "group": "liga"
+  },
+  {
+   "id": 687333373,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "RCD Espanyol",
+   "away": "Girona FC",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1768593600,
+   "group": "liga"
+  },
+  {
+   "id": 687526925,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Madrid",
+   "away": "Levante UD",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1768654800,
+   "group": "liga"
+  },
+  {
+   "id": 687572848,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Mallorca",
+   "away": "Athletic Club",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:2,1:0)",
+   "start": 1768662000,
+   "group": "liga"
+  },
+  {
+   "id": 687614687,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Osasuna",
+   "away": "Real Oviedo",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:1,2:1)",
+   "start": 1768671000,
+   "group": "liga"
+  },
+  {
+   "id": 687659991,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Betis",
+   "away": "Villarreal",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1768680000,
+   "group": "liga"
+  },
+  {
+   "id": 687858246,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Getafe",
+   "away": "Valencia CF",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1768740300,
+   "group": "liga"
+  },
+  {
+   "id": 687900003,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Atlético de Madrid",
+   "away": "Deportivo Alavés",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1768749300,
+   "group": "liga"
+  },
+  {
+   "id": 687941361,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Celta de Vigo",
+   "away": "Rayo Vallecano",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1768757400,
+   "group": "liga"
+  },
+  {
+   "id": 687975735,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Sociedad",
+   "away": "FC Barcelona",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1768766400,
+   "group": "liga"
+  },
+  {
+   "id": 688241654,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Elche",
+   "away": "Sevilla",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1768852800,
+   "group": "liga"
+  },
+  {
+   "id": 689436977,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Elche",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (0:1,3:1)",
+   "start": 1769198400,
+   "group": "liga"
+  },
+  {
+   "id": 689635779,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Osasuna",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:1,1:2)",
+   "start": 1769259600,
+   "group": "liga"
+  },
+  {
+   "id": 689682960,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Valencia CF",
+   "away": "RCD Espanyol",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:0,2:2)",
+   "start": 1769267700,
+   "group": "liga"
+  },
+  {
+   "id": 689727785,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Sevilla",
+   "away": "Athletic Club",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1769274900,
+   "group": "liga"
+  },
+  {
+   "id": 689770189,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Villarreal",
+   "away": "Real Madrid",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1769284800,
+   "group": "liga"
+  },
+  {
+   "id": 689966877,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Atlético de Madrid",
+   "away": "Mallorca",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1769346000,
+   "group": "liga"
+  },
+  {
+   "id": 690008914,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "FC Barcelona",
+   "away": "Real Oviedo",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (0:0,3:0)",
+   "start": 1769354100,
+   "group": "liga"
+  },
+  {
+   "id": 690049867,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Sociedad",
+   "away": "Celta de Vigo",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1769362200,
+   "group": "liga"
+  },
+  {
+   "id": 690084312,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo Alavés",
+   "away": "Real Betis",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1769371200,
+   "group": "liga"
+  },
+  {
+   "id": 690334803,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Girona FC",
+   "away": "Getafe",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1769457600,
+   "group": "liga"
+  },
+  {
+   "id": 691463722,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "RCD Espanyol",
+   "away": "Deportivo Alavés",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1769802300,
+   "group": "liga"
+  },
+  {
+   "id": 691664814,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Oviedo",
+   "away": "Girona FC",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1769863500,
+   "group": "liga"
+  },
+  {
+   "id": 691712119,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Osasuna",
+   "away": "Villarreal",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:1,0:1)",
+   "start": 1769871600,
+   "group": "liga"
+  },
+  {
+   "id": 691753828,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Atlético de Madrid",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1769880600,
+   "group": "liga"
+  },
+  {
+   "id": 691797575,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Elche",
+   "away": "FC Barcelona",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:2,0:1)",
+   "start": 1769889600,
+   "group": "liga"
+  },
+  {
+   "id": 691999274,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Madrid",
+   "away": "Rayo Vallecano",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1769950800,
+   "group": "liga"
+  },
+  {
+   "id": 692039551,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Betis",
+   "away": "Valencia CF",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1769958900,
+   "group": "liga"
+  },
+  {
+   "id": 692083344,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Getafe",
+   "away": "Celta de Vigo",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1769967000,
+   "group": "liga"
+  },
+  {
+   "id": 692117090,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Athletic Club",
+   "away": "Real Sociedad",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1769976000,
+   "group": "liga"
+  },
+  {
+   "id": 692370521,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Mallorca",
+   "away": "Sevilla",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (1:1,3:0)",
+   "start": 1770062400,
+   "group": "liga"
+  },
+  {
+   "id": 693485733,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Celta de Vigo",
+   "away": "Osasuna",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1770408000,
+   "group": "liga"
+  },
+  {
+   "id": 689951544,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Real Oviedo",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1770469200,
+   "group": "liga"
+  },
+  {
+   "id": 693721455,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "FC Barcelona",
+   "away": "Mallorca",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1770477300,
+   "group": "liga"
+  },
+  {
+   "id": 693806710,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Sociedad",
+   "away": "Elche",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1770494400,
+   "group": "liga"
+  },
+  {
+   "id": 693999071,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo Alavés",
+   "away": "Getafe",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1770555600,
+   "group": "liga"
+  },
+  {
+   "id": 694040692,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Sevilla",
+   "away": "Girona FC",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1770562800,
+   "group": "liga"
+  },
+  {
+   "id": 694038601,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Athletic Club",
+   "away": "Levante UD",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (2:0,2:2)",
+   "start": 1770563700,
+   "group": "liga"
+  },
+  {
+   "id": 694079478,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Atlético de Madrid",
+   "away": "Real Betis",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1770571800,
+   "group": "liga"
+  },
+  {
+   "id": 694111810,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Valencia CF",
+   "away": "Real Madrid",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1770580800,
+   "group": "liga"
+  },
+  {
+   "id": 694346811,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Villarreal",
+   "away": "RCD Espanyol",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (2:0,2:1)",
+   "start": 1770667200,
+   "group": "liga"
+  },
+  {
+   "id": 695430173,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Elche",
+   "away": "Osasuna",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1771012800,
+   "group": "liga"
+  },
+  {
+   "id": 695619542,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "RCD Espanyol",
+   "away": "Celta de Vigo",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:1,2:1)",
+   "start": 1771074000,
+   "group": "liga"
+  },
+  {
+   "id": 695663466,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Getafe",
+   "away": "Villarreal",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1771082100,
+   "group": "liga"
+  },
+  {
+   "id": 695704626,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Sevilla",
+   "away": "Deportivo Alavés",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1771090200,
+   "group": "liga"
+  },
+  {
+   "id": 695745603,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Madrid",
+   "away": "Real Sociedad",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (3:1,1:0)",
+   "start": 1771099200,
+   "group": "liga"
+  },
+  {
+   "id": 695933453,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Oviedo",
+   "away": "Athletic Club",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1771160400,
+   "group": "liga"
+  },
+  {
+   "id": 695972697,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Atlético de Madrid",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1771168500,
+   "group": "liga"
+  },
+  {
+   "id": 696011329,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Valencia CF",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1771176600,
+   "group": "liga"
+  },
+  {
+   "id": 696043646,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Mallorca",
+   "away": "Real Betis",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1771185600,
+   "group": "liga"
+  },
+  {
+   "id": 696284365,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Girona FC",
+   "away": "FC Barcelona",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1771271100,
+   "group": "liga"
+  },
+  {
+   "id": 696798099,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Villarreal",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1771440300,
+   "group": "liga"
+  },
+  {
+   "id": 697368096,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Athletic Club",
+   "away": "Elche",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1771617600,
+   "group": "liga"
+  },
+  {
+   "id": 697573011,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Sociedad",
+   "away": "Real Oviedo",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (0:0,3:3)",
+   "start": 1771678800,
+   "group": "liga"
+  },
+  {
+   "id": 697618664,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Betis",
+   "away": "Rayo Vallecano",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1771686900,
+   "group": "liga"
+  },
+  {
+   "id": 697661280,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Osasuna",
+   "away": "Real Madrid",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1771695000,
+   "group": "liga"
+  },
+  {
+   "id": 697705306,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Atlético de Madrid",
+   "away": "RCD Espanyol",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (1:1,3:1)",
+   "start": 1771704000,
+   "group": "liga"
+  },
+  {
+   "id": 697906676,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Getafe",
+   "away": "Sevilla",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1771765200,
+   "group": "liga"
+  },
+  {
+   "id": 697947164,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "FC Barcelona",
+   "away": "Levante UD",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1771773300,
+   "group": "liga"
+  },
+  {
+   "id": 697987034,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Celta de Vigo",
+   "away": "Mallorca",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1771781400,
+   "group": "liga"
+  },
+  {
+   "id": 698022516,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Villarreal",
+   "away": "Valencia CF",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1771790400,
+   "group": "liga"
+  },
+  {
+   "id": 698265245,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo Alavés",
+   "away": "Girona FC",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1771876800,
+   "group": "liga"
+  },
+  {
+   "id": 699354351,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Deportivo Alavés",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1772222400,
+   "group": "liga"
+  },
+  {
+   "id": 699550678,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Athletic Club",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1772283600,
+   "group": "liga"
+  },
+  {
+   "id": 699591990,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "FC Barcelona",
+   "away": "Villarreal",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (2:0,2:1)",
+   "start": 1772291700,
+   "group": "liga"
+  },
+  {
+   "id": 699633638,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Mallorca",
+   "away": "Real Sociedad",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1772299800,
+   "group": "liga"
+  },
+  {
+   "id": 699677334,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Oviedo",
+   "away": "Atlético de Madrid",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1772308800,
+   "group": "liga"
+  },
+  {
+   "id": 699868282,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Elche",
+   "away": "RCD Espanyol",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1772370000,
+   "group": "liga"
+  },
+  {
+   "id": 699907806,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Valencia CF",
+   "away": "Osasuna",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1772378100,
+   "group": "liga"
+  },
+  {
+   "id": 699947297,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Betis",
+   "away": "Sevilla",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:0,0:2)",
+   "start": 1772386200,
+   "group": "liga"
+  },
+  {
+   "id": 699981004,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Girona FC",
+   "away": "Celta de Vigo",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1772395200,
+   "group": "liga"
+  },
+  {
+   "id": 700232723,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Madrid",
+   "away": "Getafe",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1772481600,
+   "group": "liga"
+  },
+  {
+   "id": 700738086,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Real Oviedo",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1772647200,
+   "group": "liga"
+  },
+  {
+   "id": 701334162,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Celta de Vigo",
+   "away": "Real Madrid",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1772827200,
+   "group": "liga"
+  },
+  {
+   "id": 701541303,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Osasuna",
+   "away": "Mallorca",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:1,2:1)",
+   "start": 1772888400,
+   "group": "liga"
+  },
+  {
+   "id": 701586083,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Girona FC",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1772896500,
+   "group": "liga"
+  },
+  {
+   "id": 701627027,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Atlético de Madrid",
+   "away": "Real Sociedad",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:1,2:1)",
+   "start": 1772904600,
+   "group": "liga"
+  },
+  {
+   "id": 701671560,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Athletic Club",
+   "away": "FC Barcelona",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1772913600,
+   "group": "liga"
+  },
+  {
+   "id": 701873950,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Villarreal",
+   "away": "Elche",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1772974800,
+   "group": "liga"
+  },
+  {
+   "id": 701914436,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Getafe",
+   "away": "Real Betis",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1772982900,
+   "group": "liga"
+  },
+  {
+   "id": 701954166,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Sevilla",
+   "away": "Rayo Vallecano",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1772991000,
+   "group": "liga"
+  },
+  {
+   "id": 701988167,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Valencia CF",
+   "away": "Deportivo Alavés",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (0:1,3:1)",
+   "start": 1773000000,
+   "group": "liga"
+  },
+  {
+   "id": 702233610,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "RCD Espanyol",
+   "away": "Real Oviedo",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1773086400,
+   "group": "liga"
+  },
+  {
+   "id": 703339585,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo Alavés",
+   "away": "Villarreal",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1773432000,
+   "group": "liga"
+  },
+  {
+   "id": 703549199,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Girona FC",
+   "away": "Athletic Club",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1773493200,
+   "group": "liga"
+  },
+  {
+   "id": 703594364,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Atlético de Madrid",
+   "away": "Getafe",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1773501300,
+   "group": "liga"
+  },
+  {
+   "id": 703637712,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Oviedo",
+   "away": "Valencia CF",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1773509400,
+   "group": "liga"
+  },
+  {
+   "id": 703683756,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Madrid",
+   "away": "Elche",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (2:0,2:1)",
+   "start": 1773518400,
+   "group": "liga"
+  },
+  {
+   "id": 703883004,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Mallorca",
+   "away": "RCD Espanyol",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1773579600,
+   "group": "liga"
+  },
+  {
+   "id": 703923177,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "FC Barcelona",
+   "away": "Sevilla",
+   "score": [
+    5,
+    2
+   ],
+   "detail": "5:2 (3:1,2:1)",
+   "start": 1773587700,
+   "group": "liga"
+  },
+  {
+   "id": 703962637,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Betis",
+   "away": "Celta de Vigo",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1773595800,
+   "group": "liga"
+  },
+  {
+   "id": 703998932,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Sociedad",
+   "away": "Osasuna",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1773604800,
+   "group": "liga"
+  },
+  {
+   "id": 704241375,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Levante UD",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1773691200,
+   "group": "liga"
+  },
+  {
+   "id": 705366172,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Villarreal",
+   "away": "Real Sociedad",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (3:0,0:1)",
+   "start": 1774035900,
+   "group": "liga"
+  },
+  {
+   "id": 705576220,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Elche",
+   "away": "Mallorca",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1774097100,
+   "group": "liga"
+  },
+  {
+   "id": 705622666,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "RCD Espanyol",
+   "away": "Getafe",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1774106100,
+   "group": "liga"
+  },
+  {
+   "id": 705665075,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Osasuna",
+   "away": "Girona FC",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1774114200,
+   "group": "liga"
+  },
+  {
+   "id": 705665640,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Real Oviedo",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (2:2,2:0)",
+   "start": 1774114200,
+   "group": "liga"
+  },
+  {
+   "id": 705710212,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Sevilla",
+   "away": "Valencia CF",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1774123200,
+   "group": "liga"
+  },
+  {
+   "id": 705917587,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "FC Barcelona",
+   "away": "Rayo Vallecano",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1774184400,
+   "group": "liga"
+  },
+  {
+   "id": 705959889,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Celta de Vigo",
+   "away": "Deportivo Alavés",
+   "score": [
+    3,
+    4
+   ],
+   "detail": "3:4 (3:1,0:3)",
+   "start": 1774192500,
+   "group": "liga"
+  },
+  {
+   "id": 706002081,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Athletic Club",
+   "away": "Real Betis",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1774200600,
+   "group": "liga"
+  },
+  {
+   "id": 706040165,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Madrid",
+   "away": "Atlético de Madrid",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (0:1,3:1)",
+   "start": 1774209600,
+   "group": "liga"
+  },
+  {
+   "id": 709432504,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Elche",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1775242800,
+   "group": "liga"
+  },
+  {
+   "id": 709623014,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Sociedad",
+   "away": "Levante UD",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1775304000,
+   "group": "liga"
+  },
+  {
+   "id": 709661403,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Mallorca",
+   "away": "Real Madrid",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1775311200,
+   "group": "liga"
+  },
+  {
+   "id": 709702832,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Betis",
+   "away": "RCD Espanyol",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1775320200,
+   "group": "liga"
+  },
+  {
+   "id": 709744418,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Atlético de Madrid",
+   "away": "FC Barcelona",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1775329200,
+   "group": "liga"
+  },
+  {
+   "id": 709931652,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Getafe",
+   "away": "Athletic Club",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1775390400,
+   "group": "liga"
+  },
+  {
+   "id": 709965403,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Valencia CF",
+   "away": "Celta de Vigo",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:0,1:3)",
+   "start": 1775398500,
+   "group": "liga"
+  },
+  {
+   "id": 710000101,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Oviedo",
+   "away": "Sevilla",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1775406600,
+   "group": "liga"
+  },
+  {
+   "id": 710032759,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo Alavés",
+   "away": "Osasuna",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1775415600,
+   "group": "liga"
+  },
+  {
+   "id": 710302241,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Girona FC",
+   "away": "Villarreal",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1775502000,
+   "group": "liga"
+  },
+  {
+   "id": 711435613,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Madrid",
+   "away": "Girona FC",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1775847600,
+   "group": "liga"
+  },
+  {
+   "id": 711646395,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Sociedad",
+   "away": "Deportivo Alavés",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (2:2,1:1)",
+   "start": 1775908800,
+   "group": "liga"
+  },
+  {
+   "id": 711691065,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Elche",
+   "away": "Valencia CF",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1775916000,
+   "group": "liga"
+  },
+  {
+   "id": 711733075,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "FC Barcelona",
+   "away": "RCD Espanyol",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (2:0,2:1)",
+   "start": 1775925000,
+   "group": "liga"
+  },
+  {
+   "id": 711777184,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Sevilla",
+   "away": "Atlético de Madrid",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1775934000,
+   "group": "liga"
+  },
+  {
+   "id": 711982401,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Osasuna",
+   "away": "Real Betis",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1775995200,
+   "group": "liga"
+  },
+  {
+   "id": 712020956,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Mallorca",
+   "away": "Rayo Vallecano",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1776003300,
+   "group": "liga"
+  },
+  {
+   "id": 712062304,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Celta de Vigo",
+   "away": "Real Oviedo",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1776011400,
+   "group": "liga"
+  },
+  {
+   "id": 712098110,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Athletic Club",
+   "away": "Villarreal",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1776020400,
+   "group": "liga"
+  },
+  {
+   "id": 712354082,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Getafe",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1776105900,
+   "group": "liga"
+  },
+  {
+   "id": 714615152,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Mallorca",
+   "away": "Valencia CF",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1776790800,
+   "group": "liga"
+  },
+  {
+   "id": 714615648,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Athletic Club",
+   "away": "Osasuna",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1776790800,
+   "group": "liga"
+  },
+  {
+   "id": 714651132,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Madrid",
+   "away": "Deportivo Alavés",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1776798900,
+   "group": "liga"
+  },
+  {
+   "id": 714650925,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Girona FC",
+   "away": "Real Betis",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:1,1:2)",
+   "start": 1776799800,
+   "group": "liga"
+  },
+  {
+   "id": 714892322,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Elche",
+   "away": "Atlético de Madrid",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:2,1:0)",
+   "start": 1776877200,
+   "group": "liga"
+  },
+  {
+   "id": 714908522,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Sociedad",
+   "away": "Getafe",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1776880800,
+   "group": "liga"
+  },
+  {
+   "id": 714930997,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "FC Barcelona",
+   "away": "Celta de Vigo",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1776886200,
+   "group": "liga"
+  },
+  {
+   "id": 715172614,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Sevilla",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1776963600,
+   "group": "liga"
+  },
+  {
+   "id": 715186368,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "RCD Espanyol",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1776967200,
+   "group": "liga"
+  },
+  {
+   "id": 715208644,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Oviedo",
+   "away": "Villarreal",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1776971700,
+   "group": "liga"
+  },
+  {
+   "id": 715497890,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Betis",
+   "away": "Real Madrid",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1777057200,
+   "group": "liga"
+  },
+  {
+   "id": 715704710,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo Alavés",
+   "away": "Mallorca",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1777118400,
+   "group": "liga"
+  },
+  {
+   "id": 715747039,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Getafe",
+   "away": "FC Barcelona",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1777126500,
+   "group": "liga"
+  },
+  {
+   "id": 715788178,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Valencia CF",
+   "away": "Girona FC",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1777134600,
+   "group": "liga"
+  },
+  {
+   "id": 715832401,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Atlético de Madrid",
+   "away": "Athletic Club",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (0:1,3:1)",
+   "start": 1777142700,
+   "group": "liga"
+  },
+  {
+   "id": 716033129,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Real Sociedad",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (1:1,2:2)",
+   "start": 1777204800,
+   "group": "liga"
+  },
+  {
+   "id": 716070792,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Oviedo",
+   "away": "Elche",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1777212900,
+   "group": "liga"
+  },
+  {
+   "id": 716111604,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Osasuna",
+   "away": "Sevilla",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1777221000,
+   "group": "liga"
+  },
+  {
+   "id": 716149248,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Villarreal",
+   "away": "Celta de Vigo",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1777230000,
+   "group": "liga"
+  },
+  {
+   "id": 716407275,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "RCD Espanyol",
+   "away": "Levante UD",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1777316400,
+   "group": "liga"
+  },
+  {
+   "id": 717509968,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Girona FC",
+   "away": "Mallorca",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1777662000,
+   "group": "liga"
+  },
+  {
+   "id": 717715391,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Villarreal",
+   "away": "Levante UD",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (1:0,4:1)",
+   "start": 1777723200,
+   "group": "liga"
+  },
+  {
+   "id": 717755079,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Valencia CF",
+   "away": "Atlético de Madrid",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1777731300,
+   "group": "liga"
+  },
+  {
+   "id": 717793729,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo Alavés",
+   "away": "Athletic Club",
+   "score": [
+    2,
+    4
+   ],
+   "detail": "2:4 (1:0,1:4)",
+   "start": 1777739400,
+   "group": "liga"
+  },
+  {
+   "id": 717835265,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Osasuna",
+   "away": "FC Barcelona",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1777748400,
+   "group": "liga"
+  },
+  {
+   "id": 718027532,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Celta de Vigo",
+   "away": "Elche",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1777809600,
+   "group": "liga"
+  },
+  {
+   "id": 718060860,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Getafe",
+   "away": "Rayo Vallecano",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1777817700,
+   "group": "liga"
+  },
+  {
+   "id": 718099431,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Betis",
+   "away": "Real Oviedo",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1777825800,
+   "group": "liga"
+  },
+  {
+   "id": 718136591,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "RCD Espanyol",
+   "away": "Real Madrid",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1777834800,
+   "group": "liga"
+  },
+  {
+   "id": 718387308,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Sevilla",
+   "away": "Real Sociedad",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1777920300,
+   "group": "liga"
+  },
+  {
+   "id": 719449218,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Osasuna",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:2,1:0)",
+   "start": 1778265900,
+   "group": "liga"
+  },
+  {
+   "id": 719649560,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Elche",
+   "away": "Deportivo Alavés",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1778328000,
+   "group": "liga"
+  },
+  {
+   "id": 719688861,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Sevilla",
+   "away": "RCD Espanyol",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1778336100,
+   "group": "liga"
+  },
+  {
+   "id": 719726864,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Atlético de Madrid",
+   "away": "Celta de Vigo",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1778344200,
+   "group": "liga"
+  },
+  {
+   "id": 719765452,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Sociedad",
+   "away": "Real Betis",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:1,2:1)",
+   "start": 1778353200,
+   "group": "liga"
+  },
+  {
+   "id": 719960566,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Mallorca",
+   "away": "Villarreal",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1778414400,
+   "group": "liga"
+  },
+  {
+   "id": 719993516,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Athletic Club",
+   "away": "Valencia CF",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1778422500,
+   "group": "liga"
+  },
+  {
+   "id": 720032767,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Oviedo",
+   "away": "Getafe",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1778430600,
+   "group": "liga"
+  },
+  {
+   "id": 720068053,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "FC Barcelona",
+   "away": "Real Madrid",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1778439600,
+   "group": "liga"
+  },
+  {
+   "id": 720314422,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Girona FC",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1778526000,
+   "group": "liga"
+  },
+  {
+   "id": 720555392,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Celta de Vigo",
+   "away": "Levante UD",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:1,1:2)",
+   "start": 1778605200,
+   "group": "liga"
+  },
+  {
+   "id": 720568832,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Betis",
+   "away": "Elche",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1778608800,
+   "group": "liga"
+  },
+  {
+   "id": 720589219,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Osasuna",
+   "away": "Atlético de Madrid",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1778614200,
+   "group": "liga"
+  },
+  {
+   "id": 720828446,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "RCD Espanyol",
+   "away": "Athletic Club",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1778691600,
+   "group": "liga"
+  },
+  {
+   "id": 720828538,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Villarreal",
+   "away": "Sevilla",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (2:2,0:1)",
+   "start": 1778691600,
+   "group": "liga"
+  },
+  {
+   "id": 720864753,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo Alavés",
+   "away": "FC Barcelona",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1778700600,
+   "group": "liga"
+  },
+  {
+   "id": 720865198,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Getafe",
+   "away": "Mallorca",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1778700600,
+   "group": "liga"
+  },
+  {
+   "id": 721100700,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Valencia CF",
+   "away": "Rayo Vallecano",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1778778000,
+   "group": "liga"
+  },
+  {
+   "id": 721113592,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Girona FC",
+   "away": "Real Sociedad",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1778781600,
+   "group": "liga"
+  },
+  {
+   "id": 721132278,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Madrid",
+   "away": "Real Oviedo",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1778787000,
+   "group": "liga"
+  },
+  {
+   "id": 721969453,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Oviedo",
+   "away": "Deportivo Alavés",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1779037200,
+   "group": "liga"
+  },
+  {
+   "id": 721968910,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Atlético de Madrid",
+   "away": "Girona FC",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1779037200,
+   "group": "liga"
+  },
+  {
+   "id": 721969021,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Sevilla",
+   "away": "Real Madrid",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1779037200,
+   "group": "liga"
+  },
+  {
+   "id": 721969555,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Elche",
+   "away": "Getafe",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1779037200,
+   "group": "liga"
+  },
+  {
+   "id": 721969165,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Osasuna",
+   "away": "RCD Espanyol",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1779037200,
+   "group": "liga"
+  },
+  {
+   "id": 721969118,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Villarreal",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1779037200,
+   "group": "liga"
+  },
+  {
+   "id": 721969146,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Athletic Club",
+   "away": "Celta de Vigo",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1779037200,
+   "group": "liga"
+  },
+  {
+   "id": 721970859,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Sociedad",
+   "away": "Valencia CF",
+   "score": [
+    3,
+    4
+   ],
+   "detail": "3:4 (1:2,2:2)",
+   "start": 1779037200,
+   "group": "liga"
+  },
+  {
+   "id": 721969432,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Mallorca",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1779037200,
+   "group": "liga"
+  },
+  {
+   "id": 721997197,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "FC Barcelona",
+   "away": "Real Betis",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1779045300,
+   "group": "liga"
+  },
+  {
+   "id": 723626073,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Betis",
+   "away": "Levante UD",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1779561900,
+   "group": "liga"
+  },
+  {
+   "id": 723625594,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Mallorca",
+   "away": "Real Oviedo",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1779562800,
+   "group": "liga"
+  },
+  {
+   "id": 723625507,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Madrid",
+   "away": "Athletic Club",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (2:1,2:1)",
+   "start": 1779562800,
+   "group": "liga"
+  },
+  {
+   "id": 723625646,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo Alavés",
+   "away": "Rayo Vallecano",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1779562800,
+   "group": "liga"
+  },
+  {
+   "id": 723625648,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Celta de Vigo",
+   "away": "Sevilla",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1779562800,
+   "group": "liga"
+  },
+  {
+   "id": 723626443,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "RCD Espanyol",
+   "away": "Real Sociedad",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1779562800,
+   "group": "liga"
+  },
+  {
+   "id": 723625589,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Getafe",
+   "away": "Osasuna",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1779562800,
+   "group": "liga"
+  },
+  {
+   "id": 723625542,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Girona FC",
+   "away": "Elche",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1779562800,
+   "group": "liga"
+  },
+  {
+   "id": 723626197,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Valencia CF",
+   "away": "FC Barcelona",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:0,3:1)",
+   "start": 1779562800,
+   "group": "liga"
+  },
+  {
+   "id": 723906444,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Villarreal",
+   "away": "Atlético de Madrid",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (4:1,1:0)",
+   "start": 1779649200,
+   "group": "liga"
+  },
+  {
+   "id": 726701810,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "España",
+   "away": "Irak",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1780599600,
+   "group": "seleccion"
+  },
+  {
+   "id": 727768173,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Perú",
+   "away": "España",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:2,1:1)",
+   "start": 1780970400,
+   "group": "seleccion"
+  },
+  {
+   "id": 744551369,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo Alavés",
+   "away": "Getafe",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (0:0,3:0)",
+   "start": 1786815000,
+   "group": "liga"
+  },
+  {
+   "id": 744579046,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Sevilla",
+   "away": "Rayo Vallecano",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1786822200,
+   "group": "liga"
+  },
+  {
+   "id": 733748595,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "FC Barcelona",
+   "away": "Athletic Club",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1786892400,
+   "group": "liga"
+  },
+  {
+   "id": 733196580,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Celta de Vigo",
+   "away": "Osasuna",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1786892400,
+   "group": "liga"
+  },
+  {
+   "id": 744789885,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Racing de Santander",
+   "away": "Villarreal",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:2,0:0)",
+   "start": 1786892400,
+   "group": "liga"
+  },
+  {
+   "id": 744817208,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "RCD Espanyol",
+   "away": "Levante UD",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1786899600,
+   "group": "liga"
+  },
+  {
+   "id": 745090638,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo de A Coruna",
+   "away": "Elche",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1786992300,
+   "group": "liga"
+  },
+  {
+   "id": 745620281,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Atlético de Madrid",
+   "away": "Málaga",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1787166000,
+   "group": "liga"
+  },
+  {
+   "id": 745879037,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Deportivo Alavés",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1787252400,
+   "group": "liga"
+  },
+  {
+   "id": 746147564,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Betis",
+   "away": "Real Sociedad",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1787338800,
+   "group": "liga"
+  },
+  {
+   "id": 746379993,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Athletic Club",
+   "away": "Sevilla",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:1,1:2)",
+   "start": 1787409900,
+   "group": "liga"
+  },
+  {
+   "id": 746418342,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Valencia CF",
+   "away": "Celta de Vigo",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1787419800,
+   "group": "liga"
+  },
+  {
+   "id": 746445706,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "RCD Espanyol",
+   "away": "Real Madrid",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1787427000,
+   "group": "liga"
+  },
+  {
+   "id": 746657245,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Atlético de Madrid",
+   "away": "Villarreal",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:0,2:2)",
+   "start": 1787497200,
+   "group": "liga"
+  },
+  {
+   "id": 746693993,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Getafe",
+   "away": "Racing de Santander",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1787506200,
+   "group": "liga"
+  },
+  {
+   "id": 746719690,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Elche",
+   "away": "FC Barcelona",
+   "score": [
+    0,
+    5
+   ],
+   "detail": "0:5 (0:2,0:3)",
+   "start": 1787513400,
+   "group": "liga"
+  },
+  {
+   "id": 746943480,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Osasuna",
+   "away": "Levante UD",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1787592600,
+   "group": "liga"
+  },
+  {
+   "id": 746967280,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Málaga",
+   "away": "Deportivo de A Coruna",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1787599800,
+   "group": "liga"
+  },
+  {
+   "id": 747218500,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Valencia CF",
+   "away": "Real Betis",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1787684400,
+   "group": "liga"
+  },
+  {
+   "id": 747494140,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Madrid",
+   "away": "Real Sociedad",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (1:1,3:0)",
+   "start": 1787770800,
+   "group": "liga"
+  },
+  {
+   "id": 747753733,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Celta de Vigo",
+   "away": "Osasuna",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1787855400,
+   "group": "liga"
+  },
+  {
+   "id": 747759846,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "FC Barcelona",
+   "away": "Athletic Club",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1787857200,
+   "group": "liga"
+  },
+  {
+   "id": 748005923,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Racing de Santander",
+   "away": "Elche",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (3:0,0:2)",
+   "start": 1787936400,
+   "group": "liga"
+  },
+  {
+   "id": 748043271,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo Alavés",
+   "away": "Villarreal",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1787945400,
+   "group": "liga"
+  },
+  {
+   "id": 748275813,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Real Betis",
+   "score": [
+    5,
+    2
+   ],
+   "detail": "5:2 (2:2,3:0)",
+   "start": 1788015600,
+   "group": "liga"
+  },
+  {
+   "id": 748309303,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Sociedad",
+   "away": "RCD Espanyol",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1788022800,
+   "group": "liga"
+  },
+  {
+   "id": 748347933,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Sevilla",
+   "away": "Atlético de Madrid",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:3,1:0)",
+   "start": 1788031800,
+   "group": "liga"
+  },
+  {
+   "id": 748571193,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Madrid",
+   "away": "Málaga",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (3:0,1:0)",
+   "start": 1788102000,
+   "group": "liga"
+  },
+  {
+   "id": 748611869,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo de A Coruna",
+   "away": "Valencia CF",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1788111000,
+   "group": "liga"
+  },
+  {
+   "id": 748640497,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Celta de Vigo",
+   "away": "Athletic Club",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1788118200,
+   "group": "liga"
+  },
+  {
+   "id": 748873211,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Osasuna",
+   "away": "Getafe",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1788197400,
+   "group": "liga"
+  },
+  {
+   "id": 748897480,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "FC Barcelona",
+   "away": "Rayo Vallecano",
+   "score": [
+    5,
+    2
+   ],
+   "detail": "5:2 (2:1,3:1)",
+   "start": 1788204600,
+   "group": "liga"
+  },
+  {
+   "id": 749701249,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Sociedad",
+   "away": "Celta de Vigo",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1788462000,
+   "group": "liga"
+  },
+  {
+   "id": 749990542,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Betis",
+   "away": "Real Madrid",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1788548400,
+   "group": "liga"
+  },
+  {
+   "id": 750227640,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Athletic Club",
+   "away": "Atlético de Madrid",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (0:0,3:0)",
+   "start": 1788617700,
+   "group": "liga"
+  },
+  {
+   "id": 750269786,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Racing de Santander",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:2,1:0)",
+   "start": 1788625800,
+   "group": "liga"
+  },
+  {
+   "id": 750309448,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Villarreal",
+   "away": "Deportivo de A Coruna",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:1,1:2)",
+   "start": 1788634800,
+   "group": "liga"
+  },
+  {
+   "id": 750545348,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Valencia CF",
+   "away": "FC Barcelona",
+   "score": [
+    0,
+    5
+   ],
+   "detail": "0:5 (0:2,0:3)",
+   "start": 1788704100,
+   "group": "liga"
+  },
+  {
+   "id": 750584393,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Málaga",
+   "away": "Levante UD",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1788712200,
+   "group": "liga"
+  },
+  {
+   "id": 750584486,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo Alavés",
+   "away": "Osasuna",
+   "score": [
+    5,
+    2
+   ],
+   "detail": "5:2 (2:0,3:2)",
+   "start": 1788712200,
+   "group": "liga"
+  },
+  {
+   "id": 750620261,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "RCD Espanyol",
+   "away": "Sevilla",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1788721200,
+   "group": "liga"
+  },
+  {
+   "id": 750856362,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Getafe",
+   "away": "Celta de Vigo",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1788800400,
+   "group": "liga"
+  },
+  {
+   "id": 750889956,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Elche",
+   "away": "Real Sociedad",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:2,2:1)",
+   "start": 1788809400,
+   "group": "liga"
+  },
+  {
+   "id": 752008220,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Sevilla",
+   "away": "Valencia CF",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1789153200,
+   "group": "liga"
+  },
+  {
+   "id": 752203260,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Racing de Santander",
+   "away": "Deportivo Alavés",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1789214400,
+   "group": "liga"
+  },
+  {
+   "id": 752244445,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Osasuna",
+   "away": "RCD Espanyol",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1789222500,
+   "group": "liga"
+  },
+  {
+   "id": 752288107,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Athletic Club",
+   "away": "Elche",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1789230600,
+   "group": "liga"
+  },
+  {
+   "id": 752329897,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Madrid",
+   "away": "Rayo Vallecano",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (3:0,1:1)",
+   "start": 1789238700,
+   "group": "liga"
+  },
+  {
+   "id": 752527825,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Celta de Vigo",
+   "away": "Málaga",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1789300800,
+   "group": "liga"
+  },
+  {
+   "id": 752565937,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "FC Barcelona",
+   "score": [
+    2,
+    4
+   ],
+   "detail": "2:4 (0:2,2:2)",
+   "start": 1789308900,
+   "group": "liga"
+  },
+  {
+   "id": 752606433,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Getafe",
+   "away": "Deportivo de A Coruna",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1789317000,
+   "group": "liga"
+  },
+  {
+   "id": 752642799,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Sociedad",
+   "away": "Atlético de Madrid",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:0,0:3)",
+   "start": 1789326000,
+   "group": "liga"
+  },
+  {
+   "id": 752901383,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Villarreal",
+   "away": "Real Betis",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1789411500,
+   "group": "liga"
+  },
+  {
+   "id": 753142692,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "RCD Espanyol",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1789491600,
+   "group": "liga"
+  },
+  {
+   "id": 753155429,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo Alavés",
+   "away": "Valencia CF",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1789495200,
+   "group": "liga"
+  },
+  {
+   "id": 753178937,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Elche",
+   "away": "Real Madrid",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:2,2:1)",
+   "start": 1789500600,
+   "group": "liga"
+  },
+  {
+   "id": 753428431,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo de A Coruna",
+   "away": "Sevilla",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1789578000,
+   "group": "liga"
+  },
+  {
+   "id": 753429499,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Atlético de Madrid",
+   "away": "Osasuna",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (1:0,3:0)",
+   "start": 1789578000,
+   "group": "liga"
+  },
+  {
+   "id": 753465649,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Athletic Club",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1789587000,
+   "group": "liga"
+  },
+  {
+   "id": 750482888,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Athletic Club",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1789587000,
+   "group": "liga"
+  },
+  {
+   "id": 753465153,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "FC Barcelona",
+   "away": "Racing de Santander",
+   "score": [
+    7,
+    2
+   ],
+   "detail": "7:2 (4:1,3:1)",
+   "start": 1789587000,
+   "group": "liga"
+  },
+  {
+   "id": 753715784,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Betis",
+   "away": "Getafe",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1789664400,
+   "group": "liga"
+  },
+  {
+   "id": 753751045,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Málaga",
+   "away": "Villarreal",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:2,0:1)",
+   "start": 1789673400,
+   "group": "liga"
+  },
+  {
+   "id": 754052299,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "RCD Espanyol",
+   "away": "Elche",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:2,1:1)",
+   "start": 1789758000,
+   "group": "liga"
+  },
+  {
+   "id": 754254283,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Osasuna",
+   "away": "Rayo Vallecano",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1789819200,
+   "group": "liga"
+  },
+  {
+   "id": 754299269,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Athletic Club",
+   "away": "Deportivo Alavés",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1789827300,
+   "group": "liga"
+  },
+  {
+   "id": 754344974,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Celta de Vigo",
+   "away": "Racing de Santander",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (2:0,3:0)",
+   "start": 1789835400,
+   "group": "liga"
+  },
+  {
+   "id": 754390319,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Sevilla",
+   "away": "FC Barcelona",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:1,0:2)",
+   "start": 1789843500,
+   "group": "liga"
+  },
+  {
+   "id": 754589186,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Getafe",
+   "away": "Málaga",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1789904700,
+   "group": "liga"
+  },
+  {
+   "id": 754629975,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Atlético de Madrid",
+   "away": "Real Madrid",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1789913700,
+   "group": "liga"
+  },
+  {
+   "id": 754673831,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Villarreal",
+   "away": "Levante UD",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1789921800,
+   "group": "liga"
+  },
+  {
+   "id": 754672917,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo de A Coruna",
+   "away": "Real Betis",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1789921800,
+   "group": "liga"
+  },
+  {
+   "id": 754710887,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Valencia CF",
+   "away": "Real Sociedad",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:1,2:2)",
+   "start": 1789930800,
+   "group": "liga"
+  },
+  {
+   "id": 756356998,
+   "tid": 1706694,
+   "tname": "UEFA Nations League",
+   "home": "Inglaterra",
+   "away": "España",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (2:1,0:2)",
+   "start": 1790448300,
+   "group": "seleccion"
+  },
+  {
+   "id": 757184285,
+   "tid": 1706694,
+   "tname": "UEFA Nations League",
+   "home": "España",
+   "away": "Croacia",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (2:1,2:0)",
+   "start": 1790707500,
+   "group": "seleccion"
+  },
+  {
+   "id": 758353653,
+   "tid": 1706694,
+   "tname": "UEFA Nations League",
+   "home": "España",
+   "away": "República Checa",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1791053100,
+   "group": "seleccion"
+  },
+  {
+   "id": 759203106,
+   "tid": 1706694,
+   "tname": "UEFA Nations League",
+   "home": "Croacia",
+   "away": "España",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1791312300,
+   "group": "seleccion"
+  },
+  {
+   "id": 760071383,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Málaga",
+   "away": "RCD Espanyol",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1791572400,
+   "group": "liga"
+  },
+  {
+   "id": 760279273,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Athletic Club",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1791633600,
+   "group": "liga"
+  },
+  {
+   "id": 760324845,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo Alavés",
+   "away": "Atlético de Madrid",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1791641700,
+   "group": "liga"
+  },
+  {
+   "id": 760376060,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "FC Barcelona",
+   "away": "Getafe",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1791649800,
+   "group": "liga"
+  },
+  {
+   "id": 760420772,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Madrid",
+   "away": "Villarreal",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1791658800,
+   "group": "liga"
+  },
+  {
+   "id": 760630376,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Elche",
+   "away": "Celta de Vigo",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1791720000,
+   "group": "liga"
+  },
+  {
+   "id": 760673860,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Sociedad",
+   "away": "Deportivo de A Coruna",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:0,1:2)",
+   "start": 1791728100,
+   "group": "liga"
+  },
+  {
+   "id": 760718012,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Betis",
+   "away": "Osasuna",
+   "score": [
+    5,
+    2
+   ],
+   "detail": "5:2 (2:0,3:2)",
+   "start": 1791736200,
+   "group": "liga"
+  },
+  {
+   "id": 760755948,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Racing de Santander",
+   "away": "Valencia CF",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1791745200,
+   "group": "liga"
+  },
+  {
+   "id": 761028358,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Sevilla",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (0:1,3:2)",
+   "start": 1791831600,
+   "group": "liga"
+  },
+  {
+   "id": 762202036,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo de A Coruna",
+   "away": "Levante UD",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1792177200,
+   "group": "liga"
+  },
+  {
+   "id": 762417300,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "RCD Espanyol",
+   "away": "Atlético de Madrid",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1792238400,
+   "group": "liga"
+  },
+  {
+   "id": 762467150,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Villarreal",
+   "away": "Elche",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1792246500,
+   "group": "liga"
+  },
+  {
+   "id": 762517845,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Betis",
+   "away": "FC Barcelona",
+   "score": [
+    2,
+    5
+   ],
+   "detail": "2:5 (1:2,1:3)",
+   "start": 1792254600,
+   "group": "liga"
+  },
+  {
+   "id": 762564727,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Valencia CF",
+   "away": "Athletic Club",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1792263600,
+   "group": "liga"
+  },
+  {
+   "id": 762778614,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Osasuna",
+   "away": "Racing de Santander",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1792324800,
+   "group": "liga"
+  },
+  {
+   "id": 762826422,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Celta de Vigo",
+   "away": "Deportivo Alavés",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1792332900,
+   "group": "liga"
+  },
+  {
+   "id": 762867704,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Málaga",
+   "away": "Real Sociedad",
+   "score": [
+    2,
+    5
+   ],
+   "detail": "2:5 (0:2,2:3)",
+   "start": 1792341000,
+   "group": "liga"
+  },
+  {
+   "id": 762907399,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Madrid",
+   "away": "Sevilla",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (2:0,2:1)",
+   "start": 1792350000,
+   "group": "liga"
+  },
+  {
+   "id": 763179068,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Getafe",
+   "away": "Rayo Vallecano",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1792435500,
+   "group": "liga"
+  },
+  {
+   "id": 763744765,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Athletic Club",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1792604700,
+   "group": "liga"
+  },
+  {
+   "id": 764347517,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo Alavés",
+   "away": "Málaga",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1792782000,
+   "group": "liga"
+  },
+  {
+   "id": 764563597,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Elche",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1792842300,
+   "group": "liga"
+  },
+  {
+   "id": 764614237,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Racing de Santander",
+   "away": "RCD Espanyol",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1792850400,
+   "group": "liga"
+  },
+  {
+   "id": 764659688,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Valencia CF",
+   "away": "Villarreal",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1792859400,
+   "group": "liga"
+  },
+  {
+   "id": 764707869,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Atlético de Madrid",
+   "away": "Deportivo de A Coruna",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1792868400,
+   "group": "liga"
+  },
+  {
+   "id": 764931537,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Athletic Club",
+   "away": "Getafe",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1792933200,
+   "group": "liga"
+  },
+  {
+   "id": 764974965,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Celta de Vigo",
+   "away": "Real Betis",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1792941300,
+   "group": "liga"
+  },
+  {
+   "id": 765018956,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Sociedad",
+   "away": "Levante UD",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1792949400,
+   "group": "liga"
+  },
+  {
+   "id": 765052491,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "FC Barcelona",
+   "away": "Real Madrid",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1792958400,
+   "group": "liga"
+  },
+  {
+   "id": 765321546,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Sevilla",
+   "away": "Osasuna",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1793044800,
+   "group": "liga"
+  },
+  {
+   "id": 766526696,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Villarreal",
+   "away": "RCD Espanyol",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1793390400,
+   "group": "liga"
+  },
+  {
+   "id": 766743735,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Atlético de Madrid",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1793451600,
+   "group": "liga"
+  },
+  {
+   "id": 766790912,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Celta de Vigo",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1793458800,
+   "group": "liga"
+  },
+  {
+   "id": 766840345,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Betis",
+   "away": "Málaga",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1793466900,
+   "group": "liga"
+  },
+  {
+   "id": 766888699,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "FC Barcelona",
+   "away": "Deportivo Alavés",
+   "score": [
+    6,
+    1
+   ],
+   "detail": "6:1 (4:0,2:1)",
+   "start": 1793476800,
+   "group": "liga"
+  },
+  {
+   "id": 767096900,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Getafe",
+   "away": "Sevilla",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:1,3:0)",
+   "start": 1793538000,
+   "group": "liga"
+  },
+  {
+   "id": 767140080,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Racing de Santander",
+   "away": "Real Madrid",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:3,0:0)",
+   "start": 1793545200,
+   "group": "liga"
+  },
+  {
+   "id": 767185225,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Elche",
+   "away": "Valencia CF",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1793553300,
+   "group": "liga"
+  },
+  {
+   "id": 767221931,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Athletic Club",
+   "away": "Real Sociedad",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1793562300,
+   "group": "liga"
+  },
+  {
+   "id": 767489735,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo de A Coruna",
+   "away": "Osasuna",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1793649600,
+   "group": "liga"
+  },
+  {
+   "id": 768624082,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Sevilla",
+   "away": "Deportivo Alavés",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1793995200,
+   "group": "liga"
+  },
+  {
+   "id": 768829272,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Málaga",
+   "away": "Racing de Santander",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1794056400,
+   "group": "liga"
+  },
+  {
+   "id": 768873613,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "RCD Espanyol",
+   "away": "Deportivo de A Coruna",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1794064500,
+   "group": "liga"
+  },
+  {
+   "id": 768918099,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Osasuna",
+   "away": "Athletic Club",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1794072600,
+   "group": "liga"
+  },
+  {
+   "id": 768963136,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Valencia CF",
+   "away": "Real Madrid",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1794081600,
+   "group": "liga"
+  },
+  {
+   "id": 769166322,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Elche",
+   "away": "Real Betis",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1794142800,
+   "group": "liga"
+  },
+  {
+   "id": 769208228,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Sociedad",
+   "away": "Rayo Vallecano",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1794150900,
+   "group": "liga"
+  },
+  {
+   "id": 769245952,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Villarreal",
+   "away": "Getafe",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1794159000,
+   "group": "liga"
+  },
+  {
+   "id": 769246696,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Celta de Vigo",
+   "away": "Levante UD",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1794159000,
+   "group": "liga"
+  },
+  {
+   "id": 769280670,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Atlético de Madrid",
+   "away": "FC Barcelona",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1794168000,
+   "group": "liga"
+  },
+  {
+   "id": 770341594,
+   "tid": 1706694,
+   "tname": "UEFA Nations League",
+   "home": "República Checa",
+   "away": "España",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1794512700,
+   "group": "seleccion"
+  },
+  {
+   "id": 771277058,
+   "tid": 1706694,
+   "tname": "UEFA Nations League",
+   "home": "España",
+   "away": "Inglaterra",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:1,2:2)",
+   "start": 1794771900,
+   "group": "seleccion"
+  },
+  {
+   "id": 772660638,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Athletic Club",
+   "away": "RCD Espanyol",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1795204800,
+   "group": "liga"
+  },
+  {
+   "id": 772864113,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Deportivo Alavés",
+   "away": "Deportivo de A Coruna",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1795265100,
+   "group": "liga"
+  },
+  {
+   "id": 772908888,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Rayo Vallecano",
+   "away": "Valencia CF",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1795274100,
+   "group": "liga"
+  },
+  {
+   "id": 772957334,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Sevilla",
+   "away": "Real Betis",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1795282200,
+   "group": "liga"
+  },
+  {
+   "id": 773004150,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Madrid",
+   "away": "Celta de Vigo",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1795291200,
+   "group": "liga"
+  },
+  {
+   "id": 773209313,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "FC Barcelona",
+   "away": "Villarreal",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (0:2,3:0)",
+   "start": 1795352400,
+   "group": "liga"
+  },
+  {
+   "id": 773250165,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Racing de Santander",
+   "away": "Real Sociedad",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:1,1:1)",
+   "start": 1795360500,
+   "group": "liga"
+  },
+  {
+   "id": 773293386,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Osasuna",
+   "away": "Málaga",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1795368600,
+   "group": "liga"
+  },
+  {
+   "id": 773331109,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Getafe",
+   "away": "Atlético de Madrid",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1795377600,
+   "group": "liga"
+  }
+ ]
+}

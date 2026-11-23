@@ -1,0 +1,8578 @@
+{
+ "updated": "2026-11-23T15:39:55+00:00",
+ "backfilled": [
+  119599,
+  1706694,
+  125983
+ ],
+ "matches": [
+  {
+   "id": 663552906,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de La Plata",
+   "away": "Gimnasia y Esgrima La Plata",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1760896800,
+   "group": "liga"
+  },
+  {
+   "id": 663552961,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Sarmiento",
+   "away": "Vélez Sarsfield",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1760896800,
+   "group": "liga"
+  },
+  {
+   "id": 663589862,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Rosario Central",
+   "away": "Platense",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1760907600,
+   "group": "liga"
+  },
+  {
+   "id": 663590768,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "San Martin de San Juan",
+   "away": "Independiente",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1760907600,
+   "group": "liga"
+  },
+  {
+   "id": 663850430,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tigre",
+   "away": "Barracas Central",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:1,2:1)",
+   "start": 1760996700,
+   "group": "liga"
+  },
+  {
+   "id": 663850573,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Deportivo Riestra",
+   "away": "Instituto Córdoba",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1760997600,
+   "group": "liga"
+  },
+  {
+   "id": 663869352,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tucumán",
+   "away": "San Lorenzo de Almagro",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1761005700,
+   "group": "liga"
+  },
+  {
+   "id": 664140150,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Unión de Santa Fe",
+   "away": "Defensa y Justicia",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1761084900,
+   "group": "liga"
+  },
+  {
+   "id": 664435296,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atletico Huracan",
+   "away": "Central Córdoba",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1761171300,
+   "group": "liga"
+  },
+  {
+   "id": 664975980,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Sarmiento",
+   "away": "Rosario Central",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1761332400,
+   "group": "liga"
+  },
+  {
+   "id": 664997813,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente",
+   "away": "Platense",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1761339600,
+   "group": "liga"
+  },
+  {
+   "id": 665872543,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Barracas Central",
+   "away": "Boca Juniors",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:0,0:3)",
+   "start": 1761591600,
+   "group": "liga"
+  },
+  {
+   "id": 667041596,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "San Lorenzo de Almagro",
+   "away": "Deportivo Riestra",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1761948000,
+   "group": "liga"
+  },
+  {
+   "id": 667064823,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Instituto Córdoba",
+   "away": "Rosario Central",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:1,0:2)",
+   "start": 1761956100,
+   "group": "liga"
+  },
+  {
+   "id": 667064880,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Newell's Old Boys",
+   "away": "Unión de Santa Fe",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1761956100,
+   "group": "liga"
+  },
+  {
+   "id": 667306926,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Aldosivi",
+   "away": "Independiente Rivadavia",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1762019100,
+   "group": "liga"
+  },
+  {
+   "id": 667329482,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Barracas Central",
+   "away": "Argentinos Juniors",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1762022700,
+   "group": "liga"
+  },
+  {
+   "id": 667347329,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "Talleres de Córdoba",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1762027200,
+   "group": "liga"
+  },
+  {
+   "id": 667380974,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente",
+   "away": "Club Atlético Tucumán",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1762038000,
+   "group": "liga"
+  },
+  {
+   "id": 667639980,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de La Plata",
+   "away": "Boca Juniors",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1762110000,
+   "group": "liga"
+  },
+  {
+   "id": 667669561,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Godoy Cruz",
+   "away": "San Martin de San Juan",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762118100,
+   "group": "liga"
+  },
+  {
+   "id": 667687042,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "Gimnasia y Esgrima La Plata",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1762126200,
+   "group": "liga"
+  },
+  {
+   "id": 667895397,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Platense",
+   "away": "CA Sarmiento",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1762199100,
+   "group": "liga"
+  },
+  {
+   "id": 667895451,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Defensa y Justicia",
+   "away": "Club Atletico Huracan",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:1,1:2)",
+   "start": 1762199100,
+   "group": "liga"
+  },
+  {
+   "id": 667919623,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Central Córdoba",
+   "away": "Racing Club de Avellaneda",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762206300,
+   "group": "liga"
+  },
+  {
+   "id": 667940363,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Banfield",
+   "away": "Lanus",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1762214400,
+   "group": "liga"
+  },
+  {
+   "id": 667939951,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Belgrano",
+   "away": "Club Atlético Tigre",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762215300,
+   "group": "liga"
+  },
+  {
+   "id": 669034014,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Rosario Central",
+   "away": "San Lorenzo de Almagro",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762560000,
+   "group": "liga"
+  },
+  {
+   "id": 669321734,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atletico Huracan",
+   "away": "Newell's Old Boys",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1762632000,
+   "group": "liga"
+  },
+  {
+   "id": 669321676,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "Defensa y Justicia",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1762632000,
+   "group": "liga"
+  },
+  {
+   "id": 669347548,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Talleres de Córdoba",
+   "away": "Platense",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1762640100,
+   "group": "liga"
+  },
+  {
+   "id": 669371614,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Unión de Santa Fe",
+   "away": "Barracas Central",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762648200,
+   "group": "liga"
+  },
+  {
+   "id": 669371555,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "San Martin de San Juan",
+   "away": "Lanus",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1762648200,
+   "group": "liga"
+  },
+  {
+   "id": 669619120,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "River Plate Buenos Aires",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1762716600,
+   "group": "liga"
+  },
+  {
+   "id": 669650502,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Sarmiento",
+   "away": "Instituto Córdoba",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1762725600,
+   "group": "liga"
+  },
+  {
+   "id": 669650396,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Banfield",
+   "away": "CA Aldosivi",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1762725600,
+   "group": "liga"
+  },
+  {
+   "id": 669669945,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tigre",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1762734600,
+   "group": "liga"
+  },
+  {
+   "id": 669669818,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tucumán",
+   "away": "Godoy Cruz",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1762734600,
+   "group": "liga"
+  },
+  {
+   "id": 669854801,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Gimnasia y Esgrima La Plata",
+   "away": "Vélez Sarsfield",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1762804800,
+   "group": "liga"
+  },
+  {
+   "id": 669873766,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Deportivo Riestra",
+   "away": "Independiente",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1762812000,
+   "group": "liga"
+  },
+  {
+   "id": 669891774,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "Belgrano",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1762819200,
+   "group": "liga"
+  },
+  {
+   "id": 669891948,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente Rivadavia",
+   "away": "Central Córdoba",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762820100,
+   "group": "liga"
+  },
+  {
+   "id": 670940339,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Lanus",
+   "away": "Club Atlético Tucumán",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1763161200,
+   "group": "liga"
+  },
+  {
+   "id": 671220936,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Godoy Cruz",
+   "away": "Deportivo Riestra",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1763236800,
+   "group": "liga"
+  },
+  {
+   "id": 671221153,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Aldosivi",
+   "away": "San Martin de San Juan",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (0:0,4:2)",
+   "start": 1763236800,
+   "group": "liga"
+  },
+  {
+   "id": 671250048,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "San Lorenzo de Almagro",
+   "away": "CA Sarmiento",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1763244900,
+   "group": "liga"
+  },
+  {
+   "id": 671271570,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente",
+   "away": "Rosario Central",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1763253000,
+   "group": "liga"
+  },
+  {
+   "id": 671513039,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Instituto Córdoba",
+   "away": "Talleres de Córdoba",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1763323200,
+   "group": "liga"
+  },
+  {
+   "id": 671513073,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "River Plate Buenos Aires",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1763323200,
+   "group": "liga"
+  },
+  {
+   "id": 671546376,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de La Plata",
+   "away": "Argentinos Juniors",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1763334900,
+   "group": "liga"
+  },
+  {
+   "id": 671546422,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Newell's Old Boys",
+   "away": "Racing Club de Avellaneda",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1763334900,
+   "group": "liga"
+  },
+  {
+   "id": 671546277,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Central Córdoba",
+   "away": "CA Banfield",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1763334900,
+   "group": "liga"
+  },
+  {
+   "id": 671547317,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "Club Atlético Tigre",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1763334900,
+   "group": "liga"
+  },
+  {
+   "id": 671744480,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Defensa y Justicia",
+   "away": "Independiente Rivadavia",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1763409600,
+   "group": "liga"
+  },
+  {
+   "id": 671744348,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Belgrano",
+   "away": "Unión de Santa Fe",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1763409600,
+   "group": "liga"
+  },
+  {
+   "id": 671744578,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Barracas Central",
+   "away": "Club Atletico Huracan",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1763409600,
+   "group": "liga"
+  },
+  {
+   "id": 671767879,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Platense",
+   "away": "Gimnasia y Esgrima La Plata",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1763418600,
+   "group": "liga"
+  },
+  {
+   "id": 673159905,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "Argentinos Juniors",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1763852400,
+   "group": "liga"
+  },
+  {
+   "id": 673179876,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Central Córdoba",
+   "away": "San Lorenzo de Almagro",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1763859600,
+   "group": "liga"
+  },
+  {
+   "id": 673432135,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Rosario Central",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1763929800,
+   "group": "liga"
+  },
+  {
+   "id": 673455813,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "Talleres de Córdoba",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1763937900,
+   "group": "liga"
+  },
+  {
+   "id": 673658544,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Deportivo Riestra",
+   "away": "Barracas Central",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:0,0:1)",
+   "start": 1764014400,
+   "group": "liga"
+  },
+  {
+   "id": 673678962,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Deportivo Riestra",
+   "away": "Barracas Central",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1764014400,
+   "group": "liga"
+  },
+  {
+   "id": 673680630,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "River Plate Buenos Aires",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:0,2:2)",
+   "start": 1764021600,
+   "group": "liga"
+  },
+  {
+   "id": 673704337,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Unión de Santa Fe",
+   "away": "Gimnasia y Esgrima La Plata",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1764031500,
+   "group": "liga"
+  },
+  {
+   "id": 674233809,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Lanus",
+   "away": "Club Atlético Tigre",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1764202500,
+   "group": "liga"
+  },
+  {
+   "id": 675065108,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Central Córdoba",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1764462600,
+   "group": "liga"
+  },
+  {
+   "id": 675316000,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "Argentinos Juniors",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1764537300,
+   "group": "liga"
+  },
+  {
+   "id": 675526286,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Barracas Central",
+   "away": "Gimnasia y Esgrima La Plata",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1764618300,
+   "group": "liga"
+  },
+  {
+   "id": 675565305,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "Club Atlético Tigre",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,0:0,0:0,1:0)",
+   "start": 1764635400,
+   "group": "liga"
+  },
+  {
+   "id": 675580565,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "Club Atlético Tigre",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1764635400,
+   "group": "liga"
+  },
+  {
+   "id": 675586335,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "Club Atlético Tigre",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (4:2)",
+   "start": 1764635400,
+   "group": "liga"
+  },
+  {
+   "id": 677203546,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "Racing Club de Avellaneda",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1765144800,
+   "group": "liga"
+  },
+  {
+   "id": 677420233,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Gimnasia y Esgrima La Plata",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1765224000,
+   "group": "liga"
+  },
+  {
+   "id": 678756076,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:1,0:0,0:1)",
+   "start": 1765670400,
+   "group": "liga"
+  },
+  {
+   "id": 678776054,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1765670400,
+   "group": "liga"
+  },
+  {
+   "id": 678780347,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    4,
+    5
+   ],
+   "detail": "4:5 (4:5)",
+   "start": 1765670400,
+   "group": "liga"
+  },
+  {
+   "id": 689147156,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Aldosivi",
+   "away": "Defensa y Justicia",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1769112000,
+   "group": "liga"
+  },
+  {
+   "id": 689177596,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Banfield",
+   "away": "Club Atletico Huracan",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1769122800,
+   "group": "liga"
+  },
+  {
+   "id": 689177598,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Unión de Santa Fe",
+   "away": "Platense",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1769122800,
+   "group": "liga"
+  },
+  {
+   "id": 689200246,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Central Córdoba",
+   "away": "Club Atlético Gimnasia y Esgrima",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1769130900,
+   "group": "liga"
+  },
+  {
+   "id": 689200332,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Instituto Córdoba",
+   "away": "Vélez Sarsfield",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1769130900,
+   "group": "liga"
+  },
+  {
+   "id": 689462142,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "San Lorenzo de Almagro",
+   "away": "Lanus",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:2,2:1)",
+   "start": 1769204700,
+   "group": "liga"
+  },
+  {
+   "id": 689471128,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1769209200,
+   "group": "liga"
+  },
+  {
+   "id": 689495107,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente Rivadavia",
+   "away": "Club Atlético Tucumán",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1769216400,
+   "group": "liga"
+  },
+  {
+   "id": 689495160,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Talleres de Córdoba",
+   "away": "Newell's Old Boys",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1769217300,
+   "group": "liga"
+  },
+  {
+   "id": 689771253,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Barracas Central",
+   "away": "River Plate Buenos Aires",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1769284800,
+   "group": "liga"
+  },
+  {
+   "id": 689804139,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Gimnasia y Esgrima La Plata",
+   "away": "Racing Club de Avellaneda",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1769293800,
+   "group": "liga"
+  },
+  {
+   "id": 689830094,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Rosario Central",
+   "away": "Belgrano",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1769301900,
+   "group": "liga"
+  },
+  {
+   "id": 690103597,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "Deportivo Riestra",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1769376600,
+   "group": "liga"
+  },
+  {
+   "id": 690126474,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tigre",
+   "away": "Estudiantes de Rio Cuarto",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1769385600,
+   "group": "liga"
+  },
+  {
+   "id": 690126494,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "CA Sarmiento",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1769385600,
+   "group": "liga"
+  },
+  {
+   "id": 690334539,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Platense",
+   "away": "Instituto Córdoba",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1769457600,
+   "group": "liga"
+  },
+  {
+   "id": 690613406,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "Talleres de Córdoba",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1769546700,
+   "group": "liga"
+  },
+  {
+   "id": 690635317,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atletico Huracan",
+   "away": "Independiente Rivadavia",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1769554800,
+   "group": "liga"
+  },
+  {
+   "id": 690635792,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Gimnasia y Esgrima",
+   "away": "San Lorenzo de Almagro",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1769554800,
+   "group": "liga"
+  },
+  {
+   "id": 690658611,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tucumán",
+   "away": "Central Córdoba",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1769562900,
+   "group": "liga"
+  },
+  {
+   "id": 690660564,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Newell's Old Boys",
+   "away": "Independiente",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1769562900,
+   "group": "liga"
+  },
+  {
+   "id": 690889339,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Aldosivi",
+   "away": "Barracas Central",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1769629500,
+   "group": "liga"
+  },
+  {
+   "id": 690914934,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "Rosario Central",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1769637600,
+   "group": "liga"
+  },
+  {
+   "id": 690924574,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "Gimnasia y Esgrima La Plata",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1769641200,
+   "group": "liga"
+  },
+  {
+   "id": 690946607,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de La Plata",
+   "away": "Boca Juniors",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1769649300,
+   "group": "liga"
+  },
+  {
+   "id": 691169440,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Deportivo Riestra",
+   "away": "Defensa y Justicia",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1769716800,
+   "group": "liga"
+  },
+  {
+   "id": 691194830,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Lanus",
+   "away": "Unión de Santa Fe",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1769724000,
+   "group": "liga"
+  },
+  {
+   "id": 691195352,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Belgrano",
+   "away": "Club Atlético Tigre",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1769724900,
+   "group": "liga"
+  },
+  {
+   "id": 691217788,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de Rio Cuarto",
+   "away": "Argentinos Juniors",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1769733000,
+   "group": "liga"
+  },
+  {
+   "id": 691217743,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Sarmiento",
+   "away": "CA Banfield",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1769733000,
+   "group": "liga"
+  },
+  {
+   "id": 691805172,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "San Lorenzo de Almagro",
+   "away": "Central Córdoba",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1769891400,
+   "group": "liga"
+  },
+  {
+   "id": 691833397,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente",
+   "away": "Vélez Sarsfield",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1769899500,
+   "group": "liga"
+  },
+  {
+   "id": 691858273,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Talleres de Córdoba",
+   "away": "Platense",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1769906700,
+   "group": "liga"
+  },
+  {
+   "id": 691857623,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tucumán",
+   "away": "Club Atletico Huracan",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1769907600,
+   "group": "liga"
+  },
+  {
+   "id": 692117978,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Barracas Central",
+   "away": "Deportivo Riestra",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1769976000,
+   "group": "liga"
+  },
+  {
+   "id": 692142761,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "Newell's Old Boys",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1769983200,
+   "group": "liga"
+  },
+  {
+   "id": 692167613,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Rosario Central",
+   "away": "River Plate Buenos Aires",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1769991300,
+   "group": "liga"
+  },
+  {
+   "id": 692376666,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Gimnasia y Esgrima La Plata",
+   "away": "CA Aldosivi",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1770064200,
+   "group": "liga"
+  },
+  {
+   "id": 692399951,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Defensa y Justicia",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1770072300,
+   "group": "liga"
+  },
+  {
+   "id": 692399509,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tigre",
+   "away": "Racing Club de Avellaneda",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1770072300,
+   "group": "liga"
+  },
+  {
+   "id": 692420393,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "Belgrano",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1770080400,
+   "group": "liga"
+  },
+  {
+   "id": 692420462,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Unión de Santa Fe",
+   "away": "Club Atlético Gimnasia y Esgrima",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1770080400,
+   "group": "liga"
+  },
+  {
+   "id": 692666900,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Banfield",
+   "away": "Estudiantes de Rio Cuarto",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1770156000,
+   "group": "liga"
+  },
+  {
+   "id": 692688196,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente Rivadavia",
+   "away": "CA Sarmiento",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1770164100,
+   "group": "liga"
+  },
+  {
+   "id": 692688272,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Instituto Córdoba",
+   "away": "Lanus",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1770164100,
+   "group": "liga"
+  },
+  {
+   "id": 693528079,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Central Córdoba",
+   "away": "Unión de Santa Fe",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1770422400,
+   "group": "liga"
+  },
+  {
+   "id": 693807702,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Aldosivi",
+   "away": "Rosario Central",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1770494400,
+   "group": "liga"
+  },
+  {
+   "id": 693821396,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "Argentinos Juniors",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1770498000,
+   "group": "liga"
+  },
+  {
+   "id": 693843211,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "Club Atlético Tigre",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (0:2,1:2)",
+   "start": 1770505200,
+   "group": "liga"
+  },
+  {
+   "id": 693865852,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Belgrano",
+   "away": "CA Banfield",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1770512400,
+   "group": "liga"
+  },
+  {
+   "id": 693865758,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Newell's Old Boys",
+   "away": "Defensa y Justicia",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:2,2:1)",
+   "start": 1770513300,
+   "group": "liga"
+  },
+  {
+   "id": 694111869,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Sarmiento",
+   "away": "Club Atlético Tucumán",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1770580800,
+   "group": "liga"
+  },
+  {
+   "id": 694112691,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Platense",
+   "away": "Independiente",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1770580800,
+   "group": "liga"
+  },
+  {
+   "id": 694134497,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atletico Huracan",
+   "away": "San Lorenzo de Almagro",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1770588900,
+   "group": "liga"
+  },
+  {
+   "id": 694160215,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Gimnasia y Esgrima",
+   "away": "Instituto Córdoba",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1770598800,
+   "group": "liga"
+  },
+  {
+   "id": 694160053,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "Boca Juniors",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1770599700,
+   "group": "liga"
+  },
+  {
+   "id": 694347167,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Barracas Central",
+   "away": "Gimnasia y Esgrima La Plata",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1770667200,
+   "group": "liga"
+  },
+  {
+   "id": 694373097,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Lanus",
+   "away": "Talleres de Córdoba",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1770675300,
+   "group": "liga"
+  },
+  {
+   "id": 694373043,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de La Plata",
+   "away": "Deportivo Riestra",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1770675300,
+   "group": "liga"
+  },
+  {
+   "id": 694394027,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de Rio Cuarto",
+   "away": "Independiente Rivadavia",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1770683400,
+   "group": "liga"
+  },
+  {
+   "id": 695175735,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tigre",
+   "away": "CA Aldosivi",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1770932700,
+   "group": "liga"
+  },
+  {
+   "id": 695197001,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "River Plate Buenos Aires",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1770940800,
+   "group": "liga"
+  },
+  {
+   "id": 695463302,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente",
+   "away": "Lanus",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1771022700,
+   "group": "liga"
+  },
+  {
+   "id": 695486308,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Defensa y Justicia",
+   "away": "Vélez Sarsfield",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1771031700,
+   "group": "liga"
+  },
+  {
+   "id": 695486445,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Unión de Santa Fe",
+   "away": "San Lorenzo de Almagro",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1771031700,
+   "group": "liga"
+  },
+  {
+   "id": 695753403,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Banfield",
+   "away": "Racing Club de Avellaneda",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1771101000,
+   "group": "liga"
+  },
+  {
+   "id": 695779368,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atletico Huracan",
+   "away": "CA Sarmiento",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1771108200,
+   "group": "liga"
+  },
+  {
+   "id": 695779503,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Talleres de Córdoba",
+   "away": "Club Atlético Gimnasia y Esgrima",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1771109100,
+   "group": "liga"
+  },
+  {
+   "id": 695800295,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente Rivadavia",
+   "away": "Belgrano",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1771117200,
+   "group": "liga"
+  },
+  {
+   "id": 695800307,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tucumán",
+   "away": "Estudiantes de Rio Cuarto",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1771117200,
+   "group": "liga"
+  },
+  {
+   "id": 696043735,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Gimnasia y Esgrima La Plata",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1771184700,
+   "group": "liga"
+  },
+  {
+   "id": 696069859,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "Platense",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1771193700,
+   "group": "liga"
+  },
+  {
+   "id": 696092833,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Instituto Córdoba",
+   "away": "Central Córdoba",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1771203600,
+   "group": "liga"
+  },
+  {
+   "id": 696092966,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Rosario Central",
+   "away": "Barracas Central",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1771203600,
+   "group": "liga"
+  },
+  {
+   "id": 696307598,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Deportivo Riestra",
+   "away": "Newell's Old Boys",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1771278300,
+   "group": "liga"
+  },
+  {
+   "id": 694580488,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "San Lorenzo de Almagro",
+   "away": "Estudiantes de Rio Cuarto",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1771532100,
+   "group": "liga"
+  },
+  {
+   "id": 697373600,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Defensa y Justicia",
+   "away": "Belgrano",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1771617600,
+   "group": "liga"
+  },
+  {
+   "id": 697380651,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de La Plata",
+   "away": "CA Sarmiento",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1771620300,
+   "group": "liga"
+  },
+  {
+   "id": 697408310,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Instituto Córdoba",
+   "away": "Club Atlético Tucumán",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1771627500,
+   "group": "liga"
+  },
+  {
+   "id": 697408280,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "Racing Club de Avellaneda",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1771628400,
+   "group": "liga"
+  },
+  {
+   "id": 697431933,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Gimnasia y Esgrima",
+   "away": "Gimnasia y Esgrima La Plata",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1771636500,
+   "group": "liga"
+  },
+  {
+   "id": 697432009,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Rosario Central",
+   "away": "Talleres de Córdoba",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1771636500,
+   "group": "liga"
+  },
+  {
+   "id": 697705810,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente Rivadavia",
+   "away": "Independiente",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:0,2:2)",
+   "start": 1771703100,
+   "group": "liga"
+  },
+  {
+   "id": 697705890,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Platense",
+   "away": "Barracas Central",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1771704000,
+   "group": "liga"
+  },
+  {
+   "id": 697736942,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Banfield",
+   "away": "Newell's Old Boys",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (0:0,3:0)",
+   "start": 1771711200,
+   "group": "liga"
+  },
+  {
+   "id": 697737000,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Deportivo Riestra",
+   "away": "Club Atletico Huracan",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1771712100,
+   "group": "liga"
+  },
+  {
+   "id": 697759753,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Central Córdoba",
+   "away": "Club Atlético Tigre",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1771720200,
+   "group": "liga"
+  },
+  {
+   "id": 698022832,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "San Lorenzo de Almagro",
+   "away": "Estudiantes de Rio Cuarto",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1771790400,
+   "group": "liga"
+  },
+  {
+   "id": 694591475,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "Lanus",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1771794000,
+   "group": "liga"
+  },
+  {
+   "id": 698050701,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "River Plate Buenos Aires",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1771798500,
+   "group": "liga"
+  },
+  {
+   "id": 698069758,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Unión de Santa Fe",
+   "away": "CA Aldosivi",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1771806600,
+   "group": "liga"
+  },
+  {
+   "id": 698523947,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Platense",
+   "away": "Defensa y Justicia",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1771963200,
+   "group": "liga"
+  },
+  {
+   "id": 698550463,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "San Lorenzo de Almagro",
+   "away": "Instituto Córdoba",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1771971300,
+   "group": "liga"
+  },
+  {
+   "id": 698555191,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Central Córdoba",
+   "away": "Talleres de Córdoba",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1771973100,
+   "group": "liga"
+  },
+  {
+   "id": 698571889,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Belgrano",
+   "away": "Club Atlético Tucumán",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1771979400,
+   "group": "liga"
+  },
+  {
+   "id": 698576495,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Gimnasia y Esgrima",
+   "away": "Independiente",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1771980300,
+   "group": "liga"
+  },
+  {
+   "id": 698799400,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Barracas Central",
+   "away": "Club Atlético Tigre",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1772049600,
+   "group": "liga"
+  },
+  {
+   "id": 698798862,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Gimnasia y Esgrima La Plata",
+   "away": "Rosario Central",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1772049600,
+   "group": "liga"
+  },
+  {
+   "id": 698073466,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Aldosivi",
+   "away": "Argentinos Juniors",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1772056800,
+   "group": "liga"
+  },
+  {
+   "id": 698828427,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "Deportivo Riestra",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1772058600,
+   "group": "liga"
+  },
+  {
+   "id": 698828105,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Newell's Old Boys",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1772058600,
+   "group": "liga"
+  },
+  {
+   "id": 699073299,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "Independiente Rivadavia",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1772136900,
+   "group": "liga"
+  },
+  {
+   "id": 699073272,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Sarmiento",
+   "away": "Unión de Santa Fe",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:2,1:1)",
+   "start": 1772136900,
+   "group": "liga"
+  },
+  {
+   "id": 699099072,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de Rio Cuarto",
+   "away": "Club Atletico Huracan",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1772145000,
+   "group": "liga"
+  },
+  {
+   "id": 699099046,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "CA Banfield",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1772145000,
+   "group": "liga"
+  },
+  {
+   "id": 699687557,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "Club Atlético Gimnasia y Esgrima",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1772311500,
+   "group": "liga"
+  },
+  {
+   "id": 699716978,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente",
+   "away": "Central Córdoba",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1772319600,
+   "group": "liga"
+  },
+  {
+   "id": 699738578,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Talleres de Córdoba",
+   "away": "San Lorenzo de Almagro",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1772327700,
+   "group": "liga"
+  },
+  {
+   "id": 699981090,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Newell's Old Boys",
+   "away": "Rosario Central",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1772395200,
+   "group": "liga"
+  },
+  {
+   "id": 700009411,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Instituto Córdoba",
+   "away": "Unión de Santa Fe",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1772403300,
+   "group": "liga"
+  },
+  {
+   "id": 700008839,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "Barracas Central",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1772403300,
+   "group": "liga"
+  },
+  {
+   "id": 700030769,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tigre",
+   "away": "Gimnasia y Esgrima La Plata",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:2,1:0)",
+   "start": 1772411400,
+   "group": "liga"
+  },
+  {
+   "id": 700031018,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Defensa y Justicia",
+   "away": "Lanus",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1772411400,
+   "group": "liga"
+  },
+  {
+   "id": 700256584,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Deportivo Riestra",
+   "away": "Platense",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1772489700,
+   "group": "liga"
+  },
+  {
+   "id": 700256412,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de La Plata",
+   "away": "Vélez Sarsfield",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1772489700,
+   "group": "liga"
+  },
+  {
+   "id": 700277105,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente Rivadavia",
+   "away": "River Plate Buenos Aires",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1772497800,
+   "group": "liga"
+  },
+  {
+   "id": 700277066,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Banfield",
+   "away": "CA Aldosivi",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1772497800,
+   "group": "liga"
+  },
+  {
+   "id": 700515613,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Sarmiento",
+   "away": "Estudiantes de Rio Cuarto",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1772575200,
+   "group": "liga"
+  },
+  {
+   "id": 700517768,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atletico Huracan",
+   "away": "Belgrano",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1772576100,
+   "group": "liga"
+  },
+  {
+   "id": 700536368,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tucumán",
+   "away": "Racing Club de Avellaneda",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1772583300,
+   "group": "liga"
+  },
+  {
+   "id": 700817056,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Lanus",
+   "away": "Boca Juniors",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1772668800,
+   "group": "liga"
+  },
+  {
+   "id": 701335431,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Platense",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1772827200,
+   "group": "liga"
+  },
+  {
+   "id": 701239483,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Platense",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1772827200,
+   "group": "liga"
+  },
+  {
+   "id": 701335426,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Barracas Central",
+   "away": "CA Banfield",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1772827200,
+   "group": "liga"
+  },
+  {
+   "id": 701240448,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Barracas Central",
+   "away": "CA Banfield",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1772827200,
+   "group": "liga"
+  },
+  {
+   "id": 701369986,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "Newell's Old Boys",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1772837100,
+   "group": "liga"
+  },
+  {
+   "id": 701240445,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "Newell's Old Boys",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1772837100,
+   "group": "liga"
+  },
+  {
+   "id": 701989022,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Gimnasia y Esgrima La Plata",
+   "away": "Argentinos Juniors",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1773000000,
+   "group": "liga"
+  },
+  {
+   "id": 701756551,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Gimnasia y Esgrima La Plata",
+   "away": "Argentinos Juniors",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1773000000,
+   "group": "liga"
+  },
+  {
+   "id": 702528763,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tigre",
+   "away": "Vélez Sarsfield",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1773182700,
+   "group": "liga"
+  },
+  {
+   "id": 702529151,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente",
+   "away": "Unión de Santa Fe",
+   "score": [
+    4,
+    4
+   ],
+   "detail": "4:4 (1:3,3:1)",
+   "start": 1773182700,
+   "group": "liga"
+  },
+  {
+   "id": 702550983,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Sarmiento",
+   "away": "Racing Club de Avellaneda",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1773190800,
+   "group": "liga"
+  },
+  {
+   "id": 702550956,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Newell's Old Boys",
+   "away": "Platense",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1773190800,
+   "group": "liga"
+  },
+  {
+   "id": 702785729,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "Rosario Central",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1773260100,
+   "group": "liga"
+  },
+  {
+   "id": 702786697,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Banfield",
+   "away": "Gimnasia y Esgrima La Plata",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1773261000,
+   "group": "liga"
+  },
+  {
+   "id": 702810604,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "San Lorenzo de Almagro",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1773269100,
+   "group": "liga"
+  },
+  {
+   "id": 702836327,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tucumán",
+   "away": "CA Aldosivi",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1773277200,
+   "group": "liga"
+  },
+  {
+   "id": 702835978,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente Rivadavia",
+   "away": "Barracas Central",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1773277200,
+   "group": "liga"
+  },
+  {
+   "id": 703050833,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Deportivo Riestra",
+   "away": "Club Atlético Gimnasia y Esgrima",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1773345600,
+   "group": "liga"
+  },
+  {
+   "id": 703050671,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Defensa y Justicia",
+   "away": "Central Córdoba",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1773345600,
+   "group": "liga"
+  },
+  {
+   "id": 703077112,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de Rio Cuarto",
+   "away": "Belgrano",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1773353700,
+   "group": "liga"
+  },
+  {
+   "id": 703077069,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Talleres de Córdoba",
+   "away": "Instituto Córdoba",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1773353700,
+   "group": "liga"
+  },
+  {
+   "id": 703100953,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atletico Huracan",
+   "away": "River Plate Buenos Aires",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1773361800,
+   "group": "liga"
+  },
+  {
+   "id": 703377277,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de La Plata",
+   "away": "Lanus",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1773442800,
+   "group": "liga"
+  },
+  {
+   "id": 703708252,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Platense",
+   "away": "Vélez Sarsfield",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1773524700,
+   "group": "liga"
+  },
+  {
+   "id": 703730551,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Rosario Central",
+   "away": "CA Banfield",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1773532800,
+   "group": "liga"
+  },
+  {
+   "id": 703973930,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Gimnasia y Esgrima La Plata",
+   "away": "Independiente Rivadavia",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (2:2,0:1)",
+   "start": 1773597600,
+   "group": "liga"
+  },
+  {
+   "id": 704005509,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Belgrano",
+   "away": "Talleres de Córdoba",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1773606600,
+   "group": "liga"
+  },
+  {
+   "id": 704028165,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "CA Sarmiento",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1773614700,
+   "group": "liga"
+  },
+  {
+   "id": 704049324,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tigre",
+   "away": "Argentinos Juniors",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1773621900,
+   "group": "liga"
+  },
+  {
+   "id": 704049404,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Unión de Santa Fe",
+   "away": "Boca Juniors",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1773622800,
+   "group": "liga"
+  },
+  {
+   "id": 704222288,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Barracas Central",
+   "away": "Club Atlético Tucumán",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1773684900,
+   "group": "liga"
+  },
+  {
+   "id": 704222317,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Aldosivi",
+   "away": "Club Atletico Huracan",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1773684900,
+   "group": "liga"
+  },
+  {
+   "id": 704257026,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "San Lorenzo de Almagro",
+   "away": "Defensa y Justicia",
+   "score": [
+    2,
+    5
+   ],
+   "detail": "2:5 (0:2,2:3)",
+   "start": 1773695700,
+   "group": "liga"
+  },
+  {
+   "id": 704269855,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "Estudiantes de Rio Cuarto",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1773702000,
+   "group": "liga"
+  },
+  {
+   "id": 704291813,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Instituto Córdoba",
+   "away": "Independiente",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1773709200,
+   "group": "liga"
+  },
+  {
+   "id": 704533240,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Lanus",
+   "away": "Newell's Old Boys",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (3:0,2:0)",
+   "start": 1773784800,
+   "group": "liga"
+  },
+  {
+   "id": 704557018,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Gimnasia y Esgrima",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1773792900,
+   "group": "liga"
+  },
+  {
+   "id": 704556516,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Central Córdoba",
+   "away": "Deportivo Riestra",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1773792900,
+   "group": "liga"
+  },
+  {
+   "id": 705414369,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Banfield",
+   "away": "Club Atlético Tigre",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1774050300,
+   "group": "liga"
+  },
+  {
+   "id": 705414394,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tucumán",
+   "away": "Gimnasia y Esgrima La Plata",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1774050300,
+   "group": "liga"
+  },
+  {
+   "id": 705685869,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "Lanus",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1774117800,
+   "group": "liga"
+  },
+  {
+   "id": 705722809,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Defensa y Justicia",
+   "away": "Unión de Santa Fe",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1774125900,
+   "group": "liga"
+  },
+  {
+   "id": 705722678,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Newell's Old Boys",
+   "away": "Club Atlético Gimnasia y Esgrima",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1774125900,
+   "group": "liga"
+  },
+  {
+   "id": 705749989,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente",
+   "away": "Talleres de Córdoba",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1774134000,
+   "group": "liga"
+  },
+  {
+   "id": 705776553,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Belgrano",
+   "away": "Racing Club de Avellaneda",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1774142100,
+   "group": "liga"
+  },
+  {
+   "id": 706018945,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Sarmiento",
+   "away": "CA Aldosivi",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1774204200,
+   "group": "liga"
+  },
+  {
+   "id": 706049842,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de Rio Cuarto",
+   "away": "River Plate Buenos Aires",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1774212300,
+   "group": "liga"
+  },
+  {
+   "id": 706074253,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "Instituto Córdoba",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1774219500,
+   "group": "liga"
+  },
+  {
+   "id": 706097236,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente Rivadavia",
+   "away": "Rosario Central",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1774228500,
+   "group": "liga"
+  },
+  {
+   "id": 706097128,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "Platense",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1774228500,
+   "group": "liga"
+  },
+  {
+   "id": 706310308,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de La Plata",
+   "away": "Central Córdoba",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (0:0,5:0)",
+   "start": 1774303200,
+   "group": "liga"
+  },
+  {
+   "id": 706331950,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atletico Huracan",
+   "away": "Barracas Central",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1774311300,
+   "group": "liga"
+  },
+  {
+   "id": 706858128,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Deportivo Riestra",
+   "away": "San Lorenzo de Almagro",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1774476000,
+   "group": "liga"
+  },
+  {
+   "id": 707151305,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "Lanus",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1774569600,
+   "group": "liga"
+  },
+  {
+   "id": 708527209,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Aldosivi",
+   "away": "Argentinos Juniors",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1774975500,
+   "group": "liga"
+  },
+  {
+   "id": 708882747,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Lanus",
+   "away": "Platense",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1775084400,
+   "group": "liga"
+  },
+  {
+   "id": 709110818,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Barracas Central",
+   "away": "CA Sarmiento",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1775152800,
+   "group": "liga"
+  },
+  {
+   "id": 709143497,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tigre",
+   "away": "Independiente Rivadavia",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1775161800,
+   "group": "liga"
+  },
+  {
+   "id": 709172846,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Talleres de Córdoba",
+   "away": "Boca Juniors",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1775172600,
+   "group": "liga"
+  },
+  {
+   "id": 709414958,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Gimnasia y Esgrima",
+   "away": "Vélez Sarsfield",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:2,2:0)",
+   "start": 1775239200,
+   "group": "liga"
+  },
+  {
+   "id": 709448660,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Unión de Santa Fe",
+   "away": "Deportivo Riestra",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1775247300,
+   "group": "liga"
+  },
+  {
+   "id": 709471456,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "San Lorenzo de Almagro",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1775255400,
+   "group": "liga"
+  },
+  {
+   "id": 709705127,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Aldosivi",
+   "away": "Estudiantes de Rio Cuarto",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1775320200,
+   "group": "liga"
+  },
+  {
+   "id": 709763840,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente",
+   "away": "Racing Club de Avellaneda",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1775333700,
+   "group": "liga"
+  },
+  {
+   "id": 709800274,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Rosario Central",
+   "away": "Club Atlético Tucumán",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1775347200,
+   "group": "liga"
+  },
+  {
+   "id": 710027272,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Gimnasia y Esgrima La Plata",
+   "away": "Club Atletico Huracan",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1775413800,
+   "group": "liga"
+  },
+  {
+   "id": 710055995,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "Belgrano",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1775422800,
+   "group": "liga"
+  },
+  {
+   "id": 710081879,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Central Córdoba",
+   "away": "Newell's Old Boys",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:2,1:1)",
+   "start": 1775431800,
+   "group": "liga"
+  },
+  {
+   "id": 710332433,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "CA Banfield",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:1,1:1)",
+   "start": 1775512800,
+   "group": "liga"
+  },
+  {
+   "id": 710352420,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Instituto Córdoba",
+   "away": "Defensa y Justicia",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1775520900,
+   "group": "liga"
+  },
+  {
+   "id": 711492802,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Belgrano",
+   "away": "CA Aldosivi",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1775864700,
+   "group": "liga"
+  },
+  {
+   "id": 711760134,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Deportivo Riestra",
+   "away": "Instituto Córdoba",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1775930400,
+   "group": "liga"
+  },
+  {
+   "id": 711768432,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente Rivadavia",
+   "away": "Argentinos Juniors",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1775932200,
+   "group": "liga"
+  },
+  {
+   "id": 711794923,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de La Plata",
+   "away": "Unión de Santa Fe",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1775938500,
+   "group": "liga"
+  },
+  {
+   "id": 711822023,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "Independiente",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1775945700,
+   "group": "liga"
+  },
+  {
+   "id": 711848523,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de Rio Cuarto",
+   "away": "Barracas Central",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1775954700,
+   "group": "liga"
+  },
+  {
+   "id": 712084620,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Newell's Old Boys",
+   "away": "San Lorenzo de Almagro",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1776016800,
+   "group": "liga"
+  },
+  {
+   "id": 712084601,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Platense",
+   "away": "Club Atlético Gimnasia y Esgrima",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1776016800,
+   "group": "liga"
+  },
+  {
+   "id": 712115516,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atletico Huracan",
+   "away": "Rosario Central",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1776025800,
+   "group": "liga"
+  },
+  {
+   "id": 712115476,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tucumán",
+   "away": "Club Atlético Tigre",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1776025800,
+   "group": "liga"
+  },
+  {
+   "id": 707106094,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "Independiente",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1776031200,
+   "group": "liga"
+  },
+  {
+   "id": 712142200,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "River Plate Buenos Aires",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1776034800,
+   "group": "liga"
+  },
+  {
+   "id": 712360901,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Defensa y Justicia",
+   "away": "Talleres de Córdoba",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1776108600,
+   "group": "liga"
+  },
+  {
+   "id": 712360831,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Sarmiento",
+   "away": "Gimnasia y Esgrima La Plata",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1776108600,
+   "group": "liga"
+  },
+  {
+   "id": 712386009,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Lanus",
+   "away": "CA Banfield",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1776117600,
+   "group": "liga"
+  },
+  {
+   "id": 712407493,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "Central Córdoba",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1776126600,
+   "group": "liga"
+  },
+  {
+   "id": 713517505,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Unión de Santa Fe",
+   "away": "Newell's Old Boys",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:2,1:1)",
+   "start": 1776468600,
+   "group": "liga"
+  },
+  {
+   "id": 713786360,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Gimnasia y Esgrima La Plata",
+   "away": "Estudiantes de Rio Cuarto",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1776535200,
+   "group": "liga"
+  },
+  {
+   "id": 713822586,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Instituto Córdoba",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1776543300,
+   "group": "liga"
+  },
+  {
+   "id": 713848224,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente",
+   "away": "Defensa y Justicia",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1776551400,
+   "group": "liga"
+  },
+  {
+   "id": 713871548,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "Club Atlético Tucumán",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1776559500,
+   "group": "liga"
+  },
+  {
+   "id": 714081995,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Aldosivi",
+   "away": "Racing Club de Avellaneda",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1776616200,
+   "group": "liga"
+  },
+  {
+   "id": 714131599,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "Boca Juniors",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1776628800,
+   "group": "liga"
+  },
+  {
+   "id": 714171173,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Rosario Central",
+   "away": "CA Sarmiento",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1776641400,
+   "group": "liga"
+  },
+  {
+   "id": 714170495,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Talleres de Córdoba",
+   "away": "Deportivo Riestra",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1776641400,
+   "group": "liga"
+  },
+  {
+   "id": 714364659,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Barracas Central",
+   "away": "Belgrano",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1776707100,
+   "group": "liga"
+  },
+  {
+   "id": 714391090,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Banfield",
+   "away": "Independiente Rivadavia",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1776716100,
+   "group": "liga"
+  },
+  {
+   "id": 714391748,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Central Córdoba",
+   "away": "Platense",
+   "score": [
+    4,
+    3
+   ],
+   "detail": "4:3 (2:1,2:2)",
+   "start": 1776716100,
+   "group": "liga"
+  },
+  {
+   "id": 714412358,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "San Lorenzo de Almagro",
+   "away": "Vélez Sarsfield",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1776724200,
+   "group": "liga"
+  },
+  {
+   "id": 714432182,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tigre",
+   "away": "Club Atletico Huracan",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1776731400,
+   "group": "liga"
+  },
+  {
+   "id": 714433050,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Gimnasia y Esgrima",
+   "away": "Lanus",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1776732300,
+   "group": "liga"
+  },
+  {
+   "id": 715245508,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Defensa y Justicia",
+   "away": "Boca Juniors",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:1,0:3)",
+   "start": 1776985200,
+   "group": "liga"
+  },
+  {
+   "id": 715515472,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Deportivo Riestra",
+   "away": "Independiente",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1777060800,
+   "group": "liga"
+  },
+  {
+   "id": 715536314,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Lanus",
+   "away": "Central Córdoba",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1777068900,
+   "group": "liga"
+  },
+  {
+   "id": 715536368,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de Rio Cuarto",
+   "away": "Rosario Central",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1777068900,
+   "group": "liga"
+  },
+  {
+   "id": 715559004,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Platense",
+   "away": "San Lorenzo de Almagro",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1777077000,
+   "group": "liga"
+  },
+  {
+   "id": 715559026,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "Barracas Central",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1777077000,
+   "group": "liga"
+  },
+  {
+   "id": 715846630,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de La Plata",
+   "away": "Talleres de Córdoba",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1777147200,
+   "group": "liga"
+  },
+  {
+   "id": 715875001,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Sarmiento",
+   "away": "Club Atlético Tigre",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1777155300,
+   "group": "liga"
+  },
+  {
+   "id": 715898346,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "CA Aldosivi",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1777163400,
+   "group": "liga"
+  },
+  {
+   "id": 716135930,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente Rivadavia",
+   "away": "Club Atlético Gimnasia y Esgrima",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (1:1,4:0)",
+   "start": 1777225500,
+   "group": "liga"
+  },
+  {
+   "id": 716167852,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Belgrano",
+   "away": "Gimnasia y Esgrima La Plata",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1777235400,
+   "group": "liga"
+  },
+  {
+   "id": 716167956,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Newell's Old Boys",
+   "away": "Instituto Córdoba",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1777235400,
+   "group": "liga"
+  },
+  {
+   "id": 716196575,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tucumán",
+   "away": "CA Banfield",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1777244400,
+   "group": "liga"
+  },
+  {
+   "id": 716436129,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "Unión de Santa Fe",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:1,0:1)",
+   "start": 1777326300,
+   "group": "liga"
+  },
+  {
+   "id": 716455600,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atletico Huracan",
+   "away": "Argentinos Juniors",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1777334400,
+   "group": "liga"
+  },
+  {
+   "id": 717803547,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Barracas Central",
+   "away": "CA Banfield",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1777741200,
+   "group": "liga"
+  },
+  {
+   "id": 717812625,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Lanus",
+   "away": "Deportivo Riestra",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1777743000,
+   "group": "liga"
+  },
+  {
+   "id": 717839151,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Central Córdoba",
+   "away": "Boca Juniors",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1777748400,
+   "group": "liga"
+  },
+  {
+   "id": 717868664,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "San Lorenzo de Almagro",
+   "away": "Independiente",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1777757400,
+   "group": "liga"
+  },
+  {
+   "id": 717868684,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Unión de Santa Fe",
+   "away": "Talleres de Córdoba",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1777758300,
+   "group": "liga"
+  },
+  {
+   "id": 717895493,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Platense",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1777767300,
+   "group": "liga"
+  },
+  {
+   "id": 718100101,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Aldosivi",
+   "away": "Independiente Rivadavia",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1777825800,
+   "group": "liga"
+  },
+  {
+   "id": 718137166,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Belgrano",
+   "away": "CA Sarmiento",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1777834800,
+   "group": "liga"
+  },
+  {
+   "id": 718137172,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Gimnasia y Esgrima La Plata",
+   "away": "Argentinos Juniors",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1777834800,
+   "group": "liga"
+  },
+  {
+   "id": 718137183,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "Club Atletico Huracan",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1777834800,
+   "group": "liga"
+  },
+  {
+   "id": 718137225,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Rosario Central",
+   "away": "Club Atlético Tigre",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1777834800,
+   "group": "liga"
+  },
+  {
+   "id": 718166306,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "Club Atlético Tucumán",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1777843800,
+   "group": "liga"
+  },
+  {
+   "id": 718399466,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Gimnasia y Esgrima",
+   "away": "Defensa y Justicia",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1777924800,
+   "group": "liga"
+  },
+  {
+   "id": 718419447,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "Newell's Old Boys",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1777932900,
+   "group": "liga"
+  },
+  {
+   "id": 718439961,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de Rio Cuarto",
+   "away": "Instituto Córdoba",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1777941000,
+   "group": "liga"
+  },
+  {
+   "id": 719773490,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Talleres de Córdoba",
+   "away": "Belgrano",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1778355000,
+   "group": "liga"
+  },
+  {
+   "id": 719802553,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "Club Atletico Huracan",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:1,1:0,1:2)",
+   "start": 1778364000,
+   "group": "liga"
+  },
+  {
+   "id": 719824727,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "Club Atletico Huracan",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1778364000,
+   "group": "liga"
+  },
+  {
+   "id": 719828830,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente Rivadavia",
+   "away": "Unión de Santa Fe",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1778373000,
+   "group": "liga"
+  },
+  {
+   "id": 719828943,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "Lanus",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1778373000,
+   "group": "liga"
+  },
+  {
+   "id": 720055588,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Rosario Central",
+   "away": "Independiente",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1778435100,
+   "group": "liga"
+  },
+  {
+   "id": 720080649,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de La Plata",
+   "away": "Racing Club de Avellaneda",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1778443200,
+   "group": "liga"
+  },
+  {
+   "id": 720101783,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de La Plata",
+   "away": "Racing Club de Avellaneda",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1778443200,
+   "group": "liga"
+  },
+  {
+   "id": 720102183,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "San Lorenzo de Almagro",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (0:1,1:0,1:1,1:0)",
+   "start": 1778450400,
+   "group": "liga"
+  },
+  {
+   "id": 720122286,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "San Lorenzo de Almagro",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1778450400,
+   "group": "liga"
+  },
+  {
+   "id": 720129146,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "San Lorenzo de Almagro",
+   "score": [
+    4,
+    3
+   ],
+   "detail": "4:3 (4:3)",
+   "start": 1778450400,
+   "group": "liga"
+  },
+  {
+   "id": 720126216,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "Gimnasia y Esgrima La Plata",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1778459400,
+   "group": "liga"
+  },
+  {
+   "id": 720613172,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Belgrano",
+   "away": "Unión de Santa Fe",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1778623200,
+   "group": "liga"
+  },
+  {
+   "id": 720635582,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "Club Atletico Huracan",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,0:0,1:0)",
+   "start": 1778632200,
+   "group": "liga"
+  },
+  {
+   "id": 720657057,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "Club Atletico Huracan",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1778632200,
+   "group": "liga"
+  },
+  {
+   "id": 720888217,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Rosario Central",
+   "away": "Racing Club de Avellaneda",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,1:0,1:0)",
+   "start": 1778708700,
+   "group": "liga"
+  },
+  {
+   "id": 720910075,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Rosario Central",
+   "away": "Racing Club de Avellaneda",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1778708700,
+   "group": "liga"
+  },
+  {
+   "id": 720915232,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "Gimnasia y Esgrima La Plata",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1778717700,
+   "group": "liga"
+  },
+  {
+   "id": 721751051,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "Rosario Central",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1778970600,
+   "group": "liga"
+  },
+  {
+   "id": 722010068,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "Belgrano",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:1,0:0,0:1)",
+   "start": 1779047100,
+   "group": "liga"
+  },
+  {
+   "id": 722032942,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "Belgrano",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1779047100,
+   "group": "liga"
+  },
+  {
+   "id": 722038420,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "Belgrano",
+   "score": [
+    3,
+    4
+   ],
+   "detail": "3:4 (3:4)",
+   "start": 1779047100,
+   "group": "liga"
+  },
+  {
+   "id": 723900066,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "Belgrano",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:1,1:2)",
+   "start": 1779647400,
+   "group": "liga"
+  },
+  {
+   "id": 727273763,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Argentina",
+   "away": "Honduras",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1780790400,
+   "group": "seleccion"
+  },
+  {
+   "id": 728017086,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Argentina",
+   "away": "Islandia",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1781052300,
+   "group": "seleccion"
+  },
+  {
+   "id": 738665058,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Belgrano",
+   "away": "Rosario Central",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1784845800,
+   "group": "liga"
+  },
+  {
+   "id": 738665077,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Sarmiento",
+   "away": "Argentinos Juniors",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:0,1:3)",
+   "start": 1784845800,
+   "group": "liga"
+  },
+  {
+   "id": 738686433,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Defensa y Justicia",
+   "away": "CA Aldosivi",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1784853900,
+   "group": "liga"
+  },
+  {
+   "id": 738894249,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Gimnasia y Esgrima",
+   "away": "Central Córdoba",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1784922300,
+   "group": "liga"
+  },
+  {
+   "id": 738916407,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "Gimnasia y Esgrima La Plata",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1784930400,
+   "group": "liga"
+  },
+  {
+   "id": 738916411,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "Instituto Córdoba",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1784930400,
+   "group": "liga"
+  },
+  {
+   "id": 738936301,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Platense",
+   "away": "Unión de Santa Fe",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1784938500,
+   "group": "liga"
+  },
+  {
+   "id": 738936490,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atletico Huracan",
+   "away": "CA Banfield",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1784938500,
+   "group": "liga"
+  },
+  {
+   "id": 739135337,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de Rio Cuarto",
+   "away": "Club Atlético Tigre",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1785001500,
+   "group": "liga"
+  },
+  {
+   "id": 739162042,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Newell's Old Boys",
+   "away": "Talleres de Córdoba",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1785009600,
+   "group": "liga"
+  },
+  {
+   "id": 739185537,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "Barracas Central",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1785017700,
+   "group": "liga"
+  },
+  {
+   "id": 739207058,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Lanus",
+   "away": "San Lorenzo de Almagro",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1785025800,
+   "group": "liga"
+  },
+  {
+   "id": 739394431,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tucumán",
+   "away": "Independiente Rivadavia",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1785088800,
+   "group": "liga"
+  },
+  {
+   "id": 739425202,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de La Plata",
+   "away": "Independiente",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1785096900,
+   "group": "liga"
+  },
+  {
+   "id": 739443904,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Deportivo Riestra",
+   "away": "Boca Juniors",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (3:0,0:0)",
+   "start": 1785105000,
+   "group": "liga"
+  },
+  {
+   "id": 739921547,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "San Lorenzo de Almagro",
+   "away": "Club Atlético Gimnasia y Esgrima",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1785275100,
+   "group": "liga"
+  },
+  {
+   "id": 739921557,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Banfield",
+   "away": "CA Sarmiento",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (0:0,3:2)",
+   "start": 1785275100,
+   "group": "liga"
+  },
+  {
+   "id": 739943755,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "Estudiantes de Rio Cuarto",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1785284100,
+   "group": "liga"
+  },
+  {
+   "id": 739944271,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Rosario Central",
+   "away": "Racing Club de Avellaneda",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1785284100,
+   "group": "liga"
+  },
+  {
+   "id": 740129588,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Barracas Central",
+   "away": "CA Aldosivi",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1785346200,
+   "group": "liga"
+  },
+  {
+   "id": 740159621,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Defensa y Justicia",
+   "away": "Deportivo Riestra",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1785355200,
+   "group": "liga"
+  },
+  {
+   "id": 740181920,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Gimnasia y Esgrima La Plata",
+   "away": "River Plate Buenos Aires",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1785363300,
+   "group": "liga"
+  },
+  {
+   "id": 740203783,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Instituto Córdoba",
+   "away": "Platense",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1785371400,
+   "group": "liga"
+  },
+  {
+   "id": 740436849,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Talleres de Córdoba",
+   "away": "Vélez Sarsfield",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:1,0:2)",
+   "start": 1785448800,
+   "group": "liga"
+  },
+  {
+   "id": 740436910,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente Rivadavia",
+   "away": "Club Atletico Huracan",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1785448800,
+   "group": "liga"
+  },
+  {
+   "id": 740457642,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente",
+   "away": "Newell's Old Boys",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1785456900,
+   "group": "liga"
+  },
+  {
+   "id": 740457634,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Central Córdoba",
+   "away": "Club Atlético Tucumán",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1785456900,
+   "group": "liga"
+  },
+  {
+   "id": 740938326,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de Rio Cuarto",
+   "away": "CA Banfield",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1785609000,
+   "group": "liga"
+  },
+  {
+   "id": 740938399,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Gimnasia y Esgrima",
+   "away": "Unión de Santa Fe",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1785609000,
+   "group": "liga"
+  },
+  {
+   "id": 740965889,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Belgrano",
+   "away": "Argentinos Juniors",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1785618000,
+   "group": "liga"
+  },
+  {
+   "id": 740965705,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de La Plata",
+   "away": "Defensa y Justicia",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (3:0,0:0)",
+   "start": 1785618000,
+   "group": "liga"
+  },
+  {
+   "id": 740989358,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "Club Atlético Tigre",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:2,1:1)",
+   "start": 1785626100,
+   "group": "liga"
+  },
+  {
+   "id": 741184376,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Deportivo Riestra",
+   "away": "Barracas Central",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1785690900,
+   "group": "liga"
+  },
+  {
+   "id": 741185300,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Aldosivi",
+   "away": "Gimnasia y Esgrima La Plata",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1785691800,
+   "group": "liga"
+  },
+  {
+   "id": 741214777,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Newell's Old Boys",
+   "away": "Boca Juniors",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:1,2:1)",
+   "start": 1785699900,
+   "group": "liga"
+  },
+  {
+   "id": 741237775,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "Rosario Central",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1785708900,
+   "group": "liga"
+  },
+  {
+   "id": 741257503,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Lanus",
+   "away": "Instituto Córdoba",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1785717000,
+   "group": "liga"
+  },
+  {
+   "id": 741446325,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Sarmiento",
+   "away": "Independiente Rivadavia",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1785786300,
+   "group": "liga"
+  },
+  {
+   "id": 741466668,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Platense",
+   "away": "Talleres de Córdoba",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:1,0:3)",
+   "start": 1785793500,
+   "group": "liga"
+  },
+  {
+   "id": 741468513,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "Independiente",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1785794400,
+   "group": "liga"
+  },
+  {
+   "id": 741486722,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Central Córdoba",
+   "away": "San Lorenzo de Almagro",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1785801600,
+   "group": "liga"
+  },
+  {
+   "id": 741486701,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atletico Huracan",
+   "away": "Club Atlético Tucumán",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1785801600,
+   "group": "liga"
+  },
+  {
+   "id": 741975254,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1785967200,
+   "group": "liga"
+  },
+  {
+   "id": 741997910,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tigre",
+   "away": "Belgrano",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1785974400,
+   "group": "liga"
+  },
+  {
+   "id": 742237074,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Unión de Santa Fe",
+   "away": "Lanus",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1786053600,
+   "group": "liga"
+  },
+  {
+   "id": 742506456,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Rosario Central",
+   "away": "CA Aldosivi",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1786141800,
+   "group": "liga"
+  },
+  {
+   "id": 742527842,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente Rivadavia",
+   "away": "Estudiantes de Rio Cuarto",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1786149900,
+   "group": "liga"
+  },
+  {
+   "id": 742739938,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Deportivo Riestra",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1786211100,
+   "group": "liga"
+  },
+  {
+   "id": 742739800,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tucumán",
+   "away": "CA Sarmiento",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1786211100,
+   "group": "liga"
+  },
+  {
+   "id": 742768707,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tigre",
+   "away": "River Plate Buenos Aires",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1786219200,
+   "group": "liga"
+  },
+  {
+   "id": 742793979,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "Vélez Sarsfield",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1786227300,
+   "group": "liga"
+  },
+  {
+   "id": 742815111,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente",
+   "away": "Platense",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1786234500,
+   "group": "liga"
+  },
+  {
+   "id": 742816035,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Instituto Córdoba",
+   "away": "Club Atlético Gimnasia y Esgrima",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1786235400,
+   "group": "liga"
+  },
+  {
+   "id": 743007521,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "San Lorenzo de Almagro",
+   "away": "Club Atletico Huracan",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1786298400,
+   "group": "liga"
+  },
+  {
+   "id": 740174513,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Talleres de Córdoba",
+   "away": "Lanus",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1786305600,
+   "group": "liga"
+  },
+  {
+   "id": 743039908,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Defensa y Justicia",
+   "away": "Newell's Old Boys",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1786308300,
+   "group": "liga"
+  },
+  {
+   "id": 743039875,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Gimnasia y Esgrima La Plata",
+   "away": "Barracas Central",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1786308300,
+   "group": "liga"
+  },
+  {
+   "id": 743063886,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "Racing Club de Avellaneda",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1786317300,
+   "group": "liga"
+  },
+  {
+   "id": 743283644,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Banfield",
+   "away": "Belgrano",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1786398300,
+   "group": "liga"
+  },
+  {
+   "id": 743302711,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Unión de Santa Fe",
+   "away": "Central Córdoba",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1786407300,
+   "group": "liga"
+  },
+  {
+   "id": 743548286,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Talleres de Córdoba",
+   "away": "Lanus",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:0,0:3)",
+   "start": 1786491900,
+   "group": "liga"
+  },
+  {
+   "id": 744331267,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "CA Banfield",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1786750200,
+   "group": "liga"
+  },
+  {
+   "id": 744551169,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "San Lorenzo de Almagro",
+   "away": "Unión de Santa Fe",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1786815000,
+   "group": "liga"
+  },
+  {
+   "id": 744551124,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Aldosivi",
+   "away": "Club Atlético Tigre",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1786815000,
+   "group": "liga"
+  },
+  {
+   "id": 744582201,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de La Plata",
+   "away": "Gimnasia y Esgrima La Plata",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (1:0,3:0)",
+   "start": 1786823100,
+   "group": "liga"
+  },
+  {
+   "id": 744606397,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Belgrano",
+   "away": "Independiente Rivadavia",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1786831200,
+   "group": "liga"
+  },
+  {
+   "id": 744606089,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Newell's Old Boys",
+   "away": "Deportivo Riestra",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1786831200,
+   "group": "liga"
+  },
+  {
+   "id": 744629334,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Platense",
+   "away": "Boca Juniors",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1786839300,
+   "group": "liga"
+  },
+  {
+   "id": 744831483,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Sarmiento",
+   "away": "Club Atletico Huracan",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1786903200,
+   "group": "liga"
+  },
+  {
+   "id": 744868672,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "Argentinos Juniors",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1786914000,
+   "group": "liga"
+  },
+  {
+   "id": 744891109,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Central Córdoba",
+   "away": "Instituto Córdoba",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1786922100,
+   "group": "liga"
+  },
+  {
+   "id": 744891193,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Barracas Central",
+   "away": "Rosario Central",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1786922100,
+   "group": "liga"
+  },
+  {
+   "id": 745075990,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de Rio Cuarto",
+   "away": "Club Atlético Tucumán",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1786988700,
+   "group": "liga"
+  },
+  {
+   "id": 745104287,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Lanus",
+   "away": "Independiente",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:1,1:2)",
+   "start": 1786996800,
+   "group": "liga"
+  },
+  {
+   "id": 745123324,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "Defensa y Justicia",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1787004900,
+   "group": "liga"
+  },
+  {
+   "id": 745142817,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Gimnasia y Esgrima",
+   "away": "Talleres de Córdoba",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1787013000,
+   "group": "liga"
+  },
+  {
+   "id": 746125813,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Aldosivi",
+   "away": "Unión de Santa Fe",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:0,0:3)",
+   "start": 1787333400,
+   "group": "liga"
+  },
+  {
+   "id": 746189741,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de Rio Cuarto",
+   "away": "San Lorenzo de Almagro",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1787353200,
+   "group": "liga"
+  },
+  {
+   "id": 746438823,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tucumán",
+   "away": "Instituto Córdoba",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1787425200,
+   "group": "liga"
+  },
+  {
+   "id": 746438801,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Gimnasia y Esgrima La Plata",
+   "away": "Club Atlético Gimnasia y Esgrima",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:2,2:1)",
+   "start": 1787425200,
+   "group": "liga"
+  },
+  {
+   "id": 746469547,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente",
+   "away": "Independiente Rivadavia",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1787434200,
+   "group": "liga"
+  },
+  {
+   "id": 746493642,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Newell's Old Boys",
+   "away": "CA Banfield",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1787442300,
+   "group": "liga"
+  },
+  {
+   "id": 746493703,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atletico Huracan",
+   "away": "Deportivo Riestra",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1787443200,
+   "group": "liga"
+  },
+  {
+   "id": 746697448,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Barracas Central",
+   "away": "Platense",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1787506200,
+   "group": "liga"
+  },
+  {
+   "id": 746697442,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Sarmiento",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1787506200,
+   "group": "liga"
+  },
+  {
+   "id": 746725757,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Belgrano",
+   "away": "Defensa y Justicia",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1787515200,
+   "group": "liga"
+  },
+  {
+   "id": 746749936,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "Vélez Sarsfield",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:0,0:2)",
+   "start": 1787523300,
+   "group": "liga"
+  },
+  {
+   "id": 746771749,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "Boca Juniors",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1787531400,
+   "group": "liga"
+  },
+  {
+   "id": 746992226,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tigre",
+   "away": "Central Córdoba",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1787607900,
+   "group": "liga"
+  },
+  {
+   "id": 747013408,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Lanus",
+   "away": "Argentinos Juniors",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1787616000,
+   "group": "liga"
+  },
+  {
+   "id": 747014055,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Talleres de Córdoba",
+   "away": "Rosario Central",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1787616900,
+   "group": "liga"
+  },
+  {
+   "id": 748070741,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Unión de Santa Fe",
+   "away": "CA Sarmiento",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (1:0,3:1)",
+   "start": 1787954400,
+   "group": "liga"
+  },
+  {
+   "id": 748095183,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "Lanus",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1787963400,
+   "group": "liga"
+  },
+  {
+   "id": 748321601,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Deportivo Riestra",
+   "away": "Vélez Sarsfield",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1788025500,
+   "group": "liga"
+  },
+  {
+   "id": 748354078,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Rosario Central",
+   "away": "Gimnasia y Esgrima La Plata",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1788033600,
+   "group": "liga"
+  },
+  {
+   "id": 748377306,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atletico Huracan",
+   "away": "Estudiantes de Rio Cuarto",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1788040800,
+   "group": "liga"
+  },
+  {
+   "id": 748401498,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Talleres de Córdoba",
+   "away": "Central Córdoba",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1788048900,
+   "group": "liga"
+  },
+  {
+   "id": 748402605,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tucumán",
+   "away": "Belgrano",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1788049800,
+   "group": "liga"
+  },
+  {
+   "id": 748617875,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Banfield",
+   "away": "River Plate Buenos Aires",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:2,2:1)",
+   "start": 1788111900,
+   "group": "liga"
+  },
+  {
+   "id": 748645166,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "CA Aldosivi",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1788119100,
+   "group": "liga"
+  },
+  {
+   "id": 748669604,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente",
+   "away": "Club Atlético Gimnasia y Esgrima",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1788128100,
+   "group": "liga"
+  },
+  {
+   "id": 748689877,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente Rivadavia",
+   "away": "Racing Club de Avellaneda",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1788136200,
+   "group": "liga"
+  },
+  {
+   "id": 748923601,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de La Plata",
+   "away": "Newell's Old Boys",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1788213600,
+   "group": "liga"
+  },
+  {
+   "id": 748923515,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Defensa y Justicia",
+   "away": "Platense",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1788213600,
+   "group": "liga"
+  },
+  {
+   "id": 748943359,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Instituto Córdoba",
+   "away": "San Lorenzo de Almagro",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1788220800,
+   "group": "liga"
+  },
+  {
+   "id": 748943452,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tigre",
+   "away": "Barracas Central",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1788221700,
+   "group": "liga"
+  },
+  {
+   "id": 750002211,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de Rio Cuarto",
+   "away": "CA Sarmiento",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1788551100,
+   "group": "liga"
+  },
+  {
+   "id": 750026980,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Platense",
+   "away": "Deportivo Riestra",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1788559200,
+   "group": "liga"
+  },
+  {
+   "id": 750026943,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Belgrano",
+   "away": "Club Atletico Huracan",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1788559200,
+   "group": "liga"
+  },
+  {
+   "id": 750271316,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Aldosivi",
+   "away": "CA Banfield",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1788625800,
+   "group": "liga"
+  },
+  {
+   "id": 750287639,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Gimnasia y Esgrima La Plata",
+   "away": "Club Atlético Tigre",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1788629400,
+   "group": "liga"
+  },
+  {
+   "id": 750317248,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Gimnasia y Esgrima",
+   "away": "Boca Juniors",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:2,1:0)",
+   "start": 1788636600,
+   "group": "liga"
+  },
+  {
+   "id": 750346194,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "San Lorenzo de Almagro",
+   "away": "Talleres de Córdoba",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1788644700,
+   "group": "liga"
+  },
+  {
+   "id": 750369932,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1788653700,
+   "group": "liga"
+  },
+  {
+   "id": 750603648,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Rosario Central",
+   "away": "Newell's Old Boys",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1788716700,
+   "group": "liga"
+  },
+  {
+   "id": 750634392,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Central Córdoba",
+   "away": "Independiente",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1788723900,
+   "group": "liga"
+  },
+  {
+   "id": 750634491,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Lanus",
+   "away": "Defensa y Justicia",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1788724800,
+   "group": "liga"
+  },
+  {
+   "id": 750659125,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "Independiente Rivadavia",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1788732900,
+   "group": "liga"
+  },
+  {
+   "id": 750679262,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "Club Atlético Tucumán",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1788740100,
+   "group": "liga"
+  },
+  {
+   "id": 750917048,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Barracas Central",
+   "away": "Argentinos Juniors",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1788818400,
+   "group": "liga"
+  },
+  {
+   "id": 750936434,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Unión de Santa Fe",
+   "away": "Instituto Córdoba",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:1,2:1)",
+   "start": 1788826500,
+   "group": "liga"
+  },
+  {
+   "id": 752022209,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Newell's Old Boys",
+   "away": "Vélez Sarsfield",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1789156800,
+   "group": "liga"
+  },
+  {
+   "id": 752046634,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Defensa y Justicia",
+   "away": "Club Atlético Gimnasia y Esgrima",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1789164900,
+   "group": "liga"
+  },
+  {
+   "id": 752068703,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "Central Córdoba",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1789173000,
+   "group": "liga"
+  },
+  {
+   "id": 752310149,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de La Plata",
+   "away": "Platense",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1789235100,
+   "group": "liga"
+  },
+  {
+   "id": 752310176,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente Rivadavia",
+   "away": "CA Aldosivi",
+   "score": [
+    4,
+    3
+   ],
+   "detail": "4:3 (3:1,1:2)",
+   "start": 1789235100,
+   "group": "liga"
+  },
+  {
+   "id": 752349662,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tucumán",
+   "away": "River Plate Buenos Aires",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1789245000,
+   "group": "liga"
+  },
+  {
+   "id": 752378221,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Talleres de Córdoba",
+   "away": "Unión de Santa Fe",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1789254000,
+   "group": "liga"
+  },
+  {
+   "id": 752625529,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tigre",
+   "away": "Rosario Central",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1789321500,
+   "group": "liga"
+  },
+  {
+   "id": 752625499,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Sarmiento",
+   "away": "Belgrano",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1789321500,
+   "group": "liga"
+  },
+  {
+   "id": 752656503,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "Gimnasia y Esgrima La Plata",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1789329600,
+   "group": "liga"
+  },
+  {
+   "id": 752682411,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente",
+   "away": "San Lorenzo de Almagro",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1789337700,
+   "group": "liga"
+  },
+  {
+   "id": 752703002,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atletico Huracan",
+   "away": "Racing Club de Avellaneda",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1789344900,
+   "group": "liga"
+  },
+  {
+   "id": 752932358,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Deportivo Riestra",
+   "away": "Lanus",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1789423200,
+   "group": "liga"
+  },
+  {
+   "id": 752932341,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Banfield",
+   "away": "Barracas Central",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1789423200,
+   "group": "liga"
+  },
+  {
+   "id": 752952471,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Instituto Córdoba",
+   "away": "Estudiantes de Rio Cuarto",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1789430400,
+   "group": "liga"
+  },
+  {
+   "id": 754079576,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Central Córdoba",
+   "away": "Defensa y Justicia",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:1,2:1)",
+   "start": 1789765200,
+   "group": "liga"
+  },
+  {
+   "id": 754112753,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "CA Sarmiento",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1789776900,
+   "group": "liga"
+  },
+  {
+   "id": 754363412,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Gimnasia y Esgrima La Plata",
+   "away": "CA Banfield",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1789838100,
+   "group": "liga"
+  },
+  {
+   "id": 754364662,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Gimnasia y Esgrima",
+   "away": "Deportivo Riestra",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1789839000,
+   "group": "liga"
+  },
+  {
+   "id": 754401589,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Unión de Santa Fe",
+   "away": "Independiente",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1789846200,
+   "group": "liga"
+  },
+  {
+   "id": 754428444,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "Club Atletico Huracan",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1789855200,
+   "group": "liga"
+  },
+  {
+   "id": 754451380,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Instituto Córdoba",
+   "away": "Talleres de Córdoba",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:0,3:1)",
+   "start": 1789863300,
+   "group": "liga"
+  },
+  {
+   "id": 754692605,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "San Lorenzo de Almagro",
+   "away": "Boca Juniors",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1789926300,
+   "group": "liga"
+  },
+  {
+   "id": 754722761,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Platense",
+   "away": "Newell's Old Boys",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1789933500,
+   "group": "liga"
+  },
+  {
+   "id": 754722785,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Rosario Central",
+   "away": "Argentinos Juniors",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1789934400,
+   "group": "liga"
+  },
+  {
+   "id": 754747140,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Belgrano",
+   "away": "Estudiantes de Rio Cuarto",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1789942500,
+   "group": "liga"
+  },
+  {
+   "id": 754768295,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "Club Atlético Tigre",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:0,2:2)",
+   "start": 1789950600,
+   "group": "liga"
+  },
+  {
+   "id": 754939020,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Aldosivi",
+   "away": "Club Atlético Tucumán",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1790011800,
+   "group": "liga"
+  },
+  {
+   "id": 754984393,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Barracas Central",
+   "away": "Independiente Rivadavia",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1790028000,
+   "group": "liga"
+  },
+  {
+   "id": 755005054,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Lanus",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1790036100,
+   "group": "liga"
+  },
+  {
+   "id": 757514079,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Argentina",
+   "away": "Bolivia",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1790812800,
+   "group": "seleccion"
+  },
+  {
+   "id": 758061775,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente",
+   "away": "Instituto Córdoba",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (1:1,0:3)",
+   "start": 1790978400,
+   "group": "liga"
+  },
+  {
+   "id": 758083739,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "Unión de Santa Fe",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1790987400,
+   "group": "liga"
+  },
+  {
+   "id": 758083769,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente Rivadavia",
+   "away": "Gimnasia y Esgrima La Plata",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1790987400,
+   "group": "liga"
+  },
+  {
+   "id": 758336167,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Defensa y Justicia",
+   "away": "San Lorenzo de Almagro",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (3:0,0:0)",
+   "start": 1791049500,
+   "group": "liga"
+  },
+  {
+   "id": 758373452,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Newell's Old Boys",
+   "away": "Lanus",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1791057600,
+   "group": "liga"
+  },
+  {
+   "id": 758373444,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tucumán",
+   "away": "Barracas Central",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:0,1:3)",
+   "start": 1791057600,
+   "group": "liga"
+  },
+  {
+   "id": 758418410,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Argentina",
+   "away": "Burkina Faso",
+   "score": [
+    7,
+    0
+   ],
+   "detail": "7:0 (5:0,2:0)",
+   "start": 1791072000,
+   "group": "seleccion"
+  },
+  {
+   "id": 758658603,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atletico Huracan",
+   "away": "CA Aldosivi",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1791135000,
+   "group": "liga"
+  },
+  {
+   "id": 758687412,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Talleres de Córdoba",
+   "away": "Belgrano",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1791144000,
+   "group": "liga"
+  },
+  {
+   "id": 752600584,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Sarmiento",
+   "away": "River Plate Buenos Aires",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1791144000,
+   "group": "liga"
+  },
+  {
+   "id": 752578587,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Banfield",
+   "away": "Rosario Central",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1791144000,
+   "group": "liga"
+  },
+  {
+   "id": 758709584,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "Club Atlético Tigre",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1791152100,
+   "group": "liga"
+  },
+  {
+   "id": 758730229,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de Rio Cuarto",
+   "away": "Racing Club de Avellaneda",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1791160200,
+   "group": "liga"
+  },
+  {
+   "id": 758942783,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Deportivo Riestra",
+   "away": "Central Córdoba",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1791228600,
+   "group": "liga"
+  },
+  {
+   "id": 758964274,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de La Plata",
+   "away": "Club Atlético Gimnasia y Esgrima",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (0:0,3:0)",
+   "start": 1791236700,
+   "group": "liga"
+  },
+  {
+   "id": 758963870,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "Platense",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1791237600,
+   "group": "liga"
+  },
+  {
+   "id": 758984171,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Banfield",
+   "away": "Rosario Central",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1791245700,
+   "group": "liga"
+  },
+  {
+   "id": 759251367,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Argentina",
+   "away": "Benin",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (0:0,3:0)",
+   "start": 1791327600,
+   "group": "seleccion"
+  },
+  {
+   "id": 760043666,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Aldosivi",
+   "away": "CA Sarmiento",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:1,0:2)",
+   "start": 1791567000,
+   "group": "liga"
+  },
+  {
+   "id": 760098283,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Gimnasia y Esgrima La Plata",
+   "away": "Club Atlético Tucumán",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1791579600,
+   "group": "liga"
+  },
+  {
+   "id": 760113690,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Instituto Córdoba",
+   "away": "Boca Juniors",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1791585000,
+   "group": "liga"
+  },
+  {
+   "id": 760136759,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Unión de Santa Fe",
+   "away": "Defensa y Justicia",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1791593100,
+   "group": "liga"
+  },
+  {
+   "id": 760418336,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Barracas Central",
+   "away": "Club Atletico Huracan",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1791657900,
+   "group": "liga"
+  },
+  {
+   "id": 760437124,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Central Córdoba",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:2,0:0)",
+   "start": 1791662400,
+   "group": "liga"
+  },
+  {
+   "id": 760462932,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tigre",
+   "away": "CA Banfield",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1791670500,
+   "group": "liga"
+  },
+  {
+   "id": 760487824,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "Estudiantes de Rio Cuarto",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1791678600,
+   "group": "liga"
+  },
+  {
+   "id": 760739710,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "San Lorenzo de Almagro",
+   "away": "Deportivo Riestra",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1791740700,
+   "group": "liga"
+  },
+  {
+   "id": 760768585,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Platense",
+   "away": "Argentinos Juniors",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1791748800,
+   "group": "liga"
+  },
+  {
+   "id": 760769383,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Rosario Central",
+   "away": "Independiente Rivadavia",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (1:0,4:0)",
+   "start": 1791748800,
+   "group": "liga"
+  },
+  {
+   "id": 760793896,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "Belgrano",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1791756900,
+   "group": "liga"
+  },
+  {
+   "id": 760816787,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Talleres de Córdoba",
+   "away": "Independiente",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1791765000,
+   "group": "liga"
+  },
+  {
+   "id": 761029989,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Lanus",
+   "away": "Vélez Sarsfield",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1791831600,
+   "group": "liga"
+  },
+  {
+   "id": 761058324,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Gimnasia y Esgrima",
+   "away": "Newell's Old Boys",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1791840600,
+   "group": "liga"
+  },
+  {
+   "id": 761644548,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Sarmiento",
+   "away": "River Plate Buenos Aires",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1792015200,
+   "group": "liga"
+  },
+  {
+   "id": 761941265,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atletico Huracan",
+   "away": "Gimnasia y Esgrima La Plata",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1792105200,
+   "group": "liga"
+  },
+  {
+   "id": 762239759,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Defensa y Justicia",
+   "away": "Instituto Córdoba",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1792188000,
+   "group": "liga"
+  },
+  {
+   "id": 762267573,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "Talleres de Córdoba",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1792197000,
+   "group": "liga"
+  },
+  {
+   "id": 762546266,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Banfield",
+   "away": "Argentinos Juniors",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1792260000,
+   "group": "liga"
+  },
+  {
+   "id": 762587321,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Platense",
+   "away": "Lanus",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1792269000,
+   "group": "liga"
+  },
+  {
+   "id": 762587301,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente Rivadavia",
+   "away": "Club Atlético Tigre",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1792269000,
+   "group": "liga"
+  },
+  {
+   "id": 762615789,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tucumán",
+   "away": "Rosario Central",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (2:2,0:1)",
+   "start": 1792278000,
+   "group": "liga"
+  },
+  {
+   "id": 762615768,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "Club Atlético Gimnasia y Esgrima",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1792278000,
+   "group": "liga"
+  },
+  {
+   "id": 762891518,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "Independiente",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1792345500,
+   "group": "liga"
+  },
+  {
+   "id": 762933017,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de Rio Cuarto",
+   "away": "CA Aldosivi",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1792357200,
+   "group": "liga"
+  },
+  {
+   "id": 762933124,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de La Plata",
+   "away": "San Lorenzo de Almagro",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1792357200,
+   "group": "liga"
+  },
+  {
+   "id": 762956477,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Belgrano",
+   "away": "River Plate Buenos Aires",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1792365300,
+   "group": "liga"
+  },
+  {
+   "id": 763212941,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Newell's Old Boys",
+   "away": "Central Córdoba",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1792447200,
+   "group": "liga"
+  },
+  {
+   "id": 763213410,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Sarmiento",
+   "away": "Barracas Central",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1792447200,
+   "group": "liga"
+  },
+  {
+   "id": 763233860,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Deportivo Riestra",
+   "away": "Unión de Santa Fe",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1792455300,
+   "group": "liga"
+  },
+  {
+   "id": 764375469,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Gimnasia y Esgrima La Plata",
+   "away": "CA Sarmiento",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1792789200,
+   "group": "liga"
+  },
+  {
+   "id": 764381895,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Gimnasia y Esgrima",
+   "away": "Platense",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1792791000,
+   "group": "liga"
+  },
+  {
+   "id": 764411445,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tigre",
+   "away": "Club Atlético Tucumán",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1792800900,
+   "group": "liga"
+  },
+  {
+   "id": 764685837,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Banfield",
+   "away": "Lanus",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1792863900,
+   "group": "liga"
+  },
+  {
+   "id": 764723554,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Talleres de Córdoba",
+   "away": "Defensa y Justicia",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1792872000,
+   "group": "liga"
+  },
+  {
+   "id": 764750521,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "San Lorenzo de Almagro",
+   "away": "Newell's Old Boys",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1792880100,
+   "group": "liga"
+  },
+  {
+   "id": 764776373,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Rosario Central",
+   "away": "Club Atletico Huracan",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1792888200,
+   "group": "liga"
+  },
+  {
+   "id": 765020087,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Aldosivi",
+   "away": "Belgrano",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1792950300,
+   "group": "liga"
+  },
+  {
+   "id": 765053486,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente",
+   "away": "Boca Juniors",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1792958400,
+   "group": "liga"
+  },
+  {
+   "id": 761367636,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "Independiente Rivadavia",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1792962000,
+   "group": "liga"
+  },
+  {
+   "id": 765080556,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "Racing Club de Avellaneda",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1792966500,
+   "group": "liga"
+  },
+  {
+   "id": 765103880,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Central Córdoba",
+   "away": "Vélez Sarsfield",
+   "score": [
+    0,
+    5
+   ],
+   "detail": "0:5 (0:2,0:3)",
+   "start": 1792974600,
+   "group": "liga"
+  },
+  {
+   "id": 765103857,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Barracas Central",
+   "away": "Estudiantes de Rio Cuarto",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1792974600,
+   "group": "liga"
+  },
+  {
+   "id": 765344965,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Unión de Santa Fe",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:1,3:0)",
+   "start": 1793052000,
+   "group": "liga"
+  },
+  {
+   "id": 765367551,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Instituto Córdoba",
+   "away": "Deportivo Riestra",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1793060100,
+   "group": "liga"
+  },
+  {
+   "id": 765641087,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "Independiente Rivadavia",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1793138400,
+   "group": "liga"
+  },
+  {
+   "id": 766555356,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de Rio Cuarto",
+   "away": "Gimnasia y Esgrima La Plata",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1793397600,
+   "group": "liga"
+  },
+  {
+   "id": 766555353,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atletico Huracan",
+   "away": "Club Atlético Tigre",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1793397600,
+   "group": "liga"
+  },
+  {
+   "id": 766582111,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Racing Club de Avellaneda",
+   "away": "CA Aldosivi",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1793405700,
+   "group": "liga"
+  },
+  {
+   "id": 766582031,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Sarmiento",
+   "away": "Rosario Central",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1793405700,
+   "group": "liga"
+  },
+  {
+   "id": 766888747,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Deportivo Riestra",
+   "away": "Talleres de Córdoba",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1793476800,
+   "group": "liga"
+  },
+  {
+   "id": 766919917,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "San Lorenzo de Almagro",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:1,0:1)",
+   "start": 1793484900,
+   "group": "liga"
+  },
+  {
+   "id": 766944966,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Estudiantes de La Plata",
+   "away": "Instituto Córdoba",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (0:1,3:2)",
+   "start": 1793493000,
+   "group": "liga"
+  },
+  {
+   "id": 767191514,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "River Plate Buenos Aires",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1793556000,
+   "group": "liga"
+  },
+  {
+   "id": 767241324,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Newell's Old Boys",
+   "away": "Unión de Santa Fe",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1793568600,
+   "group": "liga"
+  },
+  {
+   "id": 767241331,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Belgrano",
+   "away": "Barracas Central",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1793568600,
+   "group": "liga"
+  },
+  {
+   "id": 767264764,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Lanus",
+   "away": "Club Atlético Gimnasia y Esgrima",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1793576700,
+   "group": "liga"
+  },
+  {
+   "id": 767512861,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Platense",
+   "away": "Central Córdoba",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1793655900,
+   "group": "liga"
+  },
+  {
+   "id": 767513307,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Defensa y Justicia",
+   "away": "Independiente",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1793655900,
+   "group": "liga"
+  },
+  {
+   "id": 767534265,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tucumán",
+   "away": "Argentinos Juniors",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1793664000,
+   "group": "liga"
+  },
+  {
+   "id": 767534279,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente Rivadavia",
+   "away": "CA Banfield",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (3:1,0:0)",
+   "start": 1793664000,
+   "group": "liga"
+  },
+  {
+   "id": 768308030,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Aldosivi",
+   "away": "River Plate Buenos Aires",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1793900700,
+   "group": "liga"
+  },
+  {
+   "id": 768360313,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Gimnasia y Esgrima La Plata",
+   "away": "Belgrano",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1793916900,
+   "group": "liga"
+  },
+  {
+   "id": 768592257,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Barracas Central",
+   "away": "Racing Club de Avellaneda",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1793988000,
+   "group": "liga"
+  },
+  {
+   "id": 768651426,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Unión de Santa Fe",
+   "away": "Vélez Sarsfield",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1794002400,
+   "group": "liga"
+  },
+  {
+   "id": 768651362,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "San Lorenzo de Almagro",
+   "away": "Platense",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1794003300,
+   "group": "liga"
+  },
+  {
+   "id": 768652050,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Independiente",
+   "away": "Deportivo Riestra",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1794003300,
+   "group": "liga"
+  },
+  {
+   "id": 768679812,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "CA Banfield",
+   "away": "Club Atlético Tucumán",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:2,2:0)",
+   "start": 1794013200,
+   "group": "liga"
+  },
+  {
+   "id": 768679831,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Tigre",
+   "away": "CA Sarmiento",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1794013200,
+   "group": "liga"
+  },
+  {
+   "id": 768927839,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Talleres de Córdoba",
+   "away": "Estudiantes de La Plata",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1794074400,
+   "group": "liga"
+  },
+  {
+   "id": 768927967,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Club Atlético Gimnasia y Esgrima",
+   "away": "Independiente Rivadavia",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1794074400,
+   "group": "liga"
+  },
+  {
+   "id": 768972113,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Rosario Central",
+   "away": "Estudiantes de Rio Cuarto",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1794083400,
+   "group": "liga"
+  },
+  {
+   "id": 768972056,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "Club Atletico Huracan",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1794083400,
+   "group": "liga"
+  },
+  {
+   "id": 768972107,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "Defensa y Justicia",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1794083400,
+   "group": "liga"
+  },
+  {
+   "id": 769021955,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Instituto Córdoba",
+   "away": "Newell's Old Boys",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1794099600,
+   "group": "liga"
+  },
+  {
+   "id": 769308935,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Central Córdoba",
+   "away": "Lanus",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1794177000,
+   "group": "liga"
+  },
+  {
+   "id": 770673882,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Argentina",
+   "away": "Uruguay",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1794610800,
+   "group": "seleccion"
+  },
+  {
+   "id": 771842906,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Argentina",
+   "away": "Costa Rica",
+   "score": [
+    7,
+    0
+   ],
+   "detail": "7:0 (4:0,3:0)",
+   "start": 1794956400,
+   "group": "seleccion"
+  },
+  {
+   "id": 769303070,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "Independiente Rivadavia",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1795201200,
+   "group": "liga"
+  },
+  {
+   "id": 772696567,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "Belgrano",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (0:1,1:0,1:1,1:0)",
+   "start": 1795215600,
+   "group": "liga"
+  },
+  {
+   "id": 772717417,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "Belgrano",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1795215600,
+   "group": "liga"
+  },
+  {
+   "id": 772725469,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Vélez Sarsfield",
+   "away": "Belgrano",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (3:1)",
+   "start": 1795215600,
+   "group": "liga"
+  },
+  {
+   "id": 772971147,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Defensa y Justicia",
+   "away": "Barracas Central",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1795284000,
+   "group": "liga"
+  },
+  {
+   "id": 773005652,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Argentinos Juniors",
+   "away": "Independiente",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1795290300,
+   "group": "liga"
+  },
+  {
+   "id": 773316655,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Rosario Central",
+   "away": "Club Atlético Gimnasia y Esgrima",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (3:0,0:1)",
+   "start": 1795373100,
+   "group": "liga"
+  },
+  {
+   "id": 773355644,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "River Plate Buenos Aires",
+   "away": "Lanus",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1795384800,
+   "group": "liga"
+  },
+  {
+   "id": 773383328,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Instituto Córdoba",
+   "away": "Club Atletico Huracan",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1795395600,
+   "group": "liga"
+  }
+ ]
+}
