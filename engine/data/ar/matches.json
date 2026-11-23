@@ -1,0 +1,971 @@
+{
+ "updated": "2026-11-23T15:39:55+00:00",
+ "groups": [
+  {
+   "key": "liga",
+   "name": "Liga Profesional de Argentina",
+   "matches": [
+    {
+     "tournament": "Argentina. Liga Profesional",
+     "home": "Gimnasia y Esgrima La Plata",
+     "away": "Newell's Old Boys",
+     "start": 1795464000,
+     "odds": {
+      "1": 2.063,
+      "X": 3.205,
+      "2": 3.9
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/30a08fcb32e2385d1e14210923ca3bff.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/0470b879030183bf48eb06d33b063bff.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/119599-Argentina-Primera-Division/395031610-Gimnasia-y-Esgrima-La-Plata-Newell's-Old-Boys",
+     "eid": 770751659,
+     "tid": 119599,
+     "coupon": {
+      "1": "FUGLJ",
+      "X": "TUGLJ",
+      "2": "FVGLJ"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.247,
+       "12": 1.34,
+       "X2": 1.743
+      },
+      "ou25": {
+       "o": 2.286,
+       "u": 1.625
+      },
+      "btts": {
+       "y": 1.94,
+       "n": 1.771
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1731182400,
+        "h": "Gimnasia y Esgrima La Plata",
+        "a": "Newell's Old Boys",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Argentina. Liga Profesional",
+        "hh": true
+       },
+       {
+        "d": 1688425200,
+        "h": "Newell's Old Boys",
+        "a": "Gimnasia y Esgrima La Plata",
+        "s": [
+         2,
+         2
+        ],
+        "t": "Argentina. Liga Profesional",
+        "hh": false
+       },
+       {
+        "d": 1662912000,
+        "h": "Newell's Old Boys",
+        "a": "Gimnasia y Esgrima La Plata",
+        "s": [
+         2,
+         0
+        ],
+        "t": "Argentina. Liga Profesional",
+        "hh": false
+       },
+       {
+        "d": 1652036400,
+        "h": "Gimnasia y Esgrima La Plata",
+        "a": "Newell's Old Boys",
+        "s": [
+         3,
+         1
+        ],
+        "t": "Argentina. Copa de la Liga",
+        "hh": true
+       },
+       {
+        "d": 1634409900,
+        "h": "Gimnasia y Esgrima La Plata",
+        "a": "Newell's Old Boys",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Argentina. Liga Profesional",
+        "hh": true
+       },
+       {
+        "d": 1619470800,
+        "h": "Gimnasia y Esgrima La Plata",
+        "a": "Newell's Old Boys",
+        "s": [
+         2,
+         1
+        ],
+        "t": "Argentina. Copa de la Liga",
+        "hh": true
+       },
+       {
+        "d": 1572387000,
+        "h": "Newell's Old Boys",
+        "a": "Gimnasia y Esgrima La Plata",
+        "s": [
+         0,
+         4
+        ],
+        "t": "Argentina. Liga Profesional",
+        "hh": false
+       },
+       {
+        "d": 1555871400,
+        "h": "Newell's Old Boys",
+        "a": "Gimnasia y Esgrima La Plata",
+        "s": [
+         1,
+         3
+        ],
+        "t": "Argentina. Copa de la Liga",
+        "hh": false
+       }
+      ],
+      "f1": [
+       {
+        "d": 1793916900,
+        "o": "Belgrano",
+        "gf": 2,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793397600,
+        "o": "Estudiantes de Rio Cuarto",
+        "gf": 2,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1792789200,
+        "o": "CA Sarmiento",
+        "gf": 2,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1792105200,
+        "o": "Club Atletico Huracan",
+        "gf": 2,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1791579600,
+        "o": "Club Atlético Tucumán",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1794099600,
+        "o": "Instituto Córdoba",
+        "gf": 2,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1793568600,
+        "o": "Unión de Santa Fe",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1792880100,
+        "o": "San Lorenzo de Almagro",
+        "gf": 0,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1792447200,
+        "o": "Central Córdoba",
+        "gf": 2,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1791840600,
+        "o": "Club Atlético Gimnasia y Esgrima",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "Argentina. Liga Profesional",
+     "home": "Boca Juniors",
+     "away": "Independiente Rivadavia",
+     "start": 1795651200,
+     "odds": {
+      "1": 1.542,
+      "X": 3.94,
+      "2": 6.63
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/2346.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/70fcba7e6a469f60d97f9b42945c9a7f.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/119599-Argentina-Primera-Division/395030957-Boca-Juniors-Independiente-Rivadavia",
+     "eid": 770751656,
+     "tid": 119599,
+     "coupon": {
+      "1": "LXGLJ",
+      "X": "QXGLJ",
+      "2": "UXGLJ"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.102,
+       "12": 1.243,
+       "X2": 2.44
+      },
+      "ou25": {
+       "o": 2.125,
+       "u": 1.718
+      },
+      "btts": {
+       "y": 2.15,
+       "n": 1.628
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1755473400,
+        "h": "Independiente Rivadavia",
+        "a": "Boca Juniors",
+        "s": [
+         0,
+         3
+        ],
+        "t": "Argentina. Primera División - Clausura",
+        "hh": false
+       },
+       {
+        "d": 1739314800,
+        "h": "Boca Juniors",
+        "a": "Independiente Rivadavia",
+        "s": [
+         2,
+         0
+        ],
+        "t": "Argentina. Liga Profesional",
+        "hh": true
+       },
+       {
+        "d": 1723326300,
+        "h": "Independiente Rivadavia",
+        "a": "Boca Juniors",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Argentina. Liga Profesional",
+        "hh": false
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795300200,
+        "o": "Atlético Mineiro",
+        "gf": 2,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1794693600,
+        "o": "CA Banfield",
+        "gf": 3,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1794083400,
+        "o": "Defensa y Justicia",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1793556000,
+        "o": "River Plate Buenos Aires",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1792958400,
+        "o": "Independiente",
+        "gf": 1,
+        "ga": 0,
+        "dom": false
+       }
+      ],
+      "f2": [
+       {
+        "d": 1794524400,
+        "o": "Estudiantes de La Plata",
+        "gf": 2,
+        "ga": 3,
+        "dom": false
+       },
+       {
+        "d": 1794074400,
+        "o": "Club Atlético Gimnasia y Esgrima",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1793664900,
+        "o": "CA Banfield",
+        "gf": 3,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793138400,
+        "o": "Argentinos Juniors",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1792269000,
+        "o": "Club Atlético Tigre",
+        "gf": 2,
+        "ga": 2,
+        "dom": true
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "Argentina. Liga Profesional",
+     "home": "Rosario Central",
+     "away": "Barracas Central",
+     "start": 1795989600,
+     "odds": {
+      "1": 1.501,
+      "X": 4.02,
+      "2": 7.25
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/0a193e9e519da3c57ba35af02a7d2a57.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/2422.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/119599-Argentina-Primera-Division/396829742-Rosario-Central-Barracas-Central",
+     "eid": 773424200,
+     "tid": 119599,
+     "coupon": {
+      "1": "D8GLJ",
+      "X": "J8GLJ",
+      "2": "N8GLJ"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.087,
+       "12": 1.235,
+       "X2": 2.551
+      },
+      "ou25": {
+       "o": 2.226,
+       "u": 1.657
+      },
+      "btts": {
+       "y": 2.31,
+       "n": 1.546
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1786922100,
+        "h": "Barracas Central",
+        "a": "Rosario Central",
+        "s": [
+         0,
+         1
+        ],
+        "t": "Argentina. Liga Profesional",
+        "hh": false
+       },
+       {
+        "d": 1771203600,
+        "h": "Rosario Central",
+        "a": "Barracas Central",
+        "s": [
+         2,
+         0
+        ],
+        "t": "Argentina. Primera División - Apertura",
+        "hh": true
+       },
+       {
+        "d": 1730420100,
+        "h": "Rosario Central",
+        "a": "Barracas Central",
+        "s": [
+         0,
+         1
+        ],
+        "t": "Argentina. Liga Profesional",
+        "hh": true
+       },
+       {
+        "d": 1720465200,
+        "h": "Rosario Central",
+        "a": "Barracas Central",
+        "s": [
+         0,
+         1
+        ],
+        "t": "Argentina. Copa Argentina",
+        "hh": true
+       },
+       {
+        "d": 1711666800,
+        "h": "Rosario Central",
+        "a": "Barracas Central",
+        "s": [
+         1,
+         2
+        ],
+        "t": "Argentina. Copa de la Liga",
+        "hh": true
+       },
+       {
+        "d": 1699306200,
+        "h": "Barracas Central",
+        "a": "Rosario Central",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Argentina. Copa de la Liga",
+        "hh": false
+       },
+       {
+        "d": 1686335400,
+        "h": "Barracas Central",
+        "a": "Rosario Central",
+        "s": [
+         0,
+         0
+        ],
+        "t": "Argentina. Liga Profesional",
+        "hh": false
+       },
+       {
+        "d": 1660415400,
+        "h": "Rosario Central",
+        "a": "Barracas Central",
+        "s": [
+         3,
+         1
+        ],
+        "t": "Argentina. Liga Profesional",
+        "hh": true
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795374000,
+        "o": "Club Atlético Gimnasia y Esgrima",
+        "gf": 3,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1794083400,
+        "o": "Estudiantes de Rio Cuarto",
+        "gf": 2,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1793405700,
+        "o": "CA Sarmiento",
+        "gf": 2,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1792888200,
+        "o": "Club Atletico Huracan",
+        "gf": 2,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1792278000,
+        "o": "Club Atlético Tucumán",
+        "gf": 3,
+        "ga": 2,
+        "dom": false
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795284000,
+        "o": "Defensa y Justicia",
+        "gf": 1,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1793988000,
+        "o": "Racing Club de Avellaneda",
+        "gf": 2,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1793568600,
+        "o": "Belgrano",
+        "gf": 2,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1792974600,
+        "o": "Estudiantes de Rio Cuarto",
+        "gf": 2,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1792447200,
+        "o": "CA Sarmiento",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "Argentina. Liga Profesional",
+     "home": "Vélez Sarsfield",
+     "away": "Independiente",
+     "start": 1795989600,
+     "odds": {
+      "1": 2.357,
+      "X": 3.12,
+      "2": 3.245
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/14bfc0f4b2b3ad16a642371835fcf8f9.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/2518129.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/119599-Argentina-Primera-Division/396829741-Velez-Sarsfield-CA-Independiente-Avellaneda",
+     "eid": 773424197,
+     "tid": 119599,
+     "coupon": {
+      "1": "FYGLJ",
+      "X": "TYGLJ",
+      "2": "AZGLJ"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.333,
+       "12": 1.355,
+       "X2": 1.577
+      },
+      "ou25": {
+       "o": 2.306,
+       "u": 1.615
+      },
+      "btts": {
+       "y": 1.93,
+       "n": 1.781
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1785794400,
+        "h": "Vélez Sarsfield",
+        "a": "Independiente",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Argentina. Liga Profesional",
+        "hh": true
+       },
+       {
+        "d": 1769899500,
+        "h": "Independiente",
+        "a": "Vélez Sarsfield",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Argentina. Primera División - Apertura",
+        "hh": false
+       },
+       {
+        "d": 1755387000,
+        "h": "Vélez Sarsfield",
+        "a": "Independiente",
+        "s": [
+         2,
+         1
+        ],
+        "t": "Argentina. Primera División - Clausura",
+        "hh": true
+       },
+       {
+        "d": 1739401200,
+        "h": "Independiente",
+        "a": "Vélez Sarsfield",
+        "s": [
+         3,
+         0
+        ],
+        "t": "Argentina. Liga Profesional",
+        "hh": false
+       },
+       {
+        "d": 1727470800,
+        "h": "Vélez Sarsfield",
+        "a": "Independiente",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Argentina. Copa Argentina",
+        "hh": true
+       },
+       {
+        "d": 1716764400,
+        "h": "Independiente",
+        "a": "Vélez Sarsfield",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Argentina. Liga Profesional",
+        "hh": false
+       },
+       {
+        "d": 1706661000,
+        "h": "Vélez Sarsfield",
+        "a": "Independiente",
+        "s": [
+         0,
+         1
+        ],
+        "t": "Argentina. Copa de la Liga",
+        "hh": true
+       },
+       {
+        "d": 1693173600,
+        "h": "Independiente",
+        "a": "Vélez Sarsfield",
+        "s": [
+         2,
+         1
+        ],
+        "t": "Argentina. Copa de la Liga",
+        "hh": false
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795215600,
+        "o": "Belgrano",
+        "gf": 3,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1794003300,
+        "o": "Unión de Santa Fe",
+        "gf": 0,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1793484900,
+        "o": "San Lorenzo de Almagro",
+        "gf": 2,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1792974600,
+        "o": "Central Córdoba",
+        "gf": 5,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1792278000,
+        "o": "Club Atlético Gimnasia y Esgrima",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795291200,
+        "o": "Argentinos Juniors",
+        "gf": 2,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1794003300,
+        "o": "Deportivo Riestra",
+        "gf": 2,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793656800,
+        "o": "Defensa y Justicia",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1792958400,
+        "o": "Boca Juniors",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1792345500,
+        "o": "Racing Club de Avellaneda",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "Argentina. Liga Profesional",
+     "home": "Instituto Córdoba",
+     "away": "River Plate Buenos Aires",
+     "start": 1796065200,
+     "odds": {
+      "1": 3.675,
+      "X": 3.03,
+      "2": 2.217
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/eb7b5fd59a064f116da901967df9dbf5.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/9781db74f335e6456ecb6aa37ac25b55.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/119599-Argentina-Primera-Division/396873777-Instituto-Atletico-Central-Cordoba-River-Plate-Buenos-Aires",
+     "eid": 773507975,
+     "tid": 119599,
+     "coupon": {
+      "1": "KZGLJ",
+      "X": "5ZGLJ",
+      "2": "QZGLJ"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.647,
+       "12": 1.372,
+       "X2": 1.272
+      },
+      "ou25": {
+       "o": 2.577,
+       "u": 1.442
+      },
+      "btts": {
+       "y": 2.16,
+       "n": 1.618
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1752969600,
+        "h": "Instituto Córdoba",
+        "a": "River Plate Buenos Aires",
+        "s": [
+         0,
+         4
+        ],
+        "t": "Argentina. Primera División - Clausura",
+        "hh": true
+       },
+       {
+        "d": 1738197000,
+        "h": "River Plate Buenos Aires",
+        "a": "Instituto Córdoba",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Argentina. Liga Profesional",
+        "hh": false
+       },
+       {
+        "d": 1730939400,
+        "h": "Instituto Córdoba",
+        "a": "River Plate Buenos Aires",
+        "s": [
+         2,
+         3
+        ],
+        "t": "Argentina. Liga Profesional",
+        "hh": true
+       },
+       {
+        "d": 1713222000,
+        "h": "Instituto Córdoba",
+        "a": "River Plate Buenos Aires",
+        "s": [
+         1,
+         3
+        ],
+        "t": "Argentina. Copa de la Liga",
+        "hh": true
+       },
+       {
+        "d": 1701032400,
+        "h": "River Plate Buenos Aires",
+        "a": "Instituto Córdoba",
+        "s": [
+         0,
+         0
+        ],
+        "t": "Argentina. Copa de la Liga",
+        "hh": false
+       },
+       {
+        "d": 1687473900,
+        "h": "River Plate Buenos Aires",
+        "a": "Instituto Córdoba",
+        "s": [
+         3,
+         1
+        ],
+        "t": "Argentina. Liga Profesional",
+        "hh": false
+       },
+       {
+        "d": 1503274200,
+        "h": "River Plate Buenos Aires",
+        "a": "Instituto Córdoba",
+        "s": [
+         4,
+         1
+        ],
+        "t": "Argentina. Copa Argentina",
+        "hh": false
+       },
+       {
+        "d": 1335042900,
+        "h": "River Plate Buenos Aires",
+        "a": "Instituto Córdoba",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Argentina. Primera B Nacional",
+        "hh": false
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795395600,
+        "o": "Club Atletico Huracan",
+        "gf": 2,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1794099600,
+        "o": "Newell's Old Boys",
+        "gf": 2,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1793493000,
+        "o": "Estudiantes de La Plata",
+        "gf": 3,
+        "ga": 3,
+        "dom": false
+       },
+       {
+        "d": 1793060100,
+        "o": "Deportivo Riestra",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1792188000,
+        "o": "Defensa y Justicia",
+        "gf": 1,
+        "ga": 0,
+        "dom": false
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795384800,
+        "o": "Lanus",
+        "gf": 3,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793901600,
+        "o": "CA Aldosivi",
+        "gf": 2,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1793556000,
+        "o": "Boca Juniors",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1792966500,
+        "o": "Racing Club de Avellaneda",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1792365300,
+        "o": "Belgrano",
+        "gf": 3,
+        "ga": 0,
+        "dom": false
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "key": "seleccion",
+   "name": "Selección",
+   "matches": []
+  }
+ ]
+}

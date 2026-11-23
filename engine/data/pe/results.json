@@ -1,0 +1,107 @@
+{
+ "updated": "2026-11-23T15:49:50+00:00",
+ "backfilled": [
+  1706694,
+  125983
+ ],
+ "matches": [
+  {
+   "id": 727004383,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Haití",
+   "away": "Perú",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1780704000,
+   "group": "seleccion"
+  },
+  {
+   "id": 727768173,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Perú",
+   "away": "España",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:2,1:1)",
+   "start": 1780970400,
+   "group": "seleccion"
+  },
+  {
+   "id": 756383450,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "EE.UU.",
+   "away": "Perú",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (1:1,3:0)",
+   "start": 1790453700,
+   "group": "seleccion"
+  },
+  {
+   "id": 757251373,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "México",
+   "away": "Perú",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1790730000,
+   "group": "seleccion"
+  },
+  {
+   "id": 758338249,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Canadá",
+   "away": "Perú",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1791050400,
+   "group": "seleccion"
+  },
+  {
+   "id": 759259466,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Colombia",
+   "away": "Perú",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1791330300,
+   "group": "seleccion"
+  },
+  {
+   "id": 770693051,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Perú",
+   "away": "Bolivia",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1794618000,
+   "group": "seleccion"
+  }
+ ]
+}

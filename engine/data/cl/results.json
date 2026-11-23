@@ -1,0 +1,4140 @@
+{
+ "updated": "2026-11-23T15:48:05+00:00",
+ "backfilled": [
+  28298,
+  1706694,
+  125983
+ ],
+ "matches": [
+  {
+   "id": 663554326,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Everton de Vina del Mar",
+   "away": "Universidad Católica Santiago",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1760896800,
+   "group": "liga"
+  },
+  {
+   "id": 657767979,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Unión Española",
+   "away": "Huachipato",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (3:0,1:2)",
+   "start": 1760907600,
+   "group": "liga"
+  },
+  {
+   "id": 664986611,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Palestino",
+   "away": "Everton de Vina del Mar",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1761336000,
+   "group": "liga"
+  },
+  {
+   "id": 665293754,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes La Serena",
+   "away": "Audax Italiano",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1761415200,
+   "group": "liga"
+  },
+  {
+   "id": 665331537,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Huachipato",
+   "away": "Deportes Iquique",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1761423300,
+   "group": "liga"
+  },
+  {
+   "id": 665563360,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad Católica Santiago",
+   "away": "Universidad de Chile",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1761492600,
+   "group": "liga"
+  },
+  {
+   "id": 665621756,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Cobresal",
+   "away": "Unión Española",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1761504300,
+   "group": "liga"
+  },
+  {
+   "id": 665653834,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Unión La Calera",
+   "away": "FC Nublense",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1761514200,
+   "group": "liga"
+  },
+  {
+   "id": 665653851,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "O'Higgins",
+   "away": "Coquimbo Unido",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1761514200,
+   "group": "liga"
+  },
+  {
+   "id": 665895192,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Colo-Colo",
+   "away": "Deportes Limache",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1761598800,
+   "group": "liga"
+  },
+  {
+   "id": 666986127,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Audax Italiano",
+   "away": "Cobresal",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1761933600,
+   "group": "liga"
+  },
+  {
+   "id": 667024028,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes Iquique",
+   "away": "Deportes La Serena",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1761942600,
+   "group": "liga"
+  },
+  {
+   "id": 667359961,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Nublense",
+   "away": "Colo-Colo",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1762030800,
+   "group": "liga"
+  },
+  {
+   "id": 667583526,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Huachipato",
+   "away": "Universidad de Chile",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1762097400,
+   "group": "liga"
+  },
+  {
+   "id": 667659878,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad Católica Santiago",
+   "away": "O'Higgins",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1762115400,
+   "group": "liga"
+  },
+  {
+   "id": 667659875,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Coquimbo Unido",
+   "away": "Unión La Calera",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1762115400,
+   "group": "liga"
+  },
+  {
+   "id": 667687091,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Everton de Vina del Mar",
+   "away": "Unión Española",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762126200,
+   "group": "liga"
+  },
+  {
+   "id": 667919499,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Palestino",
+   "away": "Deportes Limache",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1762206300,
+   "group": "liga"
+  },
+  {
+   "id": 668445844,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad de Chile",
+   "away": "Everton de Vina del Mar",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1762373700,
+   "group": "liga"
+  },
+  {
+   "id": 669025267,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Unión La Calera",
+   "away": "Deportes Iquique",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1762556400,
+   "group": "liga"
+  },
+  {
+   "id": 669243927,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes La Serena",
+   "away": "Universidad Católica Santiago",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1762615800,
+   "group": "liga"
+  },
+  {
+   "id": 669289692,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Unión Española",
+   "away": "Colo-Colo",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1762624800,
+   "group": "liga"
+  },
+  {
+   "id": 669328680,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Palestino",
+   "away": "Coquimbo Unido",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1762632900,
+   "group": "liga"
+  },
+  {
+   "id": 669360776,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "O'Higgins",
+   "away": "FC Nublense",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (1:1,3:1)",
+   "start": 1762644600,
+   "group": "liga"
+  },
+  {
+   "id": 669599656,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Huachipato",
+   "away": "Audax Italiano",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1762711200,
+   "group": "liga"
+  },
+  {
+   "id": 669631382,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad de Chile",
+   "away": "Deportes Limache",
+   "score": [
+    4,
+    3
+   ],
+   "detail": "4:3 (1:2,3:1)",
+   "start": 1762720200,
+   "group": "liga"
+  },
+  {
+   "id": 669656194,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Cobresal",
+   "away": "Everton de Vina del Mar",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1762728300,
+   "group": "liga"
+  },
+  {
+   "id": 672835360,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes Iquique",
+   "away": "Cobresal",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1763765100,
+   "group": "liga"
+  },
+  {
+   "id": 672835371,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes Limache",
+   "away": "Unión Española",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1763765100,
+   "group": "liga"
+  },
+  {
+   "id": 672835341,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Audax Italiano",
+   "away": "Everton de Vina del Mar",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1763765100,
+   "group": "liga"
+  },
+  {
+   "id": 673140040,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Coquimbo Unido",
+   "away": "Deportes La Serena",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1763845200,
+   "group": "liga"
+  },
+  {
+   "id": 673164406,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad Católica Santiago",
+   "away": "Palestino",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1763854200,
+   "group": "liga"
+  },
+  {
+   "id": 673437079,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "O'Higgins",
+   "away": "Universidad de Chile",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1763930700,
+   "group": "liga"
+  },
+  {
+   "id": 673461435,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Colo-Colo",
+   "away": "Unión La Calera",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (3:0,1:1)",
+   "start": 1763940600,
+   "group": "liga"
+  },
+  {
+   "id": 673686848,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Nublense",
+   "away": "Huachipato",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1764025200,
+   "group": "liga"
+  },
+  {
+   "id": 674730813,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Cobresal",
+   "away": "Colo-Colo",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1764365400,
+   "group": "liga"
+  },
+  {
+   "id": 674933389,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Huachipato",
+   "away": "Universidad Católica Santiago",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1764428400,
+   "group": "liga"
+  },
+  {
+   "id": 675031424,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes La Serena",
+   "away": "Palestino",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:0,0:3)",
+   "start": 1764450000,
+   "group": "liga"
+  },
+  {
+   "id": 675309803,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Unión La Calera",
+   "away": "Deportes Limache",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1764536400,
+   "group": "liga"
+  },
+  {
+   "id": 675309744,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Everton de Vina del Mar",
+   "away": "Deportes Iquique",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1764536400,
+   "group": "liga"
+  },
+  {
+   "id": 675309851,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Unión Española",
+   "away": "O'Higgins",
+   "score": [
+    2,
+    4
+   ],
+   "detail": "2:4 (1:1,1:3)",
+   "start": 1764536400,
+   "group": "liga"
+  },
+  {
+   "id": 675552957,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Audax Italiano",
+   "away": "FC Nublense",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1764630000,
+   "group": "liga"
+  },
+  {
+   "id": 675780126,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad de Chile",
+   "away": "Coquimbo Unido",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1764709200,
+   "group": "liga"
+  },
+  {
+   "id": 676596867,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Palestino",
+   "away": "Huachipato",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1764975600,
+   "group": "liga"
+  },
+  {
+   "id": 676897534,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes Limache",
+   "away": "Deportes La Serena",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1765054800,
+   "group": "liga"
+  },
+  {
+   "id": 676897554,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad Católica Santiago",
+   "away": "Unión La Calera",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1765054800,
+   "group": "liga"
+  },
+  {
+   "id": 676896965,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes Iquique",
+   "away": "Universidad de Chile",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:1,1:2)",
+   "start": 1765054800,
+   "group": "liga"
+  },
+  {
+   "id": 676896929,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Coquimbo Unido",
+   "away": "Unión Española",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (2:1,2:1)",
+   "start": 1765054800,
+   "group": "liga"
+  },
+  {
+   "id": 676897539,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "O'Higgins",
+   "away": "Everton de Vina del Mar",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1765054800,
+   "group": "liga"
+  },
+  {
+   "id": 677192948,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Colo-Colo",
+   "away": "Audax Italiano",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1765140300,
+   "group": "liga"
+  },
+  {
+   "id": 677193394,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Nublense",
+   "away": "Cobresal",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (3:0,2:0)",
+   "start": 1765141200,
+   "group": "liga"
+  },
+  {
+   "id": 691498449,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad de Chile",
+   "away": "Audax Italiano",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1769814000,
+   "group": "liga"
+  },
+  {
+   "id": 691702194,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes Limache",
+   "away": "Colo-Colo",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (3:0,0:1)",
+   "start": 1769871600,
+   "group": "liga"
+  },
+  {
+   "id": 691771530,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Universidad de Concepción",
+   "away": "Coquimbo Unido",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1769884200,
+   "group": "liga"
+  },
+  {
+   "id": 691813123,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Cobresal",
+   "away": "Huachipato",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1769892300,
+   "group": "liga"
+  },
+  {
+   "id": 692132080,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes La Serena",
+   "away": "Universidad Católica Santiago",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:1,0:1)",
+   "start": 1769979600,
+   "group": "liga"
+  },
+  {
+   "id": 692157913,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Palestino",
+   "away": "FC Nublense",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1769988600,
+   "group": "liga"
+  },
+  {
+   "id": 692383009,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Everton de Vina del Mar",
+   "away": "Unión La Calera",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1770066000,
+   "group": "liga"
+  },
+  {
+   "id": 692406506,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "O'Higgins",
+   "away": "Club Deportes Concepcion",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1770075000,
+   "group": "liga"
+  },
+  {
+   "id": 693518875,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Audax Italiano",
+   "away": "FC Universidad de Concepción",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1770418800,
+   "group": "liga"
+  },
+  {
+   "id": 693714915,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Coquimbo Unido",
+   "away": "Palestino",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1770476400,
+   "group": "liga"
+  },
+  {
+   "id": 693822657,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "O'Higgins",
+   "away": "Deportes La Serena",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1770498000,
+   "group": "liga"
+  },
+  {
+   "id": 693848218,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Colo-Colo",
+   "away": "Everton de Vina del Mar",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1770507000,
+   "group": "liga"
+  },
+  {
+   "id": 694035478,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Huachipato",
+   "away": "Universidad de Chile",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1770562800,
+   "group": "liga"
+  },
+  {
+   "id": 694123201,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Nublense",
+   "away": "Deportes Limache",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1770584400,
+   "group": "liga"
+  },
+  {
+   "id": 694146506,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad Católica Santiago",
+   "away": "Club Deportes Concepcion",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1770593400,
+   "group": "liga"
+  },
+  {
+   "id": 694380056,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Unión La Calera",
+   "away": "Cobresal",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (3:1,0:0)",
+   "start": 1770678000,
+   "group": "liga"
+  },
+  {
+   "id": 695443553,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Everton de Vina del Mar",
+   "away": "Huachipato",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:0,0:3)",
+   "start": 1771016400,
+   "group": "liga"
+  },
+  {
+   "id": 695468038,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Palestino",
+   "away": "Universidad de Chile",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1771024500,
+   "group": "liga"
+  },
+  {
+   "id": 695657038,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes La Serena",
+   "away": "Coquimbo Unido",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1771081200,
+   "group": "liga"
+  },
+  {
+   "id": 695761268,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes Limache",
+   "away": "O'Higgins",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1771102800,
+   "group": "liga"
+  },
+  {
+   "id": 695787797,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Cobresal",
+   "away": "Universidad Católica Santiago",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:1,1:1)",
+   "start": 1771111800,
+   "group": "liga"
+  },
+  {
+   "id": 695969568,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Universidad de Concepción",
+   "away": "Club Deportes Concepcion",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1771167600,
+   "group": "liga"
+  },
+  {
+   "id": 696056243,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Nublense",
+   "away": "Audax Italiano",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1771189200,
+   "group": "liga"
+  },
+  {
+   "id": 696080725,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Colo-Colo",
+   "away": "Unión La Calera",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1771198200,
+   "group": "liga"
+  },
+  {
+   "id": 697383028,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Unión La Calera",
+   "away": "FC Nublense",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1771621200,
+   "group": "liga"
+  },
+  {
+   "id": 697412553,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Club Deportes Concepcion",
+   "away": "Cobresal",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1771630200,
+   "group": "liga"
+  },
+  {
+   "id": 697613144,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Huachipato",
+   "away": "Palestino",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1771686000,
+   "group": "liga"
+  },
+  {
+   "id": 697721217,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "O'Higgins",
+   "away": "Colo-Colo",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1771707600,
+   "group": "liga"
+  },
+  {
+   "id": 697749649,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad Católica Santiago",
+   "away": "Coquimbo Unido",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1771716600,
+   "group": "liga"
+  },
+  {
+   "id": 697944685,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes La Serena",
+   "away": "FC Universidad de Concepción",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1771772400,
+   "group": "liga"
+  },
+  {
+   "id": 698035967,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Audax Italiano",
+   "away": "Everton de Vina del Mar",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1771794000,
+   "group": "liga"
+  },
+  {
+   "id": 698061163,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad de Chile",
+   "away": "Deportes Limache",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1771803000,
+   "group": "liga"
+  },
+  {
+   "id": 699366726,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Cobresal",
+   "away": "Deportes La Serena",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1772225100,
+   "group": "liga"
+  },
+  {
+   "id": 699395286,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Unión La Calera",
+   "away": "Audax Italiano",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1772235000,
+   "group": "liga"
+  },
+  {
+   "id": 699586405,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Coquimbo Unido",
+   "away": "Club Deportes Concepcion",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1772290800,
+   "group": "liga"
+  },
+  {
+   "id": 699691068,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes Limache",
+   "away": "Huachipato",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1772312400,
+   "group": "liga"
+  },
+  {
+   "id": 699719574,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Palestino",
+   "away": "O'Higgins",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (1:1,3:1)",
+   "start": 1772321400,
+   "group": "liga"
+  },
+  {
+   "id": 699903590,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Universidad de Concepción",
+   "away": "Everton de Vina del Mar",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1772377200,
+   "group": "liga"
+  },
+  {
+   "id": 699993551,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Colo-Colo",
+   "away": "Universidad de Chile",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1772398800,
+   "group": "liga"
+  },
+  {
+   "id": 700023296,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Nublense",
+   "away": "Universidad Católica Santiago",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1772407800,
+   "group": "liga"
+  },
+  {
+   "id": 701348333,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes La Serena",
+   "away": "Unión La Calera",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1772830800,
+   "group": "liga"
+  },
+  {
+   "id": 701376698,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Club Deportes Concepcion",
+   "away": "FC Nublense",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1772839800,
+   "group": "liga"
+  },
+  {
+   "id": 701577423,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Everton de Vina del Mar",
+   "away": "Deportes Limache",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1772895600,
+   "group": "liga"
+  },
+  {
+   "id": 701577977,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Huachipato",
+   "away": "Coquimbo Unido",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:1,1:2)",
+   "start": 1772895600,
+   "group": "liga"
+  },
+  {
+   "id": 701686570,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Audax Italiano",
+   "away": "Colo-Colo",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1772917200,
+   "group": "liga"
+  },
+  {
+   "id": 701715231,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "O'Higgins",
+   "away": "Universidad Católica Santiago",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1772926200,
+   "group": "liga"
+  },
+  {
+   "id": 702025248,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Palestino",
+   "away": "Cobresal",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (1:0,3:2)",
+   "start": 1773012600,
+   "group": "liga"
+  },
+  {
+   "id": 702266252,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad de Chile",
+   "away": "FC Universidad de Concepción",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1773097200,
+   "group": "liga"
+  },
+  {
+   "id": 703378295,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Audax Italiano",
+   "away": "Club Deportes Concepcion",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (3:0,0:0)",
+   "start": 1773442800,
+   "group": "liga"
+  },
+  {
+   "id": 703697533,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Coquimbo Unido",
+   "away": "Universidad de Chile",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1773522000,
+   "group": "liga"
+  },
+  {
+   "id": 703725265,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad Católica Santiago",
+   "away": "Everton de Vina del Mar",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:2,1:0)",
+   "start": 1773531000,
+   "group": "liga"
+  },
+  {
+   "id": 703918867,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Universidad de Concepción",
+   "away": "Palestino",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1773586800,
+   "group": "liga"
+  },
+  {
+   "id": 704011158,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Cobresal",
+   "away": "Deportes Limache",
+   "score": [
+    2,
+    5
+   ],
+   "detail": "2:5 (0:3,2:2)",
+   "start": 1773608400,
+   "group": "liga"
+  },
+  {
+   "id": 704035719,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Nublense",
+   "away": "Deportes La Serena",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1773617400,
+   "group": "liga"
+  },
+  {
+   "id": 704253155,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Unión La Calera",
+   "away": "O'Higgins",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (0:2,3:1)",
+   "start": 1773693900,
+   "group": "liga"
+  },
+  {
+   "id": 704275123,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Colo-Colo",
+   "away": "Huachipato",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1773703800,
+   "group": "liga"
+  },
+  {
+   "id": 709148702,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad Católica Santiago",
+   "away": "Palestino",
+   "score": [
+    6,
+    1
+   ],
+   "detail": "6:1 (2:1,4:0)",
+   "start": 1775163600,
+   "group": "liga"
+  },
+  {
+   "id": 709453483,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Coquimbo Unido",
+   "away": "Cobresal",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:0,2:2)",
+   "start": 1775248200,
+   "group": "liga"
+  },
+  {
+   "id": 709475737,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "O'Higgins",
+   "away": "Audax Italiano",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1775257200,
+   "group": "liga"
+  },
+  {
+   "id": 709763308,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes Limache",
+   "away": "Unión La Calera",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (1:0,3:0)",
+   "start": 1775333700,
+   "group": "liga"
+  },
+  {
+   "id": 709788282,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Everton de Vina del Mar",
+   "away": "FC Nublense",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1775343600,
+   "group": "liga"
+  },
+  {
+   "id": 710039654,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Club Deportes Concepcion",
+   "away": "Colo-Colo",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1775417400,
+   "group": "liga"
+  },
+  {
+   "id": 710067092,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad de Chile",
+   "away": "Deportes La Serena",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (0:0,4:0)",
+   "start": 1775426400,
+   "group": "liga"
+  },
+  {
+   "id": 710350296,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Huachipato",
+   "away": "FC Universidad de Concepción",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (1:1,4:0)",
+   "start": 1775520000,
+   "group": "liga"
+  },
+  {
+   "id": 711492883,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "O'Higgins",
+   "away": "Huachipato",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1775865600,
+   "group": "liga"
+  },
+  {
+   "id": 711777172,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes La Serena",
+   "away": "Everton de Vina del Mar",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1775934000,
+   "group": "liga"
+  },
+  {
+   "id": 711809608,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Audax Italiano",
+   "away": "Universidad Católica Santiago",
+   "score": [
+    3,
+    4
+   ],
+   "detail": "3:4 (2:3,1:1)",
+   "start": 1775943000,
+   "group": "liga"
+  },
+  {
+   "id": 711838019,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Palestino",
+   "away": "Deportes Limache",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1775952000,
+   "group": "liga"
+  },
+  {
+   "id": 712126699,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Nublense",
+   "away": "Universidad de Chile",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1776028500,
+   "group": "liga"
+  },
+  {
+   "id": 712151624,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Universidad de Concepción",
+   "away": "Cobresal",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1776038400,
+   "group": "liga"
+  },
+  {
+   "id": 712403015,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Unión La Calera",
+   "away": "Club Deportes Concepcion",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1776124800,
+   "group": "liga"
+  },
+  {
+   "id": 713523253,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes Limache",
+   "away": "FC Universidad de Concepción",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1776470400,
+   "group": "liga"
+  },
+  {
+   "id": 713837944,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Everton de Vina del Mar",
+   "away": "Universidad de Chile",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1776547800,
+   "group": "liga"
+  },
+  {
+   "id": 713862250,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Club Deportes Concepcion",
+   "away": "Deportes La Serena",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (1:3,2:0)",
+   "start": 1776556800,
+   "group": "liga"
+  },
+  {
+   "id": 714084036,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Coquimbo Unido",
+   "away": "FC Nublense",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1776616200,
+   "group": "liga"
+  },
+  {
+   "id": 714125358,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Cobresal",
+   "away": "O'Higgins",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:0,1:3)",
+   "start": 1776627000,
+   "group": "liga"
+  },
+  {
+   "id": 714159576,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Colo-Colo",
+   "away": "Palestino",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1776637800,
+   "group": "liga"
+  },
+  {
+   "id": 714182195,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Huachipato",
+   "away": "Audax Italiano",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (0:1,3:1)",
+   "start": 1776645000,
+   "group": "liga"
+  },
+  {
+   "id": 714429553,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad Católica Santiago",
+   "away": "Unión La Calera",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1776730500,
+   "group": "liga"
+  },
+  {
+   "id": 715255480,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Palestino",
+   "away": "Club Deportes Concepcion",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1776988800,
+   "group": "liga"
+  },
+  {
+   "id": 715534053,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Unión La Calera",
+   "away": "Coquimbo Unido",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1777068000,
+   "group": "liga"
+  },
+  {
+   "id": 715559281,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Audax Italiano",
+   "away": "Deportes Limache",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1777076100,
+   "group": "liga"
+  },
+  {
+   "id": 715834971,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Nublense",
+   "away": "O'Higgins",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1777143600,
+   "group": "liga"
+  },
+  {
+   "id": 715872647,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad de Chile",
+   "away": "Universidad Católica Santiago",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1777154400,
+   "group": "liga"
+  },
+  {
+   "id": 716111963,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes La Serena",
+   "away": "Huachipato",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1777221000,
+   "group": "liga"
+  },
+  {
+   "id": 716148847,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Universidad de Concepción",
+   "away": "Colo-Colo",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1777230000,
+   "group": "liga"
+  },
+  {
+   "id": 716179474,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Everton de Vina del Mar",
+   "away": "Cobresal",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1777239000,
+   "group": "liga"
+  },
+  {
+   "id": 718165983,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Colo-Colo",
+   "away": "Coquimbo Unido",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1777843800,
+   "group": "liga"
+  },
+  {
+   "id": 721456098,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Palestino",
+   "away": "Deportes La Serena",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (3:0,2:1)",
+   "start": 1778889600,
+   "group": "liga"
+  },
+  {
+   "id": 721456060,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Coquimbo Unido",
+   "away": "Audax Italiano",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1778889600,
+   "group": "liga"
+  },
+  {
+   "id": 721740354,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "O'Higgins",
+   "away": "FC Universidad de Concepción",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1778966100,
+   "group": "liga"
+  },
+  {
+   "id": 721766029,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes Limache",
+   "away": "Universidad Católica Santiago",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1778975100,
+   "group": "liga"
+  },
+  {
+   "id": 721963650,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Huachipato",
+   "away": "Unión La Calera",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:1,3:0)",
+   "start": 1779035400,
+   "group": "liga"
+  },
+  {
+   "id": 721998711,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Cobresal",
+   "away": "Universidad de Chile",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1779044400,
+   "group": "liga"
+  },
+  {
+   "id": 722025595,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Colo-Colo",
+   "away": "FC Nublense",
+   "score": [
+    6,
+    2
+   ],
+   "detail": "6:2 (2:1,4:1)",
+   "start": 1779052500,
+   "group": "liga"
+  },
+  {
+   "id": 722048299,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Club Deportes Concepcion",
+   "away": "Everton de Vina del Mar",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1779061500,
+   "group": "liga"
+  },
+  {
+   "id": 723327102,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Everton de Vina del Mar",
+   "away": "Coquimbo Unido",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1779476400,
+   "group": "liga"
+  },
+  {
+   "id": 723592891,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Audax Italiano",
+   "away": "Cobresal",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1779553800,
+   "group": "liga"
+  },
+  {
+   "id": 723628019,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Nublense",
+   "away": "FC Universidad de Concepción",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:0,0:2)",
+   "start": 1779562800,
+   "group": "liga"
+  },
+  {
+   "id": 722053973,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad de Chile",
+   "away": "O'Higgins",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1779571800,
+   "group": "liga"
+  },
+  {
+   "id": 723682466,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Unión La Calera",
+   "away": "Palestino",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1779580800,
+   "group": "liga"
+  },
+  {
+   "id": 723874832,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Club Deportes Concepcion",
+   "away": "Huachipato",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1779640200,
+   "group": "liga"
+  },
+  {
+   "id": 723905726,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes La Serena",
+   "away": "Deportes Limache",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (1:0,3:1)",
+   "start": 1779649200,
+   "group": "liga"
+  },
+  {
+   "id": 723939494,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad Católica Santiago",
+   "away": "Colo-Colo",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1779660000,
+   "group": "liga"
+  },
+  {
+   "id": 725208526,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Cobresal",
+   "away": "FC Nublense",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1780092000,
+   "group": "liga"
+  },
+  {
+   "id": 725233028,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Universidad de Concepción",
+   "away": "Unión La Calera",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1780101000,
+   "group": "liga"
+  },
+  {
+   "id": 725458098,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes La Serena",
+   "away": "Colo-Colo",
+   "score": [
+    2,
+    4
+   ],
+   "detail": "2:4 (1:1,1:3)",
+   "start": 1780167600,
+   "group": "liga"
+  },
+  {
+   "id": 725484936,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad de Chile",
+   "away": "Club Deportes Concepcion",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1780176600,
+   "group": "liga"
+  },
+  {
+   "id": 725690877,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes Limache",
+   "away": "Coquimbo Unido",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:1,1:2)",
+   "start": 1780245000,
+   "group": "liga"
+  },
+  {
+   "id": 725722405,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Huachipato",
+   "away": "Universidad Católica Santiago",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:0,0:3)",
+   "start": 1780254000,
+   "group": "liga"
+  },
+  {
+   "id": 725751082,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "O'Higgins",
+   "away": "Everton de Vina del Mar",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:2,1:1)",
+   "start": 1780263000,
+   "group": "liga"
+  },
+  {
+   "id": 725772998,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Palestino",
+   "away": "Audax Italiano",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1780272000,
+   "group": "liga"
+  },
+  {
+   "id": 727204699,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Portugal",
+   "away": "Chile",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1780767900,
+   "group": "seleccion"
+  },
+  {
+   "id": 727920382,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "DR Congo",
+   "away": "Chile",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1781020800,
+   "group": "seleccion"
+  },
+  {
+   "id": 728764928,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Audax Italiano",
+   "away": "Deportes La Serena",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1781307900,
+   "group": "liga"
+  },
+  {
+   "id": 728951691,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Coquimbo Unido",
+   "away": "O'Higgins",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1781368200,
+   "group": "liga"
+  },
+  {
+   "id": 728981446,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Everton de Vina del Mar",
+   "away": "Palestino",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1781377200,
+   "group": "liga"
+  },
+  {
+   "id": 729007290,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Colo-Colo",
+   "away": "Cobresal",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (3:0,0:0)",
+   "start": 1781386200,
+   "group": "liga"
+  },
+  {
+   "id": 729030712,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Nublense",
+   "away": "Huachipato",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:2,1:0)",
+   "start": 1781395200,
+   "group": "liga"
+  },
+  {
+   "id": 729202159,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Club Deportes Concepcion",
+   "away": "Deportes Limache",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:0,2:2)",
+   "start": 1781454600,
+   "group": "liga"
+  },
+  {
+   "id": 729232536,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Unión La Calera",
+   "away": "Universidad de Chile",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:2,1:0)",
+   "start": 1781463600,
+   "group": "liga"
+  },
+  {
+   "id": 729257691,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad Católica Santiago",
+   "away": "FC Universidad de Concepción",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (2:1,3:0)",
+   "start": 1781472600,
+   "group": "liga"
+  },
+  {
+   "id": 730236819,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad de Chile",
+   "away": "O'Higgins",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1781827200,
+   "group": "liga"
+  },
+  {
+   "id": 736022570,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Unión La Calera",
+   "away": "Everton de Vina del Mar",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1784930400,
+   "group": "liga"
+  },
+  {
+   "id": 738939245,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Colo-Colo",
+   "away": "Deportes Limache",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:0,3:1)",
+   "start": 1784939400,
+   "group": "liga"
+  },
+  {
+   "id": 739152488,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Coquimbo Unido",
+   "away": "FC Universidad de Concepción",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1785006000,
+   "group": "liga"
+  },
+  {
+   "id": 736037579,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Coquimbo Unido",
+   "away": "FC Universidad de Concepción",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1785006000,
+   "group": "liga"
+  },
+  {
+   "id": 739177063,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Huachipato",
+   "away": "Cobresal",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (1:0,2:3)",
+   "start": 1785015000,
+   "group": "liga"
+  },
+  {
+   "id": 739201592,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad Católica Santiago",
+   "away": "Deportes La Serena",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (2:0,1:3)",
+   "start": 1785024000,
+   "group": "liga"
+  },
+  {
+   "id": 739406640,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Nublense",
+   "away": "Palestino",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1785091500,
+   "group": "liga"
+  },
+  {
+   "id": 739434681,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Audax Italiano",
+   "away": "Universidad de Chile",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1785100500,
+   "group": "liga"
+  },
+  {
+   "id": 739462064,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Club Deportes Concepcion",
+   "away": "O'Higgins",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1785112200,
+   "group": "liga"
+  },
+  {
+   "id": 739677606,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Unión La Calera",
+   "away": "Everton de Vina del Mar",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1785192300,
+   "group": "liga"
+  },
+  {
+   "id": 740715494,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Universidad de Concepción",
+   "away": "Audax Italiano",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1785541500,
+   "group": "liga"
+  },
+  {
+   "id": 740910252,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Cobresal",
+   "away": "Unión La Calera",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (1:0,3:0)",
+   "start": 1785601800,
+   "group": "liga"
+  },
+  {
+   "id": 740943152,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Everton de Vina del Mar",
+   "away": "Colo-Colo",
+   "score": [
+    3,
+    4
+   ],
+   "detail": "3:4 (2:2,1:2)",
+   "start": 1785609900,
+   "group": "liga"
+  },
+  {
+   "id": 740971039,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Palestino",
+   "away": "Coquimbo Unido",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1785619800,
+   "group": "liga"
+  },
+  {
+   "id": 740993934,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes Limache",
+   "away": "FC Nublense",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1785628800,
+   "group": "liga"
+  },
+  {
+   "id": 739397562,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes Limache",
+   "away": "FC Nublense",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1785628800,
+   "group": "liga"
+  },
+  {
+   "id": 741172786,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Club Deportes Concepcion",
+   "away": "Universidad Católica Santiago",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1785688200,
+   "group": "liga"
+  },
+  {
+   "id": 741202994,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes La Serena",
+   "away": "O'Higgins",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1785696300,
+   "group": "liga"
+  },
+  {
+   "id": 741231504,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad de Chile",
+   "away": "Huachipato",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1785705300,
+   "group": "liga"
+  },
+  {
+   "id": 742525488,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad Católica Santiago",
+   "away": "Cobresal",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1786149000,
+   "group": "liga"
+  },
+  {
+   "id": 742757212,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Huachipato",
+   "away": "Everton de Vina del Mar",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (1:3,0:1)",
+   "start": 1786215600,
+   "group": "liga"
+  },
+  {
+   "id": 742785965,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Coquimbo Unido",
+   "away": "Deportes La Serena",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1786224600,
+   "group": "liga"
+  },
+  {
+   "id": 742989712,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Club Deportes Concepcion",
+   "away": "FC Universidad de Concepción",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1786293000,
+   "group": "liga"
+  },
+  {
+   "id": 743020437,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "O'Higgins",
+   "away": "Deportes Limache",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:2,1:1)",
+   "start": 1786302000,
+   "group": "liga"
+  },
+  {
+   "id": 743047830,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Unión La Calera",
+   "away": "Colo-Colo",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1786310100,
+   "group": "liga"
+  },
+  {
+   "id": 743071691,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad de Chile",
+   "away": "Palestino",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1786320000,
+   "group": "liga"
+  },
+  {
+   "id": 743300963,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Audax Italiano",
+   "away": "FC Nublense",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1786405500,
+   "group": "liga"
+  },
+  {
+   "id": 744326306,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Universidad de Concepción",
+   "away": "Deportes La Serena",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1786748400,
+   "group": "liga"
+  },
+  {
+   "id": 744601746,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes Limache",
+   "away": "Universidad de Chile",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:1,0:2)",
+   "start": 1786829400,
+   "group": "liga"
+  },
+  {
+   "id": 744627218,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Everton de Vina del Mar",
+   "away": "Audax Italiano",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1786838400,
+   "group": "liga"
+  },
+  {
+   "id": 744811329,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Nublense",
+   "away": "Unión La Calera",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1786897800,
+   "group": "liga"
+  },
+  {
+   "id": 744845513,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Cobresal",
+   "away": "Club Deportes Concepcion",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1786906800,
+   "group": "liga"
+  },
+  {
+   "id": 744873796,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Colo-Colo",
+   "away": "O'Higgins",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:0,2:2)",
+   "start": 1786915800,
+   "group": "liga"
+  },
+  {
+   "id": 745142839,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Palestino",
+   "away": "Huachipato",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (1:1,4:0)",
+   "start": 1787013000,
+   "group": "liga"
+  },
+  {
+   "id": 746203456,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Audax Italiano",
+   "away": "Unión La Calera",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1787358600,
+   "group": "liga"
+  },
+  {
+   "id": 746467488,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Huachipato",
+   "away": "Deportes Limache",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:3,1:0)",
+   "start": 1787434200,
+   "group": "liga"
+  },
+  {
+   "id": 746494117,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad Católica Santiago",
+   "away": "FC Nublense",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1787442300,
+   "group": "liga"
+  },
+  {
+   "id": 746672021,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Club Deportes Concepcion",
+   "away": "Coquimbo Unido",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1787500800,
+   "group": "liga"
+  },
+  {
+   "id": 746672229,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes La Serena",
+   "away": "Cobresal",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (1:1,2:2)",
+   "start": 1787500800,
+   "group": "liga"
+  },
+  {
+   "id": 746714761,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad de Chile",
+   "away": "Colo-Colo",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1787511600,
+   "group": "liga"
+  },
+  {
+   "id": 746757375,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "O'Higgins",
+   "away": "Palestino",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1787525100,
+   "group": "liga"
+  },
+  {
+   "id": 747006939,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Everton de Vina del Mar",
+   "away": "FC Universidad de Concepción",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (3:1,0:0)",
+   "start": 1787614200,
+   "group": "liga"
+  },
+  {
+   "id": 747526845,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Coquimbo Unido",
+   "away": "Universidad Católica Santiago",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1787781600,
+   "group": "liga"
+  },
+  {
+   "id": 748075172,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Cobresal",
+   "away": "Palestino",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1787956200,
+   "group": "liga"
+  },
+  {
+   "id": 748372561,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes Limache",
+   "away": "Everton de Vina del Mar",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1788039000,
+   "group": "liga"
+  },
+  {
+   "id": 748396744,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Nublense",
+   "away": "Club Deportes Concepcion",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1788048000,
+   "group": "liga"
+  },
+  {
+   "id": 748633052,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Universidad de Concepción",
+   "away": "Universidad de Chile",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1788116400,
+   "group": "liga"
+  },
+  {
+   "id": 748661568,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Colo-Colo",
+   "away": "Audax Italiano",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (2:1,3:0)",
+   "start": 1788125400,
+   "group": "liga"
+  },
+  {
+   "id": 748685842,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Coquimbo Unido",
+   "away": "Huachipato",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1788134400,
+   "group": "liga"
+  },
+  {
+   "id": 747090772,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Coquimbo Unido",
+   "away": "Huachipato",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1788134400,
+   "group": "liga"
+  },
+  {
+   "id": 748925661,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Unión La Calera",
+   "away": "Deportes La Serena",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1788214500,
+   "group": "liga"
+  },
+  {
+   "id": 748948101,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad Católica Santiago",
+   "away": "O'Higgins",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:1,1:1)",
+   "start": 1788223500,
+   "group": "liga"
+  },
+  {
+   "id": 749462233,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Coquimbo Unido",
+   "away": "FC Universidad de Concepción",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1788385500,
+   "group": "liga"
+  },
+  {
+   "id": 749486654,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes Limache",
+   "away": "FC Nublense",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1788395400,
+   "group": "liga"
+  },
+  {
+   "id": 750052664,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Club Deportes Concepcion",
+   "away": "Audax Italiano",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1788568200,
+   "group": "liga"
+  },
+  {
+   "id": 750340134,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Everton de Vina del Mar",
+   "away": "Universidad Católica Santiago",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1788643800,
+   "group": "liga"
+  },
+  {
+   "id": 750367225,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad de Chile",
+   "away": "Coquimbo Unido",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (0:0,4:2)",
+   "start": 1788652800,
+   "group": "liga"
+  },
+  {
+   "id": 750569540,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes La Serena",
+   "away": "FC Nublense",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1788708600,
+   "group": "liga"
+  },
+  {
+   "id": 750603658,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "O'Higgins",
+   "away": "Unión La Calera",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1788716700,
+   "group": "liga"
+  },
+  {
+   "id": 750634593,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Huachipato",
+   "away": "Colo-Colo",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1788724800,
+   "group": "liga"
+  },
+  {
+   "id": 750660771,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Palestino",
+   "away": "FC Universidad de Concepción",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1788733800,
+   "group": "liga"
+  },
+  {
+   "id": 750926858,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes Limache",
+   "away": "Cobresal",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1788822000,
+   "group": "liga"
+  },
+  {
+   "id": 752270246,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Nublense",
+   "away": "Everton de Vina del Mar",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:1,1:2)",
+   "start": 1789227000,
+   "group": "liga"
+  },
+  {
+   "id": 752314558,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Cobresal",
+   "away": "Coquimbo Unido",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:1,2:1)",
+   "start": 1789236000,
+   "group": "liga"
+  },
+  {
+   "id": 752379411,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Palestino",
+   "away": "Universidad Católica Santiago",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:2,1:1)",
+   "start": 1789254000,
+   "group": "liga"
+  },
+  {
+   "id": 750408645,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Universidad de Concepción",
+   "away": "Huachipato",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1789313400,
+   "group": "liga"
+  },
+  {
+   "id": 752628727,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes La Serena",
+   "away": "Universidad de Chile",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:0,0:3)",
+   "start": 1789322400,
+   "group": "liga"
+  },
+  {
+   "id": 752662152,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Colo-Colo",
+   "away": "Club Deportes Concepcion",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1789330500,
+   "group": "liga"
+  },
+  {
+   "id": 752688513,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Audax Italiano",
+   "away": "O'Higgins",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1789340400,
+   "group": "liga"
+  },
+  {
+   "id": 752945862,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Unión La Calera",
+   "away": "Deportes Limache",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1789428600,
+   "group": "liga"
+  },
+  {
+   "id": 756411299,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Canadá",
+   "away": "Chile",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1790463600,
+   "group": "seleccion"
+  },
+  {
+   "id": 757242019,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "EE.UU.",
+   "away": "Chile",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (1:1,3:1)",
+   "start": 1790726400,
+   "group": "seleccion"
+  },
+  {
+   "id": 758069184,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Universidad de Concepción",
+   "away": "Huachipato",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1790982000,
+   "group": "liga"
+  },
+  {
+   "id": 759284197,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "México",
+   "away": "Chile",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1791340200,
+   "group": "seleccion"
+  },
+  {
+   "id": 760119761,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad de Chile",
+   "away": "FC Nublense",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1791586800,
+   "group": "liga"
+  },
+  {
+   "id": 754788194,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad de Chile",
+   "away": "FC Nublense",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1791586800,
+   "group": "liga"
+  },
+  {
+   "id": 760405362,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Cobresal",
+   "away": "FC Universidad de Concepción",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1791655200,
+   "group": "liga"
+  },
+  {
+   "id": 760444493,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Huachipato",
+   "away": "O'Higgins",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1791664200,
+   "group": "liga"
+  },
+  {
+   "id": 760471548,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad Católica Santiago",
+   "away": "Audax Italiano",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1791673200,
+   "group": "liga"
+  },
+  {
+   "id": 755087600,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad Católica Santiago",
+   "away": "Audax Italiano",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1791673200,
+   "group": "liga"
+  },
+  {
+   "id": 760702572,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Everton de Vina del Mar",
+   "away": "Deportes La Serena",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:1,2:1)",
+   "start": 1791732600,
+   "group": "liga"
+  },
+  {
+   "id": 760743972,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Coquimbo Unido",
+   "away": "Colo-Colo",
+   "score": [
+    5,
+    2
+   ],
+   "detail": "5:2 (3:1,2:1)",
+   "start": 1791741600,
+   "group": "liga"
+  },
+  {
+   "id": 760776292,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Club Deportes Concepcion",
+   "away": "Unión La Calera",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1791750600,
+   "group": "liga"
+  },
+  {
+   "id": 760803067,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes Limache",
+   "away": "Palestino",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1791759600,
+   "group": "liga"
+  },
+  {
+   "id": 761044001,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad de Chile",
+   "away": "FC Nublense",
+   "score": [
+    6,
+    0
+   ],
+   "detail": "6:0 (2:0,4:0)",
+   "start": 1791835200,
+   "group": "liga"
+  },
+  {
+   "id": 764398256,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Audax Italiano",
+   "away": "Huachipato",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1792796400,
+   "group": "liga"
+  },
+  {
+   "id": 764641769,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes La Serena",
+   "away": "Club Deportes Concepcion",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1792855800,
+   "group": "liga"
+  },
+  {
+   "id": 764759439,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "O'Higgins",
+   "away": "Cobresal",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1792882800,
+   "group": "liga"
+  },
+  {
+   "id": 764981185,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Nublense",
+   "away": "Coquimbo Unido",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1792942200,
+   "group": "liga"
+  },
+  {
+   "id": 765025749,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Unión La Calera",
+   "away": "Universidad Católica Santiago",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1792951200,
+   "group": "liga"
+  },
+  {
+   "id": 765061457,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Palestino",
+   "away": "Colo-Colo",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1792960200,
+   "group": "liga"
+  },
+  {
+   "id": 765089779,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Universidad de Concepción",
+   "away": "Deportes Limache",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1792969200,
+   "group": "liga"
+  },
+  {
+   "id": 765336532,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad de Chile",
+   "away": "Everton de Vina del Mar",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (2:0,2:1)",
+   "start": 1793048400,
+   "group": "liga"
+  },
+  {
+   "id": 765971356,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad Católica Santiago",
+   "away": "Audax Italiano",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1793230200,
+   "group": "liga"
+  },
+  {
+   "id": 766555752,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Colo-Colo",
+   "away": "FC Universidad de Concepción",
+   "score": [
+    6,
+    1
+   ],
+   "detail": "6:1 (5:0,1:1)",
+   "start": 1793397600,
+   "group": "liga"
+  },
+  {
+   "id": 766555746,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Coquimbo Unido",
+   "away": "Unión La Calera",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1793397600,
+   "group": "liga"
+  },
+  {
+   "id": 766905193,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "O'Higgins",
+   "away": "FC Nublense",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1793480400,
+   "group": "liga"
+  },
+  {
+   "id": 767136612,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Huachipato",
+   "away": "Deportes La Serena",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1793545200,
+   "group": "liga"
+  },
+  {
+   "id": 767147650,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad Católica Santiago",
+   "away": "Universidad de Chile",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1793547000,
+   "group": "liga"
+  },
+  {
+   "id": 767194431,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Cobresal",
+   "away": "Everton de Vina del Mar",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:0,2:2)",
+   "start": 1793556000,
+   "group": "liga"
+  },
+  {
+   "id": 767504210,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes Limache",
+   "away": "Audax Italiano",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1793653200,
+   "group": "liga"
+  },
+  {
+   "id": 767528751,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Club Deportes Concepcion",
+   "away": "Palestino",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1793662200,
+   "group": "liga"
+  },
+  {
+   "id": 766911948,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Universidad de Concepción",
+   "away": "O'Higgins",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1793919600,
+   "group": "liga"
+  },
+  {
+   "id": 768930954,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes La Serena",
+   "away": "Palestino",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1794074400,
+   "group": "liga"
+  },
+  {
+   "id": 768974197,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Everton de Vina del Mar",
+   "away": "Club Deportes Concepcion",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1794083400,
+   "group": "liga"
+  },
+  {
+   "id": 769214876,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad Católica Santiago",
+   "away": "Deportes Limache",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (3:0,0:0)",
+   "start": 1794151800,
+   "group": "liga"
+  },
+  {
+   "id": 769214914,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Audax Italiano",
+   "away": "Coquimbo Unido",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1794151800,
+   "group": "liga"
+  },
+  {
+   "id": 769255244,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Universidad de Chile",
+   "away": "Cobresal",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1794160800,
+   "group": "liga"
+  },
+  {
+   "id": 769255238,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Nublense",
+   "away": "Colo-Colo",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1794160800,
+   "group": "liga"
+  },
+  {
+   "id": 769289361,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Unión La Calera",
+   "away": "Huachipato",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1794169800,
+   "group": "liga"
+  },
+  {
+   "id": 769314738,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Universidad de Concepción",
+   "away": "O'Higgins",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:1,1:1)",
+   "start": 1794178800,
+   "group": "liga"
+  },
+  {
+   "id": 770682494,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Colombia",
+   "away": "Chile",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1794614400,
+   "group": "seleccion"
+  },
+  {
+   "id": 771843101,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Chile",
+   "away": "Colombia",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1794956400,
+   "group": "seleccion"
+  },
+  {
+   "id": 772675711,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Cobresal",
+   "away": "Audax Italiano",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:1,1:1)",
+   "start": 1795208400,
+   "group": "liga"
+  },
+  {
+   "id": 772702949,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Palestino",
+   "away": "Unión La Calera",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1795217400,
+   "group": "liga"
+  },
+  {
+   "id": 772895554,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Coquimbo Unido",
+   "away": "Everton de Vina del Mar",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1795273200,
+   "group": "liga"
+  },
+  {
+   "id": 773020754,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "O'Higgins",
+   "away": "Universidad de Chile",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1795294800,
+   "group": "liga"
+  },
+  {
+   "id": 773050039,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "FC Universidad de Concepción",
+   "away": "FC Nublense",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:2,1:1)",
+   "start": 1795303800,
+   "group": "liga"
+  },
+  {
+   "id": 773247997,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Huachipato",
+   "away": "Club Deportes Concepcion",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1795359600,
+   "group": "liga"
+  },
+  {
+   "id": 773345765,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Colo-Colo",
+   "away": "Universidad Católica Santiago",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1795381200,
+   "group": "liga"
+  },
+  {
+   "id": 773370974,
+   "tid": 28298,
+   "tname": "Chile. Primera Division",
+   "home": "Deportes Limache",
+   "away": "Deportes La Serena",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1795390200,
+   "group": "liga"
+  }
+ ]
+}

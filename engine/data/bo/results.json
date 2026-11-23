@@ -1,0 +1,4238 @@
+{
+ "updated": "2026-11-23T15:57:47+00:00",
+ "backfilled": [
+  2869549,
+  1706694,
+  125983
+ ],
+ "matches": [
+  {
+   "id": 664639182,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Bolivar",
+   "away": "Club Aurora",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1761778800,
+   "group": "liga"
+  },
+  {
+   "id": 667329368,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Oruro",
+   "away": "Gualberto Villarroel",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1762022700,
+   "group": "liga"
+  },
+  {
+   "id": 667640061,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "ABB",
+   "away": "The Strongest",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1762110000,
+   "group": "liga"
+  },
+  {
+   "id": 667668121,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Tomayapo",
+   "away": "Jorge Wilstermann",
+   "score": [
+    6,
+    1
+   ],
+   "detail": "6:1 (2:1,4:0)",
+   "start": 1762118100,
+   "group": "liga"
+  },
+  {
+   "id": 667886285,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Oriente Petrolero",
+   "away": "Guabira",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (1:0,3:0)",
+   "start": 1762195500,
+   "group": "liga"
+  },
+  {
+   "id": 667910094,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Bolivar",
+   "away": "Universitario de Vinto",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (0:0,3:0)",
+   "start": 1762203600,
+   "group": "liga"
+  },
+  {
+   "id": 667933721,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Aurora",
+   "away": "Independiente Petrolero",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:0,1:3)",
+   "start": 1762212600,
+   "group": "liga"
+  },
+  {
+   "id": 668149698,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "San Antonio Bulo Bulo",
+   "away": "Always Ready",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1762282800,
+   "group": "liga"
+  },
+  {
+   "id": 668196168,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Nacional Potosí",
+   "away": "Club Blooming",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1762297200,
+   "group": "liga"
+  },
+  {
+   "id": 668739071,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Bolivar",
+   "away": "Club Aurora",
+   "score": [
+    6,
+    1
+   ],
+   "detail": "6:1 (3:1,3:0)",
+   "start": 1762470000,
+   "group": "liga"
+  },
+  {
+   "id": 672822397,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Gualberto Villarroel",
+   "away": "Club Aurora",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (1:0,3:1)",
+   "start": 1763760600,
+   "group": "liga"
+  },
+  {
+   "id": 672840229,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Independiente Petrolero",
+   "away": "ABB",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1763767800,
+   "group": "liga"
+  },
+  {
+   "id": 673109199,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Blooming",
+   "away": "Real Tomayapo",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1763837100,
+   "group": "liga"
+  },
+  {
+   "id": 673144520,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "The Strongest",
+   "away": "Real Oruro",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1763847000,
+   "group": "liga"
+  },
+  {
+   "id": 673168528,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Jorge Wilstermann",
+   "away": "Oriente Petrolero",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1763855100,
+   "group": "liga"
+  },
+  {
+   "id": 673413242,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Always Ready",
+   "away": "Bolivar",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1763923500,
+   "group": "liga"
+  },
+  {
+   "id": 673440310,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Universitario de Vinto",
+   "away": "Nacional Potosí",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:1,0:1)",
+   "start": 1763932500,
+   "group": "liga"
+  },
+  {
+   "id": 673461789,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Guabira",
+   "away": "San Antonio Bulo Bulo",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1763940600,
+   "group": "liga"
+  },
+  {
+   "id": 674737429,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Oruro",
+   "away": "Real Tomayapo",
+   "score": [
+    5,
+    2
+   ],
+   "detail": "5:2 (1:2,4:0)",
+   "start": 1764367200,
+   "group": "liga"
+  },
+  {
+   "id": 674754749,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "ABB",
+   "away": "Always Ready",
+   "score": [
+    0,
+    7
+   ],
+   "detail": "0:7 (0:3,0:4)",
+   "start": 1764374400,
+   "group": "liga"
+  },
+  {
+   "id": 675004681,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "San Antonio Bulo Bulo",
+   "away": "Universitario de Vinto",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1764442800,
+   "group": "liga"
+  },
+  {
+   "id": 675037644,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Guabira",
+   "away": "Gualberto Villarroel",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1764450900,
+   "group": "liga"
+  },
+  {
+   "id": 675060309,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Nacional Potosí",
+   "away": "Independiente Petrolero",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1764460800,
+   "group": "liga"
+  },
+  {
+   "id": 675287715,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Oriente Petrolero",
+   "away": "Club Blooming",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1764529200,
+   "group": "liga"
+  },
+  {
+   "id": 675314100,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "The Strongest",
+   "away": "Bolivar",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:3,1:0)",
+   "start": 1764537300,
+   "group": "liga"
+  },
+  {
+   "id": 675334150,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Aurora",
+   "away": "Jorge Wilstermann",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1764545400,
+   "group": "liga"
+  },
+  {
+   "id": 675784393,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Gualberto Villarroel",
+   "away": "San Antonio Bulo Bulo",
+   "score": [
+    1,
+    5
+   ],
+   "detail": "1:5 (1:1,0:4)",
+   "start": 1764711000,
+   "group": "liga"
+  },
+  {
+   "id": 675800656,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Independiente Petrolero",
+   "away": "Guabira",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1764718200,
+   "group": "liga"
+  },
+  {
+   "id": 676014073,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Blooming",
+   "away": "ABB",
+   "score": [
+    6,
+    0
+   ],
+   "detail": "6:0 (4:0,2:0)",
+   "start": 1764788400,
+   "group": "liga"
+  },
+  {
+   "id": 676052467,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Tomayapo",
+   "away": "Oriente Petrolero",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1764799200,
+   "group": "liga"
+  },
+  {
+   "id": 676070518,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Jorge Wilstermann",
+   "away": "Real Oruro",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1764805500,
+   "group": "liga"
+  },
+  {
+   "id": 676276371,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Always Ready",
+   "away": "Club Aurora",
+   "score": [
+    5,
+    3
+   ],
+   "detail": "5:3 (2:2,3:1)",
+   "start": 1764873900,
+   "group": "liga"
+  },
+  {
+   "id": 676310881,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Universitario de Vinto",
+   "away": "The Strongest",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1764884700,
+   "group": "liga"
+  },
+  {
+   "id": 676327761,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Bolivar",
+   "away": "Nacional Potosí",
+   "score": [
+    5,
+    2
+   ],
+   "detail": "5:2 (3:1,2:1)",
+   "start": 1764891900,
+   "group": "liga"
+  },
+  {
+   "id": 676867967,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Oriente Petrolero",
+   "away": "Gualberto Villarroel",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1765046700,
+   "group": "liga"
+  },
+  {
+   "id": 676902749,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Oruro",
+   "away": "Club Blooming",
+   "score": [
+    10,
+    1
+   ],
+   "detail": "10:1 (5:1,5:0)",
+   "start": 1765056600,
+   "group": "liga"
+  },
+  {
+   "id": 676926168,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Guabira",
+   "away": "Jorge Wilstermann",
+   "score": [
+    6,
+    3
+   ],
+   "detail": "6:3 (1:2,5:1)",
+   "start": 1765064700,
+   "group": "liga"
+  },
+  {
+   "id": 677171125,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Independiente Petrolero",
+   "away": "Bolivar",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1765134000,
+   "group": "liga"
+  },
+  {
+   "id": 677197002,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "The Strongest",
+   "away": "Always Ready",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:3,2:0)",
+   "start": 1765142100,
+   "group": "liga"
+  },
+  {
+   "id": 677218171,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Aurora",
+   "away": "Universitario de Vinto",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1765152000,
+   "group": "liga"
+  },
+  {
+   "id": 677410440,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "San Antonio Bulo Bulo",
+   "away": "Real Tomayapo",
+   "score": [
+    5,
+    4
+   ],
+   "detail": "5:4 (2:2,3:2)",
+   "start": 1765220400,
+   "group": "liga"
+  },
+  {
+   "id": 677447843,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Nacional Potosí",
+   "away": "ABB",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1765234800,
+   "group": "liga"
+  },
+  {
+   "id": 677679889,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Jorge Wilstermann",
+   "away": "Gualberto Villarroel",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1765321200,
+   "group": "liga"
+  },
+  {
+   "id": 677885239,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Blooming",
+   "away": "Club Aurora",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1765392300,
+   "group": "liga"
+  },
+  {
+   "id": 677917980,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Universitario de Vinto",
+   "away": "Independiente Petrolero",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (2:0,0:3)",
+   "start": 1765401300,
+   "group": "liga"
+  },
+  {
+   "id": 678135984,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "ABB",
+   "away": "Oriente Petrolero",
+   "score": [
+    5,
+    2
+   ],
+   "detail": "5:2 (3:0,2:2)",
+   "start": 1765479600,
+   "group": "liga"
+  },
+  {
+   "id": 678166398,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Oruro",
+   "away": "Nacional Potosí",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1765488600,
+   "group": "liga"
+  },
+  {
+   "id": 678188955,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Bolivar",
+   "away": "San Antonio Bulo Bulo",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (3:0,2:0)",
+   "start": 1765497600,
+   "group": "liga"
+  },
+  {
+   "id": 678189290,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Always Ready",
+   "away": "Guabira",
+   "score": [
+    6,
+    0
+   ],
+   "detail": "6:0 (2:0,4:0)",
+   "start": 1765498500,
+   "group": "liga"
+  },
+  {
+   "id": 678188751,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Tomayapo",
+   "away": "The Strongest",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1765498500,
+   "group": "liga"
+  },
+  {
+   "id": 678735148,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Gualberto Villarroel",
+   "away": "Universitario de Vinto",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (3:0,2:0)",
+   "start": 1765661400,
+   "group": "liga"
+  },
+  {
+   "id": 678984830,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "The Strongest",
+   "away": "Jorge Wilstermann",
+   "score": [
+    6,
+    0
+   ],
+   "detail": "6:0 (1:0,5:0)",
+   "start": 1765737900,
+   "group": "liga"
+  },
+  {
+   "id": 678984645,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Independiente Petrolero",
+   "away": "Always Ready",
+   "score": [
+    5,
+    2
+   ],
+   "detail": "5:2 (2:1,3:1)",
+   "start": 1765738800,
+   "group": "liga"
+  },
+  {
+   "id": 678984697,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Oriente Petrolero",
+   "away": "Bolivar",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:2,1:1)",
+   "start": 1765738800,
+   "group": "liga"
+  },
+  {
+   "id": 679014143,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Nacional Potosí",
+   "away": "Real Tomayapo",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1765747800,
+   "group": "liga"
+  },
+  {
+   "id": 679014017,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Guabira",
+   "away": "Club Blooming",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1765747800,
+   "group": "liga"
+  },
+  {
+   "id": 679205928,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "San Antonio Bulo Bulo",
+   "away": "Real Oruro",
+   "score": [
+    5,
+    3
+   ],
+   "detail": "5:3 (2:2,3:1)",
+   "start": 1765825200,
+   "group": "liga"
+  },
+  {
+   "id": 679244802,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Aurora",
+   "away": "ABB",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:0,1:2)",
+   "start": 1765839600,
+   "group": "liga"
+  },
+  {
+   "id": 681278159,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "ABB",
+   "away": "Integración Del Norte San Juan",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1766523600,
+   "group": "liga"
+  },
+  {
+   "id": 681278008,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "ABB",
+   "away": "Integración Del Norte San Juan",
+   "score": [
+    5,
+    3
+   ],
+   "detail": "5:3 (5:3)",
+   "start": 1766523600,
+   "group": "liga"
+  },
+  {
+   "id": 705414456,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Gualberto Villarroel",
+   "away": "Club Blooming",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1774050300,
+   "group": "liga"
+  },
+  {
+   "id": 709433010,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Bolivar",
+   "away": "Real Oruro",
+   "score": [
+    5,
+    2
+   ],
+   "detail": "5:2 (3:0,2:2)",
+   "start": 1775242800,
+   "group": "liga"
+  },
+  {
+   "id": 709459547,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Independiente Petrolero",
+   "away": "Nacional Potosí",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:0,0:3)",
+   "start": 1775250900,
+   "group": "liga"
+  },
+  {
+   "id": 709479687,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Blooming",
+   "away": "Guabira",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (3:0,2:0)",
+   "start": 1775257200,
+   "group": "liga"
+  },
+  {
+   "id": 709743781,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Always Ready",
+   "away": "Real Tomayapo",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (1:0,3:0)",
+   "start": 1775328300,
+   "group": "liga"
+  },
+  {
+   "id": 709771487,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Real Potosí",
+   "away": "Club Aurora",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1775337300,
+   "group": "liga"
+  },
+  {
+   "id": 709795967,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "San Antonio Bulo Bulo",
+   "away": "Oriente Petrolero",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1775345400,
+   "group": "liga"
+  },
+  {
+   "id": 710032853,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Gualberto Villarroel",
+   "away": "ABB",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1775415600,
+   "group": "liga"
+  },
+  {
+   "id": 710059300,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Universitario de Vinto",
+   "away": "The Strongest",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1775423700,
+   "group": "liga"
+  },
+  {
+   "id": 711492829,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Guabira",
+   "away": "Independiente Petrolero",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1775865600,
+   "group": "liga"
+  },
+  {
+   "id": 711777289,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "ABB",
+   "away": "Bolivar",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1775934000,
+   "group": "liga"
+  },
+  {
+   "id": 711806129,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Nacional Potosí",
+   "away": "Universitario de Vinto",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1775941200,
+   "group": "liga"
+  },
+  {
+   "id": 711833033,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Aurora",
+   "away": "Always Ready",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1775950200,
+   "group": "liga"
+  },
+  {
+   "id": 712098742,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Oruro",
+   "away": "Club Blooming",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1776020400,
+   "group": "liga"
+  },
+  {
+   "id": 712123241,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "The Strongest",
+   "away": "San Antonio Bulo Bulo",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:0,2:2)",
+   "start": 1776028500,
+   "group": "liga"
+  },
+  {
+   "id": 712147470,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Oriente Petrolero",
+   "away": "Gualberto Villarroel",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1776036600,
+   "group": "liga"
+  },
+  {
+   "id": 712403017,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Tomayapo",
+   "away": "Club Real Potosí",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1776124800,
+   "group": "liga"
+  },
+  {
+   "id": 714643000,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Universitario de Vinto",
+   "away": "ABB",
+   "score": [
+    5,
+    2
+   ],
+   "detail": "5:2 (3:0,2:2)",
+   "start": 1776798000,
+   "group": "liga"
+  },
+  {
+   "id": 714677523,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Gualberto Villarroel",
+   "away": "Club Aurora",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1776808800,
+   "group": "liga"
+  },
+  {
+   "id": 714696005,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Bolivar",
+   "away": "Independiente Petrolero",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1776815100,
+   "group": "liga"
+  },
+  {
+   "id": 714926423,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Always Ready",
+   "away": "Oriente Petrolero",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1776884400,
+   "group": "liga"
+  },
+  {
+   "id": 714958862,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Real Potosí",
+   "away": "Guabira",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1776895200,
+   "group": "liga"
+  },
+  {
+   "id": 714979157,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Blooming",
+   "away": "Nacional Potosí",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1776902400,
+   "group": "liga"
+  },
+  {
+   "id": 715202997,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "San Antonio Bulo Bulo",
+   "away": "Real Oruro",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1776969900,
+   "group": "liga"
+  },
+  {
+   "id": 715255404,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Tomayapo",
+   "away": "The Strongest",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1776988800,
+   "group": "liga"
+  },
+  {
+   "id": 715554262,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Independiente Petrolero",
+   "away": "Universitario de Vinto",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1777075200,
+   "group": "liga"
+  },
+  {
+   "id": 715835570,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Nacional Potosí",
+   "away": "Gualberto Villarroel",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1777143600,
+   "group": "liga"
+  },
+  {
+   "id": 715862451,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "ABB",
+   "away": "Club Blooming",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:1,2:1)",
+   "start": 1777151700,
+   "group": "liga"
+  },
+  {
+   "id": 715887399,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Guabira",
+   "away": "Always Ready",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1777158900,
+   "group": "liga"
+  },
+  {
+   "id": 716148761,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Oruro",
+   "away": "The Strongest",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (2:1,0:2)",
+   "start": 1777230000,
+   "group": "liga"
+  },
+  {
+   "id": 716176082,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Bolivar",
+   "away": "Real Tomayapo",
+   "score": [
+    6,
+    0
+   ],
+   "detail": "6:0 (2:0,4:0)",
+   "start": 1777238100,
+   "group": "liga"
+  },
+  {
+   "id": 716200618,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Oriente Petrolero",
+   "away": "Club Real Potosí",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1777245300,
+   "group": "liga"
+  },
+  {
+   "id": 716456574,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Aurora",
+   "away": "San Antonio Bulo Bulo",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1777334400,
+   "group": "liga"
+  },
+  {
+   "id": 717511489,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "San Antonio Bulo Bulo",
+   "away": "Independiente Petrolero",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1777662000,
+   "group": "liga"
+  },
+  {
+   "id": 717537042,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Real Potosí",
+   "away": "Real Oruro",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1777669200,
+   "group": "liga"
+  },
+  {
+   "id": 717837173,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Always Ready",
+   "away": "Nacional Potosí",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:0,3:1)",
+   "start": 1777748400,
+   "group": "liga"
+  },
+  {
+   "id": 717864529,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Aurora",
+   "away": "Guabira",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (0:1,4:1)",
+   "start": 1777756500,
+   "group": "liga"
+  },
+  {
+   "id": 717885761,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Oriente Petrolero",
+   "away": "Real Tomayapo",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (3:0,0:1)",
+   "start": 1777764600,
+   "group": "liga"
+  },
+  {
+   "id": 718136968,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Gualberto Villarroel",
+   "away": "Bolivar",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1777834800,
+   "group": "liga"
+  },
+  {
+   "id": 718163610,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "The Strongest",
+   "away": "ABB",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1777842900,
+   "group": "liga"
+  },
+  {
+   "id": 718435117,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Universitario de Vinto",
+   "away": "Club Blooming",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1777939200,
+   "group": "liga"
+  },
+  {
+   "id": 718915353,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Nacional Potosí",
+   "away": "Club Aurora",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1778281200,
+   "group": "liga"
+  },
+  {
+   "id": 718915817,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Oruro",
+   "away": "Universitario de Vinto",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1778353200,
+   "group": "liga"
+  },
+  {
+   "id": 719793934,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Guabira",
+   "away": "Gualberto Villarroel",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1778360400,
+   "group": "liga"
+  },
+  {
+   "id": 719819042,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Tomayapo",
+   "away": "San Antonio Bulo Bulo",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1778369400,
+   "group": "liga"
+  },
+  {
+   "id": 720068360,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Independiente Petrolero",
+   "away": "Always Ready",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1778439600,
+   "group": "liga"
+  },
+  {
+   "id": 720094160,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "The Strongest",
+   "away": "Club Real Potosí",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1778447700,
+   "group": "liga"
+  },
+  {
+   "id": 720116433,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Blooming",
+   "away": "Bolivar",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1778455800,
+   "group": "liga"
+  },
+  {
+   "id": 720316065,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "ABB",
+   "away": "Oriente Petrolero",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1778526000,
+   "group": "liga"
+  },
+  {
+   "id": 720581935,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "San Antonio Bulo Bulo",
+   "away": "Universitario de Vinto",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1778612400,
+   "group": "liga"
+  },
+  {
+   "id": 720614806,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Gualberto Villarroel",
+   "away": "Real Tomayapo",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1778623200,
+   "group": "liga"
+  },
+  {
+   "id": 720631161,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Aurora",
+   "away": "Real Oruro",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1778630400,
+   "group": "liga"
+  },
+  {
+   "id": 720890508,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Independiente Petrolero",
+   "away": "Club Blooming",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:1,3:0)",
+   "start": 1778709600,
+   "group": "liga"
+  },
+  {
+   "id": 720910708,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Bolivar",
+   "away": "Nacional Potosí",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1778716800,
+   "group": "liga"
+  },
+  {
+   "id": 721126608,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Always Ready",
+   "away": "The Strongest",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1778784300,
+   "group": "liga"
+  },
+  {
+   "id": 720977471,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Real Potosí",
+   "away": "ABB",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1778796000,
+   "group": "liga"
+  },
+  {
+   "id": 721174481,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Oriente Petrolero",
+   "away": "Guabira",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1778803200,
+   "group": "liga"
+  },
+  {
+   "id": 721455971,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Tomayapo",
+   "away": "Club Aurora",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1778888700,
+   "group": "liga"
+  },
+  {
+   "id": 721713267,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Universitario de Vinto",
+   "away": "Bolivar",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:1,1:1)",
+   "start": 1778958000,
+   "group": "liga"
+  },
+  {
+   "id": 721356530,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Blooming",
+   "away": "Gualberto Villarroel",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1778974200,
+   "group": "liga"
+  },
+  {
+   "id": 721434619,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "The Strongest",
+   "away": "Oriente Petrolero",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1779052500,
+   "group": "liga"
+  },
+  {
+   "id": 722044163,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Guabira",
+   "away": "Nacional Potosí",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1779060600,
+   "group": "liga"
+  },
+  {
+   "id": 721436084,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Real Potosí",
+   "away": "San Antonio Bulo Bulo",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1779145200,
+   "group": "liga"
+  },
+  {
+   "id": 722955325,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "San Antonio Bulo Bulo",
+   "away": "ABB",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1779476400,
+   "group": "liga"
+  },
+  {
+   "id": 723381113,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Gualberto Villarroel",
+   "away": "The Strongest",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1779494400,
+   "group": "liga"
+  },
+  {
+   "id": 722957618,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Gualberto Villarroel",
+   "away": "The Strongest",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1779494400,
+   "group": "liga"
+  },
+  {
+   "id": 723628537,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Always Ready",
+   "away": "Universitario de Vinto",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1779562800,
+   "group": "liga"
+  },
+  {
+   "id": 722975341,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Always Ready",
+   "away": "Universitario de Vinto",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1779562800,
+   "group": "liga"
+  },
+  {
+   "id": 723655712,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Independiente Petrolero",
+   "away": "Club Real Potosí",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1779570900,
+   "group": "liga"
+  },
+  {
+   "id": 722975350,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Independiente Petrolero",
+   "away": "Club Real Potosí",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1779570900,
+   "group": "liga"
+  },
+  {
+   "id": 723679103,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Blooming",
+   "away": "Real Tomayapo",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1779579000,
+   "group": "liga"
+  },
+  {
+   "id": 725177202,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "San Antonio Bulo Bulo",
+   "away": "Guabira",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1780081200,
+   "group": "liga"
+  },
+  {
+   "id": 725458157,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "ABB",
+   "away": "Always Ready",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:1,1:2)",
+   "start": 1780167600,
+   "group": "liga"
+  },
+  {
+   "id": 725736305,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Oriente Petrolero",
+   "away": "Club Blooming",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1780257600,
+   "group": "liga"
+  },
+  {
+   "id": 726000060,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Universitario de Vinto",
+   "away": "Club Aurora",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1780358400,
+   "group": "liga"
+  },
+  {
+   "id": 725746838,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Gualberto Villarroel",
+   "away": "Real Tomayapo",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1780524000,
+   "group": "liga"
+  },
+  {
+   "id": 725965670,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Real Potosí",
+   "away": "ABB",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1780531200,
+   "group": "liga"
+  },
+  {
+   "id": 726736323,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "ABB",
+   "away": "Independiente Petrolero",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1780772400,
+   "group": "liga"
+  },
+  {
+   "id": 727232471,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Bolivia",
+   "away": "Escocia",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:4,0:0)",
+   "start": 1780776000,
+   "group": "seleccion"
+  },
+  {
+   "id": 721888884,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Real Potosí",
+   "away": "San Antonio Bulo Bulo",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1780858800,
+   "group": "liga"
+  },
+  {
+   "id": 721888881,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "The Strongest",
+   "away": "Oriente Petrolero",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1780866900,
+   "group": "liga"
+  },
+  {
+   "id": 728264561,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Bolivia",
+   "away": "Argelia",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:1,0:3)",
+   "start": 1781136000,
+   "group": "seleccion"
+  },
+  {
+   "id": 727922983,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "San Antonio Bulo Bulo",
+   "away": "ABB",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1781290800,
+   "group": "liga"
+  },
+  {
+   "id": 727914920,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Nacional Potosí",
+   "away": "Real Oruro",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1781305200,
+   "group": "liga"
+  },
+  {
+   "id": 727913118,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Independiente Petrolero",
+   "away": "Club Real Potosí",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1781377200,
+   "group": "liga"
+  },
+  {
+   "id": 727914809,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Gualberto Villarroel",
+   "away": "The Strongest",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1781388000,
+   "group": "liga"
+  },
+  {
+   "id": 727961833,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Blooming",
+   "away": "Real Tomayapo",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1781463600,
+   "group": "liga"
+  },
+  {
+   "id": 727932994,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Aurora",
+   "away": "Oriente Petrolero",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1781474400,
+   "group": "liga"
+  },
+  {
+   "id": 727932991,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Bolivar",
+   "away": "Guabira",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1781564400,
+   "group": "liga"
+  },
+  {
+   "id": 727961836,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Always Ready",
+   "away": "Universitario de Vinto",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1781636400,
+   "group": "liga"
+  },
+  {
+   "id": 730811160,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Oruro",
+   "away": "Independiente Petrolero",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1782079200,
+   "group": "liga"
+  },
+  {
+   "id": 734780586,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Gualberto Villarroel",
+   "away": "Real Tomayapo",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (0:1,3:1)",
+   "start": 1783465200,
+   "group": "liga"
+  },
+  {
+   "id": 735016793,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Oruro",
+   "away": "Universitario de Vinto",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (1:1,3:0)",
+   "start": 1783548000,
+   "group": "liga"
+  },
+  {
+   "id": 735035811,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Real Potosí",
+   "away": "ABB",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1783555200,
+   "group": "liga"
+  },
+  {
+   "id": 735278521,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Nacional Potosí",
+   "away": "Club Aurora",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1783641600,
+   "group": "liga"
+  },
+  {
+   "id": 735732118,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Oruro",
+   "away": "Gualberto Villarroel",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:1,3:0)",
+   "start": 1783796400,
+   "group": "liga"
+  },
+  {
+   "id": 735971490,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Real Potosí",
+   "away": "Nacional Potosí",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1783882800,
+   "group": "liga"
+  },
+  {
+   "id": 735996913,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "The Strongest",
+   "away": "Bolivar",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1783890000,
+   "group": "liga"
+  },
+  {
+   "id": 736017155,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Tomayapo",
+   "away": "Independiente Petrolero",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1783899000,
+   "group": "liga"
+  },
+  {
+   "id": 736469866,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Oruro",
+   "away": "Always Ready",
+   "score": [
+    0,
+    6
+   ],
+   "detail": "0:6 (0:3,0:3)",
+   "start": 1784066400,
+   "group": "liga"
+  },
+  {
+   "id": 736486073,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Blooming",
+   "away": "Gualberto Villarroel",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1784073600,
+   "group": "liga"
+  },
+  {
+   "id": 736711881,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Real Potosí",
+   "away": "San Antonio Bulo Bulo",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (2:0,3:0)",
+   "start": 1784151900,
+   "group": "liga"
+  },
+  {
+   "id": 736728276,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "The Strongest",
+   "away": "Oriente Petrolero",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1784160000,
+   "group": "liga"
+  },
+  {
+   "id": 736925170,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "ABB",
+   "away": "Independiente Petrolero",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1784227500,
+   "group": "liga"
+  },
+  {
+   "id": 737221403,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Bolivar",
+   "away": "Guabira",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (1:0,3:0)",
+   "start": 1784332800,
+   "group": "liga"
+  },
+  {
+   "id": 737432234,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Always Ready",
+   "away": "Universitario de Vinto",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (0:0,4:0)",
+   "start": 1784401200,
+   "group": "liga"
+  },
+  {
+   "id": 737485198,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Aurora",
+   "away": "Oriente Petrolero",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1784421000,
+   "group": "liga"
+  },
+  {
+   "id": 737630884,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Gualberto Villarroel",
+   "away": "The Strongest",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1784472300,
+   "group": "liga"
+  },
+  {
+   "id": 737719835,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Blooming",
+   "away": "Real Tomayapo",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1784507400,
+   "group": "liga"
+  },
+  {
+   "id": 737892124,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "San Antonio Bulo Bulo",
+   "away": "ABB",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1784573100,
+   "group": "liga"
+  },
+  {
+   "id": 737927477,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Nacional Potosí",
+   "away": "Real Oruro",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (0:2,1:2)",
+   "start": 1784588400,
+   "group": "liga"
+  },
+  {
+   "id": 738172525,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Independiente Petrolero",
+   "away": "Club Real Potosí",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1784674800,
+   "group": "liga"
+  },
+  {
+   "id": 738926213,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Aurora",
+   "away": "ABB",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:1,1:1)",
+   "start": 1784934000,
+   "group": "liga"
+  },
+  {
+   "id": 739152229,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Always Ready",
+   "away": "San Antonio Bulo Bulo",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1785006000,
+   "group": "liga"
+  },
+  {
+   "id": 739174047,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Guabira",
+   "away": "Real Oruro",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (3:1,1:0)",
+   "start": 1785013200,
+   "group": "liga"
+  },
+  {
+   "id": 739197305,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Independiente Petrolero",
+   "away": "Oriente Petrolero",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1785022200,
+   "group": "liga"
+  },
+  {
+   "id": 739406895,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Blooming",
+   "away": "The Strongest",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1785092400,
+   "group": "liga"
+  },
+  {
+   "id": 739432113,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Bolivar",
+   "away": "Club Real Potosí",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1785099600,
+   "group": "liga"
+  },
+  {
+   "id": 739452813,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Nacional Potosí",
+   "away": "Real Tomayapo",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (3:1,1:0)",
+   "start": 1785108600,
+   "group": "liga"
+  },
+  {
+   "id": 739641633,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Gualberto Villarroel",
+   "away": "Universitario de Vinto",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1785178800,
+   "group": "liga"
+  },
+  {
+   "id": 740664906,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Universitario de Vinto",
+   "away": "Guabira",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1785524400,
+   "group": "liga"
+  },
+  {
+   "id": 740692105,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "The Strongest",
+   "away": "Club Aurora",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1785533400,
+   "group": "liga"
+  },
+  {
+   "id": 740705621,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Tomayapo",
+   "away": "ABB",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1785538800,
+   "group": "liga"
+  },
+  {
+   "id": 740943150,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Oruro",
+   "away": "Independiente Petrolero",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:0,0:3)",
+   "start": 1785609900,
+   "group": "liga"
+  },
+  {
+   "id": 740968387,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "San Antonio Bulo Bulo",
+   "away": "Club Blooming",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1785618900,
+   "group": "liga"
+  },
+  {
+   "id": 741202757,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Real Potosí",
+   "away": "Gualberto Villarroel",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1785696300,
+   "group": "liga"
+  },
+  {
+   "id": 741229404,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Always Ready",
+   "away": "Bolivar",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1785705300,
+   "group": "liga"
+  },
+  {
+   "id": 741248576,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Oriente Petrolero",
+   "away": "Nacional Potosí",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1785712500,
+   "group": "liga"
+  },
+  {
+   "id": 741686861,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "ABB",
+   "away": "Real Oruro",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (1:0,3:1)",
+   "start": 1785869100,
+   "group": "liga"
+  },
+  {
+   "id": 741716515,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Independiente Petrolero",
+   "away": "Club Aurora",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1785880800,
+   "group": "liga"
+  },
+  {
+   "id": 741735600,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Guabira",
+   "away": "Real Tomayapo",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1785888000,
+   "group": "liga"
+  },
+  {
+   "id": 741946298,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Gualberto Villarroel",
+   "away": "San Antonio Bulo Bulo",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1785956400,
+   "group": "liga"
+  },
+  {
+   "id": 741976186,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Nacional Potosí",
+   "away": "The Strongest",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (2:1,0:2)",
+   "start": 1785967200,
+   "group": "liga"
+  },
+  {
+   "id": 741996286,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Bolivar",
+   "away": "Oriente Petrolero",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1785974400,
+   "group": "liga"
+  },
+  {
+   "id": 742208044,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Universitario de Vinto",
+   "away": "Club Real Potosí",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1786042800,
+   "group": "liga"
+  },
+  {
+   "id": 742250840,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Blooming",
+   "away": "Always Ready",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1786058100,
+   "group": "liga"
+  },
+  {
+   "id": 742495032,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "ABB",
+   "away": "Guabira",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1786137300,
+   "group": "liga"
+  },
+  {
+   "id": 742515266,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Tomayapo",
+   "away": "Real Oruro",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1786145400,
+   "group": "liga"
+  },
+  {
+   "id": 742758834,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "San Antonio Bulo Bulo",
+   "away": "Nacional Potosí",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1786215600,
+   "group": "liga"
+  },
+  {
+   "id": 742782259,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "The Strongest",
+   "away": "Independiente Petrolero",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1786223700,
+   "group": "liga"
+  },
+  {
+   "id": 742804626,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Aurora",
+   "away": "Bolivar",
+   "score": [
+    2,
+    4
+   ],
+   "detail": "2:4 (1:1,1:3)",
+   "start": 1786231800,
+   "group": "liga"
+  },
+  {
+   "id": 743019498,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Gualberto Villarroel",
+   "away": "Always Ready",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:2,1:1)",
+   "start": 1786301100,
+   "group": "liga"
+  },
+  {
+   "id": 743046538,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Real Potosí",
+   "away": "Club Blooming",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1786310100,
+   "group": "liga"
+  },
+  {
+   "id": 743067024,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Oriente Petrolero",
+   "away": "Universitario de Vinto",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (2:0,3:0)",
+   "start": 1786318200,
+   "group": "liga"
+  },
+  {
+   "id": 744284782,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Universitario de Vinto",
+   "away": "Real Tomayapo",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1786734000,
+   "group": "liga"
+  },
+  {
+   "id": 744336031,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Bolivar",
+   "away": "San Antonio Bulo Bulo",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (2:1,2:0)",
+   "start": 1786751100,
+   "group": "liga"
+  },
+  {
+   "id": 744571081,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Oruro",
+   "away": "Oriente Petrolero",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (2:3,0:0)",
+   "start": 1786820400,
+   "group": "liga"
+  },
+  {
+   "id": 744597424,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Guabira",
+   "away": "The Strongest",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1786828500,
+   "group": "liga"
+  },
+  {
+   "id": 744621594,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Blooming",
+   "away": "Club Aurora",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1786836600,
+   "group": "liga"
+  },
+  {
+   "id": 744845494,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Always Ready",
+   "away": "Club Real Potosí",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1786906800,
+   "group": "liga"
+  },
+  {
+   "id": 744870518,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Nacional Potosí",
+   "away": "ABB",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1786914900,
+   "group": "liga"
+  },
+  {
+   "id": 744893059,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Independiente Petrolero",
+   "away": "Gualberto Villarroel",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1786923000,
+   "group": "liga"
+  },
+  {
+   "id": 746185137,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "The Strongest",
+   "away": "Universitario de Vinto",
+   "score": [
+    4,
+    3
+   ],
+   "detail": "4:3 (2:2,2:1)",
+   "start": 1787350500,
+   "group": "liga"
+  },
+  {
+   "id": 746203433,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Oriente Petrolero",
+   "away": "San Antonio Bulo Bulo",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (1:0,3:0)",
+   "start": 1787358600,
+   "group": "liga"
+  },
+  {
+   "id": 746437056,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "ABB",
+   "away": "Gualberto Villarroel",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:0,0:2)",
+   "start": 1787425200,
+   "group": "liga"
+  },
+  {
+   "id": 746465850,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Aurora",
+   "away": "Club Real Potosí",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1787433300,
+   "group": "liga"
+  },
+  {
+   "id": 746488448,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Nacional Potosí",
+   "away": "Independiente Petrolero",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1787441400,
+   "group": "liga"
+  },
+  {
+   "id": 746711382,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Oruro",
+   "away": "Bolivar",
+   "score": [
+    2,
+    4
+   ],
+   "detail": "2:4 (0:2,2:2)",
+   "start": 1787511600,
+   "group": "liga"
+  },
+  {
+   "id": 746740158,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Guabira",
+   "away": "Club Blooming",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1787519700,
+   "group": "liga"
+  },
+  {
+   "id": 746761582,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Tomayapo",
+   "away": "Always Ready",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1787527800,
+   "group": "liga"
+  },
+  {
+   "id": 747221686,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Gualberto Villarroel",
+   "away": "Oriente Petrolero",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (1:1,2:2)",
+   "start": 1787684400,
+   "group": "liga"
+  },
+  {
+   "id": 747263176,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Universitario de Vinto",
+   "away": "Nacional Potosí",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1787697900,
+   "group": "liga"
+  },
+  {
+   "id": 747493899,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "San Antonio Bulo Bulo",
+   "away": "The Strongest",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1787770800,
+   "group": "liga"
+  },
+  {
+   "id": 747531373,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Real Potosí",
+   "away": "Real Tomayapo",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1787783400,
+   "group": "liga"
+  },
+  {
+   "id": 747550092,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Blooming",
+   "away": "Real Oruro",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1787790600,
+   "group": "liga"
+  },
+  {
+   "id": 747760229,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Always Ready",
+   "away": "Club Aurora",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:1,0:1)",
+   "start": 1787857200,
+   "group": "liga"
+  },
+  {
+   "id": 747797987,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Independiente Petrolero",
+   "away": "Guabira",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1787869800,
+   "group": "liga"
+  },
+  {
+   "id": 747815708,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Bolivar",
+   "away": "ABB",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (0:0,4:1)",
+   "start": 1787877000,
+   "group": "liga"
+  },
+  {
+   "id": 749991641,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Oruro",
+   "away": "San Antonio Bulo Bulo",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1788548400,
+   "group": "liga"
+  },
+  {
+   "id": 750019965,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "ABB",
+   "away": "Universitario de Vinto",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1788556500,
+   "group": "liga"
+  },
+  {
+   "id": 750309194,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Guabira",
+   "away": "Club Real Potosí",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1788634800,
+   "group": "liga"
+  },
+  {
+   "id": 750337002,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Aurora",
+   "away": "Gualberto Villarroel",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (3:0,0:0)",
+   "start": 1788642900,
+   "group": "liga"
+  },
+  {
+   "id": 750361885,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Oriente Petrolero",
+   "away": "Always Ready",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1788651000,
+   "group": "liga"
+  },
+  {
+   "id": 750619964,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Independiente Petrolero",
+   "away": "Bolivar",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:2,0:2)",
+   "start": 1788721200,
+   "group": "liga"
+  },
+  {
+   "id": 750650213,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "The Strongest",
+   "away": "Real Tomayapo",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1788729300,
+   "group": "liga"
+  },
+  {
+   "id": 750674405,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Nacional Potosí",
+   "away": "Club Blooming",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1788739200,
+   "group": "liga"
+  },
+  {
+   "id": 752043834,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "San Antonio Bulo Bulo",
+   "away": "Club Aurora",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1789164000,
+   "group": "liga"
+  },
+  {
+   "id": 752063357,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Real Potosí",
+   "away": "Oriente Petrolero",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1789171200,
+   "group": "liga"
+  },
+  {
+   "id": 752327898,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Gualberto Villarroel",
+   "away": "Nacional Potosí",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1789239600,
+   "group": "liga"
+  },
+  {
+   "id": 752358142,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "The Strongest",
+   "away": "Real Oruro",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (2:0,3:0)",
+   "start": 1789247700,
+   "group": "liga"
+  },
+  {
+   "id": 752382129,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Blooming",
+   "away": "ABB",
+   "score": [
+    6,
+    1
+   ],
+   "detail": "6:1 (2:0,4:1)",
+   "start": 1789255800,
+   "group": "liga"
+  },
+  {
+   "id": 752642209,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Always Ready",
+   "away": "Guabira",
+   "score": [
+    6,
+    0
+   ],
+   "detail": "6:0 (5:0,1:0)",
+   "start": 1789326000,
+   "group": "liga"
+  },
+  {
+   "id": 752669961,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Universitario de Vinto",
+   "away": "Independiente Petrolero",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1789334100,
+   "group": "liga"
+  },
+  {
+   "id": 752699809,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Tomayapo",
+   "away": "Bolivar",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1789344000,
+   "group": "liga"
+  },
+  {
+   "id": 753172419,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Oruro",
+   "away": "Club Real Potosí",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1789498800,
+   "group": "liga"
+  },
+  {
+   "id": 753199787,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "ABB",
+   "away": "The Strongest",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1789506900,
+   "group": "liga"
+  },
+  {
+   "id": 753460441,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Guabira",
+   "away": "Club Aurora",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1789585200,
+   "group": "liga"
+  },
+  {
+   "id": 753492875,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Nacional Potosí",
+   "away": "Always Ready",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:1,0:3)",
+   "start": 1789596000,
+   "group": "liga"
+  },
+  {
+   "id": 753519051,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Blooming",
+   "away": "Universitario de Vinto",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1789605000,
+   "group": "liga"
+  },
+  {
+   "id": 753779336,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Tomayapo",
+   "away": "Oriente Petrolero",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1789682400,
+   "group": "liga"
+  },
+  {
+   "id": 753802977,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Bolivar",
+   "away": "Gualberto Villarroel",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (3:0,1:2)",
+   "start": 1789691400,
+   "group": "liga"
+  },
+  {
+   "id": 754099652,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Independiente Petrolero",
+   "away": "San Antonio Bulo Bulo",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:2,1:1)",
+   "start": 1789772400,
+   "group": "liga"
+  },
+  {
+   "id": 756689239,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Bolivia",
+   "away": "Paraguay",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1790541000,
+   "group": "seleccion"
+  },
+  {
+   "id": 757514079,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Argentina",
+   "away": "Bolivia",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1790812800,
+   "group": "seleccion"
+  },
+  {
+   "id": 760074160,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "San Antonio Bulo Bulo",
+   "away": "Real Tomayapo",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1791572400,
+   "group": "liga"
+  },
+  {
+   "id": 760423560,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Universitario de Vinto",
+   "away": "Real Oruro",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:2,1:1)",
+   "start": 1791658800,
+   "group": "liga"
+  },
+  {
+   "id": 760478129,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Oriente Petrolero",
+   "away": "ABB",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1791675000,
+   "group": "liga"
+  },
+  {
+   "id": 760758355,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Real Potosí",
+   "away": "The Strongest",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1791745200,
+   "group": "liga"
+  },
+  {
+   "id": 760784814,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Aurora",
+   "away": "Nacional Potosí",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:2,1:0)",
+   "start": 1791753300,
+   "group": "liga"
+  },
+  {
+   "id": 760808202,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Bolivar",
+   "away": "Club Blooming",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1791761400,
+   "group": "liga"
+  },
+  {
+   "id": 761030761,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Gualberto Villarroel",
+   "away": "Guabira",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (3:1,1:0)",
+   "start": 1791831600,
+   "group": "liga"
+  },
+  {
+   "id": 761057388,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Always Ready",
+   "away": "Independiente Petrolero",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1791839700,
+   "group": "liga"
+  },
+  {
+   "id": 762204041,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "ABB",
+   "away": "Club Real Potosí",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1792177200,
+   "group": "liga"
+  },
+  {
+   "id": 762261904,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Tomayapo",
+   "away": "Gualberto Villarroel",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1792195200,
+   "group": "liga"
+  },
+  {
+   "id": 762567592,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Oruro",
+   "away": "Club Aurora",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1792263600,
+   "group": "liga"
+  },
+  {
+   "id": 762597918,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Universitario de Vinto",
+   "away": "San Antonio Bulo Bulo",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1792271700,
+   "group": "liga"
+  },
+  {
+   "id": 762623663,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Blooming",
+   "away": "Independiente Petrolero",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1792279800,
+   "group": "liga"
+  },
+  {
+   "id": 762909403,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Nacional Potosí",
+   "away": "Bolivar",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1792350000,
+   "group": "liga"
+  },
+  {
+   "id": 762938115,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "The Strongest",
+   "away": "Always Ready",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1792358100,
+   "group": "liga"
+  },
+  {
+   "id": 762960185,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Guabira",
+   "away": "Oriente Petrolero",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1792366200,
+   "group": "liga"
+  },
+  {
+   "id": 764709688,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Gualberto Villarroel",
+   "away": "Club Blooming",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1792868400,
+   "group": "liga"
+  },
+  {
+   "id": 764740569,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "San Antonio Bulo Bulo",
+   "away": "Club Real Potosí",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1792876500,
+   "group": "liga"
+  },
+  {
+   "id": 764766331,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Independiente Petrolero",
+   "away": "ABB",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (3:1,1:1)",
+   "start": 1792884600,
+   "group": "liga"
+  },
+  {
+   "id": 765041015,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Always Ready",
+   "away": "Real Oruro",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (1:1,4:0)",
+   "start": 1792954800,
+   "group": "liga"
+  },
+  {
+   "id": 765071528,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Aurora",
+   "away": "Real Tomayapo",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1792962900,
+   "group": "liga"
+  },
+  {
+   "id": 765095220,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Oriente Petrolero",
+   "away": "The Strongest",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1792971000,
+   "group": "liga"
+  },
+  {
+   "id": 765346434,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Nacional Potosí",
+   "away": "Guabira",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (0:0,3:0)",
+   "start": 1793052000,
+   "group": "liga"
+  },
+  {
+   "id": 765365759,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Bolivar",
+   "away": "Universitario de Vinto",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1793059200,
+   "group": "liga"
+  },
+  {
+   "id": 766555796,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Real Potosí",
+   "away": "Independiente Petrolero",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1793397600,
+   "group": "liga"
+  },
+  {
+   "id": 766579846,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Oriente Petrolero",
+   "away": "Club Aurora",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1793404800,
+   "group": "liga"
+  },
+  {
+   "id": 766873711,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Oruro",
+   "away": "Nacional Potosí",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1793473200,
+   "group": "liga"
+  },
+  {
+   "id": 766909216,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "ABB",
+   "away": "San Antonio Bulo Bulo",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:2,1:1)",
+   "start": 1793481300,
+   "group": "liga"
+  },
+  {
+   "id": 767210447,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "The Strongest",
+   "away": "Gualberto Villarroel",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (0:2,4:0)",
+   "start": 1793559600,
+   "group": "liga"
+  },
+  {
+   "id": 767239818,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Guabira",
+   "away": "Bolivar",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1793567700,
+   "group": "liga"
+  },
+  {
+   "id": 767263153,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Universitario de Vinto",
+   "away": "Always Ready",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:2,0:1)",
+   "start": 1793575800,
+   "group": "liga"
+  },
+  {
+   "id": 767506989,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Tomayapo",
+   "away": "Club Blooming",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1793654100,
+   "group": "liga"
+  },
+  {
+   "id": 768660004,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Independiente Petrolero",
+   "away": "Real Tomayapo",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1794006000,
+   "group": "liga"
+  },
+  {
+   "id": 768948846,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Gualberto Villarroel",
+   "away": "Real Oruro",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:1,1:2)",
+   "start": 1794078000,
+   "group": "liga"
+  },
+  {
+   "id": 768983963,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Always Ready",
+   "away": "ABB",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:1,2:1)",
+   "start": 1794086100,
+   "group": "liga"
+  },
+  {
+   "id": 769007581,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Guabira",
+   "away": "San Antonio Bulo Bulo",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (1:0,4:1)",
+   "start": 1794094200,
+   "group": "liga"
+  },
+  {
+   "id": 769270727,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Nacional Potosí",
+   "away": "Club Real Potosí",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1794164400,
+   "group": "liga"
+  },
+  {
+   "id": 769297797,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Bolivar",
+   "away": "The Strongest",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1794172500,
+   "group": "liga"
+  },
+  {
+   "id": 769319709,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Blooming",
+   "away": "Oriente Petrolero",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1794180600,
+   "group": "liga"
+  },
+  {
+   "id": 769568737,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Aurora",
+   "away": "Universitario de Vinto",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1794270600,
+   "group": "liga"
+  },
+  {
+   "id": 770693051,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Perú",
+   "away": "Bolivia",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1794618000,
+   "group": "seleccion"
+  },
+  {
+   "id": 771848737,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Ecuador",
+   "away": "Bolivia",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1794958200,
+   "group": "seleccion"
+  },
+  {
+   "id": 772987717,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Tomayapo",
+   "away": "Nacional Potosí",
+   "score": [
+    1,
+    5
+   ],
+   "detail": "1:5 (0:2,1:3)",
+   "start": 1795287600,
+   "group": "liga"
+  },
+  {
+   "id": 773024928,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "ABB",
+   "away": "Club Aurora",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1795295700,
+   "group": "liga"
+  },
+  {
+   "id": 773050086,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Oriente Petrolero",
+   "away": "Independiente Petrolero",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1795303800,
+   "group": "liga"
+  },
+  {
+   "id": 773318620,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Club Real Potosí",
+   "away": "Bolivar",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1795374000,
+   "group": "liga"
+  },
+  {
+   "id": 773349114,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "The Strongest",
+   "away": "Club Blooming",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (3:0,1:0)",
+   "start": 1795382100,
+   "group": "liga"
+  },
+  {
+   "id": 773371075,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "San Antonio Bulo Bulo",
+   "away": "Always Ready",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1795390200,
+   "group": "liga"
+  }
+ ]
+}

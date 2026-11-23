@@ -1,0 +1,4126 @@
+{
+ "updated": "2026-11-23T16:01:47+00:00",
+ "backfilled": [
+  55479,
+  1706694,
+  125983
+ ],
+ "matches": [
+  {
+   "id": 663583363,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "Club Olimpia",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1760905800,
+   "group": "liga"
+  },
+  {
+   "id": 665331549,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Atlético Tembetary",
+   "away": "Sportivo Luqueño",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1761423300,
+   "group": "liga"
+  },
+  {
+   "id": 665356522,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "2 de Mayo",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1761432300,
+   "group": "liga"
+  },
+  {
+   "id": 665640820,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "Club Guaraní",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:1,1:2)",
+   "start": 1761510600,
+   "group": "liga"
+  },
+  {
+   "id": 665669173,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "Club Libertad",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1761518700,
+   "group": "liga"
+  },
+  {
+   "id": 665889906,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "General Caballero JLM",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (0:2,1:2)",
+   "start": 1761597000,
+   "group": "liga"
+  },
+  {
+   "id": 665913702,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "Cerro Porteno",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1761605100,
+   "group": "liga"
+  },
+  {
+   "id": 667024290,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "General Caballero JLM",
+   "away": "Recoleta",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:1,1:2)",
+   "start": 1761942600,
+   "group": "liga"
+  },
+  {
+   "id": 667051357,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "2 de Mayo",
+   "away": "Atlético Tembetary",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1761951600,
+   "group": "liga"
+  },
+  {
+   "id": 667354451,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "Sportivo Trinidense",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762028100,
+   "group": "liga"
+  },
+  {
+   "id": 667381898,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "Club Olimpia",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:2,1:0)",
+   "start": 1762038000,
+   "group": "liga"
+  },
+  {
+   "id": 667658372,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Sportivo Ameliano",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1762115400,
+   "group": "liga"
+  },
+  {
+   "id": 667682289,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "Club Guaraní",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1762124400,
+   "group": "liga"
+  },
+  {
+   "id": 669011270,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "Sportivo Luqueño",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:0,1:3)",
+   "start": 1762551000,
+   "group": "liga"
+  },
+  {
+   "id": 669336517,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "General Caballero JLM",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1762635600,
+   "group": "liga"
+  },
+  {
+   "id": 669636901,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "Cerro Porteno",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762722000,
+   "group": "liga"
+  },
+  {
+   "id": 669638364,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Guaraní",
+   "away": "Club Libertad",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1762722000,
+   "group": "liga"
+  },
+  {
+   "id": 669856001,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "2 de Mayo",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:1,1:2)",
+   "start": 1762804800,
+   "group": "liga"
+  },
+  {
+   "id": 669877515,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Atlético Tembetary",
+   "away": "Club Nacional Asunción",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1762813800,
+   "group": "liga"
+  },
+  {
+   "id": 672537210,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "Atlético Tembetary",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1763667900,
+   "group": "liga"
+  },
+  {
+   "id": 672560385,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "Sportivo Ameliano",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1763676900,
+   "group": "liga"
+  },
+  {
+   "id": 672803847,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Club Olimpia",
+   "score": [
+    2,
+    4
+   ],
+   "detail": "2:4 (2:1,0:3)",
+   "start": 1763755200,
+   "group": "liga"
+  },
+  {
+   "id": 672830851,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "2 de Mayo",
+   "away": "Recoleta",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1763764200,
+   "group": "liga"
+  },
+  {
+   "id": 673436862,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "General Caballero JLM",
+   "away": "Club Guaraní",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1763931600,
+   "group": "liga"
+  },
+  {
+   "id": 673436905,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "Club Libertad",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1763931600,
+   "group": "liga"
+  },
+  {
+   "id": 674188348,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "Sportivo Trinidense",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1764187200,
+   "group": "liga"
+  },
+  {
+   "id": 674215659,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "2 de Mayo",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (2:1,1:2)",
+   "start": 1764196200,
+   "group": "liga"
+  },
+  {
+   "id": 674457403,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "General Caballero JLM",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1764274500,
+   "group": "liga"
+  },
+  {
+   "id": 674479682,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "Club Nacional Asunción",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1764284400,
+   "group": "liga"
+  },
+  {
+   "id": 675310396,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Atlético Tembetary",
+   "away": "Cerro Porteno",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1764536400,
+   "group": "liga"
+  },
+  {
+   "id": 675310568,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Guaraní",
+   "away": "Sportivo Luqueño",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1764536400,
+   "group": "liga"
+  },
+  {
+   "id": 689451158,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "Sportivo Trinidense",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1769201100,
+   "group": "liga"
+  },
+  {
+   "id": 684820873,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "Club Rubio Nu",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1769202000,
+   "group": "liga"
+  },
+  {
+   "id": 689474442,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "2 de Mayo",
+   "away": "Sportivo Luqueño",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1769210100,
+   "group": "liga"
+  },
+  {
+   "id": 689786340,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "Club Sportivo San Lorenzo",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1769287500,
+   "group": "liga"
+  },
+  {
+   "id": 689812168,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "Club Libertad",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1769295600,
+   "group": "liga"
+  },
+  {
+   "id": 690098269,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "Club Guaraní",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1769374800,
+   "group": "liga"
+  },
+  {
+   "id": 690119409,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "Club Rubio Nu",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1769382900,
+   "group": "liga"
+  },
+  {
+   "id": 690615654,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Club Nacional Asunción",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1769547600,
+   "group": "liga"
+  },
+  {
+   "id": 690638216,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Sportivo San Lorenzo",
+   "away": "Cerro Porteno",
+   "score": [
+    2,
+    4
+   ],
+   "detail": "2:4 (0:2,2:2)",
+   "start": 1769555700,
+   "group": "liga"
+  },
+  {
+   "id": 690903816,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "Sportivo Ameliano",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1769634000,
+   "group": "liga"
+  },
+  {
+   "id": 690926388,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "2 de Mayo",
+   "away": "Club Olimpia",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1769642100,
+   "group": "liga"
+  },
+  {
+   "id": 691184587,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "Club Guaraní",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1769720400,
+   "group": "liga"
+  },
+  {
+   "id": 691203085,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Rubio Nu",
+   "away": "Recoleta",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1769727600,
+   "group": "liga"
+  },
+  {
+   "id": 691813474,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "2 de Mayo",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (2:1,3:0)",
+   "start": 1769892300,
+   "group": "liga"
+  },
+  {
+   "id": 691837790,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "Club Sportivo San Lorenzo",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1769901300,
+   "group": "liga"
+  },
+  {
+   "id": 692132292,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "Sportivo Trinidense",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:1,2:1)",
+   "start": 1769979600,
+   "group": "liga"
+  },
+  {
+   "id": 692156703,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Guaraní",
+   "away": "Club Rubio Nu",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (1:0,3:0)",
+   "start": 1769987700,
+   "group": "liga"
+  },
+  {
+   "id": 692383131,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "Club Libertad",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1770066000,
+   "group": "liga"
+  },
+  {
+   "id": 692404050,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "Sportivo Luqueño",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1770073200,
+   "group": "liga"
+  },
+  {
+   "id": 693504202,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Sportivo San Lorenzo",
+   "away": "Recoleta",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:0,0:3)",
+   "start": 1770413400,
+   "group": "liga"
+  },
+  {
+   "id": 693523538,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Sportivo Ameliano",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1770420600,
+   "group": "liga"
+  },
+  {
+   "id": 693827530,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Rubio Nu",
+   "away": "Sportivo Trinidense",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1770499800,
+   "group": "liga"
+  },
+  {
+   "id": 693848289,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "2 de Mayo",
+   "away": "Cerro Porteno",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1770507000,
+   "group": "liga"
+  },
+  {
+   "id": 694129533,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "Club Guaraní",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (1:3,2:0)",
+   "start": 1770586200,
+   "group": "liga"
+  },
+  {
+   "id": 694146628,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "Club Olimpia",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1770592500,
+   "group": "liga"
+  },
+  {
+   "id": 695449111,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Guaraní",
+   "away": "Club Sportivo San Lorenzo",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1771018200,
+   "group": "liga"
+  },
+  {
+   "id": 695468004,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "Sportivo Luqueño",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1771025400,
+   "group": "liga"
+  },
+  {
+   "id": 695768060,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "Club Rubio Nu",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1771104600,
+   "group": "liga"
+  },
+  {
+   "id": 695787554,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "2 de Mayo",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1771111800,
+   "group": "liga"
+  },
+  {
+   "id": 696060417,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "Club Libertad",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1771190100,
+   "group": "liga"
+  },
+  {
+   "id": 696079569,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "Club Nacional Asunción",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1771197300,
+   "group": "liga"
+  },
+  {
+   "id": 697107249,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Sportivo San Lorenzo",
+   "away": "Sportivo Trinidense",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1771536600,
+   "group": "liga"
+  },
+  {
+   "id": 697129842,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "Sportivo Ameliano",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1771543800,
+   "group": "liga"
+  },
+  {
+   "id": 697392230,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "Club Rubio Nu",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1771623000,
+   "group": "liga"
+  },
+  {
+   "id": 697412569,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "2 de Mayo",
+   "away": "Recoleta",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1771629300,
+   "group": "liga"
+  },
+  {
+   "id": 697728279,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "Club Olimpia",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1771709400,
+   "group": "liga"
+  },
+  {
+   "id": 696198104,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "Club Libertad",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1771709400,
+   "group": "liga"
+  },
+  {
+   "id": 697637417,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "Sportivo Luqueño",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1771794000,
+   "group": "liga"
+  },
+  {
+   "id": 698056812,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Club Guaraní",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1771801200,
+   "group": "liga"
+  },
+  {
+   "id": 698162319,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Club Guaraní",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (3:1,0:1)",
+   "start": 1771844400,
+   "group": "liga"
+  },
+  {
+   "id": 698818242,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "Cerro Porteno",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1772055000,
+   "group": "liga"
+  },
+  {
+   "id": 698834606,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "Sportivo Luqueño",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1772062200,
+   "group": "liga"
+  },
+  {
+   "id": 698834524,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "Club Libertad",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1772062200,
+   "group": "liga"
+  },
+  {
+   "id": 699088229,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Rubio Nu",
+   "away": "Club Sportivo San Lorenzo",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1772141400,
+   "group": "liga"
+  },
+  {
+   "id": 699108847,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "Club Nacional Asunción",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:1,0:1)",
+   "start": 1772147700,
+   "group": "liga"
+  },
+  {
+   "id": 699698584,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "Club Olimpia",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1772314200,
+   "group": "liga"
+  },
+  {
+   "id": 699719673,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "2 de Mayo",
+   "away": "Sportivo Trinidense",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1772321400,
+   "group": "liga"
+  },
+  {
+   "id": 700000494,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "Club Guaraní",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1772400600,
+   "group": "liga"
+  },
+  {
+   "id": 700022902,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "Recoleta",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1772407800,
+   "group": "liga"
+  },
+  {
+   "id": 700250105,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Club Rubio Nu",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1772487000,
+   "group": "liga"
+  },
+  {
+   "id": 700267221,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Sportivo San Lorenzo",
+   "away": "Club Libertad",
+   "score": [
+    0,
+    7
+   ],
+   "detail": "0:7 (0:3,0:4)",
+   "start": 1772494200,
+   "group": "liga"
+  },
+  {
+   "id": 701692411,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Guaraní",
+   "away": "Cerro Porteno",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1772919000,
+   "group": "liga"
+  },
+  {
+   "id": 701715381,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "Sportivo Luqueño",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1772925300,
+   "group": "liga"
+  },
+  {
+   "id": 702004715,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "Club Sportivo San Lorenzo",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1773005400,
+   "group": "liga"
+  },
+  {
+   "id": 702024769,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Rubio Nu",
+   "away": "2 de Mayo",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1773012600,
+   "group": "liga"
+  },
+  {
+   "id": 702252037,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "Club Nacional Asunción",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1773091800,
+   "group": "liga"
+  },
+  {
+   "id": 702270931,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "Sportivo Ameliano",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1773099000,
+   "group": "liga"
+  },
+  {
+   "id": 703359784,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Club Sportivo San Lorenzo",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1773437400,
+   "group": "liga"
+  },
+  {
+   "id": 703378349,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "2 de Mayo",
+   "away": "Club Libertad",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1773444600,
+   "group": "liga"
+  },
+  {
+   "id": 703702487,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "Club Olimpia",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1773523800,
+   "group": "liga"
+  },
+  {
+   "id": 703725171,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "Sportivo Trinidense",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1773531000,
+   "group": "liga"
+  },
+  {
+   "id": 704015676,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "Club Rubio Nu",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1773609300,
+   "group": "liga"
+  },
+  {
+   "id": 704035562,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "Club Guaraní",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1773617400,
+   "group": "liga"
+  },
+  {
+   "id": 704527939,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Sportivo San Lorenzo",
+   "away": "2 de Mayo",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1773783000,
+   "group": "liga"
+  },
+  {
+   "id": 704549017,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "Sportivo Luqueño",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1773790200,
+   "group": "liga"
+  },
+  {
+   "id": 704814188,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Rubio Nu",
+   "away": "Cerro Porteno",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1773869400,
+   "group": "liga"
+  },
+  {
+   "id": 704835815,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Guaraní",
+   "away": "Recoleta",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:1,3:0)",
+   "start": 1773876600,
+   "group": "liga"
+  },
+  {
+   "id": 704835740,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "Club Nacional Asunción",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1773876600,
+   "group": "liga"
+  },
+  {
+   "id": 705108990,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "Sportivo Ameliano",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1773960300,
+   "group": "liga"
+  },
+  {
+   "id": 705734232,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Guaraní",
+   "away": "Club Olimpia",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1774128600,
+   "group": "liga"
+  },
+  {
+   "id": 705756900,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "Cerro Porteno",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:1,1:2)",
+   "start": 1774135800,
+   "group": "liga"
+  },
+  {
+   "id": 706059554,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Sportivo San Lorenzo",
+   "away": "Club Nacional Asunción",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1774215000,
+   "group": "liga"
+  },
+  {
+   "id": 706079595,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "2 de Mayo",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1774221300,
+   "group": "liga"
+  },
+  {
+   "id": 706305187,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "Recoleta",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:1,1:1)",
+   "start": 1774300500,
+   "group": "liga"
+  },
+  {
+   "id": 706324969,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Rubio Nu",
+   "away": "Sportivo Ameliano",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1774307700,
+   "group": "liga"
+  },
+  {
+   "id": 706864355,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Guaraní",
+   "away": "2 de Mayo",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1774476900,
+   "group": "liga"
+  },
+  {
+   "id": 707140952,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "Club Rubio Nu",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1774566000,
+   "group": "liga"
+  },
+  {
+   "id": 707419545,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "Sportivo Luqueño",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:2,2:0)",
+   "start": 1774647000,
+   "group": "liga"
+  },
+  {
+   "id": 707441402,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "Club Libertad",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1774653300,
+   "group": "liga"
+  },
+  {
+   "id": 707762251,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "2 de Mayo",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (1:0,3:1)",
+   "start": 1774733400,
+   "group": "liga"
+  },
+  {
+   "id": 707786234,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "Club Sportivo San Lorenzo",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1774740600,
+   "group": "liga"
+  },
+  {
+   "id": 708077659,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Guaraní",
+   "away": "Sportivo Trinidense",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1774821600,
+   "group": "liga"
+  },
+  {
+   "id": 708336571,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "Recoleta",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1774913400,
+   "group": "liga"
+  },
+  {
+   "id": 708584725,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "2 de Mayo",
+   "away": "Club Nacional Asunción",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1774992600,
+   "group": "liga"
+  },
+  {
+   "id": 708606756,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Sportivo San Lorenzo",
+   "away": "Sportivo Ameliano",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1774999800,
+   "group": "liga"
+  },
+  {
+   "id": 708606741,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Cerro Porteno",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (2:3,0:0)",
+   "start": 1774999800,
+   "group": "liga"
+  },
+  {
+   "id": 708867668,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Rubio Nu",
+   "away": "Club Guaraní",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1775078100,
+   "group": "liga"
+  },
+  {
+   "id": 708888953,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "Club Olimpia",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1775086200,
+   "group": "liga"
+  },
+  {
+   "id": 709773892,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "Club Nacional Asunción",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (0:0,3:0)",
+   "start": 1775338200,
+   "group": "liga"
+  },
+  {
+   "id": 709795504,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "2 de Mayo",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1775345400,
+   "group": "liga"
+  },
+  {
+   "id": 709795497,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "Club Sportivo San Lorenzo",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (2:1,2:1)",
+   "start": 1775345400,
+   "group": "liga"
+  },
+  {
+   "id": 710061937,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "Sportivo Luqueño",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1775424600,
+   "group": "liga"
+  },
+  {
+   "id": 710081592,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Guaraní",
+   "away": "Club Libertad",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1775431800,
+   "group": "liga"
+  },
+  {
+   "id": 710341557,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "Club Rubio Nu",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (3:0,1:0)",
+   "start": 1775515500,
+   "group": "liga"
+  },
+  {
+   "id": 711464417,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "2 de Mayo",
+   "away": "Sportivo Ameliano",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1775855700,
+   "group": "liga"
+  },
+  {
+   "id": 711486786,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Sportivo San Lorenzo",
+   "away": "Club Guaraní",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1775862900,
+   "group": "liga"
+  },
+  {
+   "id": 711806120,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Recoleta",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1775941200,
+   "group": "liga"
+  },
+  {
+   "id": 711833027,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "Cerro Porteno",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1775950200,
+   "group": "liga"
+  },
+  {
+   "id": 712123209,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Rubio Nu",
+   "away": "Club Olimpia",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1776028500,
+   "group": "liga"
+  },
+  {
+   "id": 712147488,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "Sportivo Trinidense",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1776036600,
+   "group": "liga"
+  },
+  {
+   "id": 713482081,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "Club Sportivo San Lorenzo",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1776455100,
+   "group": "liga"
+  },
+  {
+   "id": 713836051,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Guaraní",
+   "away": "Sportivo Luqueño",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1776546900,
+   "group": "liga"
+  },
+  {
+   "id": 713857899,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "2 de Mayo",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (1:0,4:0)",
+   "start": 1776555000,
+   "group": "liga"
+  },
+  {
+   "id": 714137835,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "Cerro Porteno",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1776630600,
+   "group": "liga"
+  },
+  {
+   "id": 712290561,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "Cerro Porteno",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1776630600,
+   "group": "liga"
+  },
+  {
+   "id": 714402559,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Rubio Nu",
+   "away": "Club Libertad",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1776719700,
+   "group": "liga"
+  },
+  {
+   "id": 714420797,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "Club Nacional Asunción",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1776727800,
+   "group": "liga"
+  },
+  {
+   "id": 714658723,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Rubio Nu",
+   "away": "Club Libertad",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (3:0,0:0)",
+   "start": 1776801600,
+   "group": "liga"
+  },
+  {
+   "id": 715522708,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "Recoleta",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1777063500,
+   "group": "liga"
+  },
+  {
+   "id": 715544657,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "Sportivo Ameliano",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1777071600,
+   "group": "liga"
+  },
+  {
+   "id": 715857802,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Sportivo Trinidense",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1777149900,
+   "group": "liga"
+  },
+  {
+   "id": 715881734,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "Club Olimpia",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:0,1:2)",
+   "start": 1777158000,
+   "group": "liga"
+  },
+  {
+   "id": 716169957,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "2 de Mayo",
+   "away": "Club Guaraní",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:1,2:1)",
+   "start": 1777236300,
+   "group": "liga"
+  },
+  {
+   "id": 716197040,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Sportivo San Lorenzo",
+   "away": "Club Rubio Nu",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1777244400,
+   "group": "liga"
+  },
+  {
+   "id": 717532680,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "2 de Mayo",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1777668300,
+   "group": "liga"
+  },
+  {
+   "id": 717554814,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "Club Sportivo San Lorenzo",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (2:0,3:0)",
+   "start": 1777676400,
+   "group": "liga"
+  },
+  {
+   "id": 717882751,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Rubio Nu",
+   "away": "Sportivo Luqueño",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1777762800,
+   "group": "liga"
+  },
+  {
+   "id": 718034796,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "Cerro Porteno",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1777811400,
+   "group": "liga"
+  },
+  {
+   "id": 718034824,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "Sportivo Ameliano",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1777811400,
+   "group": "liga"
+  },
+  {
+   "id": 718180411,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Guaraní",
+   "away": "Club Nacional Asunción",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1777849200,
+   "group": "liga"
+  },
+  {
+   "id": 719788638,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "2 de Mayo",
+   "away": "Club Rubio Nu",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1778359500,
+   "group": "liga"
+  },
+  {
+   "id": 719813751,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "Sportivo Trinidense",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1778367600,
+   "group": "liga"
+  },
+  {
+   "id": 720089333,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Sportivo San Lorenzo",
+   "away": "Club Olimpia",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1778445900,
+   "group": "liga"
+  },
+  {
+   "id": 720111192,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Club Libertad",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:1,1:2)",
+   "start": 1778453100,
+   "group": "liga"
+  },
+  {
+   "id": 720333753,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "Recoleta",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:1,1:1)",
+   "start": 1778532300,
+   "group": "liga"
+  },
+  {
+   "id": 720354534,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "Club Guaraní",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1778540400,
+   "group": "liga"
+  },
+  {
+   "id": 721138079,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "2 de Mayo",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1778788800,
+   "group": "liga"
+  },
+  {
+   "id": 721312229,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "Recoleta",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:0,2:2)",
+   "start": 1778847300,
+   "group": "liga"
+  },
+  {
+   "id": 721417183,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "Cerro Porteno",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1778875200,
+   "group": "liga"
+  },
+  {
+   "id": 721416306,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Rubio Nu",
+   "away": "Club Nacional Asunción",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1778875200,
+   "group": "liga"
+  },
+  {
+   "id": 721726539,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Guaraní",
+   "away": "Sportivo Ameliano",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1778961600,
+   "group": "liga"
+  },
+  {
+   "id": 722010072,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Sportivo San Lorenzo",
+   "away": "Sportivo Luqueño",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1779048000,
+   "group": "liga"
+  },
+  {
+   "id": 723352030,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "2 de Mayo",
+   "away": "Club Sportivo San Lorenzo",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1779483600,
+   "group": "liga"
+  },
+  {
+   "id": 723628025,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Club Olimpia",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1779562800,
+   "group": "liga"
+  },
+  {
+   "id": 723654209,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "Club Guaraní",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1779570900,
+   "group": "liga"
+  },
+  {
+   "id": 723918077,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "Club Rubio Nu",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1779652800,
+   "group": "liga"
+  },
+  {
+   "id": 723918078,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "Club Libertad",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1779652800,
+   "group": "liga"
+  },
+  {
+   "id": 723918083,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "Sportivo Trinidense",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1779652800,
+   "group": "liga"
+  },
+  {
+   "id": 726987402,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Paraguay",
+   "away": "Nicaragua",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1780697700,
+   "group": "seleccion"
+  },
+  {
+   "id": 738885875,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "2 de Mayo",
+   "away": "Club Rubio Nu",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1784918700,
+   "group": "liga"
+  },
+  {
+   "id": 738912315,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "Sportivo Trinidense",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1784928600,
+   "group": "liga"
+  },
+  {
+   "id": 739150810,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "Club Sportivo San Lorenzo",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1785006000,
+   "group": "liga"
+  },
+  {
+   "id": 739177089,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "Club Nacional Asunción",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1785015000,
+   "group": "liga"
+  },
+  {
+   "id": 739407023,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "Club Libertad",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1785092400,
+   "group": "liga"
+  },
+  {
+   "id": 739434580,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Guaraní",
+   "away": "Sportivo Luqueño",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1785101400,
+   "group": "liga"
+  },
+  {
+   "id": 739892105,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Rubio Nu",
+   "away": "Sportivo Ameliano",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1785265200,
+   "group": "liga"
+  },
+  {
+   "id": 739916948,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "2 de Mayo",
+   "away": "Cerro Porteno",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1785273300,
+   "group": "liga"
+  },
+  {
+   "id": 740149691,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Sportivo Trinidense",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (0:0,1:4)",
+   "start": 1785351600,
+   "group": "liga"
+  },
+  {
+   "id": 740174642,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "Club Olimpia",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1785360600,
+   "group": "liga"
+  },
+  {
+   "id": 740404766,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Sportivo San Lorenzo",
+   "away": "Club Guaraní",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1785437100,
+   "group": "liga"
+  },
+  {
+   "id": 740430761,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "Recoleta",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (1:1,3:0)",
+   "start": 1785447000,
+   "group": "liga"
+  },
+  {
+   "id": 740943076,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "2 de Mayo",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1785610800,
+   "group": "liga"
+  },
+  {
+   "id": 740969913,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "Sportivo Luqueño",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1785619800,
+   "group": "liga"
+  },
+  {
+   "id": 741202881,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "Club Rubio Nu",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (2:0,3:0)",
+   "start": 1785696300,
+   "group": "liga"
+  },
+  {
+   "id": 741231530,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Guaraní",
+   "away": "Club Libertad",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1785705300,
+   "group": "liga"
+  },
+  {
+   "id": 741438850,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "Club Sportivo San Lorenzo",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1785782700,
+   "group": "liga"
+  },
+  {
+   "id": 741462917,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "Club Nacional Asunción",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:1,2:1)",
+   "start": 1785791700,
+   "group": "liga"
+  },
+  {
+   "id": 742497775,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Rubio Nu",
+   "away": "Recoleta",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:1,1:2)",
+   "start": 1786138200,
+   "group": "liga"
+  },
+  {
+   "id": 742757160,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "Cerro Porteno",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1786215600,
+   "group": "liga"
+  },
+  {
+   "id": 742786118,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "2 de Mayo",
+   "away": "Club Olimpia",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1786224600,
+   "group": "liga"
+  },
+  {
+   "id": 743020438,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Sportivo San Lorenzo",
+   "away": "Sportivo Luqueño",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1786302000,
+   "group": "liga"
+  },
+  {
+   "id": 743047770,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "Club Guaraní",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1786310100,
+   "group": "liga"
+  },
+  {
+   "id": 743279367,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "Sportivo Trinidense",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1786396500,
+   "group": "liga"
+  },
+  {
+   "id": 744313024,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "2 de Mayo",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1786742100,
+   "group": "liga"
+  },
+  {
+   "id": 744571073,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Guaraní",
+   "away": "Club Rubio Nu",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:1,2:2)",
+   "start": 1786820400,
+   "group": "liga"
+  },
+  {
+   "id": 744601729,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "Club Nacional Asunción",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1786829400,
+   "group": "liga"
+  },
+  {
+   "id": 744761013,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "Club Sportivo San Lorenzo",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1786885200,
+   "group": "liga"
+  },
+  {
+   "id": 744845401,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Club Libertad",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1786906800,
+   "group": "liga"
+  },
+  {
+   "id": 744873753,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "Sportivo Ameliano",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1786915800,
+   "group": "liga"
+  },
+  {
+   "id": 746175659,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Rubio Nu",
+   "away": "Sportivo Trinidense",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1787347800,
+   "group": "liga"
+  },
+  {
+   "id": 746437071,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "Recoleta",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1787425200,
+   "group": "liga"
+  },
+  {
+   "id": 746711403,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "Cerro Porteno",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1787511600,
+   "group": "liga"
+  },
+  {
+   "id": 746961081,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "Sportivo Luqueño",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1787598000,
+   "group": "liga"
+  },
+  {
+   "id": 746987950,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "Club Sportivo San Lorenzo",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1787607000,
+   "group": "liga"
+  },
+  {
+   "id": 747249271,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "2 de Mayo",
+   "away": "Club Guaraní",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1787693400,
+   "group": "liga"
+  },
+  {
+   "id": 748037399,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Club Rubio Nu",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1787943600,
+   "group": "liga"
+  },
+  {
+   "id": 748065261,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Sportivo San Lorenzo",
+   "away": "Club Nacional Asunción",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1787952600,
+   "group": "liga"
+  },
+  {
+   "id": 748340631,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "2 de Mayo",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1788030000,
+   "group": "liga"
+  },
+  {
+   "id": 748372565,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "Club Olimpia",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1788039000,
+   "group": "liga"
+  },
+  {
+   "id": 748631531,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "Club Libertad",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1788116400,
+   "group": "liga"
+  },
+  {
+   "id": 748661717,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Guaraní",
+   "away": "Sportivo Ameliano",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1788125400,
+   "group": "liga"
+  },
+  {
+   "id": 749156741,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Rubio Nu",
+   "away": "Club Sportivo San Lorenzo",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1788289200,
+   "group": "liga"
+  },
+  {
+   "id": 749182453,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "2 de Mayo",
+   "away": "Sportivo Luqueño",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:1,2:1)",
+   "start": 1788298200,
+   "group": "liga"
+  },
+  {
+   "id": 749430702,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "Sportivo Trinidense",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1788375600,
+   "group": "liga"
+  },
+  {
+   "id": 749430606,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "Club Libertad",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1788375600,
+   "group": "liga"
+  },
+  {
+   "id": 749456945,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "Club Guaraní",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1788384600,
+   "group": "liga"
+  },
+  {
+   "id": 749729989,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "Cerro Porteno",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:3,1:0)",
+   "start": 1788470100,
+   "group": "liga"
+  },
+  {
+   "id": 750340183,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Sportivo San Lorenzo",
+   "away": "2 de Mayo",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1788643800,
+   "group": "liga"
+  },
+  {
+   "id": 750524877,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "Club Olimpia",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1788699600,
+   "group": "liga"
+  },
+  {
+   "id": 750619916,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "Club Rubio Nu",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (2:1,2:1)",
+   "start": 1788720300,
+   "group": "liga"
+  },
+  {
+   "id": 750650194,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Sportivo Ameliano",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1788729300,
+   "group": "liga"
+  },
+  {
+   "id": 750884960,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Guaraní",
+   "away": "Recoleta",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1788807600,
+   "group": "liga"
+  },
+  {
+   "id": 750912003,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "Club Nacional Asunción",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1788816600,
+   "group": "liga"
+  },
+  {
+   "id": 752010945,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "Club Sportivo San Lorenzo",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1789153200,
+   "group": "liga"
+  },
+  {
+   "id": 752040751,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "2 de Mayo",
+   "away": "Club Libertad",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1789162200,
+   "group": "liga"
+  },
+  {
+   "id": 752331755,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Guaraní",
+   "away": "Cerro Porteno",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1789239600,
+   "group": "liga"
+  },
+  {
+   "id": 752363038,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "Sportivo Trinidense",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:0,1:3)",
+   "start": 1789248600,
+   "group": "liga"
+  },
+  {
+   "id": 752645087,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "Sportivo Luqueño",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1789326000,
+   "group": "liga"
+  },
+  {
+   "id": 752675519,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Rubio Nu",
+   "away": "Club Nacional Asunción",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1789335000,
+   "group": "liga"
+  },
+  {
+   "id": 754055116,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "Club Guaraní",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1789758000,
+   "group": "liga"
+  },
+  {
+   "id": 754086546,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "2 de Mayo",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1789767000,
+   "group": "liga"
+  },
+  {
+   "id": 754392641,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "Sportivo Ameliano",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1789844400,
+   "group": "liga"
+  },
+  {
+   "id": 754424440,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "Club Rubio Nu",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1789853400,
+   "group": "liga"
+  },
+  {
+   "id": 754713042,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Sportivo San Lorenzo",
+   "away": "Club Olimpia",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1789930800,
+   "group": "liga"
+  },
+  {
+   "id": 754741232,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Recoleta",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1789939800,
+   "group": "liga"
+  },
+  {
+   "id": 756046484,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Club Guaraní",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1790364600,
+   "group": "liga"
+  },
+  {
+   "id": 756074776,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "Sportivo Ameliano",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1790373600,
+   "group": "liga"
+  },
+  {
+   "id": 756372225,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Rubio Nu",
+   "away": "2 de Mayo",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1790451000,
+   "group": "liga"
+  },
+  {
+   "id": 756402073,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "Cerro Porteno",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1790460000,
+   "group": "liga"
+  },
+  {
+   "id": 756689239,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Bolivia",
+   "away": "Paraguay",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1790541000,
+   "group": "seleccion"
+  },
+  {
+   "id": 756929880,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Sportivo San Lorenzo",
+   "away": "Recoleta",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1790623800,
+   "group": "liga"
+  },
+  {
+   "id": 756953417,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "Club Olimpia",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1790632800,
+   "group": "liga"
+  },
+  {
+   "id": 758078336,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Colombia",
+   "away": "Paraguay",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1790985600,
+   "group": "seleccion"
+  },
+  {
+   "id": 758374556,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Guaraní",
+   "away": "Club Sportivo San Lorenzo",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1791057600,
+   "group": "liga"
+  },
+  {
+   "id": 758400364,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "Club Libertad",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1)",
+   "start": 1791065700,
+   "group": "liga"
+  },
+  {
+   "id": 758856376,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "Club Libertad",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1791205200,
+   "group": "liga"
+  },
+  {
+   "id": 758946385,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "Sportivo Luqueño",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:1,1:1)",
+   "start": 1791230400,
+   "group": "liga"
+  },
+  {
+   "id": 758967694,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "2 de Mayo",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1791238500,
+   "group": "liga"
+  },
+  {
+   "id": 759225243,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "Club Rubio Nu",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1791316800,
+   "group": "liga"
+  },
+  {
+   "id": 759246363,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "Club Nacional Asunción",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1791324900,
+   "group": "liga"
+  },
+  {
+   "id": 760438050,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Sportivo San Lorenzo",
+   "away": "Sportivo Trinidense",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1791662400,
+   "group": "liga"
+  },
+  {
+   "id": 760465201,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Cerro Porteno",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1791670800,
+   "group": "liga"
+  },
+  {
+   "id": 760770018,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Rubio Nu",
+   "away": "Club Olimpia",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1791748800,
+   "group": "liga"
+  },
+  {
+   "id": 760796317,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "Club Guaraní",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1791757200,
+   "group": "liga"
+  },
+  {
+   "id": 761043605,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "2 de Mayo",
+   "away": "Sportivo Ameliano",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1791835200,
+   "group": "liga"
+  },
+  {
+   "id": 761066927,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "Recoleta",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1791843600,
+   "group": "liga"
+  },
+  {
+   "id": 762244525,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "Club Rubio Nu",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1792189200,
+   "group": "liga"
+  },
+  {
+   "id": 762582366,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Guaraní",
+   "away": "Club Nacional Asunción",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1792267200,
+   "group": "liga"
+  },
+  {
+   "id": 762610102,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "2 de Mayo",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1792275600,
+   "group": "liga"
+  },
+  {
+   "id": 762922394,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "Sportivo Ameliano",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1792353600,
+   "group": "liga"
+  },
+  {
+   "id": 762949021,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "Club Libertad",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1792362000,
+   "group": "liga"
+  },
+  {
+   "id": 762949020,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Club Sportivo San Lorenzo",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:2,2:0)",
+   "start": 1792362000,
+   "group": "liga"
+  },
+  {
+   "id": 761032838,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "2 de Mayo",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1792612800,
+   "group": "liga"
+  },
+  {
+   "id": 764364863,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Rubio Nu",
+   "away": "Club Guaraní",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1792785600,
+   "group": "liga"
+  },
+  {
+   "id": 764393426,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "Sportivo Luqueño",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1792794600,
+   "group": "liga"
+  },
+  {
+   "id": 764724569,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "Sportivo Trinidense",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1792872000,
+   "group": "liga"
+  },
+  {
+   "id": 764752886,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "2 de Mayo",
+   "away": "Recoleta",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1792880400,
+   "group": "liga"
+  },
+  {
+   "id": 764933672,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "Club Olimpia",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:1,1:2)",
+   "start": 1792933200,
+   "group": "liga"
+  },
+  {
+   "id": 765084693,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Sportivo San Lorenzo",
+   "away": "Cerro Porteno",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:2,1:1)",
+   "start": 1792967400,
+   "group": "liga"
+  },
+  {
+   "id": 766561662,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "Club Rubio Nu",
+   "score": [
+    2,
+    4
+   ],
+   "detail": "2:4 (0:3,2:1)",
+   "start": 1793399400,
+   "group": "liga"
+  },
+  {
+   "id": 766561722,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Guaraní",
+   "away": "2 de Mayo",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1793399400,
+   "group": "liga"
+  },
+  {
+   "id": 766890968,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "Sportivo Ameliano",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1793476800,
+   "group": "liga"
+  },
+  {
+   "id": 766923924,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Club Nacional Asunción",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:3,0:0)",
+   "start": 1793485800,
+   "group": "liga"
+  },
+  {
+   "id": 766923930,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Sportivo San Lorenzo",
+   "away": "Club Libertad",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1793485800,
+   "group": "liga"
+  },
+  {
+   "id": 767224103,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "Club Olimpia",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1793563200,
+   "group": "liga"
+  },
+  {
+   "id": 767777439,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "2 de Mayo",
+   "away": "Sportivo Trinidense",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1793736000,
+   "group": "liga"
+  },
+  {
+   "id": 767806482,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "Club Sportivo San Lorenzo",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1793745000,
+   "group": "liga"
+  },
+  {
+   "id": 768085302,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "Cerro Porteno",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1793829600,
+   "group": "liga"
+  },
+  {
+   "id": 768085301,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "Club Guaraní",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1793829600,
+   "group": "liga"
+  },
+  {
+   "id": 768107612,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "Recoleta",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (4:0,0:1)",
+   "start": 1793837700,
+   "group": "liga"
+  },
+  {
+   "id": 768359192,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Rubio Nu",
+   "away": "Sportivo Luqueño",
+   "score": [
+    0,
+    5
+   ],
+   "detail": "0:5 (0:2,0:3)",
+   "start": 1793916000,
+   "group": "liga"
+  },
+  {
+   "id": 768966361,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Guaraní",
+   "away": "Club Olimpia",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:2,0:1)",
+   "start": 1794081600,
+   "group": "liga"
+  },
+  {
+   "id": 768997449,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "Club Nacional Asunción",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1794090600,
+   "group": "liga"
+  },
+  {
+   "id": 769283048,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "Recoleta",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1794168000,
+   "group": "liga"
+  },
+  {
+   "id": 769309771,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "Sportivo Ameliano",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1794177000,
+   "group": "liga"
+  },
+  {
+   "id": 769525709,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Sportivo San Lorenzo",
+   "away": "Club Rubio Nu",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:1,0:1)",
+   "start": 1794254400,
+   "group": "liga"
+  },
+  {
+   "id": 769551639,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "2 de Mayo",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1794263400,
+   "group": "liga"
+  },
+  {
+   "id": 770515632,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Singapur",
+   "away": "Paraguay",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (1:2,0:2)",
+   "start": 1794571200,
+   "group": "seleccion"
+  },
+  {
+   "id": 771707241,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Japón",
+   "away": "Paraguay",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1794920400,
+   "group": "seleccion"
+  },
+  {
+   "id": 772670104,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Ameliano",
+   "away": "Sportivo Luqueño",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1795206600,
+   "group": "liga"
+  },
+  {
+   "id": 772698042,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Recoleta",
+   "away": "Club Guaraní",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1795215600,
+   "group": "liga"
+  },
+  {
+   "id": 773345755,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Rubio Nu",
+   "away": "Club Libertad",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1795381200,
+   "group": "liga"
+  },
+  {
+   "id": 773345639,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Olimpia",
+   "away": "Sportivo Trinidense",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1795381200,
+   "group": "liga"
+  }
+ ]
+}

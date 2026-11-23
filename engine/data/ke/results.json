@@ -1,0 +1,66 @@
+{
+ "updated": "2026-11-23T16:11:45+00:00",
+ "backfilled": [
+  1706694,
+  2905343,
+  125983
+ ],
+ "matches": [
+  {
+   "id": 724312577,
+   "tid": 125983,
+   "tname": "Friendlies. National Teams",
+   "home": "Kyrgyzstan",
+   "away": "Kenya",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1780497000,
+   "group": "seleccion"
+  },
+  {
+   "id": 726630394,
+   "tid": 125983,
+   "tname": "Friendlies. National Teams",
+   "home": "Lesotho",
+   "away": "Kenya",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1780578000,
+   "group": "seleccion"
+  },
+  {
+   "id": 727400449,
+   "tid": 125983,
+   "tname": "Friendlies. National Teams",
+   "home": "Kenya",
+   "away": "Lesotho",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (1:0,3:0)",
+   "start": 1780836300,
+   "group": "seleccion"
+  },
+  {
+   "id": 758892662,
+   "tid": 125983,
+   "tname": "Friendlies. National Teams",
+   "home": "Rwanda",
+   "away": "Kenya",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1791216000,
+   "group": "seleccion"
+  }
+ ]
+}

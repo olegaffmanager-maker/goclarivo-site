@@ -1,0 +1,1632 @@
+{
+ "updated": "2026-11-23T15:48:05+00:00",
+ "groups": [
+  {
+   "key": "liga",
+   "name": "Primera División de Chile",
+   "matches": [
+    {
+     "tournament": "Chile. Primera Division",
+     "home": "Coquimbo Unido",
+     "away": "Deportes Limache",
+     "start": 1795899600,
+     "odds": {
+      "1": 1.7,
+      "X": 3.84,
+      "2": 4.33
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/5608.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/366413.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/28298-Chile-Primera-Division/396798902-Coquimbo-Unido-Deportes-Limache",
+     "eid": 773378863,
+     "tid": 28298,
+     "coupon": {
+      "1": "ENXLJ",
+      "X": "LNXLJ",
+      "2": "6NXLJ"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.17,
+       "12": 1.22,
+       "X2": 2.04
+      },
+      "ou25": {
+       "o": 1.64,
+       "u": 2.16
+      },
+      "btts": {
+       "y": 1.62,
+       "n": 2.162
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1782943200,
+        "h": "Deportes Limache",
+        "a": "Coquimbo Unido",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Chile. Copa de Chile",
+        "hh": false
+       },
+       {
+        "d": 1782241200,
+        "h": "Coquimbo Unido",
+        "a": "Deportes Limache",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Chile. Copa de Chile",
+        "hh": true
+       },
+       {
+        "d": 1780245000,
+        "h": "Deportes Limache",
+        "a": "Coquimbo Unido",
+        "s": [
+         2,
+         3
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1769032800,
+        "h": "Coquimbo Unido",
+        "a": "Deportes Limache",
+        "s": [
+         3,
+         2
+        ],
+        "t": "Chile. Supercopa",
+        "hh": true
+       },
+       {
+        "d": 1754161200,
+        "h": "Coquimbo Unido",
+        "a": "Deportes Limache",
+        "s": [
+         2,
+         1
+        ],
+        "t": "Chile. Primera Division",
+        "hh": true
+       },
+       {
+        "d": 1752433200,
+        "h": "Coquimbo Unido",
+        "a": "Deportes Limache",
+        "s": [
+         2,
+         3
+        ],
+        "t": "Copa de Chile - Play-off",
+        "hh": true
+       },
+       {
+        "d": 1752193800,
+        "h": "Deportes Limache",
+        "a": "Coquimbo Unido",
+        "s": [
+         2,
+         1
+        ],
+        "t": "Copa de Chile - Play-off",
+        "hh": false
+       },
+       {
+        "d": 1740783600,
+        "h": "Deportes Limache",
+        "a": "Coquimbo Unido",
+        "s": [
+         1,
+         2
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795273200,
+        "o": "Everton de Vina del Mar",
+        "gf": 2,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1794691800,
+        "o": "O'Higgins",
+        "gf": 3,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1794151800,
+        "o": "Audax Italiano",
+        "gf": 1,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1793829600,
+        "o": "Unión La Calera",
+        "gf": 2,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1793397600,
+        "o": "Unión La Calera",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1794151800,
+        "o": "Universidad Católica Santiago",
+        "gf": 0,
+        "ga": 3,
+        "dom": false
+       },
+       {
+        "d": 1793653200,
+        "o": "Audax Italiano",
+        "gf": 2,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1792969200,
+        "o": "FC Universidad de Concepción",
+        "gf": 1,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1791759600,
+        "o": "Palestino",
+        "gf": 2,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1789428600,
+        "o": "Unión La Calera",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "Chile. Primera Division",
+     "home": "Colo-Colo",
+     "away": "Deportes La Serena",
+     "start": 1795908600,
+     "odds": {
+      "1": 1.43,
+      "X": 5.15,
+      "2": 5.4
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/01af75c004c05818c821d12f6764ed2f.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/3841222ffd25b9be78e2e42cfe34fbee.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/28298-Chile-Primera-Division/396798900-Colo-Colo-Deportes-La-Serena",
+     "eid": 773378860,
+     "tid": 28298,
+     "coupon": {
+      "1": "KPXLJ",
+      "X": "7PXLJ",
+      "2": "EQXLJ"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.113,
+       "12": 1.122,
+       "X2": 2.625
+      },
+      "ou25": {
+       "o": 1.42,
+       "u": 2.49
+      },
+      "btts": {
+       "y": 1.59,
+       "n": 2.214
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1780167600,
+        "h": "Deportes La Serena",
+        "a": "Colo-Colo",
+        "s": [
+         2,
+         4
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1752951600,
+        "h": "Colo-Colo",
+        "a": "Deportes La Serena",
+        "s": [
+         2,
+         1
+        ],
+        "t": "Chile. Primera Division",
+        "hh": true
+       },
+       {
+        "d": 1739718000,
+        "h": "Deportes La Serena",
+        "a": "Colo-Colo",
+        "s": [
+         1,
+         3
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1657490400,
+        "h": "Colo-Colo",
+        "a": "Deportes La Serena",
+        "s": [
+         3,
+         0
+        ],
+        "t": "Chile. Primera Division",
+        "hh": true
+       },
+       {
+        "d": 1644792936,
+        "h": "Deportes La Serena",
+        "a": "Colo-Colo",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1634749200,
+        "h": "Deportes La Serena",
+        "a": "Colo-Colo",
+        "s": [
+         1,
+         4
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1625443200,
+        "h": "Colo-Colo",
+        "a": "Deportes La Serena",
+        "s": [
+         4,
+         0
+        ],
+        "t": "Chile. Copa de Chile",
+        "hh": true
+       },
+       {
+        "d": 1625167800,
+        "h": "Deportes La Serena",
+        "a": "Colo-Colo",
+        "s": [
+         1,
+         3
+        ],
+        "t": "Chile. Copa de Chile",
+        "hh": false
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795381200,
+        "o": "Universidad Católica Santiago",
+        "gf": 3,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1794607200,
+        "o": "Racing Club de Avellaneda",
+        "gf": 2,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1794160800,
+        "o": "FC Nublense",
+        "gf": 2,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1793656800,
+        "o": "Deportes Puerto Montt",
+        "gf": 3,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1793397600,
+        "o": "FC Universidad de Concepción",
+        "gf": 6,
+        "ga": 1,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1794074400,
+        "o": "Palestino",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1793545200,
+        "o": "Huachipato",
+        "gf": 0,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1792855800,
+        "o": "Club Deportes Concepcion",
+        "gf": 3,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1791732600,
+        "o": "Everton de Vina del Mar",
+        "gf": 2,
+        "ga": 3,
+        "dom": false
+       },
+       {
+        "d": 1789322400,
+        "o": "Universidad de Chile",
+        "gf": 0,
+        "ga": 3,
+        "dom": true
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "Chile. Primera Division",
+     "home": "Club Deportes Concepcion",
+     "away": "Universidad de Chile",
+     "start": 1795986000,
+     "odds": {
+      "1": 3.99,
+      "X": 3.62,
+      "2": 1.81
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/d5fbc0b6ec759ce9a8facb674819b4fb.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/5580.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/28298-Chile-Primera-Division/396792592-Club-Deportes-Concepcion-Universidad-de-Chile",
+     "eid": 773376211,
+     "tid": 28298,
+     "coupon": {
+      "1": "H6XLJ",
+      "X": "N6XLJ",
+      "2": "76XLJ"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.9,
+       "12": 1.24,
+       "X2": 1.2
+      },
+      "ou25": {
+       "o": 1.833,
+       "u": 1.89
+      },
+      "btts": {
+       "y": 1.74,
+       "n": 1.977
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1780176600,
+        "h": "Universidad de Chile",
+        "a": "Club Deportes Concepcion",
+        "s": [
+         2,
+         1
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1374190200,
+        "h": "Universidad de Chile",
+        "a": "Club Deportes Concepcion",
+        "s": [
+         2,
+         2
+        ],
+        "t": "Chile. Copa de Chile",
+        "hh": false
+       },
+       {
+        "d": 1372980600,
+        "h": "Club Deportes Concepcion",
+        "a": "Universidad de Chile",
+        "s": [
+         2,
+         1
+        ],
+        "t": "Chile. Copa de Chile",
+        "hh": true
+       },
+       {
+        "d": 1312412400,
+        "h": "Universidad de Chile",
+        "a": "Club Deportes Concepcion",
+        "s": [
+         2,
+         0
+        ],
+        "t": "CONMEBOL Sudamericana",
+        "hh": false
+       },
+       {
+        "d": 1311807600,
+        "h": "Club Deportes Concepcion",
+        "a": "Universidad de Chile",
+        "s": [
+         2,
+         2
+        ],
+        "t": "Primera Division Copa Sudamericana Playoff",
+        "hh": true
+       },
+       {
+        "d": 1201464000,
+        "h": "Universidad de Chile",
+        "a": "Club Deportes Concepcion",
+        "s": [
+         2,
+         1
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": false
+       },
+       {
+        "d": 1187474100,
+        "h": "Universidad de Chile",
+        "a": "Club Deportes Concepcion",
+        "s": [
+         5,
+         2
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1172788200,
+        "h": "Club Deportes Concepcion",
+        "a": "Universidad de Chile",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": true
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795359600,
+        "o": "Huachipato",
+        "gf": 0,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1794083400,
+        "o": "Everton de Vina del Mar",
+        "gf": 2,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1793662200,
+        "o": "Palestino",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1792855800,
+        "o": "Deportes La Serena",
+        "gf": 1,
+        "ga": 3,
+        "dom": false
+       },
+       {
+        "d": 1791750600,
+        "o": "Unión La Calera",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795294800,
+        "o": "O'Higgins",
+        "gf": 1,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1794160800,
+        "o": "Cobresal",
+        "gf": 2,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793916000,
+        "o": "Deportes Antofagasta",
+        "gf": 4,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1793547000,
+        "o": "Universidad Católica Santiago",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1793048400,
+        "o": "Everton de Vina del Mar",
+        "gf": 4,
+        "ga": 1,
+        "dom": true
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "Chile. Primera Division",
+     "home": "Universidad Católica Santiago",
+     "away": "Huachipato",
+     "start": 1795986000,
+     "odds": {
+      "1": 1.49,
+      "X": 4.33,
+      "2": 5.62
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/62bdeb5499afe5f3955a4ba515276ad6.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/5592.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/28298-Chile-Primera-Division/396792595-Universidad-Catolica-Santiago-Huachipato",
+     "eid": 773376223,
+     "tid": 28298,
+     "coupon": {
+      "1": "ERXLJ",
+      "X": "4RXLJ",
+      "2": "RRXLJ"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.105,
+       "12": 1.17,
+       "X2": 2.44
+      },
+      "ou25": {
+       "o": 1.49,
+       "u": 2.3
+      },
+      "btts": {
+       "y": 1.615,
+       "n": 2.172
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1780254000,
+        "h": "Huachipato",
+        "a": "Universidad Católica Santiago",
+        "s": [
+         0,
+         3
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1768946400,
+        "h": "Universidad Católica Santiago",
+        "a": "Huachipato",
+        "s": [
+         4,
+         2
+        ],
+        "t": "Chile. Supercopa",
+        "hh": true
+       },
+       {
+        "d": 1764428400,
+        "h": "Huachipato",
+        "a": "Universidad Católica Santiago",
+        "s": [
+         0,
+         0
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1749927600,
+        "h": "Universidad Católica Santiago",
+        "a": "Huachipato",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Chile. Primera Division",
+        "hh": true
+       },
+       {
+        "d": 1724621400,
+        "h": "Universidad Católica Santiago",
+        "a": "Huachipato",
+        "s": [
+         4,
+         0
+        ],
+        "t": "Chile. Primera Division",
+        "hh": true
+       },
+       {
+        "d": 1711810800,
+        "h": "Huachipato",
+        "a": "Universidad Católica Santiago",
+        "s": [
+         0,
+         0
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1700946000,
+        "h": "Huachipato",
+        "a": "Universidad Católica Santiago",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1683765000,
+        "h": "Universidad Católica Santiago",
+        "a": "Huachipato",
+        "s": [
+         1,
+         2
+        ],
+        "t": "Chile. Primera Division",
+        "hh": true
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795381200,
+        "o": "Colo-Colo",
+        "gf": 0,
+        "ga": 3,
+        "dom": false
+       },
+       {
+        "d": 1794151800,
+        "o": "Deportes Limache",
+        "gf": 3,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1793547000,
+        "o": "Universidad de Chile",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1793230200,
+        "o": "Audax Italiano",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1792951200,
+        "o": "Unión La Calera",
+        "gf": 1,
+        "ga": 3,
+        "dom": false
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795359600,
+        "o": "Club Deportes Concepcion",
+        "gf": 0,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1794169800,
+        "o": "Unión La Calera",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1793545200,
+        "o": "Deportes La Serena",
+        "gf": 0,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1792796400,
+        "o": "Audax Italiano",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1791664200,
+        "o": "O'Higgins",
+        "gf": 2,
+        "ga": 0,
+        "dom": true
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "Chile. Primera Division",
+     "home": "Everton de Vina del Mar",
+     "away": "O'Higgins",
+     "start": 1795995000,
+     "odds": {
+      "1": 1.84,
+      "X": 3.64,
+      "2": 3.83
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/93b44ff614f4507fa04ba471b43b7de2.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/16a9c22c837f187650aae2fdabfaf540.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/28298-Chile-Primera-Division/396792594-Everton-de-Vina-del-Mar-O'Higgins",
+     "eid": 773376220,
+     "tid": 28298,
+     "coupon": {
+      "1": "DSXLJ",
+      "X": "LSXLJ",
+      "2": "6SXLJ"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.22,
+       "12": 1.24,
+       "X2": 1.87
+      },
+      "ou25": {
+       "o": 1.72,
+       "u": 2.03
+      },
+      "btts": {
+       "y": 1.64,
+       "n": 2.13
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1780263000,
+        "h": "O'Higgins",
+        "a": "Everton de Vina del Mar",
+        "s": [
+         2,
+         3
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1778457600,
+        "h": "O'Higgins",
+        "a": "Everton de Vina del Mar",
+        "s": [
+         2,
+         1
+        ],
+        "t": "Chile. Copa de la liga",
+        "hh": false
+       },
+       {
+        "d": 1774567800,
+        "h": "Everton de Vina del Mar",
+        "a": "O'Higgins",
+        "s": [
+         1,
+         2
+        ],
+        "t": "Chile. Copa de la liga",
+        "hh": true
+       },
+       {
+        "d": 1765054800,
+        "h": "O'Higgins",
+        "a": "Everton de Vina del Mar",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1750636800,
+        "h": "Everton de Vina del Mar",
+        "a": "O'Higgins",
+        "s": [
+         0,
+         1
+        ],
+        "t": "Chile. Primera Division",
+        "hh": true
+       },
+       {
+        "d": 1722702600,
+        "h": "Everton de Vina del Mar",
+        "a": "O'Higgins",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Chile. Primera Division",
+        "hh": true
+       },
+       {
+        "d": 1709413200,
+        "h": "O'Higgins",
+        "a": "Everton de Vina del Mar",
+        "s": [
+         2,
+         1
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1701559800,
+        "h": "Everton de Vina del Mar",
+        "a": "O'Higgins",
+        "s": [
+         0,
+         2
+        ],
+        "t": "Chile. Primera Division",
+        "hh": true
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795273200,
+        "o": "Coquimbo Unido",
+        "gf": 1,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1794083400,
+        "o": "Club Deportes Concepcion",
+        "gf": 0,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1793556000,
+        "o": "Cobresal",
+        "gf": 2,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1793048400,
+        "o": "Universidad de Chile",
+        "gf": 1,
+        "ga": 4,
+        "dom": false
+       },
+       {
+        "d": 1791732600,
+        "o": "Deportes La Serena",
+        "gf": 3,
+        "ga": 2,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795294800,
+        "o": "Universidad de Chile",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1794691800,
+        "o": "Coquimbo Unido",
+        "gf": 0,
+        "ga": 3,
+        "dom": false
+       },
+       {
+        "d": 1794178800,
+        "o": "FC Universidad de Concepción",
+        "gf": 2,
+        "ga": 3,
+        "dom": false
+       },
+       {
+        "d": 1793480400,
+        "o": "FC Nublense",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1792882800,
+        "o": "Cobresal",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "Chile. Primera Division",
+     "home": "Audax Italiano",
+     "away": "Palestino",
+     "start": 1795995000,
+     "odds": {
+      "1": 2.3,
+      "X": 3.34,
+      "2": 2.9
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/8927ca0978125e0f6abdf962d447111f.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/ed709f2fb5976fd1a5d619b288abe5b5.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/28298-Chile-Primera-Division/396792597-Audax-Italiano-Palestino",
+     "eid": 773376217,
+     "tid": 28298,
+     "coupon": {
+      "1": "KTXLJ",
+      "X": "STXLJ",
+      "2": "VTXLJ"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.36,
+       "12": 1.28,
+       "X2": 1.55
+      },
+      "ou25": {
+       "o": 1.79,
+       "u": 1.94
+      },
+      "btts": {
+       "y": 1.63,
+       "n": 2.142
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1782856800,
+        "h": "Audax Italiano",
+        "a": "Palestino",
+        "s": [
+         3,
+         2
+        ],
+        "t": "Chile. Copa de Chile",
+        "hh": true
+       },
+       {
+        "d": 1782261000,
+        "h": "Palestino",
+        "a": "Audax Italiano",
+        "s": [
+         1,
+         2
+        ],
+        "t": "Chile. Copa de Chile",
+        "hh": false
+       },
+       {
+        "d": 1780272000,
+        "h": "Palestino",
+        "a": "Audax Italiano",
+        "s": [
+         0,
+         0
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1754089200,
+        "h": "Audax Italiano",
+        "a": "Palestino",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Chile. Primera Division",
+        "hh": true
+       },
+       {
+        "d": 1746910800,
+        "h": "Audax Italiano",
+        "a": "Palestino",
+        "s": [
+         2,
+         2
+        ],
+        "t": "Chile. Copa de Chile",
+        "hh": true
+       },
+       {
+        "d": 1740862800,
+        "h": "Palestino",
+        "a": "Audax Italiano",
+        "s": [
+         0,
+         2
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1738011600,
+        "h": "Palestino",
+        "a": "Audax Italiano",
+        "s": [
+         0,
+         2
+        ],
+        "t": "Chile. Copa de Chile",
+        "hh": false
+       },
+       {
+        "d": 1731250800,
+        "h": "Palestino",
+        "a": "Audax Italiano",
+        "s": [
+         2,
+         0
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795208400,
+        "o": "Cobresal",
+        "gf": 2,
+        "ga": 3,
+        "dom": false
+       },
+       {
+        "d": 1794151800,
+        "o": "Coquimbo Unido",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793653200,
+        "o": "Deportes Limache",
+        "gf": 0,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1793230200,
+        "o": "Universidad Católica Santiago",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1792796400,
+        "o": "Huachipato",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795217400,
+        "o": "Unión La Calera",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1794074400,
+        "o": "Deportes La Serena",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1793662200,
+        "o": "Club Deportes Concepcion",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1792960200,
+        "o": "Colo-Colo",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1791759600,
+        "o": "Deportes Limache",
+        "gf": 2,
+        "ga": 2,
+        "dom": false
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "Chile. Primera Division",
+     "home": "FC Nublense",
+     "away": "Cobresal",
+     "start": 1795995000,
+     "odds": {
+      "1": 1.68,
+      "X": 3.95,
+      "2": 4.325
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/5584.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/9cfea0b90ea6f856fa731658901b3784.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/28298-Chile-Primera-Division/396792598-Nublense-Cobresal",
+     "eid": 773376214,
+     "tid": 28298,
+     "coupon": {
+      "1": "F7XLJ",
+      "X": "J7XLJ",
+      "2": "R7XLJ"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.17,
+       "12": 1.21,
+       "X2": 2.07
+      },
+      "ou25": {
+       "o": 1.56,
+       "u": 2.31
+      },
+      "btts": {
+       "y": 1.56,
+       "n": 2.276
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1780092000,
+        "h": "Cobresal",
+        "a": "FC Nublense",
+        "s": [
+         0,
+         1
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1777766400,
+        "h": "FC Nublense",
+        "a": "Cobresal",
+        "s": [
+         2,
+         0
+        ],
+        "t": "Chile. Copa de la liga",
+        "hh": true
+       },
+       {
+        "d": 1774135800,
+        "h": "Cobresal",
+        "a": "FC Nublense",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Chile. Copa de la liga",
+        "hh": false
+       },
+       {
+        "d": 1765141200,
+        "h": "FC Nublense",
+        "a": "Cobresal",
+        "s": [
+         5,
+         0
+        ],
+        "t": "Chile. Primera Division",
+        "hh": true
+       },
+       {
+        "d": 1750627800,
+        "h": "Cobresal",
+        "a": "FC Nublense",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1726336800,
+        "h": "FC Nublense",
+        "a": "Cobresal",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Chile. Primera Division",
+        "hh": true
+       },
+       {
+        "d": 1713639600,
+        "h": "Cobresal",
+        "a": "FC Nublense",
+        "s": [
+         2,
+         2
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1691339400,
+        "h": "FC Nublense",
+        "a": "Cobresal",
+        "s": [
+         1,
+         2
+        ],
+        "t": "Chile. Primera Division",
+        "hh": true
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795303800,
+        "o": "FC Universidad de Concepción",
+        "gf": 3,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1794160800,
+        "o": "Colo-Colo",
+        "gf": 1,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1793480400,
+        "o": "O'Higgins",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1792942200,
+        "o": "Coquimbo Unido",
+        "gf": 2,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1791835200,
+        "o": "Universidad de Chile",
+        "gf": 0,
+        "ga": 6,
+        "dom": false
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795208400,
+        "o": "Audax Italiano",
+        "gf": 3,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1794160800,
+        "o": "Universidad de Chile",
+        "gf": 1,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1793556000,
+        "o": "Everton de Vina del Mar",
+        "gf": 2,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1792882800,
+        "o": "O'Higgins",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1791655200,
+        "o": "FC Universidad de Concepción",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "Chile. Primera Division",
+     "home": "Unión La Calera",
+     "away": "FC Universidad de Concepción",
+     "start": 1795995000,
+     "odds": {
+      "1": 1.88,
+      "X": 3.54,
+      "2": 3.765
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/02d71406353d9f7bd0f543e8a2503ada.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/5626.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/28298-Chile-Primera-Division/396792596-Union-La-Calera-Universidad-de-Concepcion",
+     "eid": 773376689,
+     "tid": 28298,
+     "coupon": {
+      "1": "TUXLJ",
+      "X": "YUXLJ",
+      "2": "TVXLJ"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.222,
+       "12": 1.25,
+       "X2": 1.83
+      },
+      "ou25": {
+       "o": 1.87,
+       "u": 1.87
+      },
+      "btts": {
+       "y": 1.74,
+       "n": 1.977
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1780101000,
+        "h": "FC Universidad de Concepción",
+        "a": "Unión La Calera",
+        "s": [
+         0,
+         0
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1610323200,
+        "h": "Unión La Calera",
+        "a": "FC Universidad de Concepción",
+        "s": [
+         1,
+         2
+        ],
+        "t": "Chile. Primera Division",
+        "hh": true
+       },
+       {
+        "d": 1599573600,
+        "h": "FC Universidad de Concepción",
+        "a": "Unión La Calera",
+        "s": [
+         2,
+         1
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1553895000,
+        "h": "Unión La Calera",
+        "a": "FC Universidad de Concepción",
+        "s": [
+         3,
+         1
+        ],
+        "t": "Chile. Primera Division",
+        "hh": true
+       },
+       {
+        "d": 1535842800,
+        "h": "FC Universidad de Concepción",
+        "a": "Unión La Calera",
+        "s": [
+         2,
+         1
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1523660400,
+        "h": "Unión La Calera",
+        "a": "FC Universidad de Concepción",
+        "s": [
+         1,
+         3
+        ],
+        "t": "Chile. Primera Division",
+        "hh": true
+       },
+       {
+        "d": 1460934000,
+        "h": "Unión La Calera",
+        "a": "FC Universidad de Concepción",
+        "s": [
+         1,
+         2
+        ],
+        "t": "Honduras. Liga Nacional",
+        "hh": true
+       },
+       {
+        "d": 1448305200,
+        "h": "FC Universidad de Concepción",
+        "a": "Unión La Calera",
+        "s": [
+         1,
+         2
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": false
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795217400,
+        "o": "Palestino",
+        "gf": 1,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1794169800,
+        "o": "Huachipato",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1793829600,
+        "o": "Coquimbo Unido",
+        "gf": 0,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1793397600,
+        "o": "Coquimbo Unido",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1792951200,
+        "o": "Universidad Católica Santiago",
+        "gf": 3,
+        "ga": 1,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795303800,
+        "o": "FC Nublense",
+        "gf": 2,
+        "ga": 3,
+        "dom": true
+       },
+       {
+        "d": 1794178800,
+        "o": "O'Higgins",
+        "gf": 3,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1793397600,
+        "o": "Colo-Colo",
+        "gf": 1,
+        "ga": 6,
+        "dom": false
+       },
+       {
+        "d": 1792969200,
+        "o": "Deportes Limache",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1791655200,
+        "o": "Cobresal",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "key": "seleccion",
+   "name": "Selección",
+   "matches": []
+  }
+ ]
+}

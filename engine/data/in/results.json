@@ -1,0 +1,7238 @@
+{
+ "updated": "2026-11-23T16:28:13+00:00",
+ "backfilled": [
+  2783103,
+  1122087,
+  253537,
+  330475,
+  1706694,
+  2905343,
+  125983
+ ],
+ "matches": [
+  {
+   "id": 663913824,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Real Bengaluru",
+   "away": "Parikrama",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1761024600,
+   "group": "liga"
+  },
+  {
+   "id": 663941522,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "United Stars Bangalore",
+   "away": "Bangalore City",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (1:1,3:1)",
+   "start": 1761033600,
+   "group": "liga"
+  },
+  {
+   "id": 663973490,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kickstart",
+   "away": "Agniputhra",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1761042600,
+   "group": "liga"
+  },
+  {
+   "id": 664204647,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "HAL",
+   "away": "Kodagu",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (1:3,0:1)",
+   "start": 1761111000,
+   "group": "liga"
+  },
+  {
+   "id": 664231923,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "SC Bengaluru",
+   "away": "Roots Bengaluru",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1761120000,
+   "group": "liga"
+  },
+  {
+   "id": 664266568,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Rebels Bangalore",
+   "away": "MFAR Students Union",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (1:0,3:1)",
+   "start": 1761129000,
+   "group": "liga"
+  },
+  {
+   "id": 664497466,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bharat Bengaluru",
+   "away": "Bengaluru United",
+   "score": [
+    0,
+    5
+   ],
+   "detail": "0:5 (0:2,0:3)",
+   "start": 1761197400,
+   "group": "liga"
+  },
+  {
+   "id": 664520739,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bengaluru II",
+   "away": "Real Bengaluru",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (1:0,3:0)",
+   "start": 1761204600,
+   "group": "liga"
+  },
+  {
+   "id": 664560733,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "ASC",
+   "away": "MEG & Centre",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1761215400,
+   "group": "liga"
+  },
+  {
+   "id": 664779024,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore City",
+   "away": "Bangalore Dream United",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:0,0:3)",
+   "start": 1761283800,
+   "group": "liga"
+  },
+  {
+   "id": 664808401,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Parikrama",
+   "away": "Kickstart",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1761292800,
+   "group": "liga"
+  },
+  {
+   "id": 664842452,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Agniputhra",
+   "away": "United Stars Bangalore",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1761301800,
+   "group": "liga"
+  },
+  {
+   "id": 665721313,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Roots Bengaluru",
+   "away": "South United Bangalore",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1761543000,
+   "group": "liga"
+  },
+  {
+   "id": 665741449,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kodagu",
+   "away": "Rebels Bangalore",
+   "score": [
+    6,
+    0
+   ],
+   "detail": "6:0 (2:0,4:0)",
+   "start": 1761552000,
+   "group": "liga"
+  },
+  {
+   "id": 665770163,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bengaluru United",
+   "away": "SC Bengaluru",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1761561000,
+   "group": "liga"
+  },
+  {
+   "id": 665967037,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "MFAR Students Union",
+   "away": "ASC",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1761629400,
+   "group": "liga"
+  },
+  {
+   "id": 665993025,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Real Bengaluru",
+   "away": "Bharat Bengaluru",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (3:0,2:1)",
+   "start": 1761638400,
+   "group": "liga"
+  },
+  {
+   "id": 666025068,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "MEG & Centre",
+   "away": "Bangalore City",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:1,0:1)",
+   "start": 1761647400,
+   "group": "liga"
+  },
+  {
+   "id": 666255255,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "United Stars Bangalore",
+   "away": "Parikrama",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1761715800,
+   "group": "liga"
+  },
+  {
+   "id": 666281339,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore Dream United",
+   "away": "Agniputhra",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:3,0:0)",
+   "start": 1761724800,
+   "group": "liga"
+  },
+  {
+   "id": 666316171,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kickstart",
+   "away": "Bengaluru II",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1761733800,
+   "group": "liga"
+  },
+  {
+   "id": 666554080,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Rebels Bangalore",
+   "away": "HAL",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1761801300,
+   "group": "liga"
+  },
+  {
+   "id": 666580310,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "South United Bangalore",
+   "away": "Bengaluru United",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1761811200,
+   "group": "liga"
+  },
+  {
+   "id": 666611320,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "ASC",
+   "away": "Kodagu",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (0:1,1:3)",
+   "start": 1761819300,
+   "group": "liga"
+  },
+  {
+   "id": 666826881,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "SC Bengaluru",
+   "away": "Real Bengaluru",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1761888600,
+   "group": "liga"
+  },
+  {
+   "id": 666851468,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore City",
+   "away": "MFAR Students Union",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1761897600,
+   "group": "liga"
+  },
+  {
+   "id": 666882980,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bharat Bengaluru",
+   "away": "Kickstart",
+   "score": [
+    0,
+    7
+   ],
+   "detail": "0:7 (0:3,0:4)",
+   "start": 1761906600,
+   "group": "liga"
+  },
+  {
+   "id": 667732586,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Agniputhra",
+   "away": "MEG & Centre",
+   "score": [
+    6,
+    0
+   ],
+   "detail": "6:0 (3:0,3:0)",
+   "start": 1762147800,
+   "group": "liga"
+  },
+  {
+   "id": 667755157,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Parikrama",
+   "away": "Bangalore Dream United",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:1,0:1)",
+   "start": 1762155900,
+   "group": "liga"
+  },
+  {
+   "id": 667788150,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bengaluru II",
+   "away": "United Stars Bangalore",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (1:1,4:0)",
+   "start": 1762165800,
+   "group": "liga"
+  },
+  {
+   "id": 667984478,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bengaluru United",
+   "away": "Roots Bengaluru",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762234200,
+   "group": "liga"
+  },
+  {
+   "id": 668010181,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "HAL",
+   "away": "ASC",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1762243200,
+   "group": "liga"
+  },
+  {
+   "id": 668038435,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Real Bengaluru",
+   "away": "South United Bangalore",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1762252200,
+   "group": "liga"
+  },
+  {
+   "id": 668251323,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kodagu",
+   "away": "Bangalore City",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1762319700,
+   "group": "liga"
+  },
+  {
+   "id": 668274407,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "MFAR Students Union",
+   "away": "Agniputhra",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:1,0:2)",
+   "start": 1762328700,
+   "group": "liga"
+  },
+  {
+   "id": 668305405,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kickstart",
+   "away": "SC Bengaluru",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1762338600,
+   "group": "liga"
+  },
+  {
+   "id": 668528709,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "United Stars Bangalore",
+   "away": "Bharat Bengaluru",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (1:0,3:0)",
+   "start": 1762407000,
+   "group": "liga"
+  },
+  {
+   "id": 668553213,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "MEG & Centre",
+   "away": "Parikrama",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:1,1:2)",
+   "start": 1762416000,
+   "group": "liga"
+  },
+  {
+   "id": 668583526,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore Dream United",
+   "away": "Bengaluru II",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:2,1:1)",
+   "start": 1762424100,
+   "group": "liga"
+  },
+  {
+   "id": 668796340,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "ASC",
+   "away": "Rebels Bangalore",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:2,2:0)",
+   "start": 1762493400,
+   "group": "liga"
+  },
+  {
+   "id": 668821643,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Roots Bengaluru",
+   "away": "Real Bengaluru",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1762501500,
+   "group": "liga"
+  },
+  {
+   "id": 668852366,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore City",
+   "away": "HAL",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762510500,
+   "group": "liga"
+  },
+  {
+   "id": 669705881,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "SC Bengaluru",
+   "away": "United Stars Bangalore",
+   "score": [
+    4,
+    3
+   ],
+   "detail": "4:3 (2:1,2:2)",
+   "start": 1762752600,
+   "group": "liga"
+  },
+  {
+   "id": 669727579,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "South United Bangalore",
+   "away": "Kickstart",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1762761600,
+   "group": "liga"
+  },
+  {
+   "id": 669752503,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Agniputhra",
+   "away": "Kodagu",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:2,1:1)",
+   "start": 1762770600,
+   "group": "liga"
+  },
+  {
+   "id": 669935326,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Parikrama",
+   "away": "MFAR Students Union",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:0,1:2)",
+   "start": 1762839000,
+   "group": "liga"
+  },
+  {
+   "id": 669960930,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bengaluru II",
+   "away": "MEG & Centre",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:1,2:1)",
+   "start": 1762848000,
+   "group": "liga"
+  },
+  {
+   "id": 669987101,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bharat Bengaluru",
+   "away": "Bangalore Dream United",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:2,1:1)",
+   "start": 1762857000,
+   "group": "liga"
+  },
+  {
+   "id": 670194064,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Real Bengaluru",
+   "away": "Bengaluru United",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1762925280,
+   "group": "liga"
+  },
+  {
+   "id": 670218582,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Rebels Bangalore",
+   "away": "Bangalore City",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1762934340,
+   "group": "liga"
+  },
+  {
+   "id": 670251445,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kickstart",
+   "away": "Roots Bengaluru",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1762943400,
+   "group": "liga"
+  },
+  {
+   "id": 670471938,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "HAL",
+   "away": "Agniputhra",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1763011800,
+   "group": "liga"
+  },
+  {
+   "id": 670497876,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "United Stars Bangalore",
+   "away": "South United Bangalore",
+   "score": [
+    1,
+    7
+   ],
+   "detail": "1:7 (1:2,0:5)",
+   "start": 1763020680,
+   "group": "liga"
+  },
+  {
+   "id": 670527034,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kodagu",
+   "away": "Parikrama",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (1:0,4:1)",
+   "start": 1763029800,
+   "group": "liga"
+  },
+  {
+   "id": 670726523,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore Dream United",
+   "away": "SC Bengaluru",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1763097300,
+   "group": "liga"
+  },
+  {
+   "id": 670752229,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "MFAR Students Union",
+   "away": "Bengaluru II",
+   "score": [
+    1,
+    8
+   ],
+   "detail": "1:8 (1:4,0:4)",
+   "start": 1763107200,
+   "group": "liga"
+  },
+  {
+   "id": 670781000,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "MEG & Centre",
+   "away": "Bharat Bengaluru",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (1:0,3:0)",
+   "start": 1763116140,
+   "group": "liga"
+  },
+  {
+   "id": 671594003,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Real Bengaluru",
+   "away": "Kickstart",
+   "score": [
+    0,
+    6
+   ],
+   "detail": "0:6 (0:3,0:3)",
+   "start": 1763357400,
+   "group": "liga"
+  },
+  {
+   "id": 671615666,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Agniputhra",
+   "away": "ASC",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1763366400,
+   "group": "liga"
+  },
+  {
+   "id": 671638696,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bengaluru United",
+   "away": "United Stars Bangalore",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1763374500,
+   "group": "liga"
+  },
+  {
+   "id": 671834847,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bengaluru II",
+   "away": "HAL",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (1:1,3:0)",
+   "start": 1763443800,
+   "group": "liga"
+  },
+  {
+   "id": 671852807,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Parikrama",
+   "away": "Rebels Bangalore",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1763452800,
+   "group": "liga"
+  },
+  {
+   "id": 671882307,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Roots Bengaluru",
+   "away": "Bangalore Dream United",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1763461800,
+   "group": "liga"
+  },
+  {
+   "id": 672100259,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "South United Bangalore",
+   "away": "MEG & Centre",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1763530200,
+   "group": "liga"
+  },
+  {
+   "id": 672154572,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "SC Bengaluru",
+   "away": "MFAR Students Union",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:0,3:1)",
+   "start": 1763548200,
+   "group": "liga"
+  },
+  {
+   "id": 672369266,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "ASC",
+   "away": "Bangalore City",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1763616600,
+   "group": "liga"
+  },
+  {
+   "id": 672396090,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Rebels Bangalore",
+   "away": "Agniputhra",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:3,1:0)",
+   "start": 1763625600,
+   "group": "liga"
+  },
+  {
+   "id": 672424380,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kickstart",
+   "away": "Bengaluru United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1763634600,
+   "group": "liga"
+  },
+  {
+   "id": 672617186,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "United Stars Bangalore",
+   "away": "Roots Bengaluru",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1763703000,
+   "group": "liga"
+  },
+  {
+   "id": 672641122,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "HAL",
+   "away": "Parikrama",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1763712000,
+   "group": "liga"
+  },
+  {
+   "id": 672669896,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore Dream United",
+   "away": "South United Bangalore",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:2,0:2)",
+   "start": 1763720880,
+   "group": "liga"
+  },
+  {
+   "id": 673506520,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "MEG & Centre",
+   "away": "SC Bengaluru",
+   "score": [
+    4,
+    3
+   ],
+   "detail": "4:3 (2:3,2:0)",
+   "start": 1763958600,
+   "group": "liga"
+  },
+  {
+   "id": 673520305,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "MFAR Students Union",
+   "away": "United Bharat",
+   "score": [
+    5,
+    2
+   ],
+   "detail": "5:2 (4:0,1:2)",
+   "start": 1763967600,
+   "group": "liga"
+  },
+  {
+   "id": 673544412,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kodagu",
+   "away": "Bengaluru II",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1763976480,
+   "group": "liga"
+  },
+  {
+   "id": 677298155,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "India Culture League",
+   "away": "PIFA Sports",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1765191000,
+   "group": "liga"
+  },
+  {
+   "id": 677549535,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Millat",
+   "away": "Iron Born",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1765272600,
+   "group": "liga"
+  },
+  {
+   "id": 677764141,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Reliance Foundation Young Champs",
+   "away": "Kalina Rangers",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (3:1,2:0)",
+   "start": 1765359000,
+   "group": "liga"
+  },
+  {
+   "id": 679110953,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "KSA Hope United",
+   "away": "DK Pharma",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (1:0,3:0)",
+   "start": 1765793400,
+   "group": "liga"
+  },
+  {
+   "id": 679572598,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Bombay Gymkhana",
+   "away": "India on Track",
+   "score": [
+    1,
+    7
+   ],
+   "detail": "1:7 (1:3,0:4)",
+   "start": 1765962900,
+   "group": "liga"
+  },
+  {
+   "id": 679835983,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Millat",
+   "away": "Mumbai Prodigies",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1766050200,
+   "group": "liga"
+  },
+  {
+   "id": 680089829,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Kalina Rangers",
+   "away": "Waves Madh Island",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1766141100,
+   "group": "liga"
+  },
+  {
+   "id": 680650580,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "CFCI",
+   "away": "Kenkre",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1766395800,
+   "group": "liga"
+  },
+  {
+   "id": 681149372,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Maharashtra Oranje",
+   "away": "Bombay Gymkhana",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1766482200,
+   "group": "liga"
+  },
+  {
+   "id": 681372153,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Millat",
+   "away": "Mumbay FC",
+   "score": [
+    2,
+    4
+   ],
+   "detail": "2:4 (0:2,2:2)",
+   "start": 1766567700,
+   "group": "liga"
+  },
+  {
+   "id": 681784352,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "MYJ-GMSC",
+   "away": "CFCI",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (0:0,5:0)",
+   "start": 1766744100,
+   "group": "liga"
+  },
+  {
+   "id": 682310789,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Mumbai City II",
+   "away": "Sellebrity",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1767000600,
+   "group": "liga"
+  },
+  {
+   "id": 683381047,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Millat",
+   "away": "Mumbai Ultras",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1767346200,
+   "group": "liga"
+  },
+  {
+   "id": 684179790,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "CFCI",
+   "away": "Iron Born",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1767608100,
+   "group": "liga"
+  },
+  {
+   "id": 684422864,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Maharashtra Oranje",
+   "away": "Sellebrity",
+   "score": [
+    9,
+    0
+   ],
+   "detail": "9:0 (3:0,6:0)",
+   "start": 1767695400,
+   "group": "liga"
+  },
+  {
+   "id": 684670100,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "KSA Hope United",
+   "away": "Waves Madh Island",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1767857400,
+   "group": "liga"
+  },
+  {
+   "id": 684920375,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Mumbai Prodigies",
+   "away": "Mumbay FC",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1767860700,
+   "group": "liga"
+  },
+  {
+   "id": 684630388,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "India on Track",
+   "away": "DK Pharma",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1767864600,
+   "group": "liga"
+  },
+  {
+   "id": 685181419,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Kalina Rangers",
+   "away": "Bombay Gymkhana",
+   "score": [
+    3,
+    5
+   ],
+   "detail": "3:5 (3:1,0:4)",
+   "start": 1767943800,
+   "group": "liga"
+  },
+  {
+   "id": 686084232,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Kenkre",
+   "away": "Mumbai Ultras",
+   "score": [
+    0,
+    9
+   ],
+   "detail": "0:9 (0:5,0:4)",
+   "start": 1768203000,
+   "group": "liga"
+  },
+  {
+   "id": 685846325,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Waves Madh Island",
+   "away": "Bombay Gymkhana",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1768210200,
+   "group": "liga"
+  },
+  {
+   "id": 686157070,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Kalina Rangers",
+   "away": "KSA Hope United",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:1,2:1)",
+   "start": 1768296600,
+   "group": "liga"
+  },
+  {
+   "id": 686625737,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "India Culture League",
+   "away": "MYJ-GMSC",
+   "score": [
+    1,
+    7
+   ],
+   "detail": "1:7 (0:3,1:4)",
+   "start": 1768383000,
+   "group": "liga"
+  },
+  {
+   "id": 688123506,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Maharashtra Oranje",
+   "away": "Kalina Rangers",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1768815000,
+   "group": "liga"
+  },
+  {
+   "id": 688374990,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "MYJ-GMSC",
+   "away": "Iron Born",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1768901400,
+   "group": "liga"
+  },
+  {
+   "id": 688697251,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "CFCI",
+   "away": "PIFA Sports",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1768980600,
+   "group": "liga"
+  },
+  {
+   "id": 688720256,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Reliance Foundation Young Champs",
+   "away": "Bombay Gymkhana",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1768986900,
+   "group": "liga"
+  },
+  {
+   "id": 688993999,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "KSA Hope United",
+   "away": "Waves Madh Island",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1769068800,
+   "group": "liga"
+  },
+  {
+   "id": 689010550,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "India Culture League",
+   "away": "Mumbai Ultras",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:0,2:2)",
+   "start": 1769074200,
+   "group": "liga"
+  },
+  {
+   "id": 689083784,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "India on Track",
+   "away": "Kalina Rangers",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:1,0:3)",
+   "start": 1769153400,
+   "group": "liga"
+  },
+  {
+   "id": 689281429,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Mumbay FC",
+   "away": "Iron Born",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1769160600,
+   "group": "liga"
+  },
+  {
+   "id": 690441615,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "PIFA Sports",
+   "away": "MYJ-GMSC",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1769499000,
+   "group": "liga"
+  },
+  {
+   "id": 690478482,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Iron Born",
+   "away": "Mumbai Ultras",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:0,1:3)",
+   "start": 1769506200,
+   "group": "liga"
+  },
+  {
+   "id": 690714711,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Waves Madh Island",
+   "away": "Bombay Gymkhana",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1769585400,
+   "group": "liga"
+  },
+  {
+   "id": 690669189,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Reliance Foundation Young Champs",
+   "away": "Sellebrity",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1769671800,
+   "group": "liga"
+  },
+  {
+   "id": 691028069,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Millat",
+   "away": "CFCI",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1769678100,
+   "group": "liga"
+  },
+  {
+   "id": 692481846,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Kenkre",
+   "away": "Mumbai Prodigies",
+   "score": [
+    0,
+    6
+   ],
+   "detail": "0:6 (0:1,0:5)",
+   "start": 1770103800,
+   "group": "liga"
+  },
+  {
+   "id": 692503078,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Sellebrity",
+   "away": "Waves Madh Island",
+   "score": [
+    0,
+    7
+   ],
+   "detail": "0:7 (0:2,0:5)",
+   "start": 1770111000,
+   "group": "liga"
+  },
+  {
+   "id": 693075411,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Kalina Rangers",
+   "away": "Mumbai City II",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1770285600,
+   "group": "liga"
+  },
+  {
+   "id": 693316062,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Mumbai Ultras",
+   "away": "MYJ-GMSC",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:1,0:3)",
+   "start": 1770364800,
+   "group": "liga"
+  },
+  {
+   "id": 693349436,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Iron Born",
+   "away": "India Culture League",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:2,0:2)",
+   "start": 1770370200,
+   "group": "liga"
+  },
+  {
+   "id": 694202983,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Mumbai City II",
+   "away": "DK Pharma",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1770621300,
+   "group": "liga"
+  },
+  {
+   "id": 693919615,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Mumbai City II",
+   "away": "DK Pharma",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1770622200,
+   "group": "liga"
+  },
+  {
+   "id": 694223150,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "CFCI",
+   "away": "Mumbay FC",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1770629400,
+   "group": "liga"
+  },
+  {
+   "id": 694453245,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Mumbai Prodigies",
+   "away": "India Culture League",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1770708600,
+   "group": "liga"
+  },
+  {
+   "id": 695026707,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Kenkre",
+   "away": "PIFA Sports",
+   "score": [
+    0,
+    6
+   ],
+   "detail": "0:6 (0:1,0:5)",
+   "start": 1770888600,
+   "group": "liga"
+  },
+  {
+   "id": 695260319,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Mumbai City II",
+   "away": "Sellebrity",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (1:1,3:0)",
+   "start": 1770969600,
+   "group": "liga"
+  },
+  {
+   "id": 695295999,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Mumbay FC",
+   "away": "MYJ-GMSC",
+   "score": [
+    0,
+    6
+   ],
+   "detail": "0:6 (0:2,0:4)",
+   "start": 1770977700,
+   "group": "liga"
+  },
+  {
+   "id": 695598851,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Mohun Bagan Super Giant",
+   "away": "Kerala Blasters",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1771068600,
+   "group": "liga"
+  },
+  {
+   "id": 695640566,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Goa",
+   "away": "Inter Kashi",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1771076700,
+   "group": "liga"
+  },
+  {
+   "id": 695912003,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Jamshedpur",
+   "away": "Mohammedan Kolkata",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1771155000,
+   "group": "liga"
+  },
+  {
+   "id": 695952332,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Bengaluru",
+   "away": "Sporting Delhi",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1771164000,
+   "group": "liga"
+  },
+  {
+   "id": 696213154,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "East Bengal",
+   "away": "North East United",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (0:0,3:0)",
+   "start": 1771250400,
+   "group": "liga"
+  },
+  {
+   "id": 696385680,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Maharashtra Oranje",
+   "away": "Reliance Foundation Young Champs",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1771313400,
+   "group": "liga"
+  },
+  {
+   "id": 696414219,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "KSA Hope United",
+   "away": "Sellebrity",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (3:0,1:0)",
+   "start": 1771320600,
+   "group": "liga"
+  },
+  {
+   "id": 696651044,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Mumbai City II",
+   "away": "Bombay Gymkhana",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:0,2:2)",
+   "start": 1771398900,
+   "group": "liga"
+  },
+  {
+   "id": 696923158,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "PIFA Sports",
+   "away": "Iron Born",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:1,2:1)",
+   "start": 1771486200,
+   "group": "liga"
+  },
+  {
+   "id": 696962838,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Mumbai Prodigies",
+   "away": "Mumbai Ultras",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1771497000,
+   "group": "liga"
+  },
+  {
+   "id": 697002559,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Mumbai City",
+   "away": "Chennaiyin",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1771509600,
+   "group": "liga"
+  },
+  {
+   "id": 697195398,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "DK Pharma",
+   "away": "Kalina Rangers",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1771572600,
+   "group": "liga"
+  },
+  {
+   "id": 697224085,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Millat",
+   "away": "India Culture League",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1771579800,
+   "group": "liga"
+  },
+  {
+   "id": 697279040,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Mohammedan Kolkata",
+   "away": "Goa",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1771596000,
+   "group": "liga"
+  },
+  {
+   "id": 697549807,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "East Bengal",
+   "away": "Sporting Delhi",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (3:1,1:0)",
+   "start": 1771673400,
+   "group": "liga"
+  },
+  {
+   "id": 697593224,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Jamshedpur",
+   "away": "Punjab FC",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1771682400,
+   "group": "liga"
+  },
+  {
+   "id": 697883965,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Bengaluru",
+   "away": "North East United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1771759800,
+   "group": "liga"
+  },
+  {
+   "id": 697924497,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Kerala Blasters",
+   "away": "Mumbai City",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1771767900,
+   "group": "liga"
+  },
+  {
+   "id": 698126833,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Waves Madh Island",
+   "away": "Maharashtra Oranje",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1771831800,
+   "group": "liga"
+  },
+  {
+   "id": 698147811,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Millat",
+   "away": "PIFA Sports",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1771839000,
+   "group": "liga"
+  },
+  {
+   "id": 698196228,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Mohun Bagan Super Giant",
+   "away": "Chennaiyin",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1771854300,
+   "group": "liga"
+  },
+  {
+   "id": 698364781,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Reliance Foundation Young Champs",
+   "away": "India on Track",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1771918200,
+   "group": "liga"
+  },
+  {
+   "id": 698387633,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "KSA Hope United",
+   "away": "Mumbai City II",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1771925400,
+   "group": "liga"
+  },
+  {
+   "id": 698443932,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Odisha",
+   "away": "Inter Kashi",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1771941600,
+   "group": "liga"
+  },
+  {
+   "id": 698657925,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "CFCI",
+   "away": "Mumbai Prodigies",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1772011800,
+   "group": "liga"
+  },
+  {
+   "id": 698914659,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Sellebrity",
+   "away": "Kalina Rangers",
+   "score": [
+    1,
+    6
+   ],
+   "detail": "1:6 (1:1,0:5)",
+   "start": 1772091000,
+   "group": "liga"
+  },
+  {
+   "id": 698948448,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "DK Pharma",
+   "away": "Waves Madh Island",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1772100900,
+   "group": "liga"
+  },
+  {
+   "id": 698991516,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Goa",
+   "away": "Sporting Delhi",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1772113500,
+   "group": "liga"
+  },
+  {
+   "id": 699181598,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "India on Track",
+   "away": "Maharashtra Oranje",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1772177400,
+   "group": "liga"
+  },
+  {
+   "id": 699036661,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "India on Track",
+   "away": "Maharashtra Oranje",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1772177400,
+   "group": "liga"
+  },
+  {
+   "id": 699205654,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Reliance Foundation Young Champs",
+   "away": "Mumbai City II",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1772184600,
+   "group": "liga"
+  },
+  {
+   "id": 699218458,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Namdhari",
+   "away": "Aizawl",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1772188200,
+   "group": "liga"
+  },
+  {
+   "id": 699230115,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "East Bengal",
+   "away": "Jamshedpur",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1772191800,
+   "group": "liga"
+  },
+  {
+   "id": 699248659,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Chanmari",
+   "away": "Gokulam Kerala",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1772197200,
+   "group": "liga"
+  },
+  {
+   "id": 699260800,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Bengaluru",
+   "away": "Punjab FC",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1772199900,
+   "group": "liga"
+  },
+  {
+   "id": 699528808,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Kerala Blasters",
+   "away": "Inter Kashi",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1772278200,
+   "group": "liga"
+  },
+  {
+   "id": 699550557,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "DHFC",
+   "away": "Sreenidi Deccan",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1772283600,
+   "group": "liga"
+  },
+  {
+   "id": 699569842,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Mohun Bagan Super Giant",
+   "away": "Mohammedan Kolkata",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (3:1,2:0)",
+   "start": 1772287200,
+   "group": "liga"
+  },
+  {
+   "id": 699832648,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Dempo",
+   "away": "Real Kashmir",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1772361000,
+   "group": "liga"
+  },
+  {
+   "id": 699847523,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Odisha",
+   "away": "Chennaiyin",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1772364600,
+   "group": "liga"
+  },
+  {
+   "id": 699868433,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Shillong Lajong",
+   "away": "Rajasthan United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1772370000,
+   "group": "liga"
+  },
+  {
+   "id": 699886293,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Mumbai City",
+   "away": "North East United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1772373600,
+   "group": "liga"
+  },
+  {
+   "id": 700090962,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Kenkre",
+   "away": "Mumbay FC",
+   "score": [
+    1,
+    6
+   ],
+   "detail": "1:6 (1:2,0:4)",
+   "start": 1772437500,
+   "group": "liga"
+  },
+  {
+   "id": 700109065,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Millat",
+   "away": "MYJ-GMSC",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1)",
+   "start": 1772445300,
+   "group": "liga"
+  },
+  {
+   "id": 700083559,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Millat",
+   "away": "MYJ-GMSC",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1)",
+   "start": 1772445300,
+   "group": "liga"
+  },
+  {
+   "id": 700600911,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Reliance Foundation Young Champs",
+   "away": "KSA Hope United",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1772609400,
+   "group": "liga"
+  },
+  {
+   "id": 700625778,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "India on Track",
+   "away": "Maharashtra Oranje",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1772616600,
+   "group": "liga"
+  },
+  {
+   "id": 700885852,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Mumbay FC",
+   "away": "PIFA Sports",
+   "score": [
+    0,
+    5
+   ],
+   "detail": "0:5 (0:1,0:4)",
+   "start": 1772695800,
+   "group": "liga"
+  },
+  {
+   "id": 700910534,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "CFCI",
+   "away": "Mumbai Ultras",
+   "score": [
+    0,
+    5
+   ],
+   "detail": "0:5 (0:2,0:3)",
+   "start": 1772703000,
+   "group": "liga"
+  },
+  {
+   "id": 700933957,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "East Bengal",
+   "away": "Goa",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1772710200,
+   "group": "liga"
+  },
+  {
+   "id": 701160076,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Kenkre",
+   "away": "India Culture League",
+   "score": [
+    0,
+    8
+   ],
+   "detail": "0:8 (0:2,0:6)",
+   "start": 1772782200,
+   "group": "liga"
+  },
+  {
+   "id": 701182729,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Mumbai Prodigies",
+   "away": "Iron Born",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1772789400,
+   "group": "liga"
+  },
+  {
+   "id": 701206089,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Mohun Bagan Super Giant",
+   "away": "Odisha",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (4:1,1:0)",
+   "start": 1772796600,
+   "group": "liga"
+  },
+  {
+   "id": 701227476,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Aizawl",
+   "away": "Rajasthan United",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1772802000,
+   "group": "liga"
+  },
+  {
+   "id": 701237853,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Jamshedpur",
+   "away": "Inter Kashi",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1772805600,
+   "group": "liga"
+  },
+  {
+   "id": 701503262,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Gokulam Kerala",
+   "away": "Namdhari",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1772879400,
+   "group": "liga"
+  },
+  {
+   "id": 701517468,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Mohammedan Kolkata",
+   "away": "Bengaluru",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1772883000,
+   "group": "liga"
+  },
+  {
+   "id": 701539658,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Chanmari",
+   "away": "Sreenidi Deccan",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1772888400,
+   "group": "liga"
+  },
+  {
+   "id": 701559034,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Kerala Blasters",
+   "away": "Chennaiyin",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1772892000,
+   "group": "liga"
+  },
+  {
+   "id": 701836873,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "DHFC",
+   "away": "Dempo",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1772964900,
+   "group": "liga"
+  },
+  {
+   "id": 701873344,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Shillong Lajong",
+   "away": "Real Kashmir",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1772974800,
+   "group": "liga"
+  },
+  {
+   "id": 701891847,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Mumbai City",
+   "away": "Sporting Delhi",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:1,0:1)",
+   "start": 1772978400,
+   "group": "liga"
+  },
+  {
+   "id": 702111799,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Bombay Gymkhana",
+   "away": "Sellebrity",
+   "score": [
+    10,
+    0
+   ],
+   "detail": "10:0 (3:0,7:0)",
+   "start": 1773049500,
+   "group": "liga"
+  },
+  {
+   "id": 702160159,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Punjab FC",
+   "away": "North East United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1773064800,
+   "group": "liga"
+  },
+  {
+   "id": 702339670,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Mumbai City II",
+   "away": "Waves Madh Island",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1773127800,
+   "group": "liga"
+  },
+  {
+   "id": 702362956,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Kenkre",
+   "away": "MYJ-GMSC",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1773135000,
+   "group": "liga"
+  },
+  {
+   "id": 702612339,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "CFCI",
+   "away": "India Culture League",
+   "score": [
+    1,
+    7
+   ],
+   "detail": "1:7 (1:5,0:2)",
+   "start": 1773214200,
+   "group": "liga"
+  },
+  {
+   "id": 702644471,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "PIFA Sports",
+   "away": "Mumbai Prodigies",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1773223200,
+   "group": "liga"
+  },
+  {
+   "id": 702959324,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Chanmari",
+   "away": "Dempo",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:1,0:1)",
+   "start": 1773320400,
+   "group": "liga"
+  },
+  {
+   "id": 703173042,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Iron Born",
+   "away": "Kenkre",
+   "score": [
+    6,
+    3
+   ],
+   "detail": "6:3 (4:0,2:3)",
+   "start": 1773387000,
+   "group": "liga"
+  },
+  {
+   "id": 703190647,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Mumbai City II",
+   "away": "Maharashtra Oranje",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1773394200,
+   "group": "liga"
+  },
+  {
+   "id": 703201485,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Rajasthan United",
+   "away": "Namdhari",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:0,2:2)",
+   "start": 1773396900,
+   "group": "liga"
+  },
+  {
+   "id": 703234637,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Aizawl",
+   "away": "Real Kashmir",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1773406800,
+   "group": "liga"
+  },
+  {
+   "id": 703511400,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Gokulam Kerala",
+   "away": "Sreenidi Deccan",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1773484200,
+   "group": "liga"
+  },
+  {
+   "id": 703526740,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "East Bengal",
+   "away": "Kerala Blasters",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1773487800,
+   "group": "liga"
+  },
+  {
+   "id": 703549139,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Shillong Lajong",
+   "away": "DHFC",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1773492300,
+   "group": "liga"
+  },
+  {
+   "id": 703568217,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Bengaluru",
+   "away": "Mohun Bagan Super Giant",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1773495900,
+   "group": "liga"
+  },
+  {
+   "id": 703861297,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "North East United",
+   "away": "Jamshedpur",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1773574200,
+   "group": "liga"
+  },
+  {
+   "id": 703376258,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Inter Kashi",
+   "away": "Mumbai City II",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1773583200,
+   "group": "liga"
+  },
+  {
+   "id": 703901954,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Inter Kashi",
+   "away": "Mumbai City",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1773583200,
+   "group": "liga"
+  },
+  {
+   "id": 704166424,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Punjab FC",
+   "away": "Goa",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1773669600,
+   "group": "liga"
+  },
+  {
+   "id": 704377990,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Rajasthan United",
+   "away": "Real Kashmir",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1773742500,
+   "group": "liga"
+  },
+  {
+   "id": 704945639,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Chanmari",
+   "away": "Shillong Lajong",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1773916200,
+   "group": "liga"
+  },
+  {
+   "id": 704978431,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Sreenidi Deccan",
+   "away": "Namdhari",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1773925200,
+   "group": "liga"
+  },
+  {
+   "id": 704990459,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Sporting Delhi",
+   "away": "Jamshedpur",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1773928800,
+   "group": "liga"
+  },
+  {
+   "id": 705231376,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Gokulam Kerala",
+   "away": "Dempo",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1774002600,
+   "group": "liga"
+  },
+  {
+   "id": 705243447,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "North East United",
+   "away": "Odisha",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (1:2,0:2)",
+   "start": 1774005300,
+   "group": "liga"
+  },
+  {
+   "id": 705261457,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Aizawl",
+   "away": "DHFC",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1774010700,
+   "group": "liga"
+  },
+  {
+   "id": 705274889,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Mohun Bagan Super Giant",
+   "away": "Mumbai City",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1774015200,
+   "group": "liga"
+  },
+  {
+   "id": 705593365,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Kerala Blasters",
+   "away": "Punjab FC",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:3,1:0)",
+   "start": 1774101600,
+   "group": "liga"
+  },
+  {
+   "id": 705895470,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Chennaiyin",
+   "away": "Goa",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1774179000,
+   "group": "liga"
+  },
+  {
+   "id": 705936447,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Inter Kashi",
+   "away": "Bengaluru",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:1,0:2)",
+   "start": 1774188000,
+   "group": "liga"
+  },
+  {
+   "id": 706215405,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "East Bengal",
+   "away": "Mohammedan Kolkata",
+   "score": [
+    7,
+    0
+   ],
+   "detail": "7:0 (3:0,4:0)",
+   "start": 1774274400,
+   "group": "liga"
+  },
+  {
+   "id": 706457764,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Aizawl",
+   "away": "Chanmari",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (0:2,3:0)",
+   "start": 1774357200,
+   "group": "liga"
+  },
+  {
+   "id": 706699928,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Real Kashmir",
+   "away": "Namdhari",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1774434600,
+   "group": "liga"
+  },
+  {
+   "id": 706733344,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Sreenidi Deccan",
+   "away": "Dempo",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1774443600,
+   "group": "liga"
+  },
+  {
+   "id": 706982737,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Rajasthan United",
+   "away": "DHFC",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1774520100,
+   "group": "liga"
+  },
+  {
+   "id": 706982756,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Gokulam Kerala",
+   "away": "Shillong Lajong",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1774520100,
+   "group": "liga"
+  },
+  {
+   "id": 708443425,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Gokulam Kerala",
+   "away": "Aizawl",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (3:0,1:2)",
+   "start": 1774953000,
+   "group": "liga"
+  },
+  {
+   "id": 708715505,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Rajasthan United",
+   "away": "Chanmari",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1775038500,
+   "group": "liga"
+  },
+  {
+   "id": 708749611,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Sreenidi Deccan",
+   "away": "Shillong Lajong",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1775048400,
+   "group": "liga"
+  },
+  {
+   "id": 709005489,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Real Kashmir",
+   "away": "DHFC",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1775125800,
+   "group": "liga"
+  },
+  {
+   "id": 709005491,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Dempo",
+   "away": "Namdhari",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1775125800,
+   "group": "liga"
+  },
+  {
+   "id": 709345513,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Punjab FC",
+   "away": "Mohammedan Kolkata",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1775224800,
+   "group": "liga"
+  },
+  {
+   "id": 709603917,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "India on Track",
+   "away": "Maharashtra Oranje",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:2,1:1)",
+   "start": 1775298600,
+   "group": "liga"
+  },
+  {
+   "id": 709615635,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Jamshedpur",
+   "away": "Mohun Bagan Super Giant",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1775302200,
+   "group": "liga"
+  },
+  {
+   "id": 709655523,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Goa",
+   "away": "Bengaluru",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1775311200,
+   "group": "liga"
+  },
+  {
+   "id": 709925756,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Sporting Delhi",
+   "away": "Kerala Blasters",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1775388600,
+   "group": "liga"
+  },
+  {
+   "id": 709947918,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Sreenidi Deccan",
+   "away": "Aizawl",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1775394000,
+   "group": "liga"
+  },
+  {
+   "id": 709960931,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Mumbai City",
+   "away": "Odisha",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1775397600,
+   "group": "liga"
+  },
+  {
+   "id": 710182184,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "KSA Hope United",
+   "away": "MYJ-GMSC",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1775471400,
+   "group": "liga"
+  },
+  {
+   "id": 710182182,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Namdhari",
+   "away": "DHFC",
+   "score": [
+    4,
+    5
+   ],
+   "detail": "4:5 (1:2,3:3)",
+   "start": 1775471400,
+   "group": "liga"
+  },
+  {
+   "id": 710217102,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Real Kashmir",
+   "away": "Chanmari",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1775480400,
+   "group": "liga"
+  },
+  {
+   "id": 710453688,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Mumbay FC",
+   "away": "Reliance Foundation Young Champs",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:0,1:3)",
+   "start": 1775557800,
+   "group": "liga"
+  },
+  {
+   "id": 710453687,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Rajasthan United",
+   "away": "Gokulam Kerala",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1775557800,
+   "group": "liga"
+  },
+  {
+   "id": 710486001,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Dempo",
+   "away": "Shillong Lajong",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1775566800,
+   "group": "liga"
+  },
+  {
+   "id": 710499072,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Chennaiyin",
+   "away": "Inter Kashi",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1775570400,
+   "group": "liga"
+  },
+  {
+   "id": 710705724,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Maharashtra Oranje",
+   "away": "Mumbai Ultras",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1775637000,
+   "group": "liga"
+  },
+  {
+   "id": 710732834,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "India on Track",
+   "away": "India Culture League",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1775644200,
+   "group": "liga"
+  },
+  {
+   "id": 711066440,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Jamshedpur",
+   "away": "Mumbai City",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1775743200,
+   "group": "liga"
+  },
+  {
+   "id": 711302173,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Reliance Foundation Young Champs",
+   "away": "KSA Hope United",
+   "score": [
+    5,
+    4
+   ],
+   "detail": "5:4 (3:2,2:2)",
+   "start": 1775817000,
+   "group": "liga"
+  },
+  {
+   "id": 711302172,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Namdhari",
+   "away": "Shillong Lajong",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1775817000,
+   "group": "liga"
+  },
+  {
+   "id": 711315864,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "North East United",
+   "away": "Sporting Delhi",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:0,0:3)",
+   "start": 1775820600,
+   "group": "liga"
+  },
+  {
+   "id": 711352019,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Goa",
+   "away": "Odisha",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:0,3:1)",
+   "start": 1775829600,
+   "group": "liga"
+  },
+  {
+   "id": 711625238,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Dempo",
+   "away": "Aizawl",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1775903400,
+   "group": "liga"
+  },
+  {
+   "id": 711638437,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Chennaiyin",
+   "away": "East Bengal",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:1,0:2)",
+   "start": 1775906100,
+   "group": "liga"
+  },
+  {
+   "id": 711666565,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "DHFC",
+   "away": "Chanmari",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:0,3:1)",
+   "start": 1775912400,
+   "group": "liga"
+  },
+  {
+   "id": 711682278,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Bengaluru",
+   "away": "Kerala Blasters",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1775915100,
+   "group": "liga"
+  },
+  {
+   "id": 711963703,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Real Kashmir",
+   "away": "Gokulam Kerala",
+   "score": [
+    6,
+    2
+   ],
+   "detail": "6:2 (1:1,5:1)",
+   "start": 1775989800,
+   "group": "liga"
+  },
+  {
+   "id": 711975206,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Inter Kashi",
+   "away": "Mohammedan Kolkata",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1775993400,
+   "group": "liga"
+  },
+  {
+   "id": 712000410,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Sreenidi Deccan",
+   "away": "Rajasthan United",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1775998800,
+   "group": "liga"
+  },
+  {
+   "id": 712015974,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Mohun Bagan Super Giant",
+   "away": "Punjab FC",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:1,2:1)",
+   "start": 1776002400,
+   "group": "liga"
+  },
+  {
+   "id": 712783298,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "India Culture League",
+   "away": "Maharashtra Oranje",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1776249000,
+   "group": "liga"
+  },
+  {
+   "id": 712826595,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Kerala Blasters",
+   "away": "North East United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1776261600,
+   "group": "liga"
+  },
+  {
+   "id": 713107780,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "East Bengal",
+   "away": "Bengaluru",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (1:2,2:1)",
+   "start": 1776348000,
+   "group": "liga"
+  },
+  {
+   "id": 713335096,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Namdhari",
+   "away": "Chanmari",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (0:1,1:3)",
+   "start": 1776421800,
+   "group": "liga"
+  },
+  {
+   "id": 713346986,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Chennaiyin",
+   "away": "Sporting Delhi",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1776425400,
+   "group": "liga"
+  },
+  {
+   "id": 713384610,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Odisha",
+   "away": "Mohammedan Kolkata",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1776434400,
+   "group": "liga"
+  },
+  {
+   "id": 713650299,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "DHFC",
+   "away": "Gokulam Kerala",
+   "score": [
+    5,
+    2
+   ],
+   "detail": "5:2 (1:1,4:1)",
+   "start": 1776508200,
+   "group": "liga"
+  },
+  {
+   "id": 713662775,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Kerala Blasters",
+   "away": "Jamshedpur",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1776511800,
+   "group": "liga"
+  },
+  {
+   "id": 713689845,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Shillong Lajong",
+   "away": "Aizawl",
+   "score": [
+    6,
+    1
+   ],
+   "detail": "6:1 (2:0,4:1)",
+   "start": 1776517200,
+   "group": "liga"
+  },
+  {
+   "id": 713706730,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Goa",
+   "away": "Mumbai City",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1776520800,
+   "group": "liga"
+  },
+  {
+   "id": 713984926,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Dempo",
+   "away": "Rajasthan United",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1776594600,
+   "group": "liga"
+  },
+  {
+   "id": 714021728,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Real Kashmir",
+   "away": "Sreenidi Deccan",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1776603600,
+   "group": "liga"
+  },
+  {
+   "id": 714037713,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "North East United",
+   "away": "Mohun Bagan Super Giant",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1776607200,
+   "group": "liga"
+  },
+  {
+   "id": 714314185,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Punjab FC",
+   "away": "Inter Kashi",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1776693600,
+   "group": "liga"
+  },
+  {
+   "id": 714572468,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Chennaiyin",
+   "away": "Mohammedan Kolkata",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1776780000,
+   "group": "liga"
+  },
+  {
+   "id": 715130327,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Kerala Blasters",
+   "away": "Odisha",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1776952800,
+   "group": "liga"
+  },
+  {
+   "id": 715380099,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "North East United",
+   "away": "Goa",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1777030200,
+   "group": "liga"
+  },
+  {
+   "id": 715404403,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Rajasthan United",
+   "away": "Sreenidi Deccan",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1777035600,
+   "group": "liga"
+  },
+  {
+   "id": 715696017,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Bengaluru",
+   "away": "Mumbai City",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1777116600,
+   "group": "liga"
+  },
+  {
+   "id": 715723560,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Chanmari",
+   "away": "DHFC",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1777122000,
+   "group": "liga"
+  },
+  {
+   "id": 715738368,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Jamshedpur",
+   "away": "Chennaiyin",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (2:0,2:1)",
+   "start": 1777124700,
+   "group": "liga"
+  },
+  {
+   "id": 716027647,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Sporting Delhi",
+   "away": "Mohammedan Kolkata",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1777203000,
+   "group": "liga"
+  },
+  {
+   "id": 716050329,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Shillong Lajong",
+   "away": "Dempo",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1777208400,
+   "group": "liga"
+  },
+  {
+   "id": 716600701,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "East Bengal",
+   "away": "Odisha",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1777384800,
+   "group": "liga"
+  },
+  {
+   "id": 716854760,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Aizawl",
+   "away": "Namdhari",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1777467600,
+   "group": "liga"
+  },
+  {
+   "id": 717133223,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Real Kashmir",
+   "away": "Gokulam Kerala",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1777553100,
+   "group": "liga"
+  },
+  {
+   "id": 717422511,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Rajasthan United",
+   "away": "Dempo",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1777640400,
+   "group": "liga"
+  },
+  {
+   "id": 717435962,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Jamshedpur",
+   "away": "Goa",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1777644000,
+   "group": "liga"
+  },
+  {
+   "id": 717708365,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "North East United",
+   "away": "Inter Kashi",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:0,2:2)",
+   "start": 1777721400,
+   "group": "liga"
+  },
+  {
+   "id": 717734411,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Shillong Lajong",
+   "away": "Chanmari",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (1:0,3:0)",
+   "start": 1777726800,
+   "group": "liga"
+  },
+  {
+   "id": 717750342,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Sporting Delhi",
+   "away": "Punjab FC",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1777730400,
+   "group": "liga"
+  },
+  {
+   "id": 718044327,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "DHFC",
+   "away": "Sreenidi Deccan",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1777813200,
+   "group": "liga"
+  },
+  {
+   "id": 718314228,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Real Kashmir",
+   "away": "Namdhari",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1777899600,
+   "group": "liga"
+  },
+  {
+   "id": 718325669,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Odisha",
+   "away": "Bengaluru",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1777903200,
+   "group": "liga"
+  },
+  {
+   "id": 718571018,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Gokulam Kerala",
+   "away": "Aizawl",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:2,0:0)",
+   "start": 1777986000,
+   "group": "liga"
+  },
+  {
+   "id": 718581396,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Mumbai City",
+   "away": "East Bengal",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1777989600,
+   "group": "liga"
+  },
+  {
+   "id": 718833573,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Punjab FC",
+   "away": "Chennaiyin",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1778075100,
+   "group": "liga"
+  },
+  {
+   "id": 719339256,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Sporting Delhi",
+   "away": "Odisha",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1778238900,
+   "group": "liga"
+  },
+  {
+   "id": 719360120,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "DHFC",
+   "away": "Rajasthan United",
+   "score": [
+    5,
+    2
+   ],
+   "detail": "5:2 (2:2,3:0)",
+   "start": 1778245200,
+   "group": "liga"
+  },
+  {
+   "id": 719642417,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Goa",
+   "away": "Mohun Bagan Super Giant",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1778326200,
+   "group": "liga"
+  },
+  {
+   "id": 719668022,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Chanmari",
+   "away": "Dempo",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1778331600,
+   "group": "liga"
+  },
+  {
+   "id": 719681869,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Jamshedpur",
+   "away": "Bengaluru",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1778335200,
+   "group": "liga"
+  },
+  {
+   "id": 719953223,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Kerala Blasters",
+   "away": "Mohammedan Kolkata",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1778412600,
+   "group": "liga"
+  },
+  {
+   "id": 719976927,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Sreenidi Deccan",
+   "away": "Shillong Lajong",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1778418000,
+   "group": "liga"
+  },
+  {
+   "id": 719990475,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "North East United",
+   "away": "Chennaiyin",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (2:0,2:1)",
+   "start": 1778421600,
+   "group": "liga"
+  },
+  {
+   "id": 720243972,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Aizawl",
+   "away": "Real Kashmir",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1778504400,
+   "group": "liga"
+  },
+  {
+   "id": 720254568,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "East Bengal",
+   "away": "Punjab FC",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1778508000,
+   "group": "liga"
+  },
+  {
+   "id": 720503438,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Namdhari",
+   "away": "Gokulam Kerala",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1778590800,
+   "group": "liga"
+  },
+  {
+   "id": 720514869,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Mohun Bagan Super Giant",
+   "away": "Inter Kashi",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1778594400,
+   "group": "liga"
+  },
+  {
+   "id": 721319766,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Shillong Lajong",
+   "away": "Rajasthan United",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (2:1,2:1)",
+   "start": 1778850000,
+   "group": "liga"
+  },
+  {
+   "id": 721330645,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Mohammedan Kolkata",
+   "away": "Mumbai City",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:3,0:1)",
+   "start": 1778852700,
+   "group": "liga"
+  },
+  {
+   "id": 721592180,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Chennaiyin",
+   "away": "Bengaluru",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1778931000,
+   "group": "liga"
+  },
+  {
+   "id": 721616151,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Sreenidi Deccan",
+   "away": "Chanmari",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1778936400,
+   "group": "liga"
+  },
+  {
+   "id": 721630998,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Odisha",
+   "away": "Punjab FC",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:0,2:3)",
+   "start": 1778940000,
+   "group": "liga"
+  },
+  {
+   "id": 721891044,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Sporting Delhi",
+   "away": "Inter Kashi",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1779017400,
+   "group": "liga"
+  },
+  {
+   "id": 721911959,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Dempo",
+   "away": "DHFC",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1779022800,
+   "group": "liga"
+  },
+  {
+   "id": 721923884,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Mohun Bagan Super Giant",
+   "away": "East Bengal",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1779025500,
+   "group": "liga"
+  },
+  {
+   "id": 722182864,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Kerala Blasters",
+   "away": "Goa",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1779112800,
+   "group": "liga"
+  },
+  {
+   "id": 722408401,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "North East United",
+   "away": "Mohammedan Kolkata",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1779190200,
+   "group": "liga"
+  },
+  {
+   "id": 722429875,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Rajasthan United",
+   "away": "Chanmari",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:0,0:2)",
+   "start": 1779195600,
+   "group": "liga"
+  },
+  {
+   "id": 722978936,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Inter Kashi",
+   "away": "East Bengal",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1779372000,
+   "group": "liga"
+  },
+  {
+   "id": 722979576,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Jamshedpur",
+   "away": "Odisha",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1779372000,
+   "group": "liga"
+  },
+  {
+   "id": 722979302,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Mohun Bagan Super Giant",
+   "away": "Sporting Delhi",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1779372000,
+   "group": "liga"
+  },
+  {
+   "id": 722979296,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Punjab FC",
+   "away": "Mumbai City",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1779372000,
+   "group": "liga"
+  },
+  {
+   "id": 723243401,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Dempo",
+   "away": "Sreenidi Deccan",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1779454800,
+   "group": "liga"
+  },
+  {
+   "id": 723537740,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "DHFC",
+   "away": "Shillong Lajong",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1779541200,
+   "group": "liga"
+  },
+  {
+   "id": 724651808,
+   "tid": 125983,
+   "tname": "Friendlies. National Teams",
+   "home": "Jamaica",
+   "away": "India",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1779906600,
+   "group": "seleccion"
+  },
+  {
+   "id": 725384654,
+   "tid": 125983,
+   "tname": "Friendlies. National Teams",
+   "home": "Zimbabwe",
+   "away": "India",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1780147800,
+   "group": "seleccion"
+  },
+  {
+   "id": 726906486,
+   "tid": 125983,
+   "tname": "Friendlies. National Teams",
+   "home": "Tajikistan",
+   "away": "India",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1780671600,
+   "group": "seleccion"
+  },
+  {
+   "id": 727906714,
+   "tid": 125983,
+   "tname": "Friendlies. National Teams",
+   "home": "Tajikistan",
+   "away": "India",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1781017200,
+   "group": "seleccion"
+  },
+  {
+   "id": 751548555,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kickstart",
+   "away": "Stride Sports",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1789018200,
+   "group": "liga"
+  },
+  {
+   "id": 751574305,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "South United Bangalore",
+   "away": "Parikrama",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (1:0,3:0)",
+   "start": 1789027200,
+   "group": "liga"
+  },
+  {
+   "id": 751606415,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bengaluru United",
+   "away": "Roots Bengaluru",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1789036200,
+   "group": "liga"
+  },
+  {
+   "id": 751823970,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Technico FF",
+   "away": "Bangalore Dream United",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1789105500,
+   "group": "liga"
+  },
+  {
+   "id": 751850838,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Agniputhra",
+   "away": "United Stars Bangalore",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (0:0,4:1)",
+   "start": 1789113600,
+   "group": "liga"
+  },
+  {
+   "id": 751883968,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kodagu",
+   "away": "Real Bengaluru",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (3:0,0:2)",
+   "start": 1789122600,
+   "group": "liga"
+  },
+  {
+   "id": 752116711,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "MEG & Centre",
+   "away": "HAL",
+   "score": [
+    4,
+    3
+   ],
+   "detail": "4:3 (2:0,2:3)",
+   "start": 1789191000,
+   "group": "liga"
+  },
+  {
+   "id": 752145723,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "ASC",
+   "away": "SC Bengaluru",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1789200000,
+   "group": "liga"
+  },
+  {
+   "id": 752183127,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore City",
+   "away": "Rebels Bangalore",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1789209000,
+   "group": "liga"
+  },
+  {
+   "id": 752998454,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bengaluru II",
+   "away": "Parikrama",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1789450200,
+   "group": "liga"
+  },
+  {
+   "id": 753023264,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "South United Bangalore",
+   "away": "Real Bengaluru",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1789459200,
+   "group": "liga"
+  },
+  {
+   "id": 753055558,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bengaluru United",
+   "away": "Kickstart",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1789468200,
+   "group": "liga"
+  },
+  {
+   "id": 753273106,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore Dream United",
+   "away": "Roots Bengaluru",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1789536600,
+   "group": "liga"
+  },
+  {
+   "id": 753300133,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kodagu",
+   "away": "Agniputhra",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1789545600,
+   "group": "liga"
+  },
+  {
+   "id": 753333286,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "HAL",
+   "away": "Technico FF",
+   "score": [
+    9,
+    0
+   ],
+   "detail": "9:0 (5:0,4:0)",
+   "start": 1789554600,
+   "group": "liga"
+  },
+  {
+   "id": 753564310,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "United Stars Bangalore",
+   "away": "ASC",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:2,1:0)",
+   "start": 1789623000,
+   "group": "liga"
+  },
+  {
+   "id": 753592103,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Rebels Bangalore",
+   "away": "MEG & Centre",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1789632000,
+   "group": "liga"
+  },
+  {
+   "id": 753625921,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "SC Bengaluru",
+   "away": "Bangalore City",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1789641000,
+   "group": "liga"
+  },
+  {
+   "id": 753846839,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Stride Sports",
+   "away": "Bengaluru United",
+   "score": [
+    0,
+    5
+   ],
+   "detail": "0:5 (0:3,0:2)",
+   "start": 1789709400,
+   "group": "liga"
+  },
+  {
+   "id": 753877356,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Real Bengaluru",
+   "away": "Bengaluru II",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:1,0:3)",
+   "start": 1789718400,
+   "group": "liga"
+  },
+  {
+   "id": 753910594,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kickstart",
+   "away": "Bangalore Dream United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1789727400,
+   "group": "liga"
+  },
+  {
+   "id": 754807703,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Agniputhra",
+   "away": "South United Bangalore",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1789968600,
+   "group": "liga"
+  },
+  {
+   "id": 754831646,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Roots Bengaluru",
+   "away": "HAL",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1789977600,
+   "group": "liga"
+  },
+  {
+   "id": 754859467,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "ASC",
+   "away": "Kodagu",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1789986600,
+   "group": "liga"
+  },
+  {
+   "id": 755049220,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Technico FF",
+   "away": "Rebels Bangalore",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:1,1:2)",
+   "start": 1790055000,
+   "group": "liga"
+  },
+  {
+   "id": 755075955,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore City",
+   "away": "United Stars Bangalore",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1790064000,
+   "group": "liga"
+  },
+  {
+   "id": 755107756,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "MEG & Centre",
+   "away": "SC Bengaluru",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1790073000,
+   "group": "liga"
+  },
+  {
+   "id": 755317341,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Parikrama",
+   "away": "Real Bengaluru",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:0,2:2)",
+   "start": 1790141400,
+   "group": "liga"
+  },
+  {
+   "id": 755344444,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore Dream United",
+   "away": "Stride Sports",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1790150400,
+   "group": "liga"
+  },
+  {
+   "id": 755376147,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bengaluru II",
+   "away": "Agniputhra",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1790159400,
+   "group": "liga"
+  },
+  {
+   "id": 755587906,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "HAL",
+   "away": "Kickstart",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:1,1:2)",
+   "start": 1790227800,
+   "group": "liga"
+  },
+  {
+   "id": 755613875,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "South United Bangalore",
+   "away": "ASC",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (3:0,2:0)",
+   "start": 1790236800,
+   "group": "liga"
+  },
+  {
+   "id": 755644367,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Rebels Bangalore",
+   "away": "Roots Bengaluru",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1790245800,
+   "group": "liga"
+  },
+  {
+   "id": 755848617,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore City",
+   "away": "Kodagu",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1790314200,
+   "group": "liga"
+  },
+  {
+   "id": 755876561,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "SC Bengaluru",
+   "away": "Technico FF",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1790323200,
+   "group": "liga"
+  },
+  {
+   "id": 755957168,
+   "tid": 125983,
+   "tname": "Friendlies. National Teams",
+   "home": "India",
+   "away": "Panama",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1790344800,
+   "group": "seleccion"
+  },
+  {
+   "id": 756789931,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Agniputhra",
+   "away": "Parikrama",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1790582400,
+   "group": "liga"
+  },
+  {
+   "id": 756819736,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Stride Sports",
+   "away": "HAL",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1790591400,
+   "group": "liga"
+  },
+  {
+   "id": 757014835,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "ASC",
+   "away": "Bengaluru II",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1790659800,
+   "group": "liga"
+  },
+  {
+   "id": 757040980,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kickstart",
+   "away": "Rebels Bangalore",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1790668800,
+   "group": "liga"
+  },
+  {
+   "id": 757072899,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore City",
+   "away": "South United Bangalore",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1790677800,
+   "group": "liga"
+  },
+  {
+   "id": 757289969,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Roots Bengaluru",
+   "away": "SC Bengaluru",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (0:1,3:2)",
+   "start": 1790746200,
+   "group": "liga"
+  },
+  {
+   "id": 757317514,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "MEG & Centre",
+   "away": "Kodagu",
+   "score": [
+    4,
+    3
+   ],
+   "detail": "4:3 (3:1,1:2)",
+   "start": 1790755200,
+   "group": "liga"
+  },
+  {
+   "id": 757347770,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Technico FF",
+   "away": "United Stars Bangalore",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1790764200,
+   "group": "liga"
+  },
+  {
+   "id": 757563867,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Real Bengaluru",
+   "away": "Agniputhra",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:2,1:0)",
+   "start": 1790832600,
+   "group": "liga"
+  },
+  {
+   "id": 757591398,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "HAL",
+   "away": "Bengaluru United",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1790841600,
+   "group": "liga"
+  },
+  {
+   "id": 757620883,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Parikrama",
+   "away": "ASC",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1790850600,
+   "group": "liga"
+  },
+  {
+   "id": 757829338,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Rebels Bangalore",
+   "away": "Stride Sports",
+   "score": [
+    2,
+    4
+   ],
+   "detail": "2:4 (2:1,0:3)",
+   "start": 1790919000,
+   "group": "liga"
+  },
+  {
+   "id": 757856403,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bengaluru II",
+   "away": "Bangalore City",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1790928000,
+   "group": "liga"
+  },
+  {
+   "id": 757887531,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "SC Bengaluru",
+   "away": "Kickstart",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1790937000,
+   "group": "liga"
+  },
+  {
+   "id": 758259022,
+   "tid": 125983,
+   "tname": "Friendlies. National Teams",
+   "home": "India",
+   "away": "Brazil",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:2,0:2)",
+   "start": 1791036000,
+   "group": "seleccion"
+  },
+  {
+   "id": 758771416,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "South United Bangalore",
+   "away": "MEG & Centre",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:0,2:2)",
+   "start": 1791178200,
+   "group": "liga"
+  },
+  {
+   "id": 758796637,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "United Stars Bangalore",
+   "away": "Roots Bengaluru",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (1:0,0:4)",
+   "start": 1791187200,
+   "group": "liga"
+  },
+  {
+   "id": 758825790,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kodagu",
+   "away": "Technico FF",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1791196200,
+   "group": "liga"
+  },
+  {
+   "id": 758600150,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kodagu",
+   "away": "Technico FF",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1791196200,
+   "group": "liga"
+  },
+  {
+   "id": 759030514,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore Dream United",
+   "away": "HAL",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1791264600,
+   "group": "liga"
+  },
+  {
+   "id": 759057332,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bengaluru United",
+   "away": "Rebels Bangalore",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (3:0,1:0)",
+   "start": 1791273600,
+   "group": "liga"
+  },
+  {
+   "id": 759090123,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "ASC",
+   "away": "Real Bengaluru",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:0,0:3)",
+   "start": 1791282600,
+   "group": "liga"
+  },
+  {
+   "id": 759135666,
+   "tid": 125983,
+   "tname": "Friendlies. National Teams",
+   "home": "India",
+   "away": "Uruguay",
+   "score": [
+    1,
+    6
+   ],
+   "detail": "1:6 (1:2,0:4)",
+   "start": 1791295200,
+   "group": "seleccion"
+  },
+  {
+   "id": 759310694,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore City",
+   "away": "Parikrama",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1791351000,
+   "group": "liga"
+  },
+  {
+   "id": 759338198,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "MEG & Centre",
+   "away": "Bengaluru II",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (2:1,1:2)",
+   "start": 1791360000,
+   "group": "liga"
+  },
+  {
+   "id": 759372468,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Stride Sports",
+   "away": "SC Bengaluru",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1791369000,
+   "group": "liga"
+  },
+  {
+   "id": 759596419,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Roots Bengaluru",
+   "away": "Kodagu",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1791437400,
+   "group": "liga"
+  },
+  {
+   "id": 759623235,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Technico FF",
+   "away": "South United Bangalore",
+   "score": [
+    0,
+    8
+   ],
+   "detail": "0:8 (0:5,0:3)",
+   "start": 1791446400,
+   "group": "liga"
+  },
+  {
+   "id": 759653338,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kickstart",
+   "away": "United Stars Bangalore",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1791455400,
+   "group": "liga"
+  },
+  {
+   "id": 759873357,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Agniputhra",
+   "away": "ASC",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1791523800,
+   "group": "liga"
+  },
+  {
+   "id": 759903526,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Rebels Bangalore",
+   "away": "Bangalore Dream United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1791532800,
+   "group": "liga"
+  },
+  {
+   "id": 759937535,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Real Bengaluru",
+   "away": "Bangalore City",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1791541800,
+   "group": "liga"
+  },
+  {
+   "id": 760272139,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Bengaluru",
+   "away": "Sporting Delhi",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:2,2:0)",
+   "start": 1791631800,
+   "group": "liga"
+  },
+  {
+   "id": 760321110,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Goa",
+   "away": "Chennaiyin",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1791640800,
+   "group": "liga"
+  },
+  {
+   "id": 760624301,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Inter Kashi",
+   "away": "Kerala Blasters",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1791718200,
+   "group": "liga"
+  },
+  {
+   "id": 760670466,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Churchill Brothers",
+   "away": "Mumbai City",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1791727200,
+   "group": "liga"
+  },
+  {
+   "id": 760861155,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "SC Bengaluru",
+   "away": "Bengaluru United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1791783000,
+   "group": "liga"
+  },
+  {
+   "id": 760882508,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Parikrama",
+   "away": "MEG & Centre",
+   "score": [
+    2,
+    4
+   ],
+   "detail": "2:4 (1:3,1:1)",
+   "start": 1791792000,
+   "group": "liga"
+  },
+  {
+   "id": 760912757,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "United Stars Bangalore",
+   "away": "Stride Sports",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:0,0:3)",
+   "start": 1791801000,
+   "group": "liga"
+  },
+  {
+   "id": 760957067,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "North East United",
+   "away": "Mohun Bagan Super Giant",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1791813600,
+   "group": "liga"
+  },
+  {
+   "id": 761129213,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bengaluru II",
+   "away": "Technico FF",
+   "score": [
+    9,
+    0
+   ],
+   "detail": "9:0 (3:0,6:0)",
+   "start": 1791869400,
+   "group": "liga"
+  },
+  {
+   "id": 761156444,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kodagu",
+   "away": "Kickstart",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1791878400,
+   "group": "liga"
+  },
+  {
+   "id": 761188202,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "South United Bangalore",
+   "away": "Roots Bengaluru",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1791887400,
+   "group": "liga"
+  },
+  {
+   "id": 761419247,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "HAL",
+   "away": "Rebels Bangalore",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1791955800,
+   "group": "liga"
+  },
+  {
+   "id": 761446706,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore City",
+   "away": "Agniputhra",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1791964800,
+   "group": "liga"
+  },
+  {
+   "id": 761481155,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore Dream United",
+   "away": "SC Bengaluru",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:2,0:2)",
+   "start": 1791973800,
+   "group": "liga"
+  },
+  {
+   "id": 761529415,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Punjab FC",
+   "away": "Odisha",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1791986400,
+   "group": "liga"
+  },
+  {
+   "id": 761716954,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "MEG & Centre",
+   "away": "Real Bengaluru",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:1,1:2)",
+   "start": 1792042200,
+   "group": "liga"
+  },
+  {
+   "id": 761744573,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bengaluru United",
+   "away": "United Stars Bangalore",
+   "score": [
+    6,
+    1
+   ],
+   "detail": "6:1 (3:0,3:1)",
+   "start": 1792051200,
+   "group": "liga"
+  },
+  {
+   "id": 761777465,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Technico FF",
+   "away": "Parikrama",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1792060200,
+   "group": "liga"
+  },
+  {
+   "id": 762001461,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Stride Sports",
+   "away": "Kodagu",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1792128600,
+   "group": "liga"
+  },
+  {
+   "id": 761727364,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Roots Bengaluru",
+   "away": "Bengaluru II",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (0:2,1:2)",
+   "start": 1792137600,
+   "group": "liga"
+  },
+  {
+   "id": 761727367,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kickstart",
+   "away": "South United Bangalore",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1792146600,
+   "group": "liga"
+  },
+  {
+   "id": 762117197,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Sporting Delhi",
+   "away": "Mohun Bagan Super Giant",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1792159200,
+   "group": "liga"
+  },
+  {
+   "id": 762410201,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Inter Kashi",
+   "away": "Odisha",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1792236600,
+   "group": "liga"
+  },
+  {
+   "id": 762467140,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Bengaluru",
+   "away": "Chennaiyin",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1792245600,
+   "group": "liga"
+  },
+  {
+   "id": 762774564,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Churchill Brothers",
+   "away": "East Bengal",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:2,0:2)",
+   "start": 1792323000,
+   "group": "liga"
+  },
+  {
+   "id": 762819195,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "North East United",
+   "away": "Kerala Blasters",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (2:0,2:1)",
+   "start": 1792332000,
+   "group": "liga"
+  },
+  {
+   "id": 763009907,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore City",
+   "away": "ASC",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1792387800,
+   "group": "liga"
+  },
+  {
+   "id": 763037207,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "HAL",
+   "away": "SC Bengaluru",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:0,0:3)",
+   "start": 1792396800,
+   "group": "liga"
+  },
+  {
+   "id": 763067253,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "MEG & Centre",
+   "away": "Agniputhra",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (0:0,5:0)",
+   "start": 1792405800,
+   "group": "liga"
+  },
+  {
+   "id": 763111710,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Punjab FC",
+   "away": "Mumbai City",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1792418400,
+   "group": "liga"
+  },
+  {
+   "id": 763898146,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Technico FF",
+   "away": "Real Bengaluru",
+   "score": [
+    1,
+    6
+   ],
+   "detail": "1:6 (0:3,1:3)",
+   "start": 1792656000,
+   "group": "liga"
+  },
+  {
+   "id": 763932120,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bengaluru United",
+   "away": "Kodagu",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1792665000,
+   "group": "liga"
+  },
+  {
+   "id": 764149919,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Roots Bengaluru",
+   "away": "Parikrama",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1792733400,
+   "group": "liga"
+  },
+  {
+   "id": 764180192,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Stride Sports",
+   "away": "South United Bangalore",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1792742400,
+   "group": "liga"
+  },
+  {
+   "id": 764213392,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kickstart",
+   "away": "Bengaluru II",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1792751400,
+   "group": "liga"
+  },
+  {
+   "id": 764226539,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Inter Kashi",
+   "away": "East Bengal",
+   "score": [
+    1,
+    5
+   ],
+   "detail": "1:5 (1:4,0:1)",
+   "start": 1792755000,
+   "group": "liga"
+  },
+  {
+   "id": 764606361,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Odisha",
+   "away": "North East United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1792850400,
+   "group": "liga"
+  },
+  {
+   "id": 764909230,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Churchill Brothers",
+   "away": "Punjab FC",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (2:2,0:1)",
+   "start": 1792927800,
+   "group": "liga"
+  },
+  {
+   "id": 764950827,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Kerala Blasters",
+   "away": "Mumbai City",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1792936800,
+   "group": "liga"
+  },
+  {
+   "id": 765147130,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "SC Bengaluru",
+   "away": "Rebels Bangalore",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1792992600,
+   "group": "liga"
+  },
+  {
+   "id": 765147134,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Agniputhra",
+   "away": "Technico FF",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1792992600,
+   "group": "liga"
+  },
+  {
+   "id": 765199045,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "ASC",
+   "away": "MEG & Centre",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1793010600,
+   "group": "liga"
+  },
+  {
+   "id": 765241888,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Mohun Bagan Super Giant",
+   "away": "Chennaiyin",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1793023200,
+   "group": "liga"
+  },
+  {
+   "id": 765416095,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Agniputhra",
+   "away": "Technico FF",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1793079000,
+   "group": "liga"
+  },
+  {
+   "id": 765440931,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kodagu",
+   "away": "Bangalore Dream United",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (2:0,2:1)",
+   "start": 1793088000,
+   "group": "liga"
+  },
+  {
+   "id": 765471620,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Real Bengaluru",
+   "away": "Roots Bengaluru",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (0:0,3:0)",
+   "start": 1793097000,
+   "group": "liga"
+  },
+  {
+   "id": 765715809,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bengaluru II",
+   "away": "Stride Sports",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1793165400,
+   "group": "liga"
+  },
+  {
+   "id": 765742737,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Parikrama",
+   "away": "Kickstart",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1793174400,
+   "group": "liga"
+  },
+  {
+   "id": 765775164,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "South United Bangalore",
+   "away": "Bengaluru United",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1793183400,
+   "group": "liga"
+  },
+  {
+   "id": 765827190,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Goa",
+   "away": "Sporting Delhi",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1793196000,
+   "group": "liga"
+  },
+  {
+   "id": 766030198,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "MEG & Centre",
+   "away": "Bangalore City",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1793251800,
+   "group": "liga"
+  },
+  {
+   "id": 766085395,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Technico FF",
+   "away": "ASC",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1793269800,
+   "group": "liga"
+  },
+  {
+   "id": 766318268,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "HAL",
+   "away": "Kodagu",
+   "score": [
+    2,
+    5
+   ],
+   "detail": "2:5 (0:2,2:3)",
+   "start": 1793338200,
+   "group": "liga"
+  },
+  {
+   "id": 766346838,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Roots Bengaluru",
+   "away": "Agniputhra",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1793347200,
+   "group": "liga"
+  },
+  {
+   "id": 766376485,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore Dream United",
+   "away": "South United Bangalore",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1793356200,
+   "group": "liga"
+  },
+  {
+   "id": 766411959,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Real Kashmir",
+   "away": "Nagaland United",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:2,1:1)",
+   "start": 1793365200,
+   "group": "liga"
+  },
+  {
+   "id": 766428331,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "North East United",
+   "away": "Bengaluru",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1793368800,
+   "group": "liga"
+  },
+  {
+   "id": 766707754,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Mohammedan Kolkata",
+   "away": "Shillong Lajong",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1793442600,
+   "group": "liga"
+  },
+  {
+   "id": 766719599,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Chennaiyin",
+   "away": "Kerala Blasters",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1793446200,
+   "group": "liga"
+  },
+  {
+   "id": 766767567,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Mohun Bagan Super Giant",
+   "away": "Punjab FC",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1793455200,
+   "group": "liga"
+  },
+  {
+   "id": 767076288,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Mumbai City",
+   "away": "Sporting Delhi",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (2:0,0:3)",
+   "start": 1793532600,
+   "group": "liga"
+  },
+  {
+   "id": 767116798,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Inter Kashi",
+   "away": "Goa",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1793541600,
+   "group": "liga"
+  },
+  {
+   "id": 767316645,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore City",
+   "away": "Technico FF",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1793597400,
+   "group": "liga"
+  },
+  {
+   "id": 767340542,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kodagu",
+   "away": "Rebels Bangalore",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1793606400,
+   "group": "liga"
+  },
+  {
+   "id": 767585771,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "ASC",
+   "away": "Roots Bengaluru",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1793683800,
+   "group": "liga"
+  },
+  {
+   "id": 767610711,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Agniputhra",
+   "away": "Bengaluru United",
+   "score": [
+    0,
+    5
+   ],
+   "detail": "0:5 (0:1,0:4)",
+   "start": 1793692800,
+   "group": "liga"
+  },
+  {
+   "id": 767640989,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "South United Bangalore",
+   "away": "HAL",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:1,2:1)",
+   "start": 1793701800,
+   "group": "liga"
+  },
+  {
+   "id": 767870937,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bengaluru II",
+   "away": "Bangalore Dream United",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (2:0,3:1)",
+   "start": 1793770200,
+   "group": "liga"
+  },
+  {
+   "id": 767897997,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Real Bengaluru",
+   "away": "Stride Sports",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1793779200,
+   "group": "liga"
+  },
+  {
+   "id": 768155824,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Technico FF",
+   "away": "MEG & Centre",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (2:3,0:0)",
+   "start": 1793856600,
+   "group": "liga"
+  },
+  {
+   "id": 768178871,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Roots Bengaluru",
+   "away": "Bangalore City",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (0:0,3:0)",
+   "start": 1793865600,
+   "group": "liga"
+  },
+  {
+   "id": 768209149,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "SC Bengaluru",
+   "away": "Kodagu",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1793874600,
+   "group": "liga"
+  },
+  {
+   "id": 768221220,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Churchill Brothers",
+   "away": "North East United",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1793878200,
+   "group": "liga"
+  },
+  {
+   "id": 768251050,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Mohun Bagan Super Giant",
+   "away": "Odisha",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (0:0,3:2)",
+   "start": 1793887200,
+   "group": "liga"
+  },
+  {
+   "id": 768534255,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Goa",
+   "away": "Bengaluru",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1793973600,
+   "group": "liga"
+  },
+  {
+   "id": 768806670,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Inter Kashi",
+   "away": "Sporting Delhi",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1794051000,
+   "group": "liga"
+  },
+  {
+   "id": 768533492,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Real Kashmir",
+   "away": "Sreenidi Deccan",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1794056400,
+   "group": "liga"
+  },
+  {
+   "id": 768850067,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Chennaiyin",
+   "away": "East Bengal",
+   "score": [
+    5,
+    3
+   ],
+   "detail": "5:3 (3:1,2:2)",
+   "start": 1794060000,
+   "group": "liga"
+  },
+  {
+   "id": 769368633,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Rebels Bangalore",
+   "away": "South United Bangalore",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1794202200,
+   "group": "liga"
+  },
+  {
+   "id": 769415846,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "HAL",
+   "away": "Bengaluru II",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1794220200,
+   "group": "liga"
+  },
+  {
+   "id": 769610976,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Stride Sports",
+   "away": "Agniputhra",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1794288600,
+   "group": "liga"
+  },
+  {
+   "id": 769635074,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore Dream United",
+   "away": "Parikrama",
+   "score": [
+    0,
+    5
+   ],
+   "detail": "0:5 (0:1,0:4)",
+   "start": 1794297600,
+   "group": "liga"
+  },
+  {
+   "id": 769663625,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bengaluru United",
+   "away": "Real Bengaluru",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1794306600,
+   "group": "liga"
+  },
+  {
+   "id": 769883677,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kodagu",
+   "away": "United Stars Bangalore",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (1:0,4:0)",
+   "start": 1794375000,
+   "group": "liga"
+  },
+  {
+   "id": 769907912,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "MEG & Centre",
+   "away": "Roots Bengaluru",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1794384000,
+   "group": "liga"
+  },
+  {
+   "id": 769938814,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "South United Bangalore",
+   "away": "SC Bengaluru",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1794393000,
+   "group": "liga"
+  },
+  {
+   "id": 770166157,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore City",
+   "away": "Kickstart",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1794461400,
+   "group": "liga"
+  },
+  {
+   "id": 770169583,
+   "tid": 125983,
+   "tname": "Friendlies. National Teams",
+   "home": "New Zealand",
+   "away": "India",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (3:0,2:0)",
+   "start": 1794463200,
+   "group": "seleccion"
+  },
+  {
+   "id": 770190146,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bengaluru II",
+   "away": "Rebels Bangalore",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1794470400,
+   "group": "liga"
+  },
+  {
+   "id": 770424106,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Real Bengaluru",
+   "away": "Bangalore Dream United",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1794540600,
+   "group": "liga"
+  },
+  {
+   "id": 770446747,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kodagu",
+   "away": "Technico FF",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1794549600,
+   "group": "liga"
+  },
+  {
+   "id": 770474078,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Parikrama",
+   "away": "HAL",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1794558600,
+   "group": "liga"
+  },
+  {
+   "id": 770529731,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Shillong Lajong",
+   "away": "Sreenidi Deccan",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1794574800,
+   "group": "liga"
+  },
+  {
+   "id": 771043159,
+   "tid": 125983,
+   "tname": "Friendlies. National Teams",
+   "home": "New Zealand",
+   "away": "India",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (3:0,0:0)",
+   "start": 1794711600,
+   "group": "seleccion"
+  },
+  {
+   "id": 771369111,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Roots Bengaluru",
+   "away": "Technico FF",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1794807000,
+   "group": "liga"
+  },
+  {
+   "id": 771389270,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "RS Sports Club",
+   "away": "Jain Irrigation",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1794815100,
+   "group": "liga"
+  },
+  {
+   "id": 771391502,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kickstart",
+   "away": "MEG & Centre",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1794816000,
+   "group": "liga"
+  },
+  {
+   "id": 771614666,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Mumbai United",
+   "away": "Somaiya",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1794891600,
+   "group": "liga"
+  },
+  {
+   "id": 771619647,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "SC Bengaluru",
+   "away": "Bengaluru II",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1794893400,
+   "group": "liga"
+  },
+  {
+   "id": 771628934,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "MYJ-GMSC",
+   "away": "Millat",
+   "score": [
+    6,
+    0
+   ],
+   "detail": "6:0 (2:0,4:0)",
+   "start": 1794897000,
+   "group": "liga"
+  },
+  {
+   "id": 771644162,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Stride Sports",
+   "away": "Bangalore City",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1794902400,
+   "group": "liga"
+  },
+  {
+   "id": 771675586,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Rebels Bangalore",
+   "away": "Parikrama",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1794911400,
+   "group": "liga"
+  },
+  {
+   "id": 771897989,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "PIFA Sports",
+   "away": "Iron Born",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1794976200,
+   "group": "liga"
+  },
+  {
+   "id": 771995472,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Bengaluru United",
+   "away": "Sreenidi Deccan",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:2,1:0)",
+   "start": 1795006800,
+   "group": "liga"
+  },
+  {
+   "id": 772177054,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "RBI",
+   "away": "Mumbai City II",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1795062600,
+   "group": "liga"
+  },
+  {
+   "id": 772185707,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore Dream United",
+   "away": "Agniputhra",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:1,0:3)",
+   "start": 1795066200,
+   "group": "liga"
+  },
+  {
+   "id": 772199573,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "Millat",
+   "away": "Mumbai Ultras",
+   "score": [
+    0,
+    8
+   ],
+   "detail": "0:8 (0:3,0:5)",
+   "start": 1795070700,
+   "group": "liga"
+  },
+  {
+   "id": 772210276,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Technico FF",
+   "away": "Kickstart",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (0:1,1:3)",
+   "start": 1795075200,
+   "group": "liga"
+  },
+  {
+   "id": 772240246,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Dempo",
+   "away": "Shillong Lajong",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1795084200,
+   "group": "liga"
+  },
+  {
+   "id": 772240247,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "HAL",
+   "away": "Real Bengaluru",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1795084200,
+   "group": "liga"
+  },
+  {
+   "id": 771865513,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "HAL",
+   "away": "Real Bengaluru",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1795084200,
+   "group": "liga"
+  },
+  {
+   "id": 772270823,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Samaleswari",
+   "away": "Nagaland United",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1795093200,
+   "group": "liga"
+  },
+  {
+   "id": 772152156,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "South United Bangalore",
+   "away": "Kodagu",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1795152600,
+   "group": "liga"
+  },
+  {
+   "id": 772480643,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bengaluru United",
+   "away": "ASC",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (2:0,3:0)",
+   "start": 1795161600,
+   "group": "liga"
+  },
+  {
+   "id": 772500717,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Rajasthan United",
+   "away": "Chanmari",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (1:2,0:2)",
+   "start": 1795167000,
+   "group": "liga"
+  },
+  {
+   "id": 772524850,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "East Bengal",
+   "away": "Sporting Delhi",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1795174200,
+   "group": "liga"
+  },
+  {
+   "id": 772548490,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Mohammedan Kolkata",
+   "away": "Gokulam Kerala",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (1:4,0:0)",
+   "start": 1795179600,
+   "group": "liga"
+  },
+  {
+   "id": 772563292,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Bengaluru",
+   "away": "Mumbai City",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1795183200,
+   "group": "liga"
+  },
+  {
+   "id": 772733775,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kickstart",
+   "away": "Real Bengaluru",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1795228200,
+   "group": "liga"
+  },
+  {
+   "id": 772842626,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Chennaiyin",
+   "away": "Punjab FC",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1795260600,
+   "group": "liga"
+  },
+  {
+   "id": 772883985,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "North East United",
+   "away": "Goa",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1795269600,
+   "group": "liga"
+  },
+  {
+   "id": 773230402,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Churchill Brothers",
+   "away": "Mohun Bagan Super Giant",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1795356000,
+   "group": "liga"
+  },
+  {
+   "id": 773412431,
+   "tid": 2783103,
+   "tname": "India. Mumbai. Premier League",
+   "home": "RS Sports Club",
+   "away": "India on Track",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1795412700,
+   "group": "liga"
+  },
+  {
+   "id": 773442779,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "MEG & Centre",
+   "away": "Stride Sports",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1795420800,
+   "group": "liga"
+  }
+ ]
+}

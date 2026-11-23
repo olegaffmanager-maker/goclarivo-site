@@ -1,0 +1,5330 @@
+{
+ "updated": "2026-11-23T15:53:49+00:00",
+ "backfilled": [
+  276999,
+  1706694,
+  125983
+ ],
+ "matches": [
+  {
+   "id": 663554389,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Manta",
+   "away": "Técnico Universitario",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1760896800,
+   "group": "liga"
+  },
+  {
+   "id": 663583520,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "Emelec",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1760905800,
+   "group": "liga"
+  },
+  {
+   "id": 663608131,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Libertad Loja",
+   "away": "Universidad Católica Quito",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1760914800,
+   "group": "liga"
+  },
+  {
+   "id": 663867310,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "El Nacional",
+   "away": "Deportivo Cuenca",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1761004800,
+   "group": "liga"
+  },
+  {
+   "id": 665029377,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "Universidad Católica Quito",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1761350400,
+   "group": "liga"
+  },
+  {
+   "id": 665311836,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Mushuc Runa",
+   "away": "Manta",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1761418800,
+   "group": "liga"
+  },
+  {
+   "id": 665342934,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "Libertad Loja",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1761427800,
+   "group": "liga"
+  },
+  {
+   "id": 665366005,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "SD Aucas",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1761436800,
+   "group": "liga"
+  },
+  {
+   "id": 665606044,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Vinotinto Ecuador",
+   "away": "Técnico Universitario",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1761501600,
+   "group": "liga"
+  },
+  {
+   "id": 665640723,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "El Nacional",
+   "away": "Club Social y Deportivo Macará",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1761510600,
+   "group": "liga"
+  },
+  {
+   "id": 663608900,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Mushuc Runa",
+   "away": "Manta",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1761512400,
+   "group": "liga"
+  },
+  {
+   "id": 663314021,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "LDU Quito",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1761512400,
+   "group": "liga"
+  },
+  {
+   "id": 665669365,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Emelec",
+   "away": "Delfin",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1761519600,
+   "group": "liga"
+  },
+  {
+   "id": 667062171,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Delfin",
+   "away": "Deportivo Cuenca",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1761955200,
+   "group": "liga"
+  },
+  {
+   "id": 667329075,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Técnico Universitario",
+   "away": "Mushuc Runa",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762022700,
+   "group": "liga"
+  },
+  {
+   "id": 667367465,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "El Nacional",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (2:1,1:2)",
+   "start": 1762032600,
+   "group": "liga"
+  },
+  {
+   "id": 667628125,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Vinotinto Ecuador",
+   "away": "Manta",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1762106400,
+   "group": "liga"
+  },
+  {
+   "id": 667658307,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Club Social y Deportivo Macará",
+   "away": "Emelec",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1762115400,
+   "group": "liga"
+  },
+  {
+   "id": 665390374,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "Orense Sporting Club",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1762117200,
+   "group": "liga"
+  },
+  {
+   "id": 667682281,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "Barcelona Sporting Club",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1762124400,
+   "group": "liga"
+  },
+  {
+   "id": 667939307,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Libertad Loja",
+   "away": "Independiente del Valle",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:1,0:2)",
+   "start": 1762214400,
+   "group": "liga"
+  },
+  {
+   "id": 668204897,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "Orense Sporting Club",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1762300800,
+   "group": "liga"
+  },
+  {
+   "id": 669034070,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "Club Social y Deportivo Macará",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1762560000,
+   "group": "liga"
+  },
+  {
+   "id": 669306350,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Manta",
+   "away": "Mushuc Runa",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1762628400,
+   "group": "liga"
+  },
+  {
+   "id": 669341532,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "Universidad Católica Quito",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1762637400,
+   "group": "liga"
+  },
+  {
+   "id": 669365163,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "Libertad Loja",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1762646400,
+   "group": "liga"
+  },
+  {
+   "id": 669600288,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Técnico Universitario",
+   "away": "Vinotinto Ecuador",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1762711200,
+   "group": "liga"
+  },
+  {
+   "id": 669631309,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "El Nacional",
+   "away": "Emelec",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1762720200,
+   "group": "liga"
+  },
+  {
+   "id": 669656209,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "Barcelona Sporting Club",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1762728300,
+   "group": "liga"
+  },
+  {
+   "id": 669890044,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "Delfin",
+   "score": [
+    8,
+    0
+   ],
+   "detail": "8:0 (4:0,4:0)",
+   "start": 1762819200,
+   "group": "liga"
+  },
+  {
+   "id": 672822446,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "Libertad Loja",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1763760600,
+   "group": "liga"
+  },
+  {
+   "id": 672845188,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "El Nacional",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (1:0,4:0)",
+   "start": 1763769600,
+   "group": "liga"
+  },
+  {
+   "id": 673110815,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Mushuc Runa",
+   "away": "Técnico Universitario",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1763838000,
+   "group": "liga"
+  },
+  {
+   "id": 673110696,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Manta",
+   "away": "Vinotinto Ecuador",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1763838000,
+   "group": "liga"
+  },
+  {
+   "id": 673168625,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Emelec",
+   "away": "SD Aucas",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1763856000,
+   "group": "liga"
+  },
+  {
+   "id": 673401758,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Club Social y Deportivo Macará",
+   "away": "Delfin",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1763920800,
+   "group": "liga"
+  },
+  {
+   "id": 673432224,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "LDU Quito",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1763928900,
+   "group": "liga"
+  },
+  {
+   "id": 673456884,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "Orense Sporting Club",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1763938800,
+   "group": "liga"
+  },
+  {
+   "id": 674754690,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "Independiente del Valle",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1764373500,
+   "group": "liga"
+  },
+  {
+   "id": 675004714,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Técnico Universitario",
+   "away": "Manta",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:0,1:3)",
+   "start": 1764442800,
+   "group": "liga"
+  },
+  {
+   "id": 675004762,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Vinotinto Ecuador",
+   "away": "Mushuc Runa",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1764442800,
+   "group": "liga"
+  },
+  {
+   "id": 675037626,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "Orense Sporting Club",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1764450900,
+   "group": "liga"
+  },
+  {
+   "id": 675060372,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Libertad Loja",
+   "away": "Barcelona Sporting Club",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1764460800,
+   "group": "liga"
+  },
+  {
+   "id": 675273889,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "Deportivo Cuenca",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1764525600,
+   "group": "liga"
+  },
+  {
+   "id": 675305247,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Club Social y Deportivo Macará",
+   "away": "El Nacional",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1764534600,
+   "group": "liga"
+  },
+  {
+   "id": 675330687,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Delfin",
+   "away": "Emelec",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1764543600,
+   "group": "liga"
+  },
+  {
+   "id": 676604924,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "Delfin",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1764979200,
+   "group": "liga"
+  },
+  {
+   "id": 676908346,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "LDU Quito",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1765058400,
+   "group": "liga"
+  },
+  {
+   "id": 676908282,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "Libertad Loja",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1765058400,
+   "group": "liga"
+  },
+  {
+   "id": 677171238,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "El Nacional",
+   "away": "SD Aucas",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1765134000,
+   "group": "liga"
+  },
+  {
+   "id": 677199164,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "Universidad Católica Quito",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1765143000,
+   "group": "liga"
+  },
+  {
+   "id": 677455408,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Emelec",
+   "away": "Club Social y Deportivo Macará",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1765238400,
+   "group": "liga"
+  },
+  {
+   "id": 677924390,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "LDU Quito",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1765404000,
+   "group": "liga"
+  },
+  {
+   "id": 678723599,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Delfin",
+   "away": "SD Aucas",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1765657800,
+   "group": "liga"
+  },
+  {
+   "id": 678723602,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Club Social y Deportivo Macará",
+   "away": "Deportivo Cuenca",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1765657800,
+   "group": "liga"
+  },
+  {
+   "id": 679014362,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "Independiente del Valle",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1765747800,
+   "group": "liga"
+  },
+  {
+   "id": 679014300,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "Orense Sporting Club",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1765747800,
+   "group": "liga"
+  },
+  {
+   "id": 679014390,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Libertad Loja",
+   "away": "LDU Quito",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1765747800,
+   "group": "liga"
+  },
+  {
+   "id": 679251285,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Emelec",
+   "away": "El Nacional",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (1:0,4:0)",
+   "start": 1765843200,
+   "group": "liga"
+  },
+  {
+   "id": 679419239,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "El Nacional",
+   "away": "Delfin",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1766178000,
+   "group": "liga"
+  },
+  {
+   "id": 680546097,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "Emelec",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (2:0,3:1)",
+   "start": 1766266200,
+   "group": "liga"
+  },
+  {
+   "id": 680546135,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "Club Social y Deportivo Macará",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1766266200,
+   "group": "liga"
+  },
+  {
+   "id": 680827787,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "Universidad Católica Quito",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1766352600,
+   "group": "liga"
+  },
+  {
+   "id": 680827783,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "Barcelona Sporting Club",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1766352600,
+   "group": "liga"
+  },
+  {
+   "id": 680826512,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "Libertad Loja",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (0:2,3:0)",
+   "start": 1766352600,
+   "group": "liga"
+  },
+  {
+   "id": 697417825,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "LDU Quito",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1771632000,
+   "group": "liga"
+  },
+  {
+   "id": 697689765,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "Mushuc Runa",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1771700400,
+   "group": "liga"
+  },
+  {
+   "id": 697728176,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "Técnico Universitario",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1771709400,
+   "group": "liga"
+  },
+  {
+   "id": 697158494,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "Emelec",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1771718400,
+   "group": "liga"
+  },
+  {
+   "id": 697994616,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Club Social y Deportivo Macará",
+   "away": "Leones Del Norte",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1771783200,
+   "group": "liga"
+  },
+  {
+   "id": 698031347,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Delfin",
+   "away": "Deportivo Cuenca",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1771792200,
+   "group": "liga"
+  },
+  {
+   "id": 698057232,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "Guayaquil City",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1771801200,
+   "group": "liga"
+  },
+  {
+   "id": 698307169,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Libertad Loja",
+   "away": "Manta",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1771893000,
+   "group": "liga"
+  },
+  {
+   "id": 699408205,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Técnico Universitario",
+   "away": "Orense Sporting Club",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1772237700,
+   "group": "liga"
+  },
+  {
+   "id": 698228998,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Leones",
+   "away": "Libertad Loja",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1772301600,
+   "group": "liga"
+  },
+  {
+   "id": 699660699,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Leones Del Norte",
+   "away": "Libertad Loja",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1772304300,
+   "group": "liga"
+  },
+  {
+   "id": 699698176,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Guayaquil City",
+   "away": "SD Aucas",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1772314200,
+   "group": "liga"
+  },
+  {
+   "id": 699724917,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Emelec",
+   "away": "Delfin",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1772323200,
+   "group": "liga"
+  },
+  {
+   "id": 699939643,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "Club Social y Deportivo Macará",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1772384400,
+   "group": "liga"
+  },
+  {
+   "id": 699976835,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Mushuc Runa",
+   "away": "Universidad Católica Quito",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1772393400,
+   "group": "liga"
+  },
+  {
+   "id": 700006811,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "Barcelona Sporting Club",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1772402400,
+   "group": "liga"
+  },
+  {
+   "id": 700277973,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Manta",
+   "away": "Independiente del Valle",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1772497800,
+   "group": "liga"
+  },
+  {
+   "id": 701386920,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Delfin",
+   "away": "Guayaquil City",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1772843400,
+   "group": "liga"
+  },
+  {
+   "id": 701692219,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "Emelec",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1772919000,
+   "group": "liga"
+  },
+  {
+   "id": 701692317,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "Mushuc Runa",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1772919000,
+   "group": "liga"
+  },
+  {
+   "id": 701719999,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Libertad Loja",
+   "away": "LDU Quito",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1772928000,
+   "group": "liga"
+  },
+  {
+   "id": 701926196,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "Deportivo Cuenca",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1772985600,
+   "group": "liga"
+  },
+  {
+   "id": 701970555,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Club Social y Deportivo Macará",
+   "away": "Técnico Universitario",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1772994600,
+   "group": "liga"
+  },
+  {
+   "id": 701999227,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "Leones Del Norte",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1773003600,
+   "group": "liga"
+  },
+  {
+   "id": 702278781,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "Manta",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1773102600,
+   "group": "liga"
+  },
+  {
+   "id": 703359878,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Técnico Universitario",
+   "away": "Libertad Loja",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1773436500,
+   "group": "liga"
+  },
+  {
+   "id": 703389490,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "Leones Del Norte",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1773446400,
+   "group": "liga"
+  },
+  {
+   "id": 703666923,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "SD Aucas",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:1,0:1)",
+   "start": 1773514800,
+   "group": "liga"
+  },
+  {
+   "id": 703702528,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Delfin",
+   "away": "Manta",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1773522900,
+   "group": "liga"
+  },
+  {
+   "id": 703730831,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "Universidad Católica Quito",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1773532800,
+   "group": "liga"
+  },
+  {
+   "id": 703970913,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Mushuc Runa",
+   "away": "Club Social y Deportivo Macará",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1773596700,
+   "group": "liga"
+  },
+  {
+   "id": 704004723,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Emelec",
+   "away": "Orense Sporting Club",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1773606600,
+   "group": "liga"
+  },
+  {
+   "id": 704033490,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Guayaquil City",
+   "away": "Barcelona Sporting Club",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1773616500,
+   "group": "liga"
+  },
+  {
+   "id": 704527957,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "Deportivo Cuenca",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1773783000,
+   "group": "liga"
+  },
+  {
+   "id": 704553724,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Leones Del Norte",
+   "away": "LDU Quito",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1773792000,
+   "group": "liga"
+  },
+  {
+   "id": 704777686,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Club Social y Deportivo Macará",
+   "away": "Delfin",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1773860400,
+   "group": "liga"
+  },
+  {
+   "id": 704814225,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Manta",
+   "away": "Guayaquil City",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1773869400,
+   "group": "liga"
+  },
+  {
+   "id": 704840225,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Libertad Loja",
+   "away": "Barcelona Sporting Club",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1773878400,
+   "group": "liga"
+  },
+  {
+   "id": 705061041,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "Técnico Universitario",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1773946800,
+   "group": "liga"
+  },
+  {
+   "id": 705091007,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "Mushuc Runa",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (3:0,0:2)",
+   "start": 1773955800,
+   "group": "liga"
+  },
+  {
+   "id": 705119683,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Emelec",
+   "away": "Independiente del Valle",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1773964800,
+   "group": "liga"
+  },
+  {
+   "id": 705696960,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Delfin",
+   "away": "Libertad Loja",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1774119600,
+   "group": "liga"
+  },
+  {
+   "id": 705732549,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "Club Social y Deportivo Macará",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1774128600,
+   "group": "liga"
+  },
+  {
+   "id": 705761310,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "Manta",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1774137600,
+   "group": "liga"
+  },
+  {
+   "id": 706011431,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Técnico Universitario",
+   "away": "Independiente del Valle",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1774201500,
+   "group": "liga"
+  },
+  {
+   "id": 706048083,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "Universidad Católica Quito",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1774211400,
+   "group": "liga"
+  },
+  {
+   "id": 706077748,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Mushuc Runa",
+   "away": "Emelec",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1774221300,
+   "group": "liga"
+  },
+  {
+   "id": 706306665,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Guayaquil City",
+   "away": "Leones Del Norte",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1774301400,
+   "group": "liga"
+  },
+  {
+   "id": 706329370,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "Orense Sporting Club",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:0,1:2)",
+   "start": 1774310400,
+   "group": "liga"
+  },
+  {
+   "id": 709486375,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "Barcelona Sporting Club",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1775260800,
+   "group": "liga"
+  },
+  {
+   "id": 709745970,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "Orense Sporting Club",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1775329200,
+   "group": "liga"
+  },
+  {
+   "id": 709773897,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "Guayaquil City",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (0:1,4:0)",
+   "start": 1775338200,
+   "group": "liga"
+  },
+  {
+   "id": 709800315,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Emelec",
+   "away": "Deportivo Cuenca",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1775347200,
+   "group": "liga"
+  },
+  {
+   "id": 710019062,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Leones Del Norte",
+   "away": "Delfin",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1775412000,
+   "group": "liga"
+  },
+  {
+   "id": 710051319,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Manta",
+   "away": "Técnico Universitario",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1775421000,
+   "group": "liga"
+  },
+  {
+   "id": 710077839,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Club Social y Deportivo Macará",
+   "away": "SD Aucas",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1775430600,
+   "group": "liga"
+  },
+  {
+   "id": 710350308,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Libertad Loja",
+   "away": "Mushuc Runa",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:2,1:0)",
+   "start": 1775520000,
+   "group": "liga"
+  },
+  {
+   "id": 710915105,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "Emelec",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1775692800,
+   "group": "liga"
+  },
+  {
+   "id": 711492812,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Delfin",
+   "away": "LDU Quito",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1775865600,
+   "group": "liga"
+  },
+  {
+   "id": 711492866,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "Leones Del Norte",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1775865600,
+   "group": "liga"
+  },
+  {
+   "id": 711777245,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Mushuc Runa",
+   "away": "Manta",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1775934000,
+   "group": "liga"
+  },
+  {
+   "id": 711838001,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "Libertad Loja",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1775952000,
+   "group": "liga"
+  },
+  {
+   "id": 712070820,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Técnico Universitario",
+   "away": "Universidad Católica Quito",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1776013200,
+   "group": "liga"
+  },
+  {
+   "id": 712087262,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "Independiente del Valle",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:0,1:3)",
+   "start": 1776016800,
+   "group": "liga"
+  },
+  {
+   "id": 712115519,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Guayaquil City",
+   "away": "Club Social y Deportivo Macará",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1776025800,
+   "group": "liga"
+  },
+  {
+   "id": 712145286,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "Emelec",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1776035400,
+   "group": "liga"
+  },
+  {
+   "id": 713503214,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Leones Del Norte",
+   "away": "SD Aucas",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1776463200,
+   "group": "liga"
+  },
+  {
+   "id": 713527746,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Emelec",
+   "away": "Guayaquil City",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:1,0:2)",
+   "start": 1776471300,
+   "group": "liga"
+  },
+  {
+   "id": 713803980,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Mushuc Runa",
+   "away": "Técnico Universitario",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1776538800,
+   "group": "liga"
+  },
+  {
+   "id": 713838039,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "Libertad Loja",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1776547800,
+   "group": "liga"
+  },
+  {
+   "id": 713862338,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "Delfin",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1776556800,
+   "group": "liga"
+  },
+  {
+   "id": 714104994,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Manta",
+   "away": "Deportivo Cuenca",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1776620700,
+   "group": "liga"
+  },
+  {
+   "id": 714137910,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "LDU Quito",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1776630600,
+   "group": "liga"
+  },
+  {
+   "id": 714166198,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Club Social y Deportivo Macará",
+   "away": "Barcelona Sporting Club",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:1,3:0)",
+   "start": 1776640200,
+   "group": "liga"
+  },
+  {
+   "id": 714677335,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Libertad Loja",
+   "away": "Guayaquil City",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1776808800,
+   "group": "liga"
+  },
+  {
+   "id": 714700984,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Técnico Universitario",
+   "away": "Emelec",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1776816900,
+   "group": "liga"
+  },
+  {
+   "id": 714877683,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Leones Del Norte",
+   "away": "Manta",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1776873600,
+   "group": "liga"
+  },
+  {
+   "id": 714910447,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Delfin",
+   "away": "Independiente del Valle",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1776880800,
+   "group": "liga"
+  },
+  {
+   "id": 714943775,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "Orense Sporting Club",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:1,1:2)",
+   "start": 1776889800,
+   "group": "liga"
+  },
+  {
+   "id": 714968645,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "Mushuc Runa",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1776898800,
+   "group": "liga"
+  },
+  {
+   "id": 714989547,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "SD Aucas",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1776906000,
+   "group": "liga"
+  },
+  {
+   "id": 715255446,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "Club Social y Deportivo Macará",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (0:0,4:0)",
+   "start": 1776988800,
+   "group": "liga"
+  },
+  {
+   "id": 715794098,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Mushuc Runa",
+   "away": "Deportivo Cuenca",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (2:1,2:0)",
+   "start": 1777135500,
+   "group": "liga"
+  },
+  {
+   "id": 715836161,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "Leones Del Norte",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1777144200,
+   "group": "liga"
+  },
+  {
+   "id": 715872783,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Emelec",
+   "away": "LDU Quito",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1777154400,
+   "group": "liga"
+  },
+  {
+   "id": 716135829,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Club Social y Deportivo Macará",
+   "away": "Libertad Loja",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1777226400,
+   "group": "liga"
+  },
+  {
+   "id": 716167558,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Guayaquil City",
+   "away": "Técnico Universitario",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1777234500,
+   "group": "liga"
+  },
+  {
+   "id": 716197412,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "Barcelona Sporting Club",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1777245000,
+   "group": "liga"
+  },
+  {
+   "id": 716434037,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Manta",
+   "away": "Universidad Católica Quito",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1777324500,
+   "group": "liga"
+  },
+  {
+   "id": 716456572,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "Delfin",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1777334400,
+   "group": "liga"
+  },
+  {
+   "id": 717541032,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "Independiente del Valle",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:3,1:0)",
+   "start": 1777671000,
+   "group": "liga"
+  },
+  {
+   "id": 717566033,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Libertad Loja",
+   "away": "SD Aucas",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:0,2:2)",
+   "start": 1777680000,
+   "group": "liga"
+  },
+  {
+   "id": 717838623,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "Técnico Universitario",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1777748400,
+   "group": "liga"
+  },
+  {
+   "id": 717866825,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "Guayaquil City",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1777756500,
+   "group": "liga"
+  },
+  {
+   "id": 717891489,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "Manta",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1777766400,
+   "group": "liga"
+  },
+  {
+   "id": 718122744,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Club Social y Deportivo Macará",
+   "away": "Orense Sporting Club",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1777831200,
+   "group": "liga"
+  },
+  {
+   "id": 718156669,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Delfin",
+   "away": "Mushuc Runa",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1777840200,
+   "group": "liga"
+  },
+  {
+   "id": 718171234,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Leones Del Norte",
+   "away": "Emelec",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1777844700,
+   "group": "liga"
+  },
+  {
+   "id": 719503727,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "Leones Del Norte",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1778284800,
+   "group": "liga"
+  },
+  {
+   "id": 719759094,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Técnico Universitario",
+   "away": "Delfin",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1778351400,
+   "group": "liga"
+  },
+  {
+   "id": 719791481,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Guayaquil City",
+   "away": "Deportivo Cuenca",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1778360400,
+   "group": "liga"
+  },
+  {
+   "id": 719797705,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "Universidad Católica Quito",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1778362200,
+   "group": "liga"
+  },
+  {
+   "id": 719825396,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "Barcelona Sporting Club",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1778371200,
+   "group": "liga"
+  },
+  {
+   "id": 720086228,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Emelec",
+   "away": "Libertad Loja",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1778445000,
+   "group": "liga"
+  },
+  {
+   "id": 720112659,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Manta",
+   "away": "Club Social y Deportivo Macará",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1778454600,
+   "group": "liga"
+  },
+  {
+   "id": 720363108,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Mushuc Runa",
+   "away": "LDU Quito",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:0,1:3)",
+   "start": 1778544000,
+   "group": "liga"
+  },
+  {
+   "id": 721431398,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "Técnico Universitario",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1778879700,
+   "group": "liga"
+  },
+  {
+   "id": 721456116,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Libertad Loja",
+   "away": "Deportivo Cuenca",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1778889600,
+   "group": "liga"
+  },
+  {
+   "id": 721710584,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Club Social y Deportivo Macará",
+   "away": "Independiente del Valle",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1778957100,
+   "group": "liga"
+  },
+  {
+   "id": 721740386,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "Delfin",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1778966100,
+   "group": "liga"
+  },
+  {
+   "id": 721765936,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "SD Aucas",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1778975100,
+   "group": "liga"
+  },
+  {
+   "id": 721983645,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Leones Del Norte",
+   "away": "Mushuc Runa",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1779039900,
+   "group": "liga"
+  },
+  {
+   "id": 722041205,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Manta",
+   "away": "Emelec",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1779059400,
+   "group": "liga"
+  },
+  {
+   "id": 722291514,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Guayaquil City",
+   "away": "Orense Sporting Club",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1779148800,
+   "group": "liga"
+  },
+  {
+   "id": 723379591,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "Libertad Loja",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:0,2:3)",
+   "start": 1779493500,
+   "group": "liga"
+  },
+  {
+   "id": 723628013,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Mushuc Runa",
+   "away": "Guayaquil City",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:1,0:1)",
+   "start": 1779562800,
+   "group": "liga"
+  },
+  {
+   "id": 723657089,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "Universidad Católica Quito",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1779570900,
+   "group": "liga"
+  },
+  {
+   "id": 723682463,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "LDU Quito",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1779580800,
+   "group": "liga"
+  },
+  {
+   "id": 723893464,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Técnico Universitario",
+   "away": "Leones Del Norte",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1779645600,
+   "group": "liga"
+  },
+  {
+   "id": 723924041,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Emelec",
+   "away": "Club Social y Deportivo Macará",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1779654600,
+   "group": "liga"
+  },
+  {
+   "id": 723949974,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Delfin",
+   "away": "Barcelona Sporting Club",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1779664200,
+   "group": "liga"
+  },
+  {
+   "id": 724194846,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "Manta",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1779753600,
+   "group": "liga"
+  },
+  {
+   "id": 725458181,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Manta",
+   "away": "Libertad Loja",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1780167600,
+   "group": "liga"
+  },
+  {
+   "id": 725506848,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Ecuador",
+   "away": "Arabia Saudita",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1780182900,
+   "group": "seleccion"
+  },
+  {
+   "id": 725511997,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "Delfin",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1780184700,
+   "group": "liga"
+  },
+  {
+   "id": 725709757,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Mushuc Runa",
+   "away": "SD Aucas",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1780250400,
+   "group": "liga"
+  },
+  {
+   "id": 725740961,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Guayaquil City",
+   "away": "Independiente del Valle",
+   "score": [
+    2,
+    4
+   ],
+   "detail": "2:4 (0:2,2:2)",
+   "start": 1780258500,
+   "group": "liga"
+  },
+  {
+   "id": 725765306,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Emelec",
+   "away": "Universidad Católica Quito",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1780269000,
+   "group": "liga"
+  },
+  {
+   "id": 725984779,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Leones Del Norte",
+   "away": "Club Social y Deportivo Macará",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1780351200,
+   "group": "liga"
+  },
+  {
+   "id": 726004367,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Técnico Universitario",
+   "away": "Barcelona Sporting Club",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1780360200,
+   "group": "liga"
+  },
+  {
+   "id": 727483944,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Ecuador",
+   "away": "Guatemala",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1780862400,
+   "group": "seleccion"
+  },
+  {
+   "id": 726013012,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "Deportivo Cuenca",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1782936000,
+   "group": "liga"
+  },
+  {
+   "id": 726013000,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Libertad Loja",
+   "away": "Leones Del Norte",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1782936000,
+   "group": "liga"
+  },
+  {
+   "id": 726013434,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "Técnico Universitario",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1782936000,
+   "group": "liga"
+  },
+  {
+   "id": 726013003,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "Guayaquil City",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1782936000,
+   "group": "liga"
+  },
+  {
+   "id": 726013009,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "Manta",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1782936000,
+   "group": "liga"
+  },
+  {
+   "id": 725913677,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Club Social y Deportivo Macará",
+   "away": "LDU Quito",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1782936000,
+   "group": "liga"
+  },
+  {
+   "id": 725913684,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "Mushuc Runa",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1782936000,
+   "group": "liga"
+  },
+  {
+   "id": 733328137,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "Orense Sporting Club",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1782943200,
+   "group": "liga"
+  },
+  {
+   "id": 726047769,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Delfin",
+   "away": "Emelec",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1782950400,
+   "group": "liga"
+  },
+  {
+   "id": 733844975,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "Manta",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (1:0,3:0)",
+   "start": 1783123200,
+   "group": "liga"
+  },
+  {
+   "id": 734051858,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Libertad Loja",
+   "away": "Leones Del Norte",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:2,0:1)",
+   "start": 1783191600,
+   "group": "liga"
+  },
+  {
+   "id": 734099780,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "Deportivo Cuenca",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1783209600,
+   "group": "liga"
+  },
+  {
+   "id": 734279590,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Club Social y Deportivo Macará",
+   "away": "LDU Quito",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1783273500,
+   "group": "liga"
+  },
+  {
+   "id": 732477157,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "Guayaquil City",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1783281600,
+   "group": "liga"
+  },
+  {
+   "id": 734318402,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Delfin",
+   "away": "Emelec",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1783288800,
+   "group": "liga"
+  },
+  {
+   "id": 734532627,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "Mushuc Runa",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:1,2:2)",
+   "start": 1783373400,
+   "group": "liga"
+  },
+  {
+   "id": 734553843,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "Técnico Universitario",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1783382400,
+   "group": "liga"
+  },
+  {
+   "id": 734789701,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "Guayaquil City",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1783468800,
+   "group": "liga"
+  },
+  {
+   "id": 735508400,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Leones Del Norte",
+   "away": "Universidad Católica Quito",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1783720800,
+   "group": "liga"
+  },
+  {
+   "id": 735527723,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Técnico Universitario",
+   "away": "Club Social y Deportivo Macará",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1783728900,
+   "group": "liga"
+  },
+  {
+   "id": 735702193,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Manta",
+   "away": "Orense Sporting Club",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1783789200,
+   "group": "liga"
+  },
+  {
+   "id": 735732642,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Mushuc Runa",
+   "away": "Independiente del Valle",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (0:2,1:2)",
+   "start": 1783796400,
+   "group": "liga"
+  },
+  {
+   "id": 735771443,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Guayaquil City",
+   "away": "Delfin",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1783810800,
+   "group": "liga"
+  },
+  {
+   "id": 735949828,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "Libertad Loja",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1783875600,
+   "group": "liga"
+  },
+  {
+   "id": 735975207,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "SD Aucas",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1783883700,
+   "group": "liga"
+  },
+  {
+   "id": 736013765,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Emelec",
+   "away": "Barcelona Sporting Club",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1783897800,
+   "group": "liga"
+  },
+  {
+   "id": 736465856,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Club Social y Deportivo Macará",
+   "away": "Mushuc Runa",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1784064600,
+   "group": "liga"
+  },
+  {
+   "id": 736486132,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Manta",
+   "away": "Delfin",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1784073600,
+   "group": "liga"
+  },
+  {
+   "id": 736657262,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Libertad Loja",
+   "away": "Técnico Universitario",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1784134800,
+   "group": "liga"
+  },
+  {
+   "id": 736711891,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "LDU Quito",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1784151900,
+   "group": "liga"
+  },
+  {
+   "id": 736711923,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Leones Del Norte",
+   "away": "Deportivo Cuenca",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1784152800,
+   "group": "liga"
+  },
+  {
+   "id": 736733054,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "Guayaquil City",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1784161800,
+   "group": "liga"
+  },
+  {
+   "id": 736949877,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "Independiente del Valle",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1784237400,
+   "group": "liga"
+  },
+  {
+   "id": 736971364,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "Emelec",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1784246400,
+   "group": "liga"
+  },
+  {
+   "id": 737221416,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Delfin",
+   "away": "Club Social y Deportivo Macará",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1784332800,
+   "group": "liga"
+  },
+  {
+   "id": 737428498,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "Universidad Católica Quito",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1784400300,
+   "group": "liga"
+  },
+  {
+   "id": 737459158,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "Leones Del Norte",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1784410200,
+   "group": "liga"
+  },
+  {
+   "id": 737479923,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "Libertad Loja",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1784419200,
+   "group": "liga"
+  },
+  {
+   "id": 737649341,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Técnico Universitario",
+   "away": "SD Aucas",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1784479500,
+   "group": "liga"
+  },
+  {
+   "id": 737698091,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Guayaquil City",
+   "away": "Manta",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1784497500,
+   "group": "liga"
+  },
+  {
+   "id": 737717418,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "Emelec",
+   "score": [
+    6,
+    1
+   ],
+   "detail": "6:1 (3:0,3:1)",
+   "start": 1784506500,
+   "group": "liga"
+  },
+  {
+   "id": 737892140,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Mushuc Runa",
+   "away": "Orense Sporting Club",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1784573100,
+   "group": "liga"
+  },
+  {
+   "id": 738157704,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Libertad Loja",
+   "away": "Delfin",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1784669400,
+   "group": "liga"
+  },
+  {
+   "id": 738179890,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "Barcelona Sporting Club",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1784677500,
+   "group": "liga"
+  },
+  {
+   "id": 738377530,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Club Social y Deportivo Macará",
+   "away": "Deportivo Cuenca",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1784746800,
+   "group": "liga"
+  },
+  {
+   "id": 738403684,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "Técnico Universitario",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1784755800,
+   "group": "liga"
+  },
+  {
+   "id": 738426945,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Manta",
+   "away": "LDU Quito",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1784764800,
+   "group": "liga"
+  },
+  {
+   "id": 738656575,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "SD Aucas",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1784842200,
+   "group": "liga"
+  },
+  {
+   "id": 738656572,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Leones Del Norte",
+   "away": "Guayaquil City",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1784842200,
+   "group": "liga"
+  },
+  {
+   "id": 738679762,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Emelec",
+   "away": "Mushuc Runa",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1784851200,
+   "group": "liga"
+  },
+  {
+   "id": 739201608,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Técnico Universitario",
+   "away": "Manta",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1785024000,
+   "group": "liga"
+  },
+  {
+   "id": 739397785,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "Club Social y Deportivo Macará",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (1:1,0:3)",
+   "start": 1785088800,
+   "group": "liga"
+  },
+  {
+   "id": 739397811,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Delfin",
+   "away": "Leones Del Norte",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1785088800,
+   "group": "liga"
+  },
+  {
+   "id": 739428432,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "Independiente del Valle",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:1,2:2)",
+   "start": 1785098700,
+   "group": "liga"
+  },
+  {
+   "id": 739458460,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "LDU Quito",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1785111300,
+   "group": "liga"
+  },
+  {
+   "id": 739641725,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Mushuc Runa",
+   "away": "Libertad Loja",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1785178800,
+   "group": "liga"
+  },
+  {
+   "id": 739664980,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Guayaquil City",
+   "away": "Universidad Católica Quito",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1785187800,
+   "group": "liga"
+  },
+  {
+   "id": 739687374,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "Emelec",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1785196800,
+   "group": "liga"
+  },
+  {
+   "id": 740715504,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Libertad Loja",
+   "away": "Orense Sporting Club",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1785541500,
+   "group": "liga"
+  },
+  {
+   "id": 740943079,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Manta",
+   "away": "Mushuc Runa",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1785610800,
+   "group": "liga"
+  },
+  {
+   "id": 740971184,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "Técnico Universitario",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (3:0,2:0)",
+   "start": 1785619800,
+   "group": "liga"
+  },
+  {
+   "id": 740994498,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Emelec",
+   "away": "SD Aucas",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1785628800,
+   "group": "liga"
+  },
+  {
+   "id": 741191833,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "Deportivo Cuenca",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1785693600,
+   "group": "liga"
+  },
+  {
+   "id": 741220656,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Club Social y Deportivo Macará",
+   "away": "Guayaquil City",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1785701700,
+   "group": "liga"
+  },
+  {
+   "id": 741245560,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Leones Del Norte",
+   "away": "Barcelona Sporting Club",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1785711600,
+   "group": "liga"
+  },
+  {
+   "id": 741484540,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "Delfin",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1785801600,
+   "group": "liga"
+  },
+  {
+   "id": 742519788,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "Independiente del Valle",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1786147200,
+   "group": "liga"
+  },
+  {
+   "id": 742786220,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "Leones Del Norte",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1786224600,
+   "group": "liga"
+  },
+  {
+   "id": 742810814,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "Club Social y Deportivo Macará",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1786233600,
+   "group": "liga"
+  },
+  {
+   "id": 743042283,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Delfin",
+   "away": "Orense Sporting Club",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1786309200,
+   "group": "liga"
+  },
+  {
+   "id": 743071704,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Guayaquil City",
+   "away": "Emelec",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1786320000,
+   "group": "liga"
+  },
+  {
+   "id": 743254610,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Técnico Universitario",
+   "away": "Mushuc Runa",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1786388400,
+   "group": "liga"
+  },
+  {
+   "id": 743279466,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Libertad Loja",
+   "away": "Universidad Católica Quito",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1786396500,
+   "group": "liga"
+  },
+  {
+   "id": 743300990,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "Manta",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1786405500,
+   "group": "liga"
+  },
+  {
+   "id": 744336128,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "Delfin",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (3:1,0:1)",
+   "start": 1786751100,
+   "group": "liga"
+  },
+  {
+   "id": 744571070,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Manta",
+   "away": "Leones Del Norte",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1786820400,
+   "group": "liga"
+  },
+  {
+   "id": 744601734,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Guayaquil City",
+   "away": "Libertad Loja",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:2,2:0)",
+   "start": 1786829400,
+   "group": "liga"
+  },
+  {
+   "id": 744627227,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Mushuc Runa",
+   "away": "Barcelona Sporting Club",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1786838400,
+   "group": "liga"
+  },
+  {
+   "id": 744845435,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "Deportivo Cuenca",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1786906800,
+   "group": "liga"
+  },
+  {
+   "id": 744870527,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Emelec",
+   "away": "Técnico Universitario",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1786914900,
+   "group": "liga"
+  },
+  {
+   "id": 744898293,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "LDU Quito",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1786923900,
+   "group": "liga"
+  },
+  {
+   "id": 745138528,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Club Social y Deportivo Macará",
+   "away": "Universidad Católica Quito",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1787011200,
+   "group": "liga"
+  },
+  {
+   "id": 746198722,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "Mushuc Runa",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1787356800,
+   "group": "liga"
+  },
+  {
+   "id": 746198783,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Leones Del Norte",
+   "away": "Independiente del Valle",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:0,1:3)",
+   "start": 1787356800,
+   "group": "liga"
+  },
+  {
+   "id": 746436940,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "Manta",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (3:1,2:0)",
+   "start": 1787425200,
+   "group": "liga"
+  },
+  {
+   "id": 746467504,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Técnico Universitario",
+   "away": "Guayaquil City",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:0,1:3)",
+   "start": 1787434200,
+   "group": "liga"
+  },
+  {
+   "id": 746494122,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "Orense Sporting Club",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1787442300,
+   "group": "liga"
+  },
+  {
+   "id": 746731851,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Delfin",
+   "away": "SD Aucas",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1787517000,
+   "group": "liga"
+  },
+  {
+   "id": 746766031,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "Emelec",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1787529600,
+   "group": "liga"
+  },
+  {
+   "id": 747011333,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Libertad Loja",
+   "away": "Club Social y Deportivo Macará",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1787616000,
+   "group": "liga"
+  },
+  {
+   "id": 748055342,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Mushuc Runa",
+   "away": "Delfin",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1787949000,
+   "group": "liga"
+  },
+  {
+   "id": 748090182,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Técnico Universitario",
+   "away": "Deportivo Cuenca",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1787961600,
+   "group": "liga"
+  },
+  {
+   "id": 748324870,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "Universidad Católica Quito",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:0,2:2)",
+   "start": 1788026400,
+   "group": "liga"
+  },
+  {
+   "id": 748365252,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Guayaquil City",
+   "away": "LDU Quito",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1788037200,
+   "group": "liga"
+  },
+  {
+   "id": 748397855,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Manta",
+   "away": "Barcelona Sporting Club",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1788048000,
+   "group": "liga"
+  },
+  {
+   "id": 748618206,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "Libertad Loja",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1788112800,
+   "group": "liga"
+  },
+  {
+   "id": 748651006,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "Club Social y Deportivo Macará",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1788121800,
+   "group": "liga"
+  },
+  {
+   "id": 748675836,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Emelec",
+   "away": "Leones Del Norte",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1788130800,
+   "group": "liga"
+  },
+  {
+   "id": 749181837,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Delfin",
+   "away": "Técnico Universitario",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1788298200,
+   "group": "liga"
+  },
+  {
+   "id": 749205242,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "Mushuc Runa",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1788307200,
+   "group": "liga"
+  },
+  {
+   "id": 749429970,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Club Social y Deportivo Macará",
+   "away": "Manta",
+   "score": [
+    4,
+    3
+   ],
+   "detail": "4:3 (1:1,3:2)",
+   "start": 1788375600,
+   "group": "liga"
+  },
+  {
+   "id": 749456912,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "Guayaquil City",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1788384600,
+   "group": "liga"
+  },
+  {
+   "id": 749481866,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "Independiente del Valle",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1788393600,
+   "group": "liga"
+  },
+  {
+   "id": 749701289,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "SD Aucas",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1788462000,
+   "group": "liga"
+  },
+  {
+   "id": 749730002,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Leones Del Norte",
+   "away": "Orense Sporting Club",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1788470100,
+   "group": "liga"
+  },
+  {
+   "id": 749755493,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Libertad Loja",
+   "away": "Emelec",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1788479100,
+   "group": "liga"
+  },
+  {
+   "id": 750052670,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Técnico Universitario",
+   "away": "LDU Quito",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:0,0:3)",
+   "start": 1788568200,
+   "group": "liga"
+  },
+  {
+   "id": 750356198,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "Club Social y Deportivo Macará",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (3:0,0:1)",
+   "start": 1788649200,
+   "group": "liga"
+  },
+  {
+   "id": 750645393,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Delfin",
+   "away": "Universidad Católica Quito",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1788727500,
+   "group": "liga"
+  },
+  {
+   "id": 750674379,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "Libertad Loja",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1788739200,
+   "group": "liga"
+  },
+  {
+   "id": 750674432,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "Barcelona Sporting Club",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1788739200,
+   "group": "liga"
+  },
+  {
+   "id": 750934557,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Mushuc Runa",
+   "away": "Leones Del Norte",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1788825600,
+   "group": "liga"
+  },
+  {
+   "id": 750934530,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "Guayaquil City",
+   "score": [
+    4,
+    3
+   ],
+   "detail": "4:3 (2:2,2:1)",
+   "start": 1788825600,
+   "group": "liga"
+  },
+  {
+   "id": 750934554,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Emelec",
+   "away": "Manta",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1788825600,
+   "group": "liga"
+  },
+  {
+   "id": 752327858,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Manta",
+   "away": "SD Aucas",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1789239600,
+   "group": "liga"
+  },
+  {
+   "id": 752361373,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Guayaquil City",
+   "away": "Mushuc Runa",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1789248600,
+   "group": "liga"
+  },
+  {
+   "id": 752390056,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "Deportivo Cuenca",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1789257600,
+   "group": "liga"
+  },
+  {
+   "id": 752628708,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Leones Del Norte",
+   "away": "Técnico Universitario",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1789322400,
+   "group": "liga"
+  },
+  {
+   "id": 752662214,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Club Social y Deportivo Macará",
+   "away": "Emelec",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1789330500,
+   "group": "liga"
+  },
+  {
+   "id": 752688435,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "Delfin",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1789339500,
+   "group": "liga"
+  },
+  {
+   "id": 752688469,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Libertad Loja",
+   "away": "Independiente del Valle",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:2,1:1)",
+   "start": 1789340400,
+   "group": "liga"
+  },
+  {
+   "id": 752950273,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "Orense Sporting Club",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1789430400,
+   "group": "liga"
+  },
+  {
+   "id": 754116377,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "Club Social y Deportivo Macará",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1789776900,
+   "group": "liga"
+  },
+  {
+   "id": 754424407,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Guayaquil City",
+   "away": "Leones Del Norte",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1789853400,
+   "group": "liga"
+  },
+  {
+   "id": 754450398,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Emelec",
+   "away": "Libertad Loja",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1789862400,
+   "group": "liga"
+  },
+  {
+   "id": 754706291,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Técnico Universitario",
+   "away": "Delfin",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1789929000,
+   "group": "liga"
+  },
+  {
+   "id": 753108592,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "Independiente del Valle",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1789934400,
+   "group": "liga"
+  },
+  {
+   "id": 754735310,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "Mushuc Runa",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1789938000,
+   "group": "liga"
+  },
+  {
+   "id": 754758701,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "Universidad Católica Quito",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1789947000,
+   "group": "liga"
+  },
+  {
+   "id": 754957658,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Manta",
+   "away": "Orense Sporting Club",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1790017200,
+   "group": "liga"
+  },
+  {
+   "id": 755007800,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "Independiente del Valle",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1790037000,
+   "group": "liga"
+  },
+  {
+   "id": 755648618,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Corea del Sur",
+   "away": "Ecuador",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (0:0,3:0)",
+   "start": 1790246700,
+   "group": "seleccion"
+  },
+  {
+   "id": 757617314,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Japón",
+   "away": "Ecuador",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,0:0,0:0,1:0)",
+   "start": 1790849400,
+   "group": "seleccion"
+  },
+  {
+   "id": 757641419,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Japón",
+   "away": "Ecuador",
+   "score": [
+    5,
+    4
+   ],
+   "detail": "5:4 (5:4)",
+   "start": 1790849400,
+   "group": "seleccion"
+  },
+  {
+   "id": 758779803,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Ecuador",
+   "away": "Panamá",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:0,0:0,0:1)",
+   "start": 1791181800,
+   "group": "seleccion"
+  },
+  {
+   "id": 758802246,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Ecuador",
+   "away": "Panamá",
+   "score": [
+    6,
+    7
+   ],
+   "detail": "6:7 (6:7)",
+   "start": 1791181800,
+   "group": "seleccion"
+  },
+  {
+   "id": 760053176,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Libertad Loja",
+   "away": "Leones Del Norte",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1791568800,
+   "group": "liga"
+  },
+  {
+   "id": 760094603,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Delfin",
+   "away": "Mushuc Runa",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:2,1:0)",
+   "start": 1791577800,
+   "group": "liga"
+  },
+  {
+   "id": 760379542,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "SD Aucas",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1791649800,
+   "group": "liga"
+  },
+  {
+   "id": 760423565,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Manta",
+   "away": "Técnico Universitario",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1791658800,
+   "group": "liga"
+  },
+  {
+   "id": 760455753,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Guayaquil City",
+   "away": "Emelec",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (0:2,3:0)",
+   "start": 1791667800,
+   "group": "liga"
+  },
+  {
+   "id": 760721250,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "Club Social y Deportivo Macará",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1791736200,
+   "group": "liga"
+  },
+  {
+   "id": 760754752,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "Deportivo Cuenca",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1791744300,
+   "group": "liga"
+  },
+  {
+   "id": 760787248,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "Barcelona Sporting Club",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1791754200,
+   "group": "liga"
+  },
+  {
+   "id": 762224000,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "Técnico Universitario",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1792182600,
+   "group": "liga"
+  },
+  {
+   "id": 762519879,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Libertad Loja",
+   "away": "Guayaquil City",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (1:0,3:0)",
+   "start": 1792254600,
+   "group": "liga"
+  },
+  {
+   "id": 762567584,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Club Social y Deportivo Macará",
+   "away": "Independiente del Valle",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1792263600,
+   "group": "liga"
+  },
+  {
+   "id": 762600451,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "LDU Quito",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1792272600,
+   "group": "liga"
+  },
+  {
+   "id": 762870755,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Delfin",
+   "away": "Manta",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (2:2,2:0)",
+   "start": 1792341000,
+   "group": "liga"
+  },
+  {
+   "id": 762909404,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Leones Del Norte",
+   "away": "Emelec",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:0,1:3)",
+   "start": 1792350000,
+   "group": "liga"
+  },
+  {
+   "id": 762940620,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "Universidad Católica Quito",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1792359000,
+   "group": "liga"
+  },
+  {
+   "id": 763200503,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Mushuc Runa",
+   "away": "Orense Sporting Club",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1792441800,
+   "group": "liga"
+  },
+  {
+   "id": 764371468,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "Universidad Católica Quito",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1792787400,
+   "group": "liga"
+  },
+  {
+   "id": 764664173,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Manta",
+   "away": "Deportivo Cuenca",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1792859400,
+   "group": "liga"
+  },
+  {
+   "id": 764709689,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "Delfin",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1792868400,
+   "group": "liga"
+  },
+  {
+   "id": 764743386,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "Club Social y Deportivo Macará",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1792877400,
+   "group": "liga"
+  },
+  {
+   "id": 765000789,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Leones Del Norte",
+   "away": "Libertad Loja",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (1:1,3:0)",
+   "start": 1792945800,
+   "group": "liga"
+  },
+  {
+   "id": 765040941,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Emelec",
+   "away": "Guayaquil City",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1792954800,
+   "group": "liga"
+  },
+  {
+   "id": 765074410,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "Barcelona Sporting Club",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:1,0:3)",
+   "start": 1792963800,
+   "group": "liga"
+  },
+  {
+   "id": 765331269,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Técnico Universitario",
+   "away": "Mushuc Runa",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1793046600,
+   "group": "liga"
+  },
+  {
+   "id": 766822132,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Delfin",
+   "away": "Deportivo Cuenca",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1793464200,
+   "group": "liga"
+  },
+  {
+   "id": 766873179,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Emelec",
+   "away": "Leones Del Norte",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1793473200,
+   "group": "liga"
+  },
+  {
+   "id": 766912568,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Club Social y Deportivo Macará",
+   "away": "Barcelona Sporting Club",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1793482200,
+   "group": "liga"
+  },
+  {
+   "id": 767156456,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "SD Aucas",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1793548800,
+   "group": "liga"
+  },
+  {
+   "id": 767203200,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "LDU Quito",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1793557800,
+   "group": "liga"
+  },
+  {
+   "id": 767236508,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Guayaquil City",
+   "away": "Libertad Loja",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1793566800,
+   "group": "liga"
+  },
+  {
+   "id": 767498642,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "Técnico Universitario",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1793651400,
+   "group": "liga"
+  },
+  {
+   "id": 767784972,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Mushuc Runa",
+   "away": "Manta",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:1,1:2)",
+   "start": 1793737800,
+   "group": "liga"
+  },
+  {
+   "id": 768948714,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Libertad Loja",
+   "away": "Emelec",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1794078000,
+   "group": "liga"
+  },
+  {
+   "id": 768986836,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Leones Del Norte",
+   "away": "Guayaquil City",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1794087000,
+   "group": "liga"
+  },
+  {
+   "id": 769228453,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Club Social y Deportivo Macará",
+   "away": "Universidad Católica Quito",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:1,2:1)",
+   "start": 1794154500,
+   "group": "liga"
+  },
+  {
+   "id": 769232326,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "Orense Sporting Club",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1794155400,
+   "group": "liga"
+  },
+  {
+   "id": 769266807,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "SD Aucas",
+   "away": "Independiente del Valle",
+   "score": [
+    2,
+    4
+   ],
+   "detail": "2:4 (1:3,1:1)",
+   "start": 1794163500,
+   "group": "liga"
+  },
+  {
+   "id": 769300242,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "LDU Quito",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1794173400,
+   "group": "liga"
+  },
+  {
+   "id": 769501496,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Mushuc Runa",
+   "away": "Delfin",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1794247200,
+   "group": "liga"
+  },
+  {
+   "id": 769532074,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Técnico Universitario",
+   "away": "Manta",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1794256200,
+   "group": "liga"
+  },
+  {
+   "id": 770682584,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Ecuador",
+   "away": "Costa Rica",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1794613500,
+   "group": "seleccion"
+  },
+  {
+   "id": 771848737,
+   "tid": 125983,
+   "tname": "Partidos amistosos. Selecciones",
+   "home": "Ecuador",
+   "away": "Bolivia",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1794958200,
+   "group": "seleccion"
+  },
+  {
+   "id": 772609962,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Independiente del Valle",
+   "away": "Club Social y Deportivo Macará",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1795194000,
+   "group": "liga"
+  },
+  {
+   "id": 772987719,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Técnico Universitario",
+   "away": "Deportivo Cuenca",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1795287600,
+   "group": "liga"
+  },
+  {
+   "id": 773027563,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Universidad Católica Quito",
+   "away": "Barcelona Sporting Club",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1795296600,
+   "group": "liga"
+  },
+  {
+   "id": 773278320,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Manta",
+   "away": "Delfin",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:0,2:2)",
+   "start": 1795365000,
+   "group": "liga"
+  },
+  {
+   "id": 773318621,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Orense Sporting Club",
+   "away": "Mushuc Runa",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:3,1:0)",
+   "start": 1795374000,
+   "group": "liga"
+  },
+  {
+   "id": 773351226,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "LDU Quito",
+   "away": "SD Aucas",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1795383000,
+   "group": "liga"
+  }
+ ]
+}
