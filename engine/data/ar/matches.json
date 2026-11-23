@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:39:55+00:00",
+ "updated": "2026-11-23T16:38:31+00:00",
  "groups": [
   {
    "key": "liga",
@@ -21,9 +21,9 @@
      "eid": 770751659,
      "tid": 119599,
      "coupon": {
-      "1": "FUGLJ",
-      "X": "TUGLJ",
-      "2": "FVGLJ"
+      "1": "METPJ",
+      "X": "QETPJ",
+      "2": "VETPJ"
      },
      "markets": {
       "dc": {
@@ -223,9 +223,7 @@
      "eid": 770751656,
      "tid": 119599,
      "coupon": {
-      "1": "LXGLJ",
-      "X": "QXGLJ",
-      "2": "UXGLJ"
+      "1": "JFTPJ"
      },
      "markets": {
       "dc": {
@@ -360,9 +358,9 @@
      "away": "Barracas Central",
      "start": 1795989600,
      "odds": {
-      "1": 1.501,
-      "X": 4.02,
-      "2": 7.25
+      "1": 1.523,
+      "X": 3.935,
+      "2": 7.05
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/0a193e9e519da3c57ba35af02a7d2a57.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/2422.png",
@@ -370,23 +368,22 @@
      "eid": 773424200,
      "tid": 119599,
      "coupon": {
-      "1": "D8GLJ",
-      "X": "J8GLJ",
-      "2": "N8GLJ"
+      "X": "L3TPJ",
+      "2": "P3TPJ"
      },
      "markets": {
       "dc": {
-       "1X": 1.087,
-       "12": 1.235,
-       "X2": 2.551
+       "1X": 1.091,
+       "12": 1.244,
+       "X2": 2.49
       },
       "ou25": {
-       "o": 2.226,
-       "u": 1.657
+       "o": 2.286,
+       "u": 1.625
       },
       "btts": {
-       "y": 2.31,
-       "n": 1.546
+       "y": 2.33,
+       "n": 1.536
       }
      },
      "stats": {
@@ -562,9 +559,9 @@
      "away": "Independiente",
      "start": 1795989600,
      "odds": {
-      "1": 2.357,
-      "X": 3.12,
-      "2": 3.245
+      "1": 2.296,
+      "X": 3.14,
+      "2": 3.345
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/14bfc0f4b2b3ad16a642371835fcf8f9.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/2518129.png",
@@ -572,23 +569,23 @@
      "eid": 773424197,
      "tid": 119599,
      "coupon": {
-      "1": "FYGLJ",
-      "X": "TYGLJ",
-      "2": "AZGLJ"
+      "1": "SGTPJ",
+      "X": "GHTPJ",
+      "2": "ZHTPJ"
      },
      "markets": {
       "dc": {
-       "1X": 1.333,
-       "12": 1.355,
-       "X2": 1.577
+       "1X": 1.317,
+       "12": 1.351,
+       "X2": 1.606
       },
       "ou25": {
-       "o": 2.306,
-       "u": 1.615
+       "o": 2.327,
+       "u": 1.605
       },
       "btts": {
-       "y": 1.93,
-       "n": 1.781
+       "y": 1.94,
+       "n": 1.771
       }
      },
      "stats": {
@@ -764,9 +761,9 @@
      "away": "River Plate Buenos Aires",
      "start": 1796065200,
      "odds": {
-      "1": 3.675,
-      "X": 3.03,
-      "2": 2.217
+      "1": 3.615,
+      "X": 3.035,
+      "2": 2.238
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/eb7b5fd59a064f116da901967df9dbf5.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/9781db74f335e6456ecb6aa37ac25b55.png",
@@ -774,15 +771,15 @@
      "eid": 773507975,
      "tid": 119599,
      "coupon": {
-      "1": "KZGLJ",
-      "X": "5ZGLJ",
-      "2": "QZGLJ"
+      "1": "K4TPJ",
+      "X": "94TPJ",
+      "2": "JKTPJ"
      },
      "markets": {
       "dc": {
-       "1X": 1.647,
+       "1X": 1.635,
        "12": 1.372,
-       "X2": 1.272
+       "X2": 1.279
       },
       "ou25": {
        "o": 2.577,

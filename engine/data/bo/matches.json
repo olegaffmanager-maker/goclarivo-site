@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:57:47+00:00",
+ "updated": "2026-11-23T16:46:23+00:00",
  "groups": [
   {
    "key": "liga",
@@ -11,9 +11,9 @@
      "away": "Guabira",
      "start": 1795460400,
      "odds": {
-      "1": 1.46,
-      "X": 4.33,
-      "2": 5.25
+      "1": 1.43,
+      "X": 4.45,
+      "2": 5.51
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/7c17b3695b3ccfde40756fda2f98d68f.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/12dc2acb4625a7cdbfecc6d30af62ce5.png",
@@ -21,23 +21,23 @@
      "eid": 769546624,
      "tid": 2869549,
      "coupon": {
-      "1": "K8LMJ",
-      "X": "68LMJ",
-      "2": "88LMJ"
+      "1": "QDEQJ",
+      "X": "VDEQJ",
+      "2": "ZDEQJ"
      },
      "markets": {
       "dc": {
-       "1X": 1.088,
-       "12": 1.128,
-       "X2": 2.34
+       "1X": 1.077,
+       "12": 1.12,
+       "X2": 2.42
       },
       "ou25": {
        "o": 1.28,
        "u": 3.08
       },
       "btts": {
-       "y": 1.39,
-       "n": 2.729
+       "y": 1.4,
+       "n": 2.696
       }
      },
      "stats": {
@@ -168,8 +168,9 @@
      "eid": 770043711,
      "tid": 2869549,
      "coupon": {
-      "1": "JAMMJ",
-      "X": "8AMMJ"
+      "1": "XFEQJ",
+      "X": "C3EQJ",
+      "2": "P3EQJ"
      },
      "markets": {
       "dc": {

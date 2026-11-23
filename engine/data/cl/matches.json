@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:48:05+00:00",
+ "updated": "2026-11-23T16:40:46+00:00",
  "groups": [
   {
    "key": "liga",
@@ -11,9 +11,9 @@
      "away": "Deportes Limache",
      "start": 1795899600,
      "odds": {
-      "1": 1.7,
-      "X": 3.84,
-      "2": 4.33
+      "1": 1.77,
+      "X": 3.8,
+      "2": 3.985
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/5608.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/366413.png",
@@ -21,23 +21,23 @@
      "eid": 773378863,
      "tid": 28298,
      "coupon": {
-      "1": "ENXLJ",
-      "X": "LNXLJ",
-      "2": "6NXLJ"
+      "1": "N5XPJ",
+      "X": "1NXPJ",
+      "2": "5NXPJ"
      },
      "markets": {
       "dc": {
-       "1X": 1.17,
+       "1X": 1.2,
        "12": 1.22,
-       "X2": 2.04
+       "X2": 1.95
       },
       "ou25": {
-       "o": 1.64,
-       "u": 2.16
+       "o": 1.61,
+       "u": 2.21
       },
       "btts": {
-       "y": 1.62,
-       "n": 2.162
+       "y": 1.57,
+       "n": 2.255
       }
      },
      "stats": {
@@ -223,9 +223,9 @@
      "eid": 773378860,
      "tid": 28298,
      "coupon": {
-      "1": "KPXLJ",
-      "X": "7PXLJ",
-      "2": "EQXLJ"
+      "1": "3QXPJ",
+      "X": "HQXPJ",
+      "2": "NQXPJ"
      },
      "markets": {
       "dc": {
@@ -425,9 +425,9 @@
      "eid": 773376211,
      "tid": 28298,
      "coupon": {
-      "1": "H6XLJ",
-      "X": "N6XLJ",
-      "2": "76XLJ"
+      "1": "9QXPJ",
+      "X": "E6XPJ",
+      "2": "J6XPJ"
      },
      "markets": {
       "dc": {
@@ -627,9 +627,9 @@
      "eid": 773376223,
      "tid": 28298,
      "coupon": {
-      "1": "ERXLJ",
-      "X": "4RXLJ",
-      "2": "RRXLJ"
+      "1": "V6XPJ",
+      "X": "Z6XPJ",
+      "2": "CRXPJ"
      },
      "markets": {
       "dc": {
@@ -829,9 +829,9 @@
      "eid": 773376220,
      "tid": 28298,
      "coupon": {
-      "1": "DSXLJ",
-      "X": "LSXLJ",
-      "2": "6SXLJ"
+      "1": "5RXPJ",
+      "X": "6RXPJ",
+      "2": "8RXPJ"
      },
      "markets": {
       "dc": {
@@ -1031,9 +1031,9 @@
      "eid": 773376217,
      "tid": 28298,
      "coupon": {
-      "1": "KTXLJ",
-      "X": "STXLJ",
-      "2": "VTXLJ"
+      "1": "5SXPJ",
+      "X": "6SXPJ",
+      "2": "TSXPJ"
      },
      "markets": {
       "dc": {
@@ -1219,208 +1219,6 @@
     },
     {
      "tournament": "Chile. Primera Division",
-     "home": "FC Nublense",
-     "away": "Cobresal",
-     "start": 1795995000,
-     "odds": {
-      "1": 1.68,
-      "X": 3.95,
-      "2": 4.325
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/5584.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/9cfea0b90ea6f856fa731658901b3784.png",
-     "link": "https://1xlite-32085.pro/es/line/Football/28298-Chile-Primera-Division/396792598-Nublense-Cobresal",
-     "eid": 773376214,
-     "tid": 28298,
-     "coupon": {
-      "1": "F7XLJ",
-      "X": "J7XLJ",
-      "2": "R7XLJ"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.17,
-       "12": 1.21,
-       "X2": 2.07
-      },
-      "ou25": {
-       "o": 1.56,
-       "u": 2.31
-      },
-      "btts": {
-       "y": 1.56,
-       "n": 2.276
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1780092000,
-        "h": "Cobresal",
-        "a": "FC Nublense",
-        "s": [
-         0,
-         1
-        ],
-        "t": "Chile. Primera Division",
-        "hh": false
-       },
-       {
-        "d": 1777766400,
-        "h": "FC Nublense",
-        "a": "Cobresal",
-        "s": [
-         2,
-         0
-        ],
-        "t": "Chile. Copa de la liga",
-        "hh": true
-       },
-       {
-        "d": 1774135800,
-        "h": "Cobresal",
-        "a": "FC Nublense",
-        "s": [
-         1,
-         1
-        ],
-        "t": "Chile. Copa de la liga",
-        "hh": false
-       },
-       {
-        "d": 1765141200,
-        "h": "FC Nublense",
-        "a": "Cobresal",
-        "s": [
-         5,
-         0
-        ],
-        "t": "Chile. Primera Division",
-        "hh": true
-       },
-       {
-        "d": 1750627800,
-        "h": "Cobresal",
-        "a": "FC Nublense",
-        "s": [
-         1,
-         1
-        ],
-        "t": "Chile. Primera Division",
-        "hh": false
-       },
-       {
-        "d": 1726336800,
-        "h": "FC Nublense",
-        "a": "Cobresal",
-        "s": [
-         1,
-         0
-        ],
-        "t": "Chile. Primera Division",
-        "hh": true
-       },
-       {
-        "d": 1713639600,
-        "h": "Cobresal",
-        "a": "FC Nublense",
-        "s": [
-         2,
-         2
-        ],
-        "t": "Chile. Primera Division",
-        "hh": false
-       },
-       {
-        "d": 1691339400,
-        "h": "FC Nublense",
-        "a": "Cobresal",
-        "s": [
-         1,
-         2
-        ],
-        "t": "Chile. Primera Division",
-        "hh": true
-       }
-      ],
-      "f1": [
-       {
-        "d": 1795303800,
-        "o": "FC Universidad de Concepción",
-        "gf": 3,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1794160800,
-        "o": "Colo-Colo",
-        "gf": 1,
-        "ga": 2,
-        "dom": true
-       },
-       {
-        "d": 1793480400,
-        "o": "O'Higgins",
-        "gf": 0,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1792942200,
-        "o": "Coquimbo Unido",
-        "gf": 2,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1791835200,
-        "o": "Universidad de Chile",
-        "gf": 0,
-        "ga": 6,
-        "dom": false
-       }
-      ],
-      "f2": [
-       {
-        "d": 1795208400,
-        "o": "Audax Italiano",
-        "gf": 3,
-        "ga": 2,
-        "dom": true
-       },
-       {
-        "d": 1794160800,
-        "o": "Universidad de Chile",
-        "gf": 1,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1793556000,
-        "o": "Everton de Vina del Mar",
-        "gf": 2,
-        "ga": 2,
-        "dom": true
-       },
-       {
-        "d": 1792882800,
-        "o": "O'Higgins",
-        "gf": 1,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1791655200,
-        "o": "FC Universidad de Concepción",
-        "gf": 1,
-        "ga": 1,
-        "dom": true
-       }
-      ]
-     }
-    },
-    {
-     "tournament": "Chile. Primera Division",
      "home": "Unión La Calera",
      "away": "FC Universidad de Concepción",
      "start": 1795995000,
@@ -1435,9 +1233,9 @@
      "eid": 773376689,
      "tid": 28298,
      "coupon": {
-      "1": "TUXLJ",
-      "X": "YUXLJ",
-      "2": "TVXLJ"
+      "1": "FTXPJ",
+      "X": "4TXPJ",
+      "2": "NTXPJ"
      },
      "markets": {
       "dc": {
@@ -1617,6 +1415,208 @@
         "gf": 1,
         "ga": 1,
         "dom": false
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "Chile. Primera Division",
+     "home": "FC Nublense",
+     "away": "Cobresal",
+     "start": 1795995000,
+     "odds": {
+      "1": 1.68,
+      "X": 3.95,
+      "2": 4.325
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/5584.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/9cfea0b90ea6f856fa731658901b3784.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/28298-Chile-Primera-Division/396792598-Nublense-Cobresal",
+     "eid": 773376214,
+     "tid": 28298,
+     "coupon": {
+      "1": "A7XPJ",
+      "X": "D7XPJ",
+      "2": "37XPJ"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.17,
+       "12": 1.21,
+       "X2": 2.07
+      },
+      "ou25": {
+       "o": 1.56,
+       "u": 2.31
+      },
+      "btts": {
+       "y": 1.56,
+       "n": 2.276
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1780092000,
+        "h": "Cobresal",
+        "a": "FC Nublense",
+        "s": [
+         0,
+         1
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1777766400,
+        "h": "FC Nublense",
+        "a": "Cobresal",
+        "s": [
+         2,
+         0
+        ],
+        "t": "Chile. Copa de la liga",
+        "hh": true
+       },
+       {
+        "d": 1774135800,
+        "h": "Cobresal",
+        "a": "FC Nublense",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Chile. Copa de la liga",
+        "hh": false
+       },
+       {
+        "d": 1765141200,
+        "h": "FC Nublense",
+        "a": "Cobresal",
+        "s": [
+         5,
+         0
+        ],
+        "t": "Chile. Primera Division",
+        "hh": true
+       },
+       {
+        "d": 1750627800,
+        "h": "Cobresal",
+        "a": "FC Nublense",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1726336800,
+        "h": "FC Nublense",
+        "a": "Cobresal",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Chile. Primera Division",
+        "hh": true
+       },
+       {
+        "d": 1713639600,
+        "h": "Cobresal",
+        "a": "FC Nublense",
+        "s": [
+         2,
+         2
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1691339400,
+        "h": "FC Nublense",
+        "a": "Cobresal",
+        "s": [
+         1,
+         2
+        ],
+        "t": "Chile. Primera Division",
+        "hh": true
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795303800,
+        "o": "FC Universidad de Concepción",
+        "gf": 3,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1794160800,
+        "o": "Colo-Colo",
+        "gf": 1,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1793480400,
+        "o": "O'Higgins",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1792942200,
+        "o": "Coquimbo Unido",
+        "gf": 2,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1791835200,
+        "o": "Universidad de Chile",
+        "gf": 0,
+        "ga": 6,
+        "dom": false
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795208400,
+        "o": "Audax Italiano",
+        "gf": 3,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1794160800,
+        "o": "Universidad de Chile",
+        "gf": 1,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1793556000,
+        "o": "Everton de Vina del Mar",
+        "gf": 2,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1792882800,
+        "o": "O'Higgins",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1791655200,
+        "o": "FC Universidad de Concepción",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
        }
       ]
      }

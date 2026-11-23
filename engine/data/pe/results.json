@@ -1,10 +1,2825 @@
 {
- "updated": "2026-11-23T15:49:50+00:00",
+ "updated": "2026-11-23T16:44:18+00:00",
  "backfilled": [
   1706694,
-  125983
+  125983,
+  2892390
  ],
  "matches": [
+  {
+   "id": 663577935,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Atlético Grau",
+   "away": "Universidad Tecnica de Cajamarca",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1760904000,
+   "group": "liga"
+  },
+  {
+   "id": 663604675,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Garcilaso",
+   "away": "Sporting Cristal",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1760913000,
+   "group": "liga"
+  },
+  {
+   "id": 663807516,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Huancayo",
+   "away": "Alianza Lima",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1760984100,
+   "group": "liga"
+  },
+  {
+   "id": 662090658,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Universidad",
+   "away": "ADT Tarma",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1760990400,
+   "group": "liga"
+  },
+  {
+   "id": 663858985,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Boys",
+   "away": "Melgar",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1761001200,
+   "group": "liga"
+  },
+  {
+   "id": 663877468,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Club Universitario de Deportes",
+   "away": "Ayacucho",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1761009300,
+   "group": "liga"
+  },
+  {
+   "id": 664741968,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sporting Cristal",
+   "away": "Club Universitario de Deportes",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1761267600,
+   "group": "liga"
+  },
+  {
+   "id": 664985775,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Juan Pablo II",
+   "away": "Comerciantes Unidos",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1761335100,
+   "group": "liga"
+  },
+  {
+   "id": 665294582,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Ayacucho",
+   "away": "Deportivo Garcilaso",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (2:0,2:2)",
+   "start": 1761415200,
+   "group": "liga"
+  },
+  {
+   "id": 665327608,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Atletico Sullana",
+   "away": "Cienciano",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1761423300,
+   "group": "liga"
+  },
+  {
+   "id": 665356601,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cusco",
+   "away": "Atlético Grau",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1761432300,
+   "group": "liga"
+  },
+  {
+   "id": 665569716,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sporting Cristal",
+   "away": "Deportivo Los Chankas",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1761494400,
+   "group": "liga"
+  },
+  {
+   "id": 665612161,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Universidad Tecnica de Cajamarca",
+   "away": "Alianza Universidad",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (0:2,3:0)",
+   "start": 1761502500,
+   "group": "liga"
+  },
+  {
+   "id": 665640919,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "ADT Tarma",
+   "away": "Club Universitario de Deportes",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1761510600,
+   "group": "liga"
+  },
+  {
+   "id": 665667917,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Melgar",
+   "away": "Sport Huancayo",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1761519600,
+   "group": "liga"
+  },
+  {
+   "id": 667072698,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Lima",
+   "away": "Melgar",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1761958800,
+   "group": "liga"
+  },
+  {
+   "id": 667310889,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Los Chankas",
+   "away": "Ayacucho",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1762020000,
+   "group": "liga"
+  },
+  {
+   "id": 667350084,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Comerciantes Unidos",
+   "away": "Sporting Cristal",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (1:1,0:3)",
+   "start": 1762028100,
+   "group": "liga"
+  },
+  {
+   "id": 667381984,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Garcilaso",
+   "away": "ADT Tarma",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1762038000,
+   "group": "liga"
+  },
+  {
+   "id": 667627010,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Universidad",
+   "away": "Cusco",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:2,0:0)",
+   "start": 1762106400,
+   "group": "liga"
+  },
+  {
+   "id": 667658792,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Atlético Grau",
+   "away": "Alianza Atletico Sullana",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1762114500,
+   "group": "liga"
+  },
+  {
+   "id": 667682314,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cienciano",
+   "away": "Juan Pablo II",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1762124400,
+   "group": "liga"
+  },
+  {
+   "id": 667682315,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Boys",
+   "away": "Universidad Tecnica de Cajamarca",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:1,0:1)",
+   "start": 1762124400,
+   "group": "liga"
+  },
+  {
+   "id": 668440365,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Los Chankas",
+   "away": "Alianza Lima",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1762373700,
+   "group": "liga"
+  },
+  {
+   "id": 668958672,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cusco",
+   "away": "Sport Boys",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1762538400,
+   "group": "liga"
+  },
+  {
+   "id": 668993557,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sporting Cristal",
+   "away": "Cienciano",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1762546500,
+   "group": "liga"
+  },
+  {
+   "id": 669056702,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Club Universitario de Deportes",
+   "away": "Deportivo Garcilaso",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762567200,
+   "group": "liga"
+  },
+  {
+   "id": 669289767,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Ayacucho",
+   "away": "Comerciantes Unidos",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1762624800,
+   "group": "liga"
+  },
+  {
+   "id": 669325656,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Juan Pablo II",
+   "away": "Atlético Grau",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1762632900,
+   "group": "liga"
+  },
+  {
+   "id": 669600901,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Universidad Tecnica de Cajamarca",
+   "away": "Sport Huancayo",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:0,0:3)",
+   "start": 1762711200,
+   "group": "liga"
+  },
+  {
+   "id": 669628413,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Atletico Sullana",
+   "away": "Alianza Universidad",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1762719300,
+   "group": "liga"
+  },
+  {
+   "id": 669856363,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "ADT Tarma",
+   "away": "Deportivo Los Chankas",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1762804800,
+   "group": "liga"
+  },
+  {
+   "id": 671514443,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Boys",
+   "away": "Alianza Atletico Sullana",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1763323200,
+   "group": "liga"
+  },
+  {
+   "id": 672279239,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Atlético Grau",
+   "away": "Sporting Cristal",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1763581500,
+   "group": "liga"
+  },
+  {
+   "id": 673133254,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Los Chankas",
+   "away": "Club Universitario de Deportes",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1763843400,
+   "group": "liga"
+  },
+  {
+   "id": 673426987,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cienciano",
+   "away": "Ayacucho",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1763927100,
+   "group": "liga"
+  },
+  {
+   "id": 673426041,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Universidad",
+   "away": "Juan Pablo II",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1763927100,
+   "group": "liga"
+  },
+  {
+   "id": 673425997,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Huancayo",
+   "away": "Cusco",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1763927100,
+   "group": "liga"
+  },
+  {
+   "id": 673427013,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Lima",
+   "away": "Universidad Tecnica de Cajamarca",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1763927100,
+   "group": "liga"
+  },
+  {
+   "id": 673426020,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Comerciantes Unidos",
+   "away": "ADT Tarma",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1763927100,
+   "group": "liga"
+  },
+  {
+   "id": 675814300,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sporting Cristal",
+   "away": "Alianza Lima",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1764723600,
+   "group": "liga"
+  },
+  {
+   "id": 676936632,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Lima",
+   "away": "Sporting Cristal",
+   "score": [
+    3,
+    4
+   ],
+   "detail": "3:4 (3:1,0:2,0:0,0:1)",
+   "start": 1765069200,
+   "group": "liga"
+  },
+  {
+   "id": 676955755,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Lima",
+   "away": "Sporting Cristal",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1765069200,
+   "group": "liga"
+  },
+  {
+   "id": 676955314,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Lima",
+   "away": "Sporting Cristal",
+   "score": [
+    4,
+    5
+   ],
+   "detail": "4:5 (4:5)",
+   "start": 1765069200,
+   "group": "liga"
+  },
+  {
+   "id": 677950447,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sporting Cristal",
+   "away": "Cusco",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1765414800,
+   "group": "liga"
+  },
+  {
+   "id": 679027197,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cusco",
+   "away": "Sporting Cristal",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1765753200,
+   "group": "liga"
+  },
+  {
+   "id": 691413058,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Huancayo",
+   "away": "Alianza Lima",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1769792400,
+   "group": "liga"
+  },
+  {
+   "id": 691467968,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Universidad Tecnica de Cajamarca",
+   "away": "Atlético Grau",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1769803200,
+   "group": "liga"
+  },
+  {
+   "id": 686773157,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Comerciantes Unidos",
+   "away": "Deportivo Moquegua",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1769806800,
+   "group": "liga"
+  },
+  {
+   "id": 686774999,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Club Universitario de Deportes",
+   "away": "ADT Tarma",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1769806800,
+   "group": "liga"
+  },
+  {
+   "id": 691763109,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Boys",
+   "away": "Deportivo Los Chankas",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1769881500,
+   "group": "liga"
+  },
+  {
+   "id": 691803924,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Juan Pablo II",
+   "away": "Universidad Tecnica de Cajamarca",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (0:1,3:2)",
+   "start": 1769890500,
+   "group": "liga"
+  },
+  {
+   "id": 691841437,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Melgar",
+   "away": "Cienciano",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1769902200,
+   "group": "liga"
+  },
+  {
+   "id": 692091798,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Garcilaso",
+   "away": "Sporting Cristal",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1769968800,
+   "group": "liga"
+  },
+  {
+   "id": 692122784,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Atletico Sullana",
+   "away": "Cusco",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1769976900,
+   "group": "liga"
+  },
+  {
+   "id": 692154205,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Club Universitario de Deportes",
+   "away": "ADT Tarma",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1769986800,
+   "group": "liga"
+  },
+  {
+   "id": 692370425,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Comerciantes Unidos",
+   "away": "Deportivo Moquegua",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1770062400,
+   "group": "liga"
+  },
+  {
+   "id": 693485860,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Moquegua",
+   "away": "Universidad Tecnica de Cajamarca",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:1,1:2)",
+   "start": 1770408000,
+   "group": "liga"
+  },
+  {
+   "id": 693774292,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "ADT Tarma",
+   "away": "Sport Boys",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1770487200,
+   "group": "liga"
+  },
+  {
+   "id": 693811119,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Atlético Grau",
+   "away": "Sport Huancayo",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1770495300,
+   "group": "liga"
+  },
+  {
+   "id": 693863616,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cusco",
+   "away": "Club Universitario de Deportes",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1770512400,
+   "group": "liga"
+  },
+  {
+   "id": 694053828,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sporting Cristal",
+   "away": "Melgar",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1770566400,
+   "group": "liga"
+  },
+  {
+   "id": 694090206,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Los Chankas",
+   "away": "Alianza Atletico Sullana",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1770574500,
+   "group": "liga"
+  },
+  {
+   "id": 694117875,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cienciano",
+   "away": "Juan Pablo II",
+   "score": [
+    6,
+    1
+   ],
+   "detail": "6:1 (3:1,3:0)",
+   "start": 1770582600,
+   "group": "liga"
+  },
+  {
+   "id": 694142038,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Lima",
+   "away": "Comerciantes Unidos",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1770591600,
+   "group": "liga"
+  },
+  {
+   "id": 694353971,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cajamarca",
+   "away": "Deportivo Garcilaso",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1770669000,
+   "group": "liga"
+  },
+  {
+   "id": 695431282,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Universidad Tecnica de Cajamarca",
+   "away": "Cusco",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1771011900,
+   "group": "liga"
+  },
+  {
+   "id": 695489787,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Club Universitario de Deportes",
+   "away": "Cienciano",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1771032600,
+   "group": "liga"
+  },
+  {
+   "id": 695715103,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Garcilaso",
+   "away": "ADT Tarma",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1771092000,
+   "group": "liga"
+  },
+  {
+   "id": 695750343,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Juan Pablo II",
+   "away": "Sporting Cristal",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1771100100,
+   "group": "liga"
+  },
+  {
+   "id": 695776788,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Boys",
+   "away": "Atlético Grau",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1771108200,
+   "group": "liga"
+  },
+  {
+   "id": 695800349,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Atletico Sullana",
+   "away": "Alianza Lima",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1771117200,
+   "group": "liga"
+  },
+  {
+   "id": 696018464,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Huancayo",
+   "away": "Cajamarca",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1771177500,
+   "group": "liga"
+  },
+  {
+   "id": 696046610,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Comerciantes Unidos",
+   "away": "Deportivo Los Chankas",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1771186500,
+   "group": "liga"
+  },
+  {
+   "id": 696079438,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Melgar",
+   "away": "Deportivo Moquegua",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1771197300,
+   "group": "liga"
+  },
+  {
+   "id": 697429318,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Lima",
+   "away": "Sport Boys",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1771635600,
+   "group": "liga"
+  },
+  {
+   "id": 697672335,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cajamarca",
+   "away": "Melgar",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:1,3:0)",
+   "start": 1771696800,
+   "group": "liga"
+  },
+  {
+   "id": 697721092,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sporting Cristal",
+   "away": "Club Universitario de Deportes",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:2,2:0)",
+   "start": 1771706700,
+   "group": "liga"
+  },
+  {
+   "id": 697754161,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cienciano",
+   "away": "Alianza Atletico Sullana",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1771718400,
+   "group": "liga"
+  },
+  {
+   "id": 697962235,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "ADT Tarma",
+   "away": "Universidad Tecnica de Cajamarca",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1771776000,
+   "group": "liga"
+  },
+  {
+   "id": 697999302,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Los Chankas",
+   "away": "Sport Huancayo",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:1,2:1)",
+   "start": 1771784100,
+   "group": "liga"
+  },
+  {
+   "id": 698031411,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Atlético Grau",
+   "away": "Juan Pablo II",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1771792200,
+   "group": "liga"
+  },
+  {
+   "id": 698061131,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cusco",
+   "away": "Comerciantes Unidos",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1771803000,
+   "group": "liga"
+  },
+  {
+   "id": 698265222,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Moquegua",
+   "away": "Deportivo Garcilaso",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1771876800,
+   "group": "liga"
+  },
+  {
+   "id": 699353511,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Atletico Sullana",
+   "away": "ADT Tarma",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1772222400,
+   "group": "liga"
+  },
+  {
+   "id": 699387061,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Melgar",
+   "away": "Deportivo Los Chankas",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1772231400,
+   "group": "liga"
+  },
+  {
+   "id": 699415448,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Garcilaso",
+   "away": "Cienciano",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:1,2:2)",
+   "start": 1772241300,
+   "group": "liga"
+  },
+  {
+   "id": 699607624,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Huancayo",
+   "away": "Sporting Cristal",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1772294400,
+   "group": "liga"
+  },
+  {
+   "id": 699650259,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Universidad Tecnica de Cajamarca",
+   "away": "Alianza Lima",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1772301600,
+   "group": "liga"
+  },
+  {
+   "id": 699723915,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Boys",
+   "away": "Deportivo Moquegua",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1772323200,
+   "group": "liga"
+  },
+  {
+   "id": 699955671,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Comerciantes Unidos",
+   "away": "Atlético Grau",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1772388000,
+   "group": "liga"
+  },
+  {
+   "id": 699988615,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Juan Pablo II",
+   "away": "Cusco",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1772397000,
+   "group": "liga"
+  },
+  {
+   "id": 700018036,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Club Universitario de Deportes",
+   "away": "Cajamarca",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1772406000,
+   "group": "liga"
+  },
+  {
+   "id": 701342514,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Atlético Grau",
+   "away": "Cajamarca",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1772829000,
+   "group": "liga"
+  },
+  {
+   "id": 701599101,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Moquegua",
+   "away": "Sport Huancayo",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1772899200,
+   "group": "liga"
+  },
+  {
+   "id": 701641555,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Comerciantes Unidos",
+   "away": "Universidad Tecnica de Cajamarca",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1772907300,
+   "group": "liga"
+  },
+  {
+   "id": 701679320,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sporting Cristal",
+   "away": "Alianza Atletico Sullana",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1772915400,
+   "group": "liga"
+  },
+  {
+   "id": 701720095,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cusco",
+   "away": "Deportivo Garcilaso",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1772928000,
+   "group": "liga"
+  },
+  {
+   "id": 701966230,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "ADT Tarma",
+   "away": "Juan Pablo II",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:2,2:1)",
+   "start": 1772993700,
+   "group": "liga"
+  },
+  {
+   "id": 701995036,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Los Chankas",
+   "away": "Club Universitario de Deportes",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1773001800,
+   "group": "liga"
+  },
+  {
+   "id": 702261556,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cienciano",
+   "away": "Sport Boys",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1773095400,
+   "group": "liga"
+  },
+  {
+   "id": 702287165,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Lima",
+   "away": "Melgar",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1773105300,
+   "group": "liga"
+  },
+  {
+   "id": 703342300,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cajamarca",
+   "away": "Comerciantes Unidos",
+   "score": [
+    3,
+    4
+   ],
+   "detail": "3:4 (2:0,1:4)",
+   "start": 1773432000,
+   "group": "liga"
+  },
+  {
+   "id": 703647739,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Huancayo",
+   "away": "ADT Tarma",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1773511200,
+   "group": "liga"
+  },
+  {
+   "id": 703688303,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Juan Pablo II",
+   "away": "Deportivo Los Chankas",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:2,2:1)",
+   "start": 1773519300,
+   "group": "liga"
+  },
+  {
+   "id": 703720581,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Garcilaso",
+   "away": "Alianza Lima",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1773529200,
+   "group": "liga"
+  },
+  {
+   "id": 703747218,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Club Universitario de Deportes",
+   "away": "Universidad Tecnica de Cajamarca",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1773538200,
+   "group": "liga"
+  },
+  {
+   "id": 703938300,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sporting Cristal",
+   "away": "Sport Boys",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1773590400,
+   "group": "liga"
+  },
+  {
+   "id": 703974491,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Melgar",
+   "away": "Atlético Grau",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1773598500,
+   "group": "liga"
+  },
+  {
+   "id": 704004660,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Atletico Sullana",
+   "away": "Deportivo Moquegua",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1773606600,
+   "group": "liga"
+  },
+  {
+   "id": 704030709,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cusco",
+   "away": "Cienciano",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1773615600,
+   "group": "liga"
+  },
+  {
+   "id": 705373986,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "ADT Tarma",
+   "away": "Melgar",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1774038600,
+   "group": "liga"
+  },
+  {
+   "id": 705421851,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cienciano",
+   "away": "Cajamarca",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (3:0,0:0)",
+   "start": 1774053000,
+   "group": "liga"
+  },
+  {
+   "id": 705636182,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Moquegua",
+   "away": "Cusco",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1774108800,
+   "group": "liga"
+  },
+  {
+   "id": 705680890,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Comerciantes Unidos",
+   "away": "Club Universitario de Deportes",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1774116900,
+   "group": "liga"
+  },
+  {
+   "id": 705719666,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Los Chankas",
+   "away": "Sporting Cristal",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:1,1:1)",
+   "start": 1774125000,
+   "group": "liga"
+  },
+  {
+   "id": 705756894,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Lima",
+   "away": "Juan Pablo II",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1774135800,
+   "group": "liga"
+  },
+  {
+   "id": 706010523,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Universidad Tecnica de Cajamarca",
+   "away": "Alianza Atletico Sullana",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1774202400,
+   "group": "liga"
+  },
+  {
+   "id": 706048038,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Atlético Grau",
+   "away": "Deportivo Garcilaso",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1774211400,
+   "group": "liga"
+  },
+  {
+   "id": 706074373,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Boys",
+   "away": "Sport Huancayo",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1774220400,
+   "group": "liga"
+  },
+  {
+   "id": 709382752,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sporting Cristal",
+   "away": "Deportivo Moquegua",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1775232000,
+   "group": "liga"
+  },
+  {
+   "id": 709445942,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Atletico Sullana",
+   "away": "Atlético Grau",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:1,2:1)",
+   "start": 1775246400,
+   "group": "liga"
+  },
+  {
+   "id": 709478755,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cienciano",
+   "away": "ADT Tarma",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:2,1:0)",
+   "start": 1775258100,
+   "group": "liga"
+  },
+  {
+   "id": 709733528,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Garcilaso",
+   "away": "Sport Boys",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:1,2:1)",
+   "start": 1775325600,
+   "group": "liga"
+  },
+  {
+   "id": 709763257,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Melgar",
+   "away": "Cusco",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:2,0:1)",
+   "start": 1775334600,
+   "group": "liga"
+  },
+  {
+   "id": 709809706,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Club Universitario de Deportes",
+   "away": "Alianza Lima",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1775350800,
+   "group": "liga"
+  },
+  {
+   "id": 710023759,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Huancayo",
+   "away": "Comerciantes Unidos",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1775412900,
+   "group": "liga"
+  },
+  {
+   "id": 710051540,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Juan Pablo II",
+   "away": "Universidad Tecnica de Cajamarca",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1775421000,
+   "group": "liga"
+  },
+  {
+   "id": 710313819,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cajamarca",
+   "away": "Deportivo Los Chankas",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1775505600,
+   "group": "liga"
+  },
+  {
+   "id": 712604833,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Moquegua",
+   "away": "Juan Pablo II",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (0:0,3:0)",
+   "start": 1776189600,
+   "group": "liga"
+  },
+  {
+   "id": 712636516,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "ADT Tarma",
+   "away": "Alianza Lima",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1776196800,
+   "group": "liga"
+  },
+  {
+   "id": 712683245,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Boys",
+   "away": "Melgar",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:3,1:0)",
+   "start": 1776214800,
+   "group": "liga"
+  },
+  {
+   "id": 712915194,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Universidad Tecnica de Cajamarca",
+   "away": "Sport Huancayo",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1776283200,
+   "group": "liga"
+  },
+  {
+   "id": 713482080,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Los Chankas",
+   "away": "Atlético Grau",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1776455100,
+   "group": "liga"
+  },
+  {
+   "id": 713785310,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cajamarca",
+   "away": "ADT Tarma",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:0,2:2)",
+   "start": 1776535200,
+   "group": "liga"
+  },
+  {
+   "id": 713823465,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Juan Pablo II",
+   "away": "Comerciantes Unidos",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:1,0:1)",
+   "start": 1776543300,
+   "group": "liga"
+  },
+  {
+   "id": 713848779,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Huancayo",
+   "away": "Deportivo Garcilaso",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1776551400,
+   "group": "liga"
+  },
+  {
+   "id": 713873227,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Lima",
+   "away": "Cusco",
+   "score": [
+    8,
+    0
+   ],
+   "detail": "8:0 (4:0,4:0)",
+   "start": 1776559500,
+   "group": "liga"
+  },
+  {
+   "id": 714072758,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sporting Cristal",
+   "away": "Universidad Tecnica de Cajamarca",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:0,2:2)",
+   "start": 1776614400,
+   "group": "liga"
+  },
+  {
+   "id": 714131499,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Atletico Sullana",
+   "away": "Sport Boys",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1776628800,
+   "group": "liga"
+  },
+  {
+   "id": 714156766,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Melgar",
+   "away": "Club Universitario de Deportes",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1776636000,
+   "group": "liga"
+  },
+  {
+   "id": 714180374,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cienciano",
+   "away": "Deportivo Moquegua",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1776645000,
+   "group": "liga"
+  },
+  {
+   "id": 714910396,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Comerciantes Unidos",
+   "away": "Alianza Atletico Sullana",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1776880800,
+   "group": "liga"
+  },
+  {
+   "id": 714940133,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Atlético Grau",
+   "away": "Sporting Cristal",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (1:0,3:1)",
+   "start": 1776888900,
+   "group": "liga"
+  },
+  {
+   "id": 714968582,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cusco",
+   "away": "Cajamarca",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1776898800,
+   "group": "liga"
+  },
+  {
+   "id": 714995368,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Club Universitario de Deportes",
+   "away": "Deportivo Garcilaso",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (2:0,2:1)",
+   "start": 1776907800,
+   "group": "liga"
+  },
+  {
+   "id": 715215740,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Los Chankas",
+   "away": "Cienciano",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1776973500,
+   "group": "liga"
+  },
+  {
+   "id": 715814731,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Moquegua",
+   "away": "Cajamarca",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1777140000,
+   "group": "liga"
+  },
+  {
+   "id": 715854336,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Comerciantes Unidos",
+   "away": "Sporting Cristal",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1777149000,
+   "group": "liga"
+  },
+  {
+   "id": 715893136,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Boys",
+   "away": "Juan Pablo II",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1777160700,
+   "group": "liga"
+  },
+  {
+   "id": 716103236,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Universidad Tecnica de Cajamarca",
+   "away": "Cienciano",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1777218300,
+   "group": "liga"
+  },
+  {
+   "id": 716139503,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cusco",
+   "away": "Sport Huancayo",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1777227300,
+   "group": "liga"
+  },
+  {
+   "id": 716167800,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Atlético Grau",
+   "away": "Alianza Lima",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1777234500,
+   "group": "liga"
+  },
+  {
+   "id": 716197148,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Club Universitario de Deportes",
+   "away": "Alianza Atletico Sullana",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1777244400,
+   "group": "liga"
+  },
+  {
+   "id": 716420068,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "ADT Tarma",
+   "away": "Deportivo Los Chankas",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (0:0,4:0)",
+   "start": 1777320000,
+   "group": "liga"
+  },
+  {
+   "id": 716455985,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Garcilaso",
+   "away": "Melgar",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1777334400,
+   "group": "liga"
+  },
+  {
+   "id": 717819722,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cajamarca",
+   "away": "Sport Boys",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:0,1:2)",
+   "start": 1777744800,
+   "group": "liga"
+  },
+  {
+   "id": 717852633,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "ADT Tarma",
+   "away": "Atlético Grau",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1777752900,
+   "group": "liga"
+  },
+  {
+   "id": 717876508,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cienciano",
+   "away": "Comerciantes Unidos",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1777761000,
+   "group": "liga"
+  },
+  {
+   "id": 717903702,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Lima",
+   "away": "Deportivo Moquegua",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1777770000,
+   "group": "liga"
+  },
+  {
+   "id": 718090917,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sporting Cristal",
+   "away": "Cusco",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:2,0:0)",
+   "start": 1777824000,
+   "group": "liga"
+  },
+  {
+   "id": 718128198,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Juan Pablo II",
+   "away": "Club Universitario de Deportes",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (0:3,1:1)",
+   "start": 1777832100,
+   "group": "liga"
+  },
+  {
+   "id": 718156161,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Atletico Sullana",
+   "away": "Sport Huancayo",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (3:1,1:0)",
+   "start": 1777840200,
+   "group": "liga"
+  },
+  {
+   "id": 718180337,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Melgar",
+   "away": "Universidad Tecnica de Cajamarca",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1777849200,
+   "group": "liga"
+  },
+  {
+   "id": 718374980,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Los Chankas",
+   "away": "Deportivo Garcilaso",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1777917600,
+   "group": "liga"
+  },
+  {
+   "id": 719464014,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Universidad Tecnica de Cajamarca",
+   "away": "Cajamarca",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1778270400,
+   "group": "liga"
+  },
+  {
+   "id": 719749821,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Moquegua",
+   "away": "ADT Tarma",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1778349600,
+   "group": "liga"
+  },
+  {
+   "id": 719782185,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Atlético Grau",
+   "away": "Cienciano",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1778357700,
+   "group": "liga"
+  },
+  {
+   "id": 719833810,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Lima",
+   "away": "Sporting Cristal",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1778374800,
+   "group": "liga"
+  },
+  {
+   "id": 720056031,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Huancayo",
+   "away": "Juan Pablo II",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1778435100,
+   "group": "liga"
+  },
+  {
+   "id": 720084051,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Comerciantes Unidos",
+   "away": "Melgar",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1778444100,
+   "group": "liga"
+  },
+  {
+   "id": 720106438,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cusco",
+   "away": "Deportivo Los Chankas",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1778452200,
+   "group": "liga"
+  },
+  {
+   "id": 720303654,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Garcilaso",
+   "away": "Alianza Atletico Sullana",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1778522400,
+   "group": "liga"
+  },
+  {
+   "id": 720377640,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Boys",
+   "away": "Club Universitario de Deportes",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1778549400,
+   "group": "liga"
+  },
+  {
+   "id": 721417171,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cajamarca",
+   "away": "Sporting Cristal",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:1,3:0)",
+   "start": 1778875200,
+   "group": "liga"
+  },
+  {
+   "id": 721465991,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Club Universitario de Deportes",
+   "away": "Atlético Grau",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1778892300,
+   "group": "liga"
+  },
+  {
+   "id": 721696260,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Melgar",
+   "away": "Sport Huancayo",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (1:0,3:1)",
+   "start": 1778954400,
+   "group": "liga"
+  },
+  {
+   "id": 721726576,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Juan Pablo II",
+   "away": "Alianza Atletico Sullana",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1778962500,
+   "group": "liga"
+  },
+  {
+   "id": 721752352,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cienciano",
+   "away": "Alianza Lima",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1778970600,
+   "group": "liga"
+  },
+  {
+   "id": 721779763,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Boys",
+   "away": "Cusco",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1778980500,
+   "group": "liga"
+  },
+  {
+   "id": 721954689,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "ADT Tarma",
+   "away": "Comerciantes Unidos",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1779033600,
+   "group": "liga"
+  },
+  {
+   "id": 721989485,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Garcilaso",
+   "away": "Universidad Tecnica de Cajamarca",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1779041700,
+   "group": "liga"
+  },
+  {
+   "id": 722015564,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Los Chankas",
+   "away": "Deportivo Moquegua",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1779049800,
+   "group": "liga"
+  },
+  {
+   "id": 723340946,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Juan Pablo II",
+   "away": "Melgar",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1779480000,
+   "group": "liga"
+  },
+  {
+   "id": 723608012,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Moquegua",
+   "away": "Club Universitario de Deportes",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1779557400,
+   "group": "liga"
+  },
+  {
+   "id": 723638040,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Universidad Tecnica de Cajamarca",
+   "away": "Sport Boys",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1779566400,
+   "group": "liga"
+  },
+  {
+   "id": 723665630,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cusco",
+   "away": "Atlético Grau",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1779573600,
+   "group": "liga"
+  },
+  {
+   "id": 723697302,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Lima",
+   "away": "Deportivo Los Chankas",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1779586200,
+   "group": "liga"
+  },
+  {
+   "id": 723866686,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sporting Cristal",
+   "away": "ADT Tarma",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1779638400,
+   "group": "liga"
+  },
+  {
+   "id": 723896788,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Huancayo",
+   "away": "Cienciano",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:0,2:2)",
+   "start": 1779645600,
+   "group": "liga"
+  },
+  {
+   "id": 723924303,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Atletico Sullana",
+   "away": "Cajamarca",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1779654600,
+   "group": "liga"
+  },
+  {
+   "id": 724165205,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Comerciantes Unidos",
+   "away": "Deportivo Garcilaso",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1779741000,
+   "group": "liga"
+  },
+  {
+   "id": 725187450,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Atlético Grau",
+   "away": "Deportivo Moquegua",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1780084800,
+   "group": "liga"
+  },
+  {
+   "id": 725420004,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "ADT Tarma",
+   "away": "Cusco",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1780155900,
+   "group": "liga"
+  },
+  {
+   "id": 725469704,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Garcilaso",
+   "away": "Juan Pablo II",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (2:0,2:1)",
+   "start": 1780171200,
+   "group": "liga"
+  },
+  {
+   "id": 725496869,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Boys",
+   "away": "Comerciantes Unidos",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1780179300,
+   "group": "liga"
+  },
+  {
+   "id": 725520593,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Club Universitario de Deportes",
+   "away": "Sport Huancayo",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1780189200,
+   "group": "liga"
+  },
+  {
+   "id": 725684701,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Melgar",
+   "away": "Alianza Atletico Sullana",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:1,3:0)",
+   "start": 1780243200,
+   "group": "liga"
+  },
+  {
+   "id": 725712231,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cajamarca",
+   "away": "Alianza Lima",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1780251300,
+   "group": "liga"
+  },
+  {
+   "id": 725738443,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Los Chankas",
+   "away": "Universidad Tecnica de Cajamarca",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:0,0:2)",
+   "start": 1780258500,
+   "group": "liga"
+  },
+  {
+   "id": 725756179,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cienciano",
+   "away": "Sporting Cristal",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:2,2:0)",
+   "start": 1780264800,
+   "group": "liga"
+  },
   {
    "id": 727004383,
    "tid": 125983,
@@ -32,6 +2847,1294 @@
    "detail": "1:3 (0:2,1:1)",
    "start": 1780970400,
    "group": "seleccion"
+  },
+  {
+   "id": 737159999,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cajamarca",
+   "away": "Juan Pablo II",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:0,2:2)",
+   "start": 1784310300,
+   "group": "liga"
+  },
+  {
+   "id": 737184263,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sporting Cristal",
+   "away": "Deportivo Garcilaso",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1784317500,
+   "group": "liga"
+  },
+  {
+   "id": 737231344,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cienciano",
+   "away": "Melgar",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:1,0:2)",
+   "start": 1784336400,
+   "group": "liga"
+  },
+  {
+   "id": 737395080,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Moquegua",
+   "away": "Comerciantes Unidos",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:1,0:1)",
+   "start": 1784388600,
+   "group": "liga"
+  },
+  {
+   "id": 737423552,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "ADT Tarma",
+   "away": "Club Universitario de Deportes",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1784398500,
+   "group": "liga"
+  },
+  {
+   "id": 737450001,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Atlético Grau",
+   "away": "Universidad Tecnica de Cajamarca",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1784406600,
+   "group": "liga"
+  },
+  {
+   "id": 737476197,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cusco",
+   "away": "Alianza Atletico Sullana",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (2:0,2:1)",
+   "start": 1784417400,
+   "group": "liga"
+  },
+  {
+   "id": 737641213,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Los Chankas",
+   "away": "Sport Boys",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1784476800,
+   "group": "liga"
+  },
+  {
+   "id": 737715786,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Lima",
+   "away": "Sport Huancayo",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1784505600,
+   "group": "liga"
+  },
+  {
+   "id": 738896236,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Atletico Sullana",
+   "away": "Deportivo Los Chankas",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1784922300,
+   "group": "liga"
+  },
+  {
+   "id": 738947906,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Club Universitario de Deportes",
+   "away": "Cusco",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1784943000,
+   "group": "liga"
+  },
+  {
+   "id": 739106426,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Boys",
+   "away": "ADT Tarma",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1784993400,
+   "group": "liga"
+  },
+  {
+   "id": 739139171,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Huancayo",
+   "away": "Atlético Grau",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1785001500,
+   "group": "liga"
+  },
+  {
+   "id": 739162063,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Juan Pablo II",
+   "away": "Cienciano",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1785010500,
+   "group": "liga"
+  },
+  {
+   "id": 739211454,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Melgar",
+   "away": "Sporting Cristal",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1785027600,
+   "group": "liga"
+  },
+  {
+   "id": 739393524,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Universidad Tecnica de Cajamarca",
+   "away": "Deportivo Moquegua",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1785088800,
+   "group": "liga"
+  },
+  {
+   "id": 739425120,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Comerciantes Unidos",
+   "away": "Alianza Lima",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1785096900,
+   "group": "liga"
+  },
+  {
+   "id": 739456640,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Garcilaso",
+   "away": "Cajamarca",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1785109500,
+   "group": "liga"
+  },
+  {
+   "id": 740676533,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Los Chankas",
+   "away": "Comerciantes Unidos",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (3:2,0:0)",
+   "start": 1785527100,
+   "group": "liga"
+  },
+  {
+   "id": 740931602,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cajamarca",
+   "away": "Sport Huancayo",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1785607200,
+   "group": "liga"
+  },
+  {
+   "id": 740960633,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Atlético Grau",
+   "away": "Sport Boys",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1785616200,
+   "group": "liga"
+  },
+  {
+   "id": 740985016,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cusco",
+   "away": "Universidad Tecnica de Cajamarca",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (1:0,3:1)",
+   "start": 1785625200,
+   "group": "liga"
+  },
+  {
+   "id": 741008403,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Lima",
+   "away": "Alianza Atletico Sullana",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1785633300,
+   "group": "liga"
+  },
+  {
+   "id": 741167453,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sporting Cristal",
+   "away": "Juan Pablo II",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1785686400,
+   "group": "liga"
+  },
+  {
+   "id": 741193795,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "ADT Tarma",
+   "away": "Deportivo Garcilaso",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1785693600,
+   "group": "liga"
+  },
+  {
+   "id": 741220636,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Moquegua",
+   "away": "Melgar",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1785701700,
+   "group": "liga"
+  },
+  {
+   "id": 741248787,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cienciano",
+   "away": "Club Universitario de Deportes",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1785712500,
+   "group": "liga"
+  },
+  {
+   "id": 742217945,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Atletico Sullana",
+   "away": "Cienciano",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1786046400,
+   "group": "liga"
+  },
+  {
+   "id": 742457615,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Huancayo",
+   "away": "Deportivo Los Chankas",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1786125600,
+   "group": "liga"
+  },
+  {
+   "id": 742485977,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Comerciantes Unidos",
+   "away": "Cusco",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:1,3:0)",
+   "start": 1786133700,
+   "group": "liga"
+  },
+  {
+   "id": 742534451,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Club Universitario de Deportes",
+   "away": "Sporting Cristal",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1786152600,
+   "group": "liga"
+  },
+  {
+   "id": 742743510,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Universidad Tecnica de Cajamarca",
+   "away": "ADT Tarma",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1786212000,
+   "group": "liga"
+  },
+  {
+   "id": 742774630,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Juan Pablo II",
+   "away": "Atlético Grau",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1786221000,
+   "group": "liga"
+  },
+  {
+   "id": 742819959,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Boys",
+   "away": "Alianza Lima",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1786237200,
+   "group": "liga"
+  },
+  {
+   "id": 743006756,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Garcilaso",
+   "away": "Deportivo Moquegua",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1786298400,
+   "group": "liga"
+  },
+  {
+   "id": 743036748,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Melgar",
+   "away": "Cajamarca",
+   "score": [
+    2,
+    4
+   ],
+   "detail": "2:4 (1:1,1:3)",
+   "start": 1786307400,
+   "group": "liga"
+  },
+  {
+   "id": 744297294,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Atlético Grau",
+   "away": "Comerciantes Unidos",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1786737600,
+   "group": "liga"
+  },
+  {
+   "id": 744326196,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cusco",
+   "away": "Juan Pablo II",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1786747500,
+   "group": "liga"
+  },
+  {
+   "id": 744556629,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "ADT Tarma",
+   "away": "Alianza Atletico Sullana",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1786816800,
+   "group": "liga"
+  },
+  {
+   "id": 744589834,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Los Chankas",
+   "away": "Melgar",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1786825800,
+   "group": "liga"
+  },
+  {
+   "id": 744632130,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Lima",
+   "away": "Universidad Tecnica de Cajamarca",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1786840200,
+   "group": "liga"
+  },
+  {
+   "id": 744806208,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sporting Cristal",
+   "away": "Sport Huancayo",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (2:0,2:1)",
+   "start": 1786896000,
+   "group": "liga"
+  },
+  {
+   "id": 744835353,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Moquegua",
+   "away": "Sport Boys",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1786904100,
+   "group": "liga"
+  },
+  {
+   "id": 744863099,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cajamarca",
+   "away": "Club Universitario de Deportes",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:2,1:1)",
+   "start": 1786912200,
+   "group": "liga"
+  },
+  {
+   "id": 744893106,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cienciano",
+   "away": "Deportivo Garcilaso",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1786922100,
+   "group": "liga"
+  },
+  {
+   "id": 746117723,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cajamarca",
+   "away": "Atlético Grau",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:1,0:2)",
+   "start": 1787331600,
+   "group": "liga"
+  },
+  {
+   "id": 746160709,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Atletico Sullana",
+   "away": "Sporting Cristal",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1787342400,
+   "group": "liga"
+  },
+  {
+   "id": 746394532,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Huancayo",
+   "away": "Deportivo Moquegua",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1787414400,
+   "group": "liga"
+  },
+  {
+   "id": 746429123,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Universidad Tecnica de Cajamarca",
+   "away": "Comerciantes Unidos",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:1,0:2)",
+   "start": 1787421600,
+   "group": "liga"
+  },
+  {
+   "id": 746456935,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Juan Pablo II",
+   "away": "ADT Tarma",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (2:0,3:1)",
+   "start": 1787429700,
+   "group": "liga"
+  },
+  {
+   "id": 746494123,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Garcilaso",
+   "away": "Cusco",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (1:0,3:1)",
+   "start": 1787442300,
+   "group": "liga"
+  },
+  {
+   "id": 746699727,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Boys",
+   "away": "Cienciano",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (3:1,2:0)",
+   "start": 1787508000,
+   "group": "liga"
+  },
+  {
+   "id": 746731834,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Melgar",
+   "away": "Alianza Lima",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1787517000,
+   "group": "liga"
+  },
+  {
+   "id": 746761613,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Club Universitario de Deportes",
+   "away": "Deportivo Los Chankas",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1787527800,
+   "group": "liga"
+  },
+  {
+   "id": 748048996,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Comerciantes Unidos",
+   "away": "Cajamarca",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:2,2:1)",
+   "start": 1787947200,
+   "group": "liga"
+  },
+  {
+   "id": 748324839,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Los Chankas",
+   "away": "Juan Pablo II",
+   "score": [
+    3,
+    4
+   ],
+   "detail": "3:4 (2:3,1:1)",
+   "start": 1788026400,
+   "group": "liga"
+  },
+  {
+   "id": 748361159,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Universidad Tecnica de Cajamarca",
+   "away": "Club Universitario de Deportes",
+   "score": [
+    2,
+    4
+   ],
+   "detail": "2:4 (2:1,0:3)",
+   "start": 1788035400,
+   "group": "liga"
+  },
+  {
+   "id": 748401920,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Lima",
+   "away": "Deportivo Garcilaso",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1788048900,
+   "group": "liga"
+  },
+  {
+   "id": 748589360,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Moquegua",
+   "away": "Alianza Atletico Sullana",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (1:1,0:3)",
+   "start": 1788104700,
+   "group": "liga"
+  },
+  {
+   "id": 748622446,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "ADT Tarma",
+   "away": "Sport Huancayo",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:3,1:0)",
+   "start": 1788113700,
+   "group": "liga"
+  },
+  {
+   "id": 748650909,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Boys",
+   "away": "Sporting Cristal",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1788121800,
+   "group": "liga"
+  },
+  {
+   "id": 748685846,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cienciano",
+   "away": "Cusco",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1788134400,
+   "group": "liga"
+  },
+  {
+   "id": 749166354,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Atlético Grau",
+   "away": "Melgar",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1788292800,
+   "group": "liga"
+  },
+  {
+   "id": 749975676,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cajamarca",
+   "away": "Cienciano",
+   "score": [
+    2,
+    5
+   ],
+   "detail": "2:5 (2:3,0:2)",
+   "start": 1788544800,
+   "group": "liga"
+  },
+  {
+   "id": 750008082,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Atletico Sullana",
+   "away": "Universidad Tecnica de Cajamarca",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:1,1:1)",
+   "start": 1788552900,
+   "group": "liga"
+  },
+  {
+   "id": 750323601,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Huancayo",
+   "away": "Sport Boys",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1788638400,
+   "group": "liga"
+  },
+  {
+   "id": 750356120,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cusco",
+   "away": "Deportivo Moquegua",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1788648300,
+   "group": "liga"
+  },
+  {
+   "id": 750382514,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Club Universitario de Deportes",
+   "away": "Comerciantes Unidos",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:1,2:1)",
+   "start": 1788658200,
+   "group": "liga"
+  },
+  {
+   "id": 750577837,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sporting Cristal",
+   "away": "Deportivo Los Chankas",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (2:0,3:0)",
+   "start": 1788710400,
+   "group": "liga"
+  },
+  {
+   "id": 750613134,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Garcilaso",
+   "away": "Atlético Grau",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (1:0,3:2)",
+   "start": 1788719400,
+   "group": "liga"
+  },
+  {
+   "id": 750634776,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Juan Pablo II",
+   "away": "Alianza Lima",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1788724800,
+   "group": "liga"
+  },
+  {
+   "id": 750671624,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Melgar",
+   "away": "ADT Tarma",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1788737400,
+   "group": "liga"
+  },
+  {
+   "id": 752022219,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Universidad Tecnica de Cajamarca",
+   "away": "Juan Pablo II",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1789156800,
+   "group": "liga"
+  },
+  {
+   "id": 752063399,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cusco",
+   "away": "Melgar",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1789171200,
+   "group": "liga"
+  },
+  {
+   "id": 752272182,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Los Chankas",
+   "away": "Cajamarca",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1789227000,
+   "group": "liga"
+  },
+  {
+   "id": 752314559,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Comerciantes Unidos",
+   "away": "Sport Huancayo",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1789236000,
+   "group": "liga"
+  },
+  {
+   "id": 752399881,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Lima",
+   "away": "Club Universitario de Deportes",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1789261200,
+   "group": "liga"
+  },
+  {
+   "id": 752578964,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Moquegua",
+   "away": "Sporting Cristal",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1789311600,
+   "group": "liga"
+  },
+  {
+   "id": 750704709,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "ADT Tarma",
+   "away": "Cienciano",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1789313400,
+   "group": "liga"
+  },
+  {
+   "id": 752629829,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Boys",
+   "away": "Deportivo Garcilaso",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1789322400,
+   "group": "liga"
+  },
+  {
+   "id": 752658711,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Atlético Grau",
+   "away": "Alianza Atletico Sullana",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1789330500,
+   "group": "liga"
+  },
+  {
+   "id": 754069610,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Atletico Sullana",
+   "away": "Comerciantes Unidos",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1789761600,
+   "group": "liga"
+  },
+  {
+   "id": 754121391,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Lima",
+   "away": "ADT Tarma",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1789779600,
+   "group": "liga"
+  },
+  {
+   "id": 754374071,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cajamarca",
+   "away": "Cusco",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1789840800,
+   "group": "liga"
+  },
+  {
+   "id": 754406600,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cienciano",
+   "away": "Deportivo Los Chankas",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1789848000,
+   "group": "liga"
+  },
+  {
+   "id": 754413218,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sporting Cristal",
+   "away": "Atlético Grau",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1789849800,
+   "group": "liga"
+  },
+  {
+   "id": 754439722,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Garcilaso",
+   "away": "Club Universitario de Deportes",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (3:0,1:0)",
+   "start": 1789858800,
+   "group": "liga"
+  },
+  {
+   "id": 754463629,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Melgar",
+   "away": "Sport Boys",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1789866900,
+   "group": "liga"
+  },
+  {
+   "id": 754698299,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Huancayo",
+   "away": "Universidad Tecnica de Cajamarca",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:1,1:1)",
+   "start": 1789927200,
+   "group": "liga"
+  },
+  {
+   "id": 754730600,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Juan Pablo II",
+   "away": "Deportivo Moquegua",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1789936200,
+   "group": "liga"
+  },
+  {
+   "id": 753072490,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cienciano",
+   "away": "Deportivo Los Chankas",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1789945200,
+   "group": "liga"
+  },
+  {
+   "id": 755503323,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "ADT Tarma",
+   "away": "Cienciano",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1790193600,
+   "group": "liga"
   },
   {
    "id": 756383450,
@@ -62,6 +4165,20 @@
    "group": "seleccion"
   },
   {
+   "id": 757477508,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cienciano",
+   "away": "Deportivo Los Chankas",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1790798400,
+   "group": "liga"
+  },
+  {
    "id": 758338249,
    "tid": 125983,
    "tname": "Partidos amistosos. Selecciones",
@@ -74,6 +4191,20 @@
    "detail": "2:0 (2:0,0:0)",
    "start": 1791050400,
    "group": "seleccion"
+  },
+  {
+   "id": 758428862,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Lima",
+   "away": "Melgar",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1791075600,
+   "group": "liga"
   },
   {
    "id": 759259466,
@@ -90,6 +4221,776 @@
    "group": "seleccion"
   },
   {
+   "id": 759755203,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Moquegua",
+   "away": "Cienciano",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1791482400,
+   "group": "liga"
+  },
+  {
+   "id": 759788258,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Atlético Grau",
+   "away": "Deportivo Los Chankas",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1791491400,
+   "group": "liga"
+  },
+  {
+   "id": 760140913,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Garcilaso",
+   "away": "Sport Huancayo",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1791594000,
+   "group": "liga"
+  },
+  {
+   "id": 760405374,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "ADT Tarma",
+   "away": "Cajamarca",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1791655200,
+   "group": "liga"
+  },
+  {
+   "id": 760444494,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Comerciantes Unidos",
+   "away": "Juan Pablo II",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1791664200,
+   "group": "liga"
+  },
+  {
+   "id": 760483602,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Club Universitario de Deportes",
+   "away": "Melgar",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:1,2:1)",
+   "start": 1791676800,
+   "group": "liga"
+  },
+  {
+   "id": 760743941,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Universidad Tecnica de Cajamarca",
+   "away": "Sporting Cristal",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1791741600,
+   "group": "liga"
+  },
+  {
+   "id": 760776293,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Boys",
+   "away": "Alianza Atletico Sullana",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:0,0:3)",
+   "start": 1791750600,
+   "group": "liga"
+  },
+  {
+   "id": 760808203,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cusco",
+   "away": "Alianza Lima",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1791761400,
+   "group": "liga"
+  },
+  {
+   "id": 762183566,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Huancayo",
+   "away": "Cusco",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1792173600,
+   "group": "liga"
+  },
+  {
+   "id": 762224003,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Los Chankas",
+   "away": "ADT Tarma",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1792182600,
+   "group": "liga"
+  },
+  {
+   "id": 762582285,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Juan Pablo II",
+   "away": "Sport Boys",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1792267200,
+   "group": "liga"
+  },
+  {
+   "id": 762616771,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Melgar",
+   "away": "Deportivo Garcilaso",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (1:1,3:1)",
+   "start": 1792278000,
+   "group": "liga"
+  },
+  {
+   "id": 762644216,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Lima",
+   "away": "Atlético Grau",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1792287000,
+   "group": "liga"
+  },
+  {
+   "id": 762860311,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sporting Cristal",
+   "away": "Comerciantes Unidos",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (1:0,3:2)",
+   "start": 1792339200,
+   "group": "liga"
+  },
+  {
+   "id": 762899014,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cajamarca",
+   "away": "Deportivo Moquegua",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1792347300,
+   "group": "liga"
+  },
+  {
+   "id": 762929164,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Atletico Sullana",
+   "away": "Club Universitario de Deportes",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (0:3,1:1)",
+   "start": 1792355400,
+   "group": "liga"
+  },
+  {
+   "id": 762960188,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cienciano",
+   "away": "Universidad Tecnica de Cajamarca",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1792366200,
+   "group": "liga"
+  },
+  {
+   "id": 764331485,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Universidad Tecnica de Cajamarca",
+   "away": "Melgar",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1792778400,
+   "group": "liga"
+  },
+  {
+   "id": 764368263,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Atlético Grau",
+   "away": "ADT Tarma",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1792786500,
+   "group": "liga"
+  },
+  {
+   "id": 764686919,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Huancayo",
+   "away": "Alianza Atletico Sullana",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (4:0,0:1)",
+   "start": 1792863900,
+   "group": "liga"
+  },
+  {
+   "id": 764728306,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cusco",
+   "away": "Sporting Cristal",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1792872900,
+   "group": "liga"
+  },
+  {
+   "id": 764787114,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Club Universitario de Deportes",
+   "away": "Juan Pablo II",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (0:0,3:0)",
+   "start": 1792891800,
+   "group": "liga"
+  },
+  {
+   "id": 764989693,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Comerciantes Unidos",
+   "away": "Cienciano",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1792944000,
+   "group": "liga"
+  },
+  {
+   "id": 765030208,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Moquegua",
+   "away": "Alianza Lima",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1792952100,
+   "group": "liga"
+  },
+  {
+   "id": 765061476,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Boys",
+   "away": "Cajamarca FC",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (2:1,2:1)",
+   "start": 1792960200,
+   "group": "liga"
+  },
+  {
+   "id": 765089847,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Garcilaso",
+   "away": "Deportivo Los Chankas",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (1:0,3:1)",
+   "start": 1792969200,
+   "group": "liga"
+  },
+  {
+   "id": 765616679,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Juan Pablo II",
+   "away": "Sport Huancayo",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1793131200,
+   "group": "liga"
+  },
+  {
+   "id": 765855306,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "ADT Tarma",
+   "away": "Deportivo Moquegua",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1793203200,
+   "group": "liga"
+  },
+  {
+   "id": 765897074,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cajamarca FC",
+   "away": "Universidad Tecnica de Cajamarca",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:1,1:2)",
+   "start": 1793211300,
+   "group": "liga"
+  },
+  {
+   "id": 765937095,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Atletico Sullana",
+   "away": "Deportivo Garcilaso",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (3:0,0:2)",
+   "start": 1793219400,
+   "group": "liga"
+  },
+  {
+   "id": 765977154,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cienciano",
+   "away": "Atlético Grau",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (0:0,3:0)",
+   "start": 1793232000,
+   "group": "liga"
+  },
+  {
+   "id": 766188562,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Los Chankas",
+   "away": "Cusco",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1793296800,
+   "group": "liga"
+  },
+  {
+   "id": 766227638,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sporting Cristal",
+   "away": "Alianza Lima",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:2,1:0)",
+   "start": 1793305800,
+   "group": "liga"
+  },
+  {
+   "id": 766272610,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Melgar",
+   "away": "Comerciantes Unidos",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1793320200,
+   "group": "liga"
+  },
+  {
+   "id": 766899495,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Atletico Sullana",
+   "away": "Juan Pablo II",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1793478600,
+   "group": "liga"
+  },
+  {
+   "id": 767156236,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Moquegua",
+   "away": "Deportivo Los Chankas",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1793548800,
+   "group": "liga"
+  },
+  {
+   "id": 767198912,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cusco",
+   "away": "Sport Boys",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1793556900,
+   "group": "liga"
+  },
+  {
+   "id": 767230624,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Atlético Grau",
+   "away": "Club Universitario de Deportes",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:1,0:2)",
+   "start": 1793565000,
+   "group": "liga"
+  },
+  {
+   "id": 767436341,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Huancayo",
+   "away": "Melgar",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1793635200,
+   "group": "liga"
+  },
+  {
+   "id": 767467387,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Universidad Tecnica de Cajamarca",
+   "away": "Deportivo Garcilaso",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (2:2,0:1)",
+   "start": 1793643300,
+   "group": "liga"
+  },
+  {
+   "id": 767498641,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sporting Cristal",
+   "away": "Cajamarca FC",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (0:0,5:0)",
+   "start": 1793651400,
+   "group": "liga"
+  },
+  {
+   "id": 767777486,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Comerciantes Unidos",
+   "away": "ADT Tarma",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:1,2:1)",
+   "start": 1793736000,
+   "group": "liga"
+  },
+  {
+   "id": 767830991,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Lima",
+   "away": "Cienciano",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1793754000,
+   "group": "liga"
+  },
+  {
+   "id": 768121080,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Club Universitario de Deportes",
+   "away": "Sport Boys",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:1,2:1)",
+   "start": 1793842200,
+   "group": "liga"
+  },
+  {
+   "id": 768626420,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Atlético Grau",
+   "away": "Cusco",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1793995200,
+   "group": "liga"
+  },
+  {
+   "id": 768930828,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "ADT Tarma",
+   "away": "Sporting Cristal",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1794074400,
+   "group": "liga"
+  },
+  {
+   "id": 768974106,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cajamarca FC",
+   "away": "Alianza Atletico Sullana",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1794083400,
+   "group": "liga"
+  },
+  {
+   "id": 769002239,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Melgar",
+   "away": "Juan Pablo II",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1794092400,
+   "group": "liga"
+  },
+  {
+   "id": 769028654,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cienciano",
+   "away": "Sport Huancayo",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1794101400,
+   "group": "liga"
+  },
+  {
+   "id": 769255368,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Los Chankas",
+   "away": "Alianza Lima",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1794160800,
+   "group": "liga"
+  },
+  {
+   "id": 769289362,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Boys",
+   "away": "Universidad Tecnica de Cajamarca",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1794169800,
+   "group": "liga"
+  },
+  {
+   "id": 769314794,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Garcilaso",
+   "away": "Comerciantes Unidos",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1794178800,
+   "group": "liga"
+  },
+  {
+   "id": 769337898,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Club Universitario de Deportes",
+   "away": "Deportivo Moquegua",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1794187800,
+   "group": "liga"
+  },
+  {
+   "id": 769317785,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Universidad Tecnica de Cajamarca",
+   "away": "Deportivo Los Chankas",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1794592800,
+   "group": "liga"
+  },
+  {
    "id": 770693051,
    "tid": 125983,
    "tname": "Partidos amistosos. Selecciones",
@@ -102,6 +5003,146 @@
    "detail": "2:0 (1:0,1:0)",
    "start": 1794618000,
    "group": "seleccion"
+  },
+  {
+   "id": 769034466,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sporting Cristal",
+   "away": "Cienciano",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1794690000,
+   "group": "liga"
+  },
+  {
+   "id": 771255621,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Comerciantes Unidos",
+   "away": "Sport Boys",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (2:1,1:2)",
+   "start": 1794765600,
+   "group": "liga"
+  },
+  {
+   "id": 771287090,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Juan Pablo II",
+   "away": "Deportivo Garcilaso",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1794773700,
+   "group": "liga"
+  },
+  {
+   "id": 771508092,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Universidad Tecnica de Cajamarca",
+   "away": "Deportivo Los Chankas",
+   "score": [
+    5,
+    3
+   ],
+   "detail": "5:3 (1:1,4:2)",
+   "start": 1794852000,
+   "group": "liga"
+  },
+  {
+   "id": 771536211,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Cusco",
+   "away": "ADT Tarma",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:1,0:1)",
+   "start": 1794860100,
+   "group": "liga"
+  },
+  {
+   "id": 771536099,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Deportivo Moquegua",
+   "away": "Atlético Grau",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1794860100,
+   "group": "liga"
+  },
+  {
+   "id": 772094501,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Atletico Sullana",
+   "away": "Melgar",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1795032000,
+   "group": "liga"
+  },
+  {
+   "id": 773014690,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Alianza Lima",
+   "away": "Cajamarca FC",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (1:0,4:0)",
+   "start": 1795293000,
+   "group": "liga"
+  },
+  {
+   "id": 773333578,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sport Huancayo",
+   "away": "Club Universitario de Deportes",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (3:0,1:1)",
+   "start": 1795377600,
+   "group": "liga"
+  },
+  {
+   "id": 773333710,
+   "tid": 2892390,
+   "tname": "Perú. Liga 1",
+   "home": "Sporting Cristal",
+   "away": "Cienciano",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (2:1,2:0)",
+   "start": 1795377600,
+   "group": "liga"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:53:49+00:00",
+ "updated": "2026-11-23T16:44:44+00:00",
  "groups": [
   {
    "key": "liga",
@@ -21,7 +21,9 @@
      "eid": 773059964,
      "tid": 276999,
      "coupon": {
-      "2": "G8EMJ"
+      "1": "41CQJ",
+      "X": "L1CQJ",
+      "2": "R1CQJ"
      },
      "markets": {
       "dc": {
@@ -221,9 +223,9 @@
      "eid": 773378866,
      "tid": 276999,
      "coupon": {
-      "1": "MZEMJ",
-      "X": "A9EMJ",
-      "2": "5AFMJ"
+      "1": "DACQJ",
+      "X": "3ACQJ",
+      "2": "MACQJ"
      },
      "markets": {
       "dc": {
@@ -423,9 +425,9 @@
      "eid": 773364764,
      "tid": 276999,
      "coupon": {
-      "1": "22FMJ",
-      "X": "62FMJ",
-      "2": "Y2FMJ"
+      "1": "GBCQJ",
+      "X": "MBCQJ",
+      "2": "QBCQJ"
      },
      "markets": {
       "dc": {
@@ -625,9 +627,9 @@
      "eid": 773360407,
      "tid": 276999,
      "coupon": {
-      "1": "5DFMJ",
-      "X": "8DFMJ",
-      "2": "BEFMJ"
+      "1": "YBCQJ",
+      "X": "1CCQJ",
+      "2": "3CCQJ"
      },
      "markets": {
       "dc": {
@@ -817,9 +819,9 @@
      "away": "Técnico Universitario",
      "start": 1796070600,
      "odds": {
-      "1": 2.017,
+      "1": 2.091,
       "X": 3.635,
-      "2": 3.345
+      "2": 3.155
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/9019cdf68a0451d2d6638a5441822864.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/103979.png",
@@ -827,15 +829,15 @@
      "eid": 773464074,
      "tid": 276999,
      "coupon": {
-      "1": "M3FMJ",
-      "X": "R3FMJ",
-      "2": "V3FMJ"
+      "1": "4DCQJ",
+      "X": "QECQJ",
+      "2": "GFCQJ"
      },
      "markets": {
       "dc": {
-       "1X": 1.288,
+       "1X": 1.318,
        "12": 1.249,
-       "X2": 1.725
+       "X2": 1.675
       },
       "ou25": {
        "o": 1.989,

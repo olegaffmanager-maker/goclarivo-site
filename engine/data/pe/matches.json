@@ -1,0 +1,255 @@
+{
+ "updated": "2026-11-23T16:44:18+00:00",
+ "groups": [
+  {
+   "key": "liga",
+   "name": "Liga 1 de Perú",
+   "matches": [
+    {
+     "tournament": "Perú. Liga 1",
+     "home": "Sport Huancayo",
+     "away": "Club Universitario de Deportes",
+     "start": 1795896000,
+     "odds": {
+      "1": 2.2,
+      "X": 3.35,
+      "2": 3.065
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/181f4ec0d7f6b90c01644d6768833e3a.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/a78c80080be9952d106dc9f70e375f8a.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/2892390-Peru-Liga-1/396900485-Sport-Huancayo-Club-Universitario-de-Deportes",
+     "eid": 773541187,
+     "tid": 2892390,
+     "coupon": {
+      "1": "4RZPJ",
+      "X": "VRZPJ",
+      "2": "MSZPJ"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.33,
+       "12": 1.28,
+       "X2": 1.6
+      },
+      "ou25": {
+       "o": 1.75,
+       "u": 1.99
+      },
+      "btts": {
+       "y": 1.6,
+       "n": 2.194
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1795377600,
+        "h": "Sport Huancayo",
+        "a": "Club Universitario de Deportes",
+        "s": [
+         4,
+         1
+        ],
+        "t": "Perú. Liga 1 - Clausura",
+        "hh": true
+       },
+       {
+        "d": 1780189200,
+        "h": "Club Universitario de Deportes",
+        "a": "Sport Huancayo",
+        "s": [
+         2,
+         1
+        ],
+        "t": "Perú. Liga 1 - Apertura",
+        "hh": false
+       },
+       {
+        "d": 1755450000,
+        "h": "Sport Huancayo",
+        "a": "Club Universitario de Deportes",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Perú. Liga 1 - Clausura",
+        "hh": true
+       },
+       {
+        "d": 1743210000,
+        "h": "Club Universitario de Deportes",
+        "a": "Sport Huancayo",
+        "s": [
+         3,
+         1
+        ],
+        "t": "Perú. Liga 1 - Apertura",
+        "hh": false
+       },
+       {
+        "d": 1723407300,
+        "h": "Sport Huancayo",
+        "a": "Club Universitario de Deportes",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Perú. Liga 1 - Clausura",
+        "hh": true
+       },
+       {
+        "d": 1709343000,
+        "h": "Club Universitario de Deportes",
+        "a": "Sport Huancayo",
+        "s": [
+         2,
+         0
+        ],
+        "t": "Perú. Liga 1 - Apertura",
+        "hh": false
+       },
+       {
+        "d": 1698609600,
+        "h": "Club Universitario de Deportes",
+        "a": "Sport Huancayo",
+        "s": [
+         2,
+         0
+        ],
+        "t": "Perú. Liga 1 - Clausura",
+        "hh": false
+       },
+       {
+        "d": 1686524400,
+        "h": "Sport Huancayo",
+        "a": "Club Universitario de Deportes",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Perú. Liga 1 - Apertura",
+        "hh": true
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795377600,
+        "o": "Club Universitario de Deportes",
+        "gf": 4,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1794101400,
+        "o": "Cienciano",
+        "gf": 2,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1793635200,
+        "o": "Melgar",
+        "gf": 2,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1793131200,
+        "o": "Juan Pablo II",
+        "gf": 0,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1792863900,
+        "o": "Alianza Atletico Sullana",
+        "gf": 4,
+        "ga": 1,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795377600,
+        "o": "Sport Huancayo",
+        "gf": 1,
+        "ga": 4,
+        "dom": false
+       },
+       {
+        "d": 1794187800,
+        "o": "Deportivo Moquegua",
+        "gf": 2,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1793842200,
+        "o": "Sport Boys",
+        "gf": 2,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1793565000,
+        "o": "Atlético Grau",
+        "gf": 3,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1792888200,
+        "o": "Juan Pablo II",
+        "gf": 3,
+        "ga": 0,
+        "dom": true
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "key": "seleccion",
+   "name": "Selección",
+   "matches": [
+    {
+     "tournament": "Partidos amistosos. Selecciones",
+     "home": "Perú",
+     "away": "Panamá",
+     "start": 1796857200,
+     "odds": {
+      "1": 2.27,
+      "X": 3.42,
+      "2": 2.56
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/12707.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/12699.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/125983-Friendlies-National-Teams/396903230-Peru-Panama",
+     "eid": 773542009,
+     "tid": 125983,
+     "coupon": {
+      "1": "29ZPJ",
+      "X": "J9ZPJ",
+      "2": "N9ZPJ"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.36,
+       "12": 1.2,
+       "X2": 1.47
+      },
+      "ou25": {
+       "o": 1.82,
+       "u": 1.84
+      },
+      "btts": {
+       "y": 1.68,
+       "n": 2.02
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,25 +1,11 @@
 {
- "updated": "2026-11-23T16:06:28+00:00",
+ "updated": "2026-11-23T16:47:53+00:00",
  "backfilled": [
   127733,
   1706694,
   125983
  ],
  "matches": [
-  {
-   "id": 663529330,
-   "tid": 127733,
-   "tname": "España. La Liga",
-   "home": "Levante UD",
-   "away": "Rayo Vallecano",
-   "score": [
-    0,
-    3
-   ],
-   "detail": "0:3 (0:2,0:1)",
-   "start": 1760891400,
-   "group": "liga"
-  },
   {
    "id": 663566475,
    "tid": 127733,

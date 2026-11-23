@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:01:47+00:00",
+ "updated": "2026-11-23T16:46:47+00:00",
  "groups": [
   {
    "key": "liga",
@@ -21,9 +21,8 @@
      "eid": 770553780,
      "tid": 55479,
      "coupon": {
-      "1": "DXG5J",
-      "X": "KXG5J",
-      "2": "SXG5J"
+      "1": "PYEQJ",
+      "X": "DZEQJ"
      },
      "markets": {
       "dc": {
@@ -223,9 +222,9 @@
      "eid": 770559865,
      "tid": 55479,
      "coupon": {
-      "1": "78G5J",
-      "X": "Z8G5J",
-      "2": "2YG5J"
+      "1": "S1FQJ",
+      "X": "AAFQJ",
+      "2": "PAFQJ"
      },
      "markets": {
       "dc": {
@@ -425,9 +424,7 @@
      "eid": 773467637,
      "tid": 55479,
      "coupon": {
-      "1": "CZG5J",
-      "X": "SZG5J",
-      "2": "9ZG5J"
+      "1": "DCFQJ"
      },
      "markets": {
       "dc": {
@@ -615,11 +612,6 @@
      "link": "https://1xlite-32085.pro/es/line/Football/55479-Paraguay-Primera-Division/396854882-Sportivo-Luqueno-Club-Olimpia",
      "eid": 773467215,
      "tid": 55479,
-     "coupon": {
-      "1": "E1H5J",
-      "X": "6AH5J",
-      "2": "7BH5J"
-     },
      "markets": {
       "dc": {
        "1X": 2.263,
