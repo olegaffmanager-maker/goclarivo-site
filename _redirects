@@ -11,3 +11,34 @@
 # French content now lives only under /bf/ (Burkina Faso); the old
 # standalone /fr/ section has been removed.
 /fr/*  /bf/  301
+
+# 23.11.2026: the old football betting pages (widget + league guides) were replaced by
+# the football section /<geo>/futbol/ (Oleg's decision): permanent redirects.
+/ar/sports/futbol/  /ar/futbol/  301
+/ar/sports/futbol  /ar/futbol/  301
+/ar/sports/liga-profesional/  /ar/futbol/  301
+/ar/sports/liga-profesional  /ar/futbol/  301
+/mx/sports/futbol/  /mx/futbol/  301
+/mx/sports/futbol  /mx/futbol/  301
+/mx/sports/liga-mx/  /mx/futbol/  301
+/mx/sports/liga-mx  /mx/futbol/  301
+/cl/sports/futbol/  /cl/futbol/  301
+/cl/sports/futbol  /cl/futbol/  301
+/cl/sports/primera-division/  /cl/futbol/  301
+/cl/sports/primera-division  /cl/futbol/  301
+/pe/sports/futbol/  /pe/futbol/  301
+/pe/sports/futbol  /pe/futbol/  301
+/pe/sports/liga-1/  /pe/futbol/  301
+/pe/sports/liga-1  /pe/futbol/  301
+/ec/sports/futbol/  /ec/futbol/  301
+/ec/sports/futbol  /ec/futbol/  301
+/ec/sports/ligapro/  /ec/futbol/  301
+/ec/sports/ligapro  /ec/futbol/  301
+/bo/sports/futbol/  /bo/futbol/  301
+/bo/sports/futbol  /bo/futbol/  301
+/bo/sports/division-profesional/  /bo/futbol/  301
+/bo/sports/division-profesional  /bo/futbol/  301
+/py/sports/futbol/  /py/futbol/  301
+/py/sports/futbol  /py/futbol/  301
+/es/sports/futbol/  /es/futbol/  301
+/es/sports/futbol  /es/futbol/  301

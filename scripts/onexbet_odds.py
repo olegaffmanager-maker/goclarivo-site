@@ -357,13 +357,6 @@ SPORTS = [
         "live": dict(limit=3, max_tournaments=10, max_candidate_events=12, request_delay=1.2),
         "results": dict(limit=2, max_tournaments=3, request_delay=1.0),
         "geo_extra_targets": {
-            "es": "es/sports/futbol/index.html",
-            "ar": "ar/sports/futbol/index.html",
-            "bo": "bo/sports/futbol/index.html",
-            "mx": "mx/sports/futbol/index.html",
-            "pe": "pe/sports/futbol/index.html",
-            "py": "py/sports/futbol/index.html",
-            "ec": "ec/sports/futbol/index.html",
             "en": "en/sports/football/index.html",
         },
     },
