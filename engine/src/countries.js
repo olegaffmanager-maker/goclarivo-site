@@ -2,7 +2,7 @@
 // Solo datos seguros: nombres oficiales, apodos y clásicos de uso general; todo lo demás sale de la API de 1xBet.
 // canon: la API escribe cada club de varias formas → un nombre por club (como lo busca la gente).
 // season: ['halves', nombre ene–jun, nombre jul–dic] · ['year', nombre] · ['euro'] (agosto–mayo).
-// aff: false → sin enlaces de afiliado (España: reglas de la DGOJ; Chile: Subtel bloquea 1xBet desde el 1 de septiembre de 2026).
+// aff: false → sin enlaces de afiliado (España: reglas de la DGOJ). Chile: con 1xBet por decisión de Oleg (23.11.2026), aunque Subtel bloquea 1xBet desde el 1 de septiembre de 2026.
 module.exports = {
   ar: {
     key: 'ar', name: 'Argentina', nation: 'Argentina', de: 'de Argentina', hora: 'argentina', adj: 'argentino', adjf: 'argentina',
@@ -28,7 +28,7 @@ module.exports = {
     clasicos: { 'america|chivas': ['Clásico Nacional', 'América y Chivas, los dos clubes más populares de México'], 'america|cruz-azul': ['Clásico Joven', 'América y Cruz Azul'], 'america|pumas-unam': ['Clásico Capitalino', 'América y Pumas'], 'monterrey|tigres-uanl': ['Clásico Regio', 'los dos grandes de Monterrey'], 'atlas|chivas': ['Clásico Tapatío', 'los dos grandes de Guadalajara'] },
   },
   cl: {
-    key: 'cl', name: 'Chile', nation: 'Chile', de: 'de Chile', hora: 'chilena', adj: 'chileno', adjf: 'chilena', aff: false,
+    key: 'cl', name: 'Chile', nation: 'Chile', de: 'de Chile', hora: 'chilena', adj: 'chileno', adjf: 'chilena',
     tz: 'America/Santiago', utc: 'hora oficial de Chile', loc: 'es-CL', money: 'pesos', cur: '$',
     liga: 'Primera División', ligaLong: 'Primera División de Chile', ligaKw: 'primera división chile', ligaOrg: 'la ANFP',
     season: ['year', 'Campeonato'],
