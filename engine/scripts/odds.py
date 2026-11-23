@@ -55,6 +55,8 @@ CONF = {
         ("premier-league", "Premier League", lambda n: n.strip() in ("inglaterra. premier league", "england. premier league"), 20),
     ]),
 }
+# Tournament ids used when the league has no matches in the line (between seasons), taken from 1xBet match links.
+FIXED_TIDS = {"pe": {"liga": [2892390]}}
 NATIONS = CONF[RG][0]
 GROUPS = CONF[RG][1] + ([("seleccion", "Selección", SEL, 30)] if NATIONS else [])
 AFRICA = ("liga", "seleccion", "copa-libertadores", "copa-sudamericana", "champions-league", "laliga", "premier-league")  # groups with stored results
@@ -384,6 +386,10 @@ def main():
         out.append({"key": key, "name": name, "matches": ms})
         print(f"{key}: {len(sel)} tournaments, {len(ms)} matches", file=sys.stderr)
 
+    # Off-season: the league is not in the line, but its results still are (tournament id from the 1xBet match links).
+    for k, v in FIXED_TIDS.get(RG, {}).items():
+        if not TIDS.get(k):
+            TIDS[k] = v
     # Results (finished matches with scores): league table + result pages. Never invented: only what the API returns.
     if not a.dry_run and TIDS:
         try:

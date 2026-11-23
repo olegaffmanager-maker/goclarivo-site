@@ -223,7 +223,7 @@ const NAV = IS_ROOT
 const INTLNAV = [['/copa-libertadores/', 'Copa Libertadores'], ['/copa-sudamericana/', 'Copa Sudamericana'], ['/champions-league/', 'Champions League'], ['/laliga/', 'LaLiga'], ['/premier-league/', 'Premier League'], ['/real-madrid/', 'Real Madrid'], ['/barcelona/', 'Barcelona']];
 const GCLINKS = IS_ROOT ? [['~/', 'Inicio de GoClarivo']] : [[`~/${C.key}/`, `GoClarivo ${C.name}`], [`~/${C.key}/sports/`, 'Apuestas deportivas'], ...(REVIEW ? [[REVIEW, 'Reseña de 1xBet']] : []), [`~/${C.key}/responsible-gambling/`, 'Juego responsable']];
 const MGROUPS = [['Fútbol por país', [['/futbol/', 'Internacional'], ...CNAV]], ...(IS_ROOT ? [] : [[C.ligaLong, [...NAV.slice(0, 8)]], ['Equipos', CLUBS.map((k) => [curl(k.name), k.name])]]), ['Copas y ligas', [['/en-vivo/', 'En vivo'], ...INTLNAV, ['/calculadora-apuestas-combinadas/', 'Calculadora de combinadas']]], ['GoClarivo', GCLINKS]];
-const TOK = { LIGA: C.ligaLong, ORG: C.ligaOrg || C.ligaLong, DE: C.de, NICK: C.nationNick || '', ADJ: C.adj, ADJS: (C.adj || '').replace(/o$/, 'os').replace(/e$/, 'es'), PAIS: C.name, NATION: C.nation || C.name, MONEY: C.money || 'tu moneda', CUR: C.cur || '$', UTC: C.utc, SELU: P(SELU), GEO: C.key, HORA: C.hora || C.de, PAISES: 'Argentina, México, Chile, Perú, Ecuador, Bolivia, Paraguay y España' };
+const TOK = { LIGA: C.ligaLong, ORG: C.ligaOrg || C.ligaLong, DE: C.de, NICK: C.nationNick || '', ADJ: C.adj, ADJS: (C.adj || '').replace(/o$/, 'os').replace(/e$/, 'es'), PAIS: C.name, NATION: C.nation || C.name, MONEY: C.money || 'tu moneda', CUR: C.cur || '$', UTC: C.utc, SELU: P(SELU), GEO: C.key, DELIGA: C.deLiga || 'de la ' + C.ligaLong, HORA: C.hora || C.de, PAISES: 'Argentina, México, Chile, Perú, Ecuador, Bolivia, Paraguay y España' };
 const tok = (x) => String(x).replace(/⟦([A-Z]+)⟧/g, (m, k) => (k in TOK ? TOK[k] : m));
 const sitemap = [], SEARCH = [];
 const FLAGS_SVG = fs.readFileSync(path.join(__dirname, 'assets', 'flags.svg'), 'utf8');
@@ -437,7 +437,7 @@ const POSFAQ = [
   ['¿Cómo se calcula esta tabla?', `Nuestra tabla suma los partidos de liga del ${TORNEO.name} publicados por 1xBet (3 puntos por victoria, 1 por empate). Si ⟦ORG⟧ publica una tabla oficial con otro formato (grupos, bonificaciones o sanciones), puede haber diferencias.`],
 ];
 page('/posiciones/', {
-  title: `Tabla de posiciones ⟦LIGA⟧ ${TORNEO.ys || TORNEO.y}: ${esc(TORNEO.name)}`,
+  title: `Posiciones ⟦DELIGA⟧ ${TORNEO.ys || TORNEO.y}: tabla general del ${TORNEO.name}`,
   desc: TABLE.length ? `Posiciones de la ⟦LIGA⟧, ${TORNEO.name}: ${TABLE[0].team} líder con ${TABLE[0].pts} pts. Puntos, goles y forma de todos los equipos.` : `Posiciones de la ⟦LIGA⟧, ${TORNEO.name}.`,
   crumb: 'Posiciones',
   body: `<h1>Tabla de posiciones de la ⟦LIGA⟧ ${esc(TORNEO.name)}</h1>
@@ -573,7 +573,7 @@ for (const k of CLUBS) {
     title: nx[0] ? `${n} hoy: ${nx[0].home} vs ${nx[0].away} en vivo, hora y posiciones` : `Posiciones de ${n}: cuándo juega, resultados y en vivo`,
     desc: `${n}: ${nx[0] ? `próximo partido ${nx[0].home} vs ${nx[0].away}, ${when(nx[0].start)}. ` : ''}${ps ? `${ps.pos}.º en la tabla con ${ps.pts} pts. ` : ''}Últimos resultados y cuotas.`,
     crumb: n, parent: ['/equipos/', 'Equipos'],
-    body: `<div class="crh">${crest(n, 72, true)}</div><h1>${esc(n)} hoy: en vivo, cuándo juega y posiciones</h1>
+    body: `<div class="crh">${crest(n, 72, true)}</div><h1>${esc(n)} hoy: partidos, posiciones y en vivo</h1>
 ${INFO[n] ? `<p class="lead">${esc(INFO[n].full)} — ${esc(INFO[n].nick)}${INFO[n].alias.length > 1 ? ` (también ${INFO[n].alias.filter((x) => x !== INFO[n].nick).map(esc).join(', ')})` : ''}: próximo partido, posiciones y resultados del ${esc(TORNEO.name)}.</p>` : ''}
 ${todayBox(n, nx[0], last)}
 <h2>Próximos partidos de ${esc(n)}</h2>${list(nx)}

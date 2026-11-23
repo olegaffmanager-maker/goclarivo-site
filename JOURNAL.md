@@ -14,3 +14,10 @@
 - `sitemap-futbol.xml` + строка в robots.txt. После деплоя — отправить sitemap-futbol.xml в Search Console.
 - Ключи Ahrefs по странам — ждём от Олега; названия клубов, пары и title подстроить под реальный спрос.
 - Вторая фаза: en, gh, ke, zm (английский), bf (французский). India — не делать (Online Gaming Act 2025).
+
+### 23.11.2026, вечер — ключи Ahrefs и первая сборка на реальных данных
+- Ahrefs (Matching terms по 13 странам, файлы в `engine/research/`): главный спрос — «posiciones de {клуб}» (boca 688K, real madrid 1.03M, liga mx 2.76M), «partidos de {клуб}» (boca 397K, colo-colo 157K), «partidos de hoy» (AR 555K, PE 350K), «{страна} vs» (MX 730K, EC 321K, AR 260K, PY 123K), «copa libertadores» / «posiciones de copa libertadores» (AR 254K/163K, CL 190K/79K), «tabla liga mx», «tabla liga 1».
+- По ключам: названия клубов как ищут — Colo Colo, U de Chile, Chivas, Tigres, Pumas, Estudiantes, Betis; H1 клуба «{клуб} hoy: partidos, posiciones y en vivo»; страница таблицы «Posiciones de la {лига} {год}: tabla general del {турнир}».
+- India: спрос — крикет, футбол мизерный + запрет (Online Gaming Act) → не делаем. Gh/Ke/Zm/Bf — объёмы малые (тысячи), вторая фаза.
+- Сборка: 1558 страниц (AR 500, ES 224, MX 186, EC 161, CL 157, BO 154, PY 96, PE 15, /futbol/ 67), битых внутренних ссылок 0. Перу пока пустое: Liga 1 нет в линии 1xBet (межсезонье) → добавлен фиксированный tournamentId 2892390 для результатов, заполнится при следующем прогоне.
+- Чили — с 1xBet (решение Олега).
