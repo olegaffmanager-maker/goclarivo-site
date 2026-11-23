@@ -1,0 +1,74 @@
+name: Football section (engine)
+
+# GoClarivo football section, engine of Liga Chapina / Liga Tica / Marcador Central.
+# 1) engine/scripts/odds.py per country (RG_COUNTRY) + international -> engine/data/<geo>/matches.json, results.json
+# 2) engine/scripts/team_logos.py -> crests in engine/assets/t (served from our own domain)
+# 3) node engine/src/all.js -> writes the football pages into the site folders (when engine/src exists)
+# 4) commit -> Cloudflare Pages deploys the repo as it is.
+# Secrets (Settings -> Secrets and variables -> Actions): ONEXBET_CLIENT_ID, ONEXBET_CLIENT_SECRET, ONEXBET_REF (+ optional ONEXBET_GR).
+on:
+  schedule:
+    - cron: "41 */3 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "engine/scripts/**"
+      - "engine/src/**"
+      - ".github/workflows/engine.yml"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: engine
+  cancel-in-progress: false
+
+jobs:
+  engine:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: pip install requests pillow
+      - name: Fetch matches, odds and results (1xBet API)
+        env:
+          ONEXBET_CLIENT_ID: ${{ secrets.ONEXBET_CLIENT_ID }}
+          ONEXBET_CLIENT_SECRET: ${{ secrets.ONEXBET_CLIENT_SECRET }}
+          ONEXBET_REF: ${{ secrets.ONEXBET_REF }}
+          ONEXBET_GR: ${{ secrets.ONEXBET_GR }}
+          RG_DEBUG: "1"
+        run: |
+          for g in int ar mx cl pe ec bo py es gh ke zm bf in en; do
+            mkdir -p engine/data/$g
+            echo "== $g"
+            RG_COUNTRY=$g OUT_DIR=engine/data/$g python engine/scripts/odds.py 2> engine/data/$g/log.txt || echo "$g failed (previous data kept)"
+            grep -v "secret lengths" engine/data/$g/log.txt | tail -40
+          done
+      - name: Team crests
+        run: |
+          for g in int ar mx cl pe ec bo py es gh ke zm bf in en; do
+            [ -f engine/data/$g/matches.json ] && DATA=engine/data/$g TDIR=engine/assets/t python engine/scripts/team_logos.py || true
+          done
+      - name: Build football pages
+        run: |
+          if [ -f engine/src/all.js ]; then node engine/src/all.js; else echo "engine/src not there yet"; fi
+      - name: Commit if changed
+        run: |
+          git config user.name "goclarivo-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A engine/data engine/assets 2>/dev/null || true
+          [ -f engine/out.txt ] && git add -A $(cat engine/out.txt) engine/out.txt 2>/dev/null || true
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "chore: refresh football section"
+          for i in 1 2 3 4 5; do
+            if git push; then exit 0; fi
+            git fetch origin main && git rebase origin/main && sleep 5
+          done
+          exit 1
