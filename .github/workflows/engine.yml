@@ -48,7 +48,8 @@ jobs:
           for g in int ar mx cl pe ec bo py es gh ke zm bf in en; do
             mkdir -p engine/data/$g
             echo "== $g"
-            RG_COUNTRY=$g OUT_DIR=engine/data/$g python engine/scripts/odds.py 2> engine/data/$g/log.txt || echo "$g failed (previous data kept)"
+            RG_COUNTRY=$g OUT_DIR=engine/data/$g python engine/scripts/odds.py 2> engine/data/$g/log.raw || echo "$g failed (previous data kept)"
+            grep -v "secret lengths" engine/data/$g/log.raw > engine/data/$g/log.txt; rm -f engine/data/$g/log.raw
             grep -v "secret lengths" engine/data/$g/log.txt | tail -40
           done
       - name: Team crests

@@ -3,3 +3,4 @@ Allow: /
 Disallow: /go/
 
 Sitemap: https://goclarivo.bet/sitemap.xml
+Sitemap: https://goclarivo.bet/sitemap-futbol.xml
