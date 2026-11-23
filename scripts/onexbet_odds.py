@@ -238,6 +238,11 @@ VIRTUAL_TOURNAMENT_KEYWORDS = (
     # La Liga tournament filter below would otherwise match this same
     # "VirtuaComp: La Liga" name on the "la liga" keyword.
     "virtuacomp",
+    # Added 2026-11-23 (Oleg saw them on /en/sports/football/): amateur
+    # mini-formats and simulated leagues shown as "live football" --
+    # "BudnesLiga LFL 5x5", "Short Football 2x2", "Virtual eComp. Copa
+    # Libertadores". Not real matches people search for.
+    "virtual", "ecomp", "5x5", "4x4", "3x3", "2x2", "short football", "lfl",
 )
 
 

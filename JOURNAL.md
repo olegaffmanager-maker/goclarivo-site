@@ -23,3 +23,4 @@
 - Чили — с 1xBet (решение Олега).
 - 23.11 19:14: Олег поставил ONEXBET_CLIENT_ID / ONEXBET_CLIENT_SECRET / ONEXBET_REF (Secret, Production) в Cloudflare Pages → деплой этим коммитом, чтобы /api/live их подхватил.
 - 23.11 19:17: sitemap-futbol.xml отправлен в Search Console — «Успешно», 1758 URL. Живой счёт /api/live работает (estado ok); из лайва убраны виртуальные/киберфутбол.
+- 23.11 19:25 (решение Олега «делай как нужно»): пункт «Fútbol hoy: partidos y posiciones» в меню «Apuestas deportivas» на всех страницах 8 испанских гео (369 страниц, только одна ссылка в шапке) + блок-ссылка на раздел на главной каждой страны (/<geo>/, после топ-листа). Виджет 1xBet на /<geo>/sports/: из фильтра убраны virtual / eComp / 5x5 / 4x4 / 2x2 / Short Football / LFL.
