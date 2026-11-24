@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:38:04+00:00",
+ "updated": "2026-11-24T02:35:17+00:00",
  "backfilled": [
   142091,
   118587,
@@ -7902,6 +7902,34 @@
    "detail": "0:3 (0:2,0:1)",
    "start": 1795377600,
    "group": "laliga"
+  },
+  {
+   "id": 773583839,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Elche",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1795464000,
+   "group": "laliga"
+  },
+  {
+   "id": 773583175,
+   "tid": 88637,
+   "tname": "Inglaterra. Premier League",
+   "home": "Brentford",
+   "away": "Everton",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1795464000,
+   "group": "premier-league"
   }
  ]
 }

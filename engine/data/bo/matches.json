@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:46:23+00:00",
+ "updated": "2026-11-24T02:37:59+00:00",
  "groups": [
   {
    "key": "liga",
@@ -7,192 +7,56 @@
    "matches": [
     {
      "tournament": "Bolivia. Primera División",
-     "home": "Real Oruro",
-     "away": "Guabira",
-     "start": 1795460400,
+     "home": "ABB",
+     "away": "Real Tomayapo",
+     "start": 1795806000,
      "odds": {
-      "1": 1.43,
-      "X": 4.45,
-      "2": 5.51
+      "1": 1.79,
+      "X": 3.7,
+      "2": 3.615
      },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/7c17b3695b3ccfde40756fda2f98d68f.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/12dc2acb4625a7cdbfecc6d30af62ce5.png",
-     "link": "https://1xlite-32085.pro/es/line/Football/2869549-Bolivia-Primera-Division/388719946-Real-Oruro-Guabira",
-     "eid": 769546624,
+     "img1": "https://nimblecd.com/sfiles/logo_teams/116172ea2beca21841c8b3c69b175d15.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/de83384810c1a6119c8af6515a01b76d.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/2869549-Bolivia-Primera-Division/396919465-ABB-Real-Tomayapo",
+     "eid": 773575070,
      "tid": 2869549,
      "coupon": {
-      "1": "QDEQJ",
-      "X": "VDEQJ",
-      "2": "ZDEQJ"
+      "1": "YD7R4",
+      "X": "BE7R4",
+      "2": "GE7R4"
      },
      "markets": {
       "dc": {
-       "1X": 1.077,
-       "12": 1.12,
-       "X2": 2.42
+       "1X": 1.198,
+       "12": 1.18,
+       "X2": 1.81
       },
       "ou25": {
-       "o": 1.28,
-       "u": 3.08
+       "o": 1.53,
+       "u": 2.29
       },
       "btts": {
-       "y": 1.4,
-       "n": 2.696
+       "y": 1.51,
+       "n": 2.364
       }
      },
      "stats": {
       "h2h": [
        {
-        "d": 1785014100,
-        "h": "Guabira",
-        "a": "Real Oruro",
+        "d": 1785538800,
+        "h": "Real Tomayapo",
+        "a": "ABB",
         "s": [
-         4,
+         1,
          1
         ],
         "t": "Bolivia. Primera División",
         "hh": false
        },
        {
-        "d": 1758844800,
-        "h": "Real Oruro",
-        "a": "Guabira",
-        "s": [
-         3,
-         6
-        ],
-        "t": "Bolivia. Primera División",
-        "hh": true
-       },
-       {
-        "d": 1746900900,
-        "h": "Guabira",
-        "a": "Real Oruro",
-        "s": [
-         3,
-         1
-        ],
-        "t": "Bolivia. Primera División",
-        "hh": false
-       }
-      ],
-      "f1": [
-       {
-        "d": 1794078000,
-        "o": "Gualberto Villarroel",
-        "gf": 3,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1793473200,
-        "o": "Nacional Potosí",
-        "gf": 1,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1792954800,
-        "o": "Always Ready",
-        "gf": 1,
-        "ga": 5,
-        "dom": false
-       },
-       {
-        "d": 1792263600,
-        "o": "Club Aurora",
-        "gf": 1,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1791658800,
-        "o": "Universitario de Vinto",
-        "gf": 3,
-        "ga": 1,
-        "dom": false
-       }
-      ],
-      "f2": [
-       {
-        "d": 1794094200,
-        "o": "San Antonio Bulo Bulo",
-        "gf": 5,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1793567700,
-        "o": "Bolivar",
-        "gf": 1,
-        "ga": 2,
-        "dom": true
-       },
-       {
-        "d": 1793052000,
-        "o": "Nacional Potosí",
-        "gf": 0,
-        "ga": 3,
-        "dom": false
-       },
-       {
-        "d": 1792366200,
-        "o": "Oriente Petrolero",
-        "gf": 1,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1791831600,
-        "o": "Gualberto Villarroel",
-        "gf": 1,
-        "ga": 4,
-        "dom": false
-       }
-      ]
-     }
-    },
-    {
-     "tournament": "Bolivia. Primera División",
-     "home": "Universitario de Vinto",
-     "away": "Gualberto Villarroel",
-     "start": 1795468500,
-     "odds": {
-      "1": 1.51,
-      "X": 4.1,
-      "2": 4.995
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/089b36cb795ece824e5eb5b82b8109c6.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/01120978e61d687168fea2f4a17c35f3.png",
-     "link": "https://1xlite-32085.pro/es/line/Football/2869549-Bolivia-Primera-Division/389370982-Universitario-de-Vinto-Gualberto-Villarroel",
-     "eid": 770043711,
-     "tid": 2869549,
-     "coupon": {
-      "1": "XFEQJ",
-      "X": "C3EQJ",
-      "2": "P3EQJ"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.1,
-       "12": 1.145,
-       "X2": 2.22
-      },
-      "ou25": {
-       "o": 1.44,
-       "u": 2.43
-      },
-      "btts": {
-       "y": 1.53,
-       "n": 2.321
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1785178800,
-        "h": "Gualberto Villarroel",
-        "a": "Universitario de Vinto",
+        "d": 1755903600,
+        "h": "Real Tomayapo",
+        "a": "ABB",
         "s": [
          2,
          1
@@ -201,44 +65,213 @@
         "hh": false
        },
        {
-        "d": 1765661400,
-        "h": "Gualberto Villarroel",
-        "a": "Universitario de Vinto",
+        "d": 1744398000,
+        "h": "ABB",
+        "a": "Real Tomayapo",
+        "s": [
+         0,
+         0
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": true
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795295700,
+        "o": "Club Aurora",
+        "gf": 1,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1794086100,
+        "o": "Always Ready",
+        "gf": 2,
+        "ga": 3,
+        "dom": false
+       },
+       {
+        "d": 1793481300,
+        "o": "San Antonio Bulo Bulo",
+        "gf": 2,
+        "ga": 3,
+        "dom": true
+       },
+       {
+        "d": 1792884600,
+        "o": "Independiente Petrolero",
+        "gf": 2,
+        "ga": 4,
+        "dom": false
+       },
+       {
+        "d": 1792177200,
+        "o": "Club Real Potosí",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795287600,
+        "o": "Nacional Potosí",
+        "gf": 1,
+        "ga": 5,
+        "dom": true
+       },
+       {
+        "d": 1794006000,
+        "o": "Independiente Petrolero",
+        "gf": 2,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1793654100,
+        "o": "Club Blooming",
+        "gf": 1,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1792962900,
+        "o": "Club Aurora",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1792195200,
+        "o": "Gualberto Villarroel",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "Bolivia. Primera División",
+     "home": "Nacional Potosí",
+     "away": "Oriente Petrolero",
+     "start": 1795908600,
+     "odds": {
+      "1": 1.38,
+      "X": 4.3,
+      "2": 6.71
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/51069.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/e83eb7945efc5ca5fe3e1149b1937f16.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/2869549-Bolivia-Primera-Division/396919464-Nacional-Potosi-Oriente-Petrolero",
+     "eid": 773576273,
+     "tid": 2869549,
+     "coupon": {
+      "1": "4F7R4",
+      "X": "LF7R4",
+      "2": "NF7R4"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.04,
+       "12": 1.13,
+       "X2": 2.58
+      },
+      "ou25": {
+       "o": 1.444,
+       "u": 2.42
+      },
+      "btts": {
+       "y": 1.62,
+       "n": 2.136
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1793829600,
+        "h": "Nacional Potosí",
+        "a": "Oriente Petrolero",
         "s": [
          5,
+         1
+        ],
+        "t": "Copa de Bolivia  - Play-off",
+        "hh": true
+       },
+       {
+        "d": 1792629000,
+        "h": "Oriente Petrolero",
+        "a": "Nacional Potosí",
+        "s": [
+         3,
+         2
+        ],
+        "t": "Copa de Bolivia  - Play-off",
+        "hh": false
+       },
+       {
+        "d": 1785713400,
+        "h": "Oriente Petrolero",
+        "a": "Nacional Potosí",
+        "s": [
+         1,
          0
         ],
         "t": "Bolivia. Primera División",
         "hh": false
        },
        {
-        "d": 1752969600,
-        "h": "Universitario de Vinto",
-        "a": "Gualberto Villarroel",
+        "d": 1763233200,
+        "h": "Oriente Petrolero",
+        "a": "Nacional Potosí",
         "s": [
-         4,
-         0
+         1,
+         1
         ],
-        "t": "Bolivia. Primera División",
+        "t": "Copa de Bolivia  - Play-off",
+        "hh": false
+       },
+       {
+        "d": 1762984800,
+        "h": "Nacional Potosí",
+        "a": "Oriente Petrolero",
+        "s": [
+         3,
+         1
+        ],
+        "t": "Copa de Bolivia  - Play-off",
         "hh": true
        },
        {
-        "d": 1733252400,
-        "h": "Gualberto Villarroel",
-        "a": "Universitario de Vinto",
+        "d": 1758394800,
+        "h": "Oriente Petrolero",
+        "a": "Nacional Potosí",
+        "s": [
+         2,
+         2
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": false
+       },
+       {
+        "d": 1753833600,
+        "h": "Nacional Potosí",
+        "a": "Oriente Petrolero",
         "s": [
          4,
          1
         ],
         "t": "Bolivia. Primera División",
-        "hh": false
+        "hh": true
        },
        {
-        "d": 1723057200,
-        "h": "Universitario de Vinto",
-        "a": "Gualberto Villarroel",
+        "d": 1734136200,
+        "h": "Nacional Potosí",
+        "a": "Oriente Petrolero",
         "s": [
-         1,
+         4,
          1
         ],
         "t": "Bolivia. Primera División",
@@ -247,76 +280,671 @@
       ],
       "f1": [
        {
-        "d": 1794270600,
-        "o": "Club Aurora",
-        "gf": 1,
+        "d": 1795287600,
+        "o": "Real Tomayapo",
+        "gf": 5,
         "ga": 1,
         "dom": false
        },
        {
-        "d": 1793575800,
-        "o": "Always Ready",
-        "gf": 1,
-        "ga": 3,
-        "dom": true
-       },
-       {
-        "d": 1793059200,
-        "o": "Bolivar",
-        "gf": 1,
+        "d": 1794778200,
+        "o": "Club Real Potosí",
+        "gf": 0,
         "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1794524400,
+        "o": "Club Real Potosí",
+        "gf": 5,
+        "ga": 5,
         "dom": false
        },
        {
-        "d": 1792271700,
-        "o": "San Antonio Bulo Bulo",
-        "gf": 2,
+        "d": 1794164400,
+        "o": "Club Real Potosí",
+        "gf": 1,
         "ga": 1,
         "dom": true
        },
        {
-        "d": 1791658800,
-        "o": "Real Oruro",
-        "gf": 1,
-        "ga": 3,
+        "d": 1793829600,
+        "o": "Oriente Petrolero",
+        "gf": 5,
+        "ga": 1,
         "dom": true
        }
       ],
       "f2": [
        {
-        "d": 1794078000,
-        "o": "Real Oruro",
-        "gf": 1,
-        "ga": 3,
+        "d": 1795303800,
+        "o": "Independiente Petrolero",
+        "gf": 2,
+        "ga": 2,
         "dom": true
        },
        {
-        "d": 1793559600,
-        "o": "The Strongest",
-        "gf": 2,
-        "ga": 4,
+        "d": 1794180600,
+        "o": "Club Blooming",
+        "gf": 1,
+        "ga": 0,
         "dom": false
        },
        {
-        "d": 1792873200,
-        "o": "Club Blooming",
-        "gf": 2,
+        "d": 1793829600,
+        "o": "Nacional Potosí",
+        "gf": 1,
+        "ga": 5,
+        "dom": false
+       },
+       {
+        "d": 1793404800,
+        "o": "Club Aurora",
+        "gf": 1,
         "ga": 1,
         "dom": true
        },
        {
-        "d": 1792195200,
+        "d": 1792971000,
+        "o": "The Strongest",
+        "gf": 2,
+        "ga": 1,
+        "dom": true
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "Bolivia. Primera División",
+     "home": "Club Aurora",
+     "away": "The Strongest",
+     "start": 1795978800,
+     "odds": {
+      "1": 2.38,
+      "X": 3.6,
+      "2": 2.38
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/3627130b52ed702e9806721c019e5b99.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/73b839892f4452faeda2816428eae7ea.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/2869549-Bolivia-Primera-Division/396919748-Club-Aurora-The-Strongest",
+     "eid": 773576276,
+     "tid": 2869549,
+     "coupon": {
+      "1": "RF7R4",
+      "X": "UF7R4",
+      "2": "VF7R4"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.44,
+       "12": 1.191,
+       "X2": 1.44
+      },
+      "ou25": {
+       "o": 1.44,
+       "u": 2.43
+      },
+      "btts": {
+       "y": 1.41,
+       "n": 2.655
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1785533400,
+        "h": "The Strongest",
+        "a": "Club Aurora",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": false
+       },
+       {
+        "d": 1763253000,
+        "h": "Club Aurora",
+        "a": "The Strongest",
+        "s": [
+         1,
+         2
+        ],
+        "t": "Copa de Bolivia  - Play-off",
+        "hh": true
+       },
+       {
+        "d": 1762993800,
+        "h": "The Strongest",
+        "a": "Club Aurora",
+        "s": [
+         2,
+         2
+        ],
+        "t": "Copa de Bolivia  - Play-off",
+        "hh": false
+       },
+       {
+        "d": 1757806200,
+        "h": "Club Aurora",
+        "a": "The Strongest",
+        "s": [
+         2,
+         1
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": true
+       },
+       {
+        "d": 1745011800,
+        "h": "The Strongest",
+        "a": "Club Aurora",
+        "s": [
+         3,
+         2
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": false
+       },
+       {
+        "d": 1738523700,
+        "h": "The Strongest",
+        "a": "Club Aurora",
+        "s": [
+         4,
+         0
+        ],
+        "t": "Partidos amistosos de clubes",
+        "hh": false
+       },
+       {
+        "d": 1732491000,
+        "h": "Club Aurora",
+        "a": "The Strongest",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": true
+       },
+       {
+        "d": 1722115800,
+        "h": "The Strongest",
+        "a": "Club Aurora",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": false
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795295700,
+        "o": "ABB",
+        "gf": 2,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1794270600,
+        "o": "Universitario de Vinto",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793746800,
+        "o": "Independiente Petrolero",
+        "gf": 3,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1793404800,
+        "o": "Oriente Petrolero",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1792962900,
         "o": "Real Tomayapo",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795382100,
+        "o": "Club Blooming",
+        "gf": 4,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1794172500,
+        "o": "Bolivar",
         "gf": 0,
         "ga": 1,
         "dom": false
        },
        {
-        "d": 1791831600,
-        "o": "Guabira",
+        "d": 1793838600,
+        "o": "Always Ready",
+        "gf": 1,
+        "ga": 4,
+        "dom": true
+       },
+       {
+        "d": 1793559600,
+        "o": "Gualberto Villarroel",
         "gf": 4,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1792971000,
+        "o": "Oriente Petrolero",
+        "gf": 1,
+        "ga": 2,
+        "dom": false
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "Bolivia. Primera División",
+     "home": "Bolivar",
+     "away": "Always Ready",
+     "start": 1795986900,
+     "odds": {
+      "1": 2.28,
+      "X": 3.8,
+      "2": 2.4
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/2570.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/7dc22f420c9442be08f3836f97f30e81.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/2869549-Bolivia-Primera-Division/396919750-Bolivar-Always-Ready",
+     "eid": 773577543,
+     "tid": 2869549,
+     "coupon": {
+      "1": "9F7R4",
+      "X": "B37R4",
+      "2": "C37R4"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.43,
+       "12": 1.171,
+       "X2": 1.48
+      },
+      "ou25": {
+       "o": 1.28,
+       "u": 3.08
+      },
+      "btts": {
+       "y": 1.285,
+       "n": 3.26
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1785705300,
+        "h": "Always Ready",
+        "a": "Bolivar",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": false
+       },
+       {
+        "d": 1773000000,
+        "h": "Bolivar",
+        "a": "Always Ready",
+        "s": [
+         3,
+         1
+        ],
+        "t": "Bolivia. Torneo de Verano",
+        "hh": true
+       },
+       {
+        "d": 1772748000,
+        "h": "Always Ready",
+        "a": "Bolivar",
+        "s": [
+         3,
+         2
+        ],
+        "t": "Bolivia. Torneo de Verano",
+        "hh": false
+       },
+       {
+        "d": 1763924400,
+        "h": "Always Ready",
+        "a": "Bolivar",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": false
+       },
+       {
+        "d": 1750022100,
+        "h": "Bolivar",
+        "a": "Always Ready",
+        "s": [
+         2,
+         2
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": true
+       },
+       {
+        "d": 1730318400,
+        "h": "Always Ready",
+        "a": "Bolivar",
+        "s": [
+         1,
+         5
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": false
+       },
+       {
+        "d": 1721597400,
+        "h": "Bolivar",
+        "a": "Always Ready",
+        "s": [
+         0,
+         0
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": true
+       },
+       {
+        "d": 1696379400,
+        "h": "Bolivar",
+        "a": "Always Ready",
+        "s": [
+         5,
+         0
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": true
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795374000,
+        "o": "Club Real Potosí",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1794172500,
+        "o": "The Strongest",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1793919600,
+        "o": "Club Real Potosí",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1793567700,
+        "o": "Guabira",
+        "gf": 2,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1793059200,
+        "o": "Universitario de Vinto",
+        "gf": 2,
         "ga": 1,
         "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795390200,
+        "o": "San Antonio Bulo Bulo",
+        "gf": 3,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1795044600,
+        "o": "Club Real Potosí",
+        "gf": 3,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1794769200,
+        "o": "Independiente Petrolero",
+        "gf": 2,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1794434400,
+        "o": "Independiente Petrolero",
+        "gf": 0,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1794086100,
+        "o": "ABB",
+        "gf": 3,
+        "ga": 2,
+        "dom": true
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "Bolivia. Primera División",
+     "home": "Club Blooming",
+     "away": "San Antonio Bulo Bulo",
+     "start": 1795995000,
+     "odds": {
+      "1": 1.45,
+      "X": 4.25,
+      "2": 5.52
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/2562.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/7f29d24ee81612147b8ff842c2eb2852.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/2869549-Bolivia-Primera-Division/396919751-Club-Blooming-San-Antonio-Bulo-Bulo",
+     "eid": 773577546,
+     "tid": 2869549,
+     "coupon": {
+      "1": "E37R4",
+      "X": "F37R4",
+      "2": "337R4"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.077,
+       "12": 1.134,
+       "X2": 2.375
+      },
+      "ou25": {
+       "o": 1.44,
+       "u": 2.43
+      },
+      "btts": {
+       "y": 1.56,
+       "n": 2.25
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1785618900,
+        "h": "San Antonio Bulo Bulo",
+        "a": "Club Blooming",
+        "s": [
+         2,
+         0
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": false
+       },
+       {
+        "d": 1772661600,
+        "h": "Club Blooming",
+        "a": "San Antonio Bulo Bulo",
+        "s": [
+         3,
+         0
+        ],
+        "t": "Copa Sudamericana. Clasificación",
+        "hh": true
+       },
+       {
+        "d": 1759102200,
+        "h": "Club Blooming",
+        "a": "San Antonio Bulo Bulo",
+        "s": [
+         0,
+         3
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": true
+       },
+       {
+        "d": 1747594800,
+        "h": "San Antonio Bulo Bulo",
+        "a": "Club Blooming",
+        "s": [
+         2,
+         2
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": false
+       },
+       {
+        "d": 1727722800,
+        "h": "San Antonio Bulo Bulo",
+        "a": "Club Blooming",
+        "s": [
+         0,
+         1
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": false
+       },
+       {
+        "d": 1727712000,
+        "h": "San Antonio Bulo Bulo",
+        "a": "Club Blooming",
+        "s": [
+         0,
+         1
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": false
+       },
+       {
+        "d": 1715990400,
+        "h": "Club Blooming",
+        "a": "San Antonio Bulo Bulo",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Bolivia. Primera División",
+        "hh": true
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795382100,
+        "o": "The Strongest",
+        "gf": 0,
+        "ga": 4,
+        "dom": false
+       },
+       {
+        "d": 1794180600,
+        "o": "Oriente Petrolero",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793654100,
+        "o": "Real Tomayapo",
+        "gf": 2,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1792873200,
+        "o": "Gualberto Villarroel",
+        "gf": 1,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1792279800,
+        "o": "Independiente Petrolero",
+        "gf": 0,
+        "ga": 0,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795390200,
+        "o": "Always Ready",
+        "gf": 0,
+        "ga": 3,
+        "dom": true
+       },
+       {
+        "d": 1794094200,
+        "o": "Guabira",
+        "gf": 1,
+        "ga": 5,
+        "dom": false
+       },
+       {
+        "d": 1793481300,
+        "o": "ABB",
+        "gf": 3,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1792876500,
+        "o": "Club Real Potosí",
+        "gf": 2,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1792271700,
+        "o": "Universitario de Vinto",
+        "gf": 1,
+        "ga": 2,
+        "dom": false
        }
       ]
      }

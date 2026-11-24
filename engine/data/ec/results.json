@@ -1,53 +1,11 @@
 {
- "updated": "2026-11-23T16:44:44+00:00",
+ "updated": "2026-11-24T02:37:33+00:00",
  "backfilled": [
   276999,
   1706694,
   125983
  ],
  "matches": [
-  {
-   "id": 663554389,
-   "tid": 276999,
-   "tname": "Ecuador. Serie A",
-   "home": "Manta",
-   "away": "Técnico Universitario",
-   "score": [
-    2,
-    0
-   ],
-   "detail": "2:0 (1:0,1:0)",
-   "start": 1760896800,
-   "group": "liga"
-  },
-  {
-   "id": 663583520,
-   "tid": 276999,
-   "tname": "Ecuador. Serie A",
-   "home": "SD Aucas",
-   "away": "Emelec",
-   "score": [
-    0,
-    0
-   ],
-   "detail": "0:0 (0:0,0:0)",
-   "start": 1760905800,
-   "group": "liga"
-  },
-  {
-   "id": 663608131,
-   "tid": 276999,
-   "tname": "Ecuador. Serie A",
-   "home": "Libertad Loja",
-   "away": "Universidad Católica Quito",
-   "score": [
-    1,
-    1
-   ],
-   "detail": "1:1 (1:0,0:1)",
-   "start": 1760914800,
-   "group": "liga"
-  },
   {
    "id": 663867310,
    "tid": 276999,

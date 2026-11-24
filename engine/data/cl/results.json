@@ -1,39 +1,11 @@
 {
- "updated": "2026-11-23T16:40:46+00:00",
+ "updated": "2026-11-24T02:36:45+00:00",
  "backfilled": [
   28298,
   1706694,
   125983
  ],
  "matches": [
-  {
-   "id": 663554326,
-   "tid": 28298,
-   "tname": "Chile. Primera Division",
-   "home": "Everton de Vina del Mar",
-   "away": "Universidad Católica Santiago",
-   "score": [
-    0,
-    3
-   ],
-   "detail": "0:3 (0:2,0:1)",
-   "start": 1760896800,
-   "group": "liga"
-  },
-  {
-   "id": 657767979,
-   "tid": 28298,
-   "tname": "Chile. Primera Division",
-   "home": "Unión Española",
-   "away": "Huachipato",
-   "score": [
-    4,
-    2
-   ],
-   "detail": "4:2 (3:0,1:2)",
-   "start": 1760907600,
-   "group": "liga"
-  },
   {
    "id": 664986611,
    "tid": 28298,

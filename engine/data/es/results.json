@@ -1,25 +1,11 @@
 {
- "updated": "2026-11-23T16:47:53+00:00",
+ "updated": "2026-11-24T02:39:31+00:00",
  "backfilled": [
   127733,
   1706694,
   125983
  ],
  "matches": [
-  {
-   "id": 663566475,
-   "tid": 127733,
-   "tname": "España. La Liga",
-   "home": "Getafe",
-   "away": "Real Madrid",
-   "score": [
-    0,
-    1
-   ],
-   "detail": "0:1 (0:0,0:1)",
-   "start": 1760899500,
-   "group": "liga"
-  },
   {
    "id": 663817764,
    "tid": 127733,
@@ -6094,6 +6080,20 @@
    ],
    "detail": "0:3 (0:2,0:1)",
    "start": 1795377600,
+   "group": "liga"
+  },
+  {
+   "id": 773583839,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Elche",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1795464000,
    "group": "liga"
   }
  ]

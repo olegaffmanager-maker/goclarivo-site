@@ -1,12 +1,3121 @@
 {
- "updated": "2026-11-23T16:49:58+00:00",
+ "updated": "2026-11-24T02:42:08+00:00",
  "backfilled": [
   1706694,
   2905343,
   125983,
-  2479360
+  2479360,
+  1786993
  ],
  "matches": [
+  {
+   "id": 665175455,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Naivas",
+   "away": "Mwatate United",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1761393600,
+   "group": "liga"
+  },
+  {
+   "id": 665175234,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Equity",
+   "away": "Fortune Sacco",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1761393600,
+   "group": "liga"
+  },
+  {
+   "id": 665175318,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "MOFA",
+   "away": "Darajani Gogo",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1761393600,
+   "group": "liga"
+  },
+  {
+   "id": 665501509,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nairobi City Stars",
+   "away": "Kibera Black Stars",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:1,1:2)",
+   "start": 1761480000,
+   "group": "liga"
+  },
+  {
+   "id": 665504925,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kisumu All Stars",
+   "away": "Soy United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1761480000,
+   "group": "liga"
+  },
+  {
+   "id": 666043796,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Mwatate United",
+   "away": "Equity",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1761652800,
+   "group": "liga"
+  },
+  {
+   "id": 666305893,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Mombasa United",
+   "away": "Naivas",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1761731100,
+   "group": "liga"
+  },
+  {
+   "id": 666335871,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Fortune Sacco",
+   "away": "Mully Children's Family",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1761738300,
+   "group": "liga"
+  },
+  {
+   "id": 666336325,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Vihiga United",
+   "away": "Kisumu All Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1761738300,
+   "group": "liga"
+  },
+  {
+   "id": 666335901,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Migori Youth",
+   "away": "3K",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1761738300,
+   "group": "liga"
+  },
+  {
+   "id": 666335844,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kibera Black Stars",
+   "away": "Nzoia Sugar",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1761738300,
+   "group": "liga"
+  },
+  {
+   "id": 666216652,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Vihiga United",
+   "away": "Kisumu All Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1761739200,
+   "group": "liga"
+  },
+  {
+   "id": 666338950,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Soy United",
+   "away": "Luanda Villa",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1761739200,
+   "group": "liga"
+  },
+  {
+   "id": 666243645,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Talanta",
+   "away": "Gucha Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1761739200,
+   "group": "liga"
+  },
+  {
+   "id": 666631134,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Darajani Gogo",
+   "away": "Nairobi City Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1761824700,
+   "group": "liga"
+  },
+  {
+   "id": 666631198,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kabati Youth",
+   "away": "MOFA",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1761824700,
+   "group": "liga"
+  },
+  {
+   "id": 667522130,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Equity",
+   "away": "Migori Youth",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:0,1:2)",
+   "start": 1762084800,
+   "group": "liga"
+  },
+  {
+   "id": 667802365,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "MOFA",
+   "away": "Soy United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1762171200,
+   "group": "liga"
+  },
+  {
+   "id": 667802437,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Naivas",
+   "away": "Kabati Youth",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1762171200,
+   "group": "liga"
+  },
+  {
+   "id": 667802243,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kisumu All Stars",
+   "away": "Darajani Gogo",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1762171200,
+   "group": "liga"
+  },
+  {
+   "id": 668044694,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nairobi City Stars",
+   "away": "Talanta",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1762254000,
+   "group": "liga"
+  },
+  {
+   "id": 669160360,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Talanta",
+   "away": "Luanda Villa",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1762599600,
+   "group": "liga"
+  },
+  {
+   "id": 669176287,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Naivas",
+   "away": "Soy United",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1762603200,
+   "group": "liga"
+  },
+  {
+   "id": 669500978,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "3K",
+   "away": "Kisumu All Stars",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1762689600,
+   "group": "liga"
+  },
+  {
+   "id": 669746091,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Mombasa United",
+   "away": "Darajani Gogo",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1762767900,
+   "group": "liga"
+  },
+  {
+   "id": 671084149,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kisumu All Stars",
+   "away": "Mombasa United",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1763207100,
+   "group": "liga"
+  },
+  {
+   "id": 671085194,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nairobi City Stars",
+   "away": "Migori Youth",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1763208000,
+   "group": "liga"
+  },
+  {
+   "id": 671391796,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Darajani Gogo",
+   "away": "Mwatate United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1763293500,
+   "group": "liga"
+  },
+  {
+   "id": 671393423,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Vihiga United",
+   "away": "Talanta",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1763294400,
+   "group": "liga"
+  },
+  {
+   "id": 671393309,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kabati Youth",
+   "away": "Mully Children's Family",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1763294400,
+   "group": "liga"
+  },
+  {
+   "id": 672950824,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Mombasa United",
+   "away": "Equity",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1763805600,
+   "group": "liga"
+  },
+  {
+   "id": 672982955,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Talanta",
+   "away": "Soy United",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1763812800,
+   "group": "liga"
+  },
+  {
+   "id": 672982677,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Naivas",
+   "away": "MOFA",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1763812800,
+   "group": "liga"
+  },
+  {
+   "id": 673300666,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "3K",
+   "away": "Gucha Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1763899200,
+   "group": "liga"
+  },
+  {
+   "id": 673300639,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kibera Black Stars",
+   "away": "Darajani Gogo",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1763899200,
+   "group": "liga"
+  },
+  {
+   "id": 674077513,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Darajani Gogo",
+   "away": "Soy United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1764158400,
+   "group": "liga"
+  },
+  {
+   "id": 674349106,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Gucha Stars",
+   "away": "Kisumu All Stars",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1764246000,
+   "group": "liga"
+  },
+  {
+   "id": 674866934,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nairobi City Stars",
+   "away": "Nzoia Sugar",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1764414000,
+   "group": "liga"
+  },
+  {
+   "id": 674880826,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "MOFA",
+   "away": "Mombasa United",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (1:0,3:0)",
+   "start": 1764417600,
+   "group": "liga"
+  },
+  {
+   "id": 674880835,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Equity",
+   "away": "Mully Children's Family",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1764417600,
+   "group": "liga"
+  },
+  {
+   "id": 675146391,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Darajani Gogo",
+   "away": "Migori Youth",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1764493200,
+   "group": "liga"
+  },
+  {
+   "id": 675165600,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Gucha Stars",
+   "away": "Mwatate United",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1764499500,
+   "group": "liga"
+  },
+  {
+   "id": 675180769,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kabati Youth",
+   "away": "Kibera Black Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1764504000,
+   "group": "liga"
+  },
+  {
+   "id": 675180675,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kisumu All Stars",
+   "away": "Talanta",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1764504000,
+   "group": "liga"
+  },
+  {
+   "id": 675180648,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Vihiga United",
+   "away": "Fortune Sacco",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1764504000,
+   "group": "liga"
+  },
+  {
+   "id": 675666565,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nairobi City Stars",
+   "away": "Mombasa United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1764676800,
+   "group": "liga"
+  },
+  {
+   "id": 675919154,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Darajani Gogo",
+   "away": "Naivas",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1764762300,
+   "group": "liga"
+  },
+  {
+   "id": 675919160,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nzoia Sugar",
+   "away": "Mully Children's Family",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1764762300,
+   "group": "liga"
+  },
+  {
+   "id": 675920249,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Talanta",
+   "away": "Kabati Youth",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1764763200,
+   "group": "liga"
+  },
+  {
+   "id": 675919591,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kisumu All Stars",
+   "away": "Equity",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1764763200,
+   "group": "liga"
+  },
+  {
+   "id": 675921227,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Gucha Stars",
+   "away": "MOFA",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:1,1:2)",
+   "start": 1764763500,
+   "group": "liga"
+  },
+  {
+   "id": 676187286,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "3K",
+   "away": "Kibera Black Stars",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1764849600,
+   "group": "liga"
+  },
+  {
+   "id": 676187061,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Migori Youth",
+   "away": "Fortune Sacco",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1764849600,
+   "group": "liga"
+  },
+  {
+   "id": 677002843,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kibera Black Stars",
+   "away": "Mwatate United",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1765094400,
+   "group": "liga"
+  },
+  {
+   "id": 677025526,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Equity",
+   "away": "3K",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1765108500,
+   "group": "liga"
+  },
+  {
+   "id": 677055020,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kabati Youth",
+   "away": "Kisumu All Stars",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1765108800,
+   "group": "liga"
+  },
+  {
+   "id": 677055151,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Naivas",
+   "away": "Nzoia Sugar",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1765108800,
+   "group": "liga"
+  },
+  {
+   "id": 677055039,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Luanda Villa",
+   "away": "Gucha Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1765108800,
+   "group": "liga"
+  },
+  {
+   "id": 677055109,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "MOFA",
+   "away": "Migori Youth",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1765108800,
+   "group": "liga"
+  },
+  {
+   "id": 677055197,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Vihiga United",
+   "away": "Darajani Gogo",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1765108800,
+   "group": "liga"
+  },
+  {
+   "id": 678303328,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nairobi City Stars",
+   "away": "Equity",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1765539900,
+   "group": "liga"
+  },
+  {
+   "id": 678303235,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kisumu All Stars",
+   "away": "Naivas",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1765539900,
+   "group": "liga"
+  },
+  {
+   "id": 678302913,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Migori Youth",
+   "away": "Mombasa United",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:1,1:1)",
+   "start": 1765540800,
+   "group": "liga"
+  },
+  {
+   "id": 678303913,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nzoia Sugar",
+   "away": "Kabati Youth",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1765540800,
+   "group": "liga"
+  },
+  {
+   "id": 678581965,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Darajani Gogo",
+   "away": "Luanda Villa",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1765627200,
+   "group": "liga"
+  },
+  {
+   "id": 678581964,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Gucha Stars",
+   "away": "Kibera Black Stars",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1765627200,
+   "group": "liga"
+  },
+  {
+   "id": 678476670,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "3K",
+   "away": "Vihiga United",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (3:1,1:1)",
+   "start": 1765627200,
+   "group": "liga"
+  },
+  {
+   "id": 678579248,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Talanta",
+   "away": "MOFA",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1765627200,
+   "group": "liga"
+  },
+  {
+   "id": 678865164,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Soy United",
+   "away": "Mully Children's Family",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1765713600,
+   "group": "liga"
+  },
+  {
+   "id": 679558128,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kibera Black Stars",
+   "away": "Migori Youth",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1765958400,
+   "group": "liga"
+  },
+  {
+   "id": 679580742,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Mombasa United",
+   "away": "Mwatate United",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1765965600,
+   "group": "liga"
+  },
+  {
+   "id": 679604079,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Luanda Villa",
+   "away": "Nzoia Sugar",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1765972800,
+   "group": "liga"
+  },
+  {
+   "id": 679604205,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Equity",
+   "away": "Darajani Gogo",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1765972800,
+   "group": "liga"
+  },
+  {
+   "id": 679604024,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Fortune Sacco",
+   "away": "Talanta",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1765972800,
+   "group": "liga"
+  },
+  {
+   "id": 679603957,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Naivas",
+   "away": "Gucha Stars",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1765972800,
+   "group": "liga"
+  },
+  {
+   "id": 679488030,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Vihiga United",
+   "away": "Nairobi City Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1765972800,
+   "group": "liga"
+  },
+  {
+   "id": 679863429,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kabati Youth",
+   "away": "Soy United",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1766059200,
+   "group": "liga"
+  },
+  {
+   "id": 680394733,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Naivas",
+   "away": "Talanta",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1766232000,
+   "group": "liga"
+  },
+  {
+   "id": 680351979,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Mombasa United",
+   "away": "Gucha Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1766232000,
+   "group": "liga"
+  },
+  {
+   "id": 680694068,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Mully Children's Family",
+   "away": "Darajani Gogo",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1766318400,
+   "group": "liga"
+  },
+  {
+   "id": 680693470,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nairobi City Stars",
+   "away": "Soy United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1766318400,
+   "group": "liga"
+  },
+  {
+   "id": 680693841,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Luanda Villa",
+   "away": "Kisumu All Stars",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1766318400,
+   "group": "liga"
+  },
+  {
+   "id": 680692693,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Equity",
+   "away": "Vihiga United",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1766318400,
+   "group": "liga"
+  },
+  {
+   "id": 680693763,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kabati Youth",
+   "away": "3K",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1766318400,
+   "group": "liga"
+  },
+  {
+   "id": 680949583,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nzoia Sugar",
+   "away": "Migori Youth",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1766404800,
+   "group": "liga"
+  },
+  {
+   "id": 684707218,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Soy United",
+   "away": "Equity",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1767787200,
+   "group": "liga"
+  },
+  {
+   "id": 684707669,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Darajani Gogo",
+   "away": "Gucha Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1767787200,
+   "group": "liga"
+  },
+  {
+   "id": 685235845,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Talanta",
+   "away": "Mully Children's Family",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1767959100,
+   "group": "liga"
+  },
+  {
+   "id": 685525013,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Gucha Stars",
+   "away": "Nairobi City Stars",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:0,2:2)",
+   "start": 1768046400,
+   "group": "liga"
+  },
+  {
+   "id": 685525165,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kisumu All Stars",
+   "away": "Fortune Sacco",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1768046400,
+   "group": "liga"
+  },
+  {
+   "id": 685785232,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kibera Black Stars",
+   "away": "Luanda Villa",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1768117500,
+   "group": "liga"
+  },
+  {
+   "id": 685841901,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Vihiga United",
+   "away": "Mwatate United",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1768131900,
+   "group": "liga"
+  },
+  {
+   "id": 685841373,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "3K",
+   "away": "Naivas",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1768131900,
+   "group": "liga"
+  },
+  {
+   "id": 685841812,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Migori Youth",
+   "away": "Kabati Youth",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1768131900,
+   "group": "liga"
+  },
+  {
+   "id": 685842811,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Soy United",
+   "away": "Mombasa United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1768132800,
+   "group": "liga"
+  },
+  {
+   "id": 685842911,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "MOFA",
+   "away": "Equity",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1768132800,
+   "group": "liga"
+  },
+  {
+   "id": 686122218,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Darajani Gogo",
+   "away": "Nzoia Sugar",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (0:0,1:4)",
+   "start": 1768219200,
+   "group": "liga"
+  },
+  {
+   "id": 686949352,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Equity",
+   "away": "Gucha Stars",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:2,1:0)",
+   "start": 1768651200,
+   "group": "liga"
+  },
+  {
+   "id": 687529732,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Naivas",
+   "away": "Migori Youth",
+   "score": [
+    2,
+    4
+   ],
+   "detail": "2:4 (1:2,1:2)",
+   "start": 1768654800,
+   "group": "liga"
+  },
+  {
+   "id": 687813912,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Mombasa United",
+   "away": "Kibera Black Stars",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1768730400,
+   "group": "liga"
+  },
+  {
+   "id": 687844655,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kabati Youth",
+   "away": "Darajani Gogo",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1768736700,
+   "group": "liga"
+  },
+  {
+   "id": 687860171,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nairobi City Stars",
+   "away": "Kisumu All Stars",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1768741200,
+   "group": "liga"
+  },
+  {
+   "id": 689588436,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kibera Black Stars",
+   "away": "Naivas",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1769248800,
+   "group": "liga"
+  },
+  {
+   "id": 689619392,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Talanta",
+   "away": "Equity",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1769256000,
+   "group": "liga"
+  },
+  {
+   "id": 689619593,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Vihiga United",
+   "away": "Mombasa United",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:0,1:3)",
+   "start": 1769256000,
+   "group": "liga"
+  },
+  {
+   "id": 689953861,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Soy United",
+   "away": "Mwatate United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1769341500,
+   "group": "liga"
+  },
+  {
+   "id": 689954178,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kisumu All Stars",
+   "away": "Mully Children's Family",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1769342400,
+   "group": "liga"
+  },
+  {
+   "id": 690776413,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Soy United",
+   "away": "Gucha Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1769601600,
+   "group": "liga"
+  },
+  {
+   "id": 691649539,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "MOFA",
+   "away": "3K",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1769860800,
+   "group": "liga"
+  },
+  {
+   "id": 691666156,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nairobi City Stars",
+   "away": "Naivas",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1769863500,
+   "group": "liga"
+  },
+  {
+   "id": 691666114,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Darajani Gogo",
+   "away": "Talanta",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1769864400,
+   "group": "liga"
+  },
+  {
+   "id": 691954275,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Vihiga United",
+   "away": "Kibera Black Stars",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1769940000,
+   "group": "liga"
+  },
+  {
+   "id": 691985266,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Soy United",
+   "away": "Migori Youth",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1769946300,
+   "group": "liga"
+  },
+  {
+   "id": 691985092,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kabati Youth",
+   "away": "Mombasa United",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1769947200,
+   "group": "liga"
+  },
+  {
+   "id": 691985331,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kisumu All Stars",
+   "away": "Mwatate United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1769947200,
+   "group": "liga"
+  },
+  {
+   "id": 691985151,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Gucha Stars",
+   "away": "Mully Children's Family",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1769947200,
+   "group": "liga"
+  },
+  {
+   "id": 695552804,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Talanta",
+   "away": "Vihiga United",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1771056000,
+   "group": "liga"
+  },
+  {
+   "id": 695605259,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kibera Black Stars",
+   "away": "Soy United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1771070400,
+   "group": "liga"
+  },
+  {
+   "id": 695889205,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Mombasa United",
+   "away": "Kisumu All Stars",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1771149600,
+   "group": "liga"
+  },
+  {
+   "id": 695920287,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Mwatate United",
+   "away": "Darajani Gogo",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1771156800,
+   "group": "liga"
+  },
+  {
+   "id": 697255022,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Darajani Gogo",
+   "away": "Mombasa United",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1771588800,
+   "group": "liga"
+  },
+  {
+   "id": 697255023,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Vihiga United",
+   "away": "Nzoia Sugar",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:1,0:3)",
+   "start": 1771588800,
+   "group": "liga"
+  },
+  {
+   "id": 697529110,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kisumu All Stars",
+   "away": "3K",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1771668000,
+   "group": "liga"
+  },
+  {
+   "id": 697558714,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nairobi City Stars",
+   "away": "Fortune Sacco",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (3:2,0:0)",
+   "start": 1771675200,
+   "group": "liga"
+  },
+  {
+   "id": 697879027,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Luanda Villa",
+   "away": "Talanta",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1771758000,
+   "group": "liga"
+  },
+  {
+   "id": 697893826,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kabati Youth",
+   "away": "Mwatate United",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1771761600,
+   "group": "liga"
+  },
+  {
+   "id": 697487476,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Equity",
+   "away": "Kibera Black Stars",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1771761600,
+   "group": "liga"
+  },
+  {
+   "id": 699223458,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Mombasa United",
+   "away": "MOFA",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1772190000,
+   "group": "liga"
+  },
+  {
+   "id": 699507988,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Talanta",
+   "away": "Kisumu All Stars",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (3:1,2:0)",
+   "start": 1772272800,
+   "group": "liga"
+  },
+  {
+   "id": 699509225,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Naivas",
+   "away": "Luanda Villa",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1772272800,
+   "group": "liga"
+  },
+  {
+   "id": 699536272,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Mwatate United",
+   "away": "Gucha Stars",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1772280000,
+   "group": "liga"
+  },
+  {
+   "id": 699196829,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kibera Black Stars",
+   "away": "Kabati Youth",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1772280000,
+   "group": "liga"
+  },
+  {
+   "id": 699852188,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Migori Youth",
+   "away": "Darajani Gogo",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1772366400,
+   "group": "liga"
+  },
+  {
+   "id": 699855704,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nzoia Sugar",
+   "away": "Nairobi City Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1772366400,
+   "group": "liga"
+  },
+  {
+   "id": 699855714,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Fortune Sacco",
+   "away": "Vihiga United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1772366400,
+   "group": "liga"
+  },
+  {
+   "id": 701525282,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Darajani Gogo",
+   "away": "Kibera Black Stars",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1772884800,
+   "group": "liga"
+  },
+  {
+   "id": 701541803,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nairobi City Stars",
+   "away": "Mwatate United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1772888400,
+   "group": "liga"
+  },
+  {
+   "id": 701525283,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Equity",
+   "away": "Mombasa United",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1772888400,
+   "group": "liga"
+  },
+  {
+   "id": 701830630,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Soy United",
+   "away": "Talanta",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1772964000,
+   "group": "liga"
+  },
+  {
+   "id": 701830632,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kisumu All Stars",
+   "away": "Nzoia Sugar",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1772964000,
+   "group": "liga"
+  },
+  {
+   "id": 701861883,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Vihiga United",
+   "away": "Migori Youth",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1772971200,
+   "group": "liga"
+  },
+  {
+   "id": 703196557,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Naivas",
+   "away": "Nairobi City Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1773396000,
+   "group": "liga"
+  },
+  {
+   "id": 702916817,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Naivas",
+   "away": "Nairobi City Stars",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1773482400,
+   "group": "liga"
+  },
+  {
+   "id": 703203679,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kibera Black Stars",
+   "away": "Vihiga United",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1773489600,
+   "group": "liga"
+  },
+  {
+   "id": 703837754,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Mombasa United",
+   "away": "Kabati Youth",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1773568800,
+   "group": "liga"
+  },
+  {
+   "id": 705533306,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Darajani Gogo",
+   "away": "3K",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1774087200,
+   "group": "liga"
+  },
+  {
+   "id": 705546595,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "MOFA",
+   "away": "Vihiga United",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (3:0,0:2)",
+   "start": 1774090800,
+   "group": "liga"
+  },
+  {
+   "id": 705562801,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kibera Black Stars",
+   "away": "Kisumu All Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1774094400,
+   "group": "liga"
+  },
+  {
+   "id": 705562803,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nzoia Sugar",
+   "away": "Mwatate United",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1774094400,
+   "group": "liga"
+  },
+  {
+   "id": 705904705,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Luanda Villa",
+   "away": "Nairobi City Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1774180800,
+   "group": "liga"
+  },
+  {
+   "id": 706182134,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Migori Youth",
+   "away": "Talanta",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (3:1,0:0)",
+   "start": 1774263600,
+   "group": "liga"
+  },
+  {
+   "id": 706693695,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Gucha Stars",
+   "away": "3K",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1774432800,
+   "group": "liga"
+  },
+  {
+   "id": 707599370,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Naivas",
+   "away": "Fortune Sacco",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (1:1,2:2)",
+   "start": 1774699200,
+   "group": "liga"
+  },
+  {
+   "id": 707615070,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nairobi City Stars",
+   "away": "MOFA",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1774702800,
+   "group": "liga"
+  },
+  {
+   "id": 707903962,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Mombasa United",
+   "away": "Mully Children's Family",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1774778400,
+   "group": "liga"
+  },
+  {
+   "id": 707903971,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kisumu All Stars",
+   "away": "Gucha Stars",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1774778400,
+   "group": "liga"
+  },
+  {
+   "id": 707919716,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Vihiga United",
+   "away": "Kabati Youth",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1774782000,
+   "group": "liga"
+  },
+  {
+   "id": 707948406,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Talanta",
+   "away": "Kibera Black Stars",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1774789200,
+   "group": "liga"
+  },
+  {
+   "id": 709300480,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Mombasa United",
+   "away": "Vihiga United",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1775214000,
+   "group": "liga"
+  },
+  {
+   "id": 709316416,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kabati Youth",
+   "away": "Gucha Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1775217600,
+   "group": "liga"
+  },
+  {
+   "id": 709316435,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Naivas",
+   "away": "Kibera Black Stars",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1775217600,
+   "group": "liga"
+  },
+  {
+   "id": 709331226,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nairobi City Stars",
+   "away": "3K",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1775221200,
+   "group": "liga"
+  },
+  {
+   "id": 709904938,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Fortune Sacco",
+   "away": "Darajani Gogo",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1775383200,
+   "group": "liga"
+  },
+  {
+   "id": 709933804,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Luanda Villa",
+   "away": "Migori Youth",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1775390400,
+   "group": "liga"
+  },
+  {
+   "id": 710202706,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Mully Children's Family",
+   "away": "Kabati Youth",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1775476800,
+   "group": "liga"
+  },
+  {
+   "id": 711309536,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "MOFA",
+   "away": "Luanda Villa",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1775818800,
+   "group": "liga"
+  },
+  {
+   "id": 711616879,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Talanta",
+   "away": "Mwatate United",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1775901600,
+   "group": "liga"
+  },
+  {
+   "id": 711616882,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kibera Black Stars",
+   "away": "Mombasa United",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1775901600,
+   "group": "liga"
+  },
+  {
+   "id": 711648951,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Darajani Gogo",
+   "away": "Kabati Youth",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1775908800,
+   "group": "liga"
+  },
+  {
+   "id": 711970075,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Vihiga United",
+   "away": "Mully Children's Family",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1775991600,
+   "group": "liga"
+  },
+  {
+   "id": 711984777,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Migori Youth",
+   "away": "Naivas",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1775995200,
+   "group": "liga"
+  },
+  {
+   "id": 711992884,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kisumu All Stars",
+   "away": "Nairobi City Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1775995200,
+   "group": "liga"
+  },
+  {
+   "id": 712510132,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "MOFA",
+   "away": "Mully Children's Family",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1776164400,
+   "group": "liga"
+  },
+  {
+   "id": 713673356,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kabati Youth",
+   "away": "Migori Youth",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1776513600,
+   "group": "liga"
+  },
+  {
+   "id": 713689894,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nairobi City Stars",
+   "away": "Gucha Stars",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1776517200,
+   "group": "liga"
+  },
+  {
+   "id": 713994533,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Mombasa United",
+   "away": "Soy United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1776596400,
+   "group": "liga"
+  },
+  {
+   "id": 714005985,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Luanda Villa",
+   "away": "Kibera Black Stars",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1776600000,
+   "group": "liga"
+  },
+  {
+   "id": 714005971,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nzoia Sugar",
+   "away": "Darajani Gogo",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1776600000,
+   "group": "liga"
+  },
+  {
+   "id": 714005987,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Fortune Sacco",
+   "away": "Kisumu All Stars",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1776600000,
+   "group": "liga"
+  },
+  {
+   "id": 715673100,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Talanta",
+   "away": "Naivas",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (0:1,1:3)",
+   "start": 1777111200,
+   "group": "liga"
+  },
+  {
+   "id": 715673097,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "MOFA",
+   "away": "Mwatate United",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:2,1:0)",
+   "start": 1777111200,
+   "group": "liga"
+  },
+  {
+   "id": 715707016,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kisumu All Stars",
+   "away": "Luanda Villa",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1777118400,
+   "group": "liga"
+  },
+  {
+   "id": 716020774,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Vihiga United",
+   "away": "Equity",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:3,0:1)",
+   "start": 1777201200,
+   "group": "liga"
+  },
+  {
+   "id": 716035376,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "3K",
+   "away": "Kabati Youth",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1777204800,
+   "group": "liga"
+  },
+  {
+   "id": 716035372,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kisumu All Stars",
+   "away": "Luanda Villa",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1777204800,
+   "group": "liga"
+  },
+  {
+   "id": 717396699,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Vihiga United",
+   "away": "3K",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:3,2:0)",
+   "start": 1777633200,
+   "group": "liga"
+  },
+  {
+   "id": 717687430,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "MOFA",
+   "away": "Talanta",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (1:2,2:1)",
+   "start": 1777716000,
+   "group": "liga"
+  },
+  {
+   "id": 717720183,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kibera Black Stars",
+   "away": "Gucha Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1777723200,
+   "group": "liga"
+  },
+  {
+   "id": 718015030,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Mombasa United",
+   "away": "Migori Youth",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1777806000,
+   "group": "liga"
+  },
+  {
+   "id": 718025826,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Luanda Villa",
+   "away": "Darajani Gogo",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1777808700,
+   "group": "liga"
+  },
+  {
+   "id": 718809628,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "3K",
+   "away": "Mully Children's Family",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1778068800,
+   "group": "liga"
+  },
+  {
+   "id": 719652069,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nzoia Sugar",
+   "away": "Luanda Villa",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (0:3,3:0)",
+   "start": 1778328000,
+   "group": "liga"
+  },
+  {
+   "id": 719656062,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Darajani Gogo",
+   "away": "Equity",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:3,0:1)",
+   "start": 1778328000,
+   "group": "liga"
+  },
+  {
+   "id": 719668087,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nairobi City Stars",
+   "away": "Vihiga United",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1778331600,
+   "group": "liga"
+  },
+  {
+   "id": 719932388,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kisumu All Stars",
+   "away": "Kabati Youth",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1778407200,
+   "group": "liga"
+  },
+  {
+   "id": 721574677,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "MOFA",
+   "away": "Gucha Stars",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1778925600,
+   "group": "liga"
+  },
+  {
+   "id": 721623404,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kibera Black Stars",
+   "away": "3K",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1778937300,
+   "group": "liga"
+  },
+  {
+   "id": 721888598,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Mombasa United",
+   "away": "Nairobi City Stars",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1779015600,
+   "group": "liga"
+  },
+  {
+   "id": 723203178,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Talanta",
+   "away": "Fortune Sacco",
+   "score": [
+    4,
+    3
+   ],
+   "detail": "4:3 (3:2,1:1)",
+   "start": 1779444000,
+   "group": "liga"
+  },
+  {
+   "id": 723497227,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Migori Youth",
+   "away": "Kibera Black Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1779530400,
+   "group": "liga"
+  },
+  {
+   "id": 723493513,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Darajani Gogo",
+   "away": "Vihiga United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1779530400,
+   "group": "liga"
+  },
+  {
+   "id": 723523670,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Gucha Stars",
+   "away": "Luanda Villa",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1779537600,
+   "group": "liga"
+  },
+  {
+   "id": 723537712,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nairobi City Stars",
+   "away": "Mully Children's Family",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1779541200,
+   "group": "liga"
+  },
+  {
+   "id": 723810771,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kisumu All Stars",
+   "away": "MOFA",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1779624000,
+   "group": "liga"
+  },
+  {
+   "id": 724545044,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Mombasa United",
+   "away": "3K",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1779876000,
+   "group": "liga"
+  },
+  {
+   "id": 724567999,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kibera Black Stars",
+   "away": "Nairobi City Stars",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1779883200,
+   "group": "liga"
+  },
+  {
+   "id": 724569711,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Vihiga United",
+   "away": "Gucha Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1779883200,
+   "group": "liga"
+  },
+  {
+   "id": 724567997,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Talanta",
+   "away": "Nzoia Sugar",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1779883200,
+   "group": "liga"
+  },
+  {
+   "id": 724456212,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Fortune Sacco",
+   "away": "Equity",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:2,0:2)",
+   "start": 1779883200,
+   "group": "liga"
+  },
+  {
+   "id": 724830922,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Mwatate United",
+   "away": "Naivas",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1779969600,
+   "group": "liga"
+  },
+  {
+   "id": 724830284,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Soy United",
+   "away": "Kisumu All Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1779969600,
+   "group": "liga"
+  },
+  {
+   "id": 724830673,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kabati Youth",
+   "away": "Luanda Villa",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (1:0,4:0)",
+   "start": 1779969600,
+   "group": "liga"
+  },
+  {
+   "id": 724831128,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Darajani Gogo",
+   "away": "MOFA",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1779969600,
+   "group": "liga"
+  },
+  {
+   "id": 725879088,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Luanda Villa",
+   "away": "Mombasa United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1780315200,
+   "group": "liga"
+  },
+  {
+   "id": 725879141,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Naivas",
+   "away": "Vihiga United",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1780315200,
+   "group": "liga"
+  },
+  {
+   "id": 725878036,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kisumu All Stars",
+   "away": "Migori Youth",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1780315200,
+   "group": "liga"
+  },
+  {
+   "id": 725879044,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nairobi City Stars",
+   "away": "Kabati Youth",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1780315200,
+   "group": "liga"
+  },
+  {
+   "id": 725879069,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "3K",
+   "away": "Talanta",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:0,2:2)",
+   "start": 1780315200,
+   "group": "liga"
+  },
+  {
+   "id": 725879982,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nzoia Sugar",
+   "away": "Fortune Sacco",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (3:0,0:1)",
+   "start": 1780315200,
+   "group": "liga"
+  },
+  {
+   "id": 725809660,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Equity",
+   "away": "Soy United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1780315200,
+   "group": "liga"
+  },
+  {
+   "id": 725809663,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Gucha Stars",
+   "away": "Darajani Gogo",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1780315200,
+   "group": "liga"
+  },
+  {
+   "id": 725809669,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "MOFA",
+   "away": "Kibera Black Stars",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1780315200,
+   "group": "liga"
+  },
   {
    "id": 724312577,
    "tid": 125983,
@@ -36,6 +3145,104 @@
    "group": "seleccion"
   },
   {
+   "id": 727390903,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Darajani Gogo",
+   "away": "Kisumu All Stars",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1780833600,
+   "group": "liga"
+  },
+  {
+   "id": 727392069,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Soy United",
+   "away": "MOFA",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1780833600,
+   "group": "liga"
+  },
+  {
+   "id": 727392128,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kibera Black Stars",
+   "away": "Mully Children's Family",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1780833600,
+   "group": "liga"
+  },
+  {
+   "id": 727392553,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Talanta",
+   "away": "Nairobi City Stars",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (2:1,3:0)",
+   "start": 1780833600,
+   "group": "liga"
+  },
+  {
+   "id": 727392174,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Mombasa United",
+   "away": "Nzoia Sugar",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1780833600,
+   "group": "liga"
+  },
+  {
+   "id": 727392191,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Vihiga United",
+   "away": "Luanda Villa",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1780833600,
+   "group": "liga"
+  },
+  {
+   "id": 727392788,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Fortune Sacco",
+   "away": "Gucha Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1780833600,
+   "group": "liga"
+  },
+  {
    "id": 727400449,
    "tid": 125983,
    "tname": "Friendlies. National Teams",
@@ -50,6 +3257,146 @@
    "group": "seleccion"
   },
   {
+   "id": 728880880,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Mully Children's Family",
+   "away": "Fortune Sacco",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:0,0:3)",
+   "start": 1781348400,
+   "group": "liga"
+  },
+  {
+   "id": 728881175,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kisumu All Stars",
+   "away": "Vihiga United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1781348400,
+   "group": "liga"
+  },
+  {
+   "id": 728880856,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Naivas",
+   "away": "Mombasa United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1781348400,
+   "group": "liga"
+  },
+  {
+   "id": 728881731,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nairobi City Stars",
+   "away": "Darajani Gogo",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1781348400,
+   "group": "liga"
+  },
+  {
+   "id": 728882823,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "3K",
+   "away": "Migori Youth",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1781348400,
+   "group": "liga"
+  },
+  {
+   "id": 728273559,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nzoia Sugar",
+   "away": "Kibera Black Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1781348400,
+   "group": "liga"
+  },
+  {
+   "id": 728277623,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Luanda Villa",
+   "away": "Soy United",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1781348400,
+   "group": "liga"
+  },
+  {
+   "id": 728276616,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Gucha Stars",
+   "away": "Talanta",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:2,1:0)",
+   "start": 1781348400,
+   "group": "liga"
+  },
+  {
+   "id": 728278501,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "MOFA",
+   "away": "Kabati Youth",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1781348400,
+   "group": "liga"
+  },
+  {
+   "id": 728275586,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Equity",
+   "away": "Mwatate United",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1781348400,
+   "group": "liga"
+  },
+  {
    "id": 758892662,
    "tid": 125983,
    "tname": "Friendlies. National Teams",
@@ -62,6 +3409,90 @@
    "detail": "0:0 (0:0,0:0)",
    "start": 1791216000,
    "group": "seleccion"
+  },
+  {
+   "id": 765166208,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Talanta",
+   "away": "Kibera",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1793016000,
+   "group": "liga"
+  },
+  {
+   "id": 773463647,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Talanta",
+   "away": "Kibera",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1795428000,
+   "group": "liga"
+  },
+  {
+   "id": 773485367,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kibera Black Stars",
+   "away": "Naivas",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1795435200,
+   "group": "liga"
+  },
+  {
+   "id": 773485371,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kabati Youth",
+   "away": "Kisumu All Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1795435200,
+   "group": "liga"
+  },
+  {
+   "id": 773486202,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Nzoia Sugar",
+   "away": "Mfalme",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1795435200,
+   "group": "liga"
+  },
+  {
+   "id": 773492673,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "BB Bread",
+   "away": "Spitfire",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1795437000,
+   "group": "liga"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:44:18+00:00",
+ "updated": "2026-11-24T02:37:07+00:00",
  "groups": [
   {
    "key": "liga",
@@ -11,9 +11,9 @@
      "away": "Club Universitario de Deportes",
      "start": 1795896000,
      "odds": {
-      "1": 2.2,
-      "X": 3.35,
-      "2": 3.065
+      "1": 2.25,
+      "X": 3.34,
+      "2": 2.976
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/181f4ec0d7f6b90c01644d6768833e3a.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/a78c80080be9952d106dc9f70e375f8a.png",
@@ -21,19 +21,19 @@
      "eid": 773541187,
      "tid": 2892390,
      "coupon": {
-      "1": "4RZPJ",
-      "X": "VRZPJ",
-      "2": "MSZPJ"
+      "1": "URTR4",
+      "X": "YRTR4",
+      "2": "9RTR4"
      },
      "markets": {
       "dc": {
-       "1X": 1.33,
+       "1X": 1.34,
        "12": 1.28,
-       "X2": 1.6
+       "X2": 1.57
       },
       "ou25": {
-       "o": 1.75,
-       "u": 1.99
+       "o": 1.74,
+       "u": 2.01
       },
       "btts": {
        "y": 1.6,
@@ -229,9 +229,9 @@
      "eid": 773542009,
      "tid": 125983,
      "coupon": {
-      "1": "29ZPJ",
-      "X": "J9ZPJ",
-      "2": "N9ZPJ"
+      "1": "9UTR4",
+      "X": "AVTR4",
+      "2": "DVTR4"
      },
      "markets": {
       "dc": {
@@ -247,6 +247,161 @@
        "y": 1.68,
        "n": 2.02
       }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1642373841,
+        "h": "Perú",
+        "a": "Panamá",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Partidos amistosos",
+        "hh": true
+       },
+       {
+        "d": 1407373200,
+        "h": "Perú",
+        "a": "Panamá",
+        "s": [
+         3,
+         0
+        ],
+        "t": "Partidos amistosos",
+        "hh": true
+       },
+       {
+        "d": 1370118600,
+        "h": "Panamá",
+        "a": "Perú",
+        "s": [
+         1,
+         2
+        ],
+        "t": "Partidos amistosos",
+        "hh": false
+       },
+       {
+        "d": 1297197900,
+        "h": "Perú",
+        "a": "Panamá",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Partidos amistosos",
+        "hh": true
+       },
+       {
+        "d": 1286935200,
+        "h": "Panamá",
+        "a": "Perú",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Partidos amistosos",
+        "hh": false
+       },
+       {
+        "d": 1163971800,
+        "h": "Panamá",
+        "a": "Perú",
+        "s": [
+         1,
+         2
+        ],
+        "t": "Partidos amistosos",
+        "hh": false
+       },
+       {
+        "d": 1155765300,
+        "h": "Perú",
+        "a": "Panamá",
+        "s": [
+         0,
+         2
+        ],
+        "t": "Partidos amistosos",
+        "hh": true
+       }
+      ],
+      "f1": [
+       {
+        "d": 1794618000,
+        "o": "Bolivia",
+        "gf": 2,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1791330300,
+        "o": "Colombia",
+        "gf": 0,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1791050400,
+        "o": "Canadá",
+        "gf": 0,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1790730000,
+        "o": "México",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1790454600,
+        "o": "EE.UU.",
+        "gf": 1,
+        "ga": 4,
+        "dom": false
+       }
+      ],
+      "f2": [
+       {
+        "d": 1794783600,
+        "o": "Curaçao",
+        "gf": 2,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1794529800,
+        "o": "Curaçao",
+        "gf": 0,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1791181800,
+        "o": "Ecuador",
+        "gf": 2,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1790835000,
+        "o": "Nueva Zelanda",
+        "gf": 1,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1790344800,
+        "o": "India",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       }
+      ]
      }
     }
    ]

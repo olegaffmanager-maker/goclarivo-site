@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:46:23+00:00",
+ "updated": "2026-11-24T02:37:59+00:00",
  "backfilled": [
   2869549,
   1706694,
@@ -4232,6 +4232,34 @@
    ],
    "detail": "0:3 (0:1,0:2)",
    "start": 1795390200,
+   "group": "liga"
+  },
+  {
+   "id": 773572028,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Real Oruro",
+   "away": "Guabira",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1795460400,
+   "group": "liga"
+  },
+  {
+   "id": 773600255,
+   "tid": 2869549,
+   "tname": "Bolivia. Primera División",
+   "home": "Universitario de Vinto",
+   "away": "Gualberto Villarroel",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (0:0,3:0)",
+   "start": 1795468500,
    "group": "liga"
   }
  ]

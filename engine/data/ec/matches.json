@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:44:44+00:00",
+ "updated": "2026-11-24T02:37:33+00:00",
  "groups": [
   {
    "key": "liga",
@@ -11,9 +11,9 @@
      "away": "Independiente del Valle",
      "start": 1795651200,
      "odds": {
-      "1": 2.845,
-      "X": 3.325,
-      "2": 2.395
+      "1": 2.705,
+      "X": 3.32,
+      "2": 2.507
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/5754.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/d999af4b2bfdae0838fe911450dfa1a7.png",
@@ -21,23 +21,23 @@
      "eid": 773059964,
      "tid": 276999,
      "coupon": {
-      "1": "41CQJ",
-      "X": "L1CQJ",
-      "2": "R1CQJ"
+      "1": "UYTR4",
+      "X": "YYTR4",
+      "2": "9YTR4"
      },
      "markets": {
       "dc": {
-       "1X": 1.52,
+       "1X": 1.478,
        "12": 1.291,
-       "X2": 1.381
+       "X2": 1.417
       },
       "ou25": {
-       "o": 1.885,
-       "u": 1.855
+       "o": 1.875,
+       "u": 1.865
       },
       "btts": {
-       "y": 1.666,
-       "n": 2.063
+       "y": 1.66,
+       "n": 2.073
       }
      },
      "stats": {
@@ -223,9 +223,9 @@
      "eid": 773378866,
      "tid": 276999,
      "coupon": {
-      "1": "DACQJ",
-      "X": "3ACQJ",
-      "2": "MACQJ"
+      "1": "FZTR4",
+      "X": "GZTR4",
+      "2": "LZTR4"
      },
      "markets": {
       "dc": {
@@ -425,9 +425,9 @@
      "eid": 773364764,
      "tid": 276999,
      "coupon": {
-      "1": "GBCQJ",
-      "X": "MBCQJ",
-      "2": "QBCQJ"
+      "1": "QZTR4",
+      "X": "RZTR4",
+      "2": "VZTR4"
      },
      "markets": {
       "dc": {
@@ -627,9 +627,9 @@
      "eid": 773360407,
      "tid": 276999,
      "coupon": {
-      "1": "YBCQJ",
-      "X": "1CCQJ",
-      "2": "3CCQJ"
+      "1": "C9TR4",
+      "X": "D9TR4",
+      "2": "F9TR4"
      },
      "markets": {
       "dc": {
@@ -829,9 +829,9 @@
      "eid": 773464074,
      "tid": 276999,
      "coupon": {
-      "1": "4DCQJ",
-      "X": "QECQJ",
-      "2": "GFCQJ"
+      "1": "T9TR4",
+      "X": "U9TR4",
+      "2": "X9TR4"
      },
      "markets": {
       "dc": {

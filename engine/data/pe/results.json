@@ -1,39 +1,11 @@
 {
- "updated": "2026-11-23T16:44:18+00:00",
+ "updated": "2026-11-24T02:37:07+00:00",
  "backfilled": [
   1706694,
   125983,
   2892390
  ],
  "matches": [
-  {
-   "id": 663577935,
-   "tid": 2892390,
-   "tname": "Perú. Liga 1",
-   "home": "Atlético Grau",
-   "away": "Universidad Tecnica de Cajamarca",
-   "score": [
-    0,
-    2
-   ],
-   "detail": "0:2 (0:0,0:2)",
-   "start": 1760904000,
-   "group": "liga"
-  },
-  {
-   "id": 663604675,
-   "tid": 2892390,
-   "tname": "Perú. Liga 1",
-   "home": "Deportivo Garcilaso",
-   "away": "Sporting Cristal",
-   "score": [
-    0,
-    1
-   ],
-   "detail": "0:1 (0:0,0:1)",
-   "start": 1760913000,
-   "group": "liga"
-  },
   {
    "id": 663807516,
    "tid": 2892390,

@@ -1,212 +1,10 @@
 {
- "updated": "2026-11-23T16:38:31+00:00",
+ "updated": "2026-11-24T02:35:41+00:00",
  "groups": [
   {
    "key": "liga",
    "name": "Liga Profesional de Argentina",
    "matches": [
-    {
-     "tournament": "Argentina. Liga Profesional",
-     "home": "Gimnasia y Esgrima La Plata",
-     "away": "Newell's Old Boys",
-     "start": 1795464000,
-     "odds": {
-      "1": 2.063,
-      "X": 3.205,
-      "2": 3.9
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/30a08fcb32e2385d1e14210923ca3bff.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/0470b879030183bf48eb06d33b063bff.png",
-     "link": "https://1xlite-32085.pro/es/line/Football/119599-Argentina-Primera-Division/395031610-Gimnasia-y-Esgrima-La-Plata-Newell's-Old-Boys",
-     "eid": 770751659,
-     "tid": 119599,
-     "coupon": {
-      "1": "METPJ",
-      "X": "QETPJ",
-      "2": "VETPJ"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.247,
-       "12": 1.34,
-       "X2": 1.743
-      },
-      "ou25": {
-       "o": 2.286,
-       "u": 1.625
-      },
-      "btts": {
-       "y": 1.94,
-       "n": 1.771
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1731182400,
-        "h": "Gimnasia y Esgrima La Plata",
-        "a": "Newell's Old Boys",
-        "s": [
-         1,
-         0
-        ],
-        "t": "Argentina. Liga Profesional",
-        "hh": true
-       },
-       {
-        "d": 1688425200,
-        "h": "Newell's Old Boys",
-        "a": "Gimnasia y Esgrima La Plata",
-        "s": [
-         2,
-         2
-        ],
-        "t": "Argentina. Liga Profesional",
-        "hh": false
-       },
-       {
-        "d": 1662912000,
-        "h": "Newell's Old Boys",
-        "a": "Gimnasia y Esgrima La Plata",
-        "s": [
-         2,
-         0
-        ],
-        "t": "Argentina. Liga Profesional",
-        "hh": false
-       },
-       {
-        "d": 1652036400,
-        "h": "Gimnasia y Esgrima La Plata",
-        "a": "Newell's Old Boys",
-        "s": [
-         3,
-         1
-        ],
-        "t": "Argentina. Copa de la Liga",
-        "hh": true
-       },
-       {
-        "d": 1634409900,
-        "h": "Gimnasia y Esgrima La Plata",
-        "a": "Newell's Old Boys",
-        "s": [
-         1,
-         0
-        ],
-        "t": "Argentina. Liga Profesional",
-        "hh": true
-       },
-       {
-        "d": 1619470800,
-        "h": "Gimnasia y Esgrima La Plata",
-        "a": "Newell's Old Boys",
-        "s": [
-         2,
-         1
-        ],
-        "t": "Argentina. Copa de la Liga",
-        "hh": true
-       },
-       {
-        "d": 1572387000,
-        "h": "Newell's Old Boys",
-        "a": "Gimnasia y Esgrima La Plata",
-        "s": [
-         0,
-         4
-        ],
-        "t": "Argentina. Liga Profesional",
-        "hh": false
-       },
-       {
-        "d": 1555871400,
-        "h": "Newell's Old Boys",
-        "a": "Gimnasia y Esgrima La Plata",
-        "s": [
-         1,
-         3
-        ],
-        "t": "Argentina. Copa de la Liga",
-        "hh": false
-       }
-      ],
-      "f1": [
-       {
-        "d": 1793916900,
-        "o": "Belgrano",
-        "gf": 2,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1793397600,
-        "o": "Estudiantes de Rio Cuarto",
-        "gf": 2,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1792789200,
-        "o": "CA Sarmiento",
-        "gf": 2,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1792105200,
-        "o": "Club Atletico Huracan",
-        "gf": 2,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1791579600,
-        "o": "Club Atlético Tucumán",
-        "gf": 1,
-        "ga": 1,
-        "dom": true
-       }
-      ],
-      "f2": [
-       {
-        "d": 1794099600,
-        "o": "Instituto Córdoba",
-        "gf": 2,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1793568600,
-        "o": "Unión de Santa Fe",
-        "gf": 1,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1792880100,
-        "o": "San Lorenzo de Almagro",
-        "gf": 0,
-        "ga": 0,
-        "dom": false
-       },
-       {
-        "d": 1792447200,
-        "o": "Central Córdoba",
-        "gf": 2,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1791840600,
-        "o": "Club Atlético Gimnasia y Esgrima",
-        "gf": 0,
-        "ga": 1,
-        "dom": false
-       }
-      ]
-     }
-    },
     {
      "tournament": "Argentina. Liga Profesional",
      "home": "Boca Juniors",
@@ -223,7 +21,9 @@
      "eid": 770751656,
      "tid": 119599,
      "coupon": {
-      "1": "JFTPJ"
+      "1": "PVSR4",
+      "X": "TVSR4",
+      "2": "8VSR4"
      },
      "markets": {
       "dc": {
@@ -354,6 +154,208 @@
     },
     {
      "tournament": "Argentina. Liga Profesional",
+     "home": "Vélez Sarsfield",
+     "away": "Independiente",
+     "start": 1795989600,
+     "odds": {
+      "1": 2.044,
+      "X": 3.165,
+      "2": 4.035
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/14bfc0f4b2b3ad16a642371835fcf8f9.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/2518129.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/119599-Argentina-Primera-Division/396829741-Velez-Sarsfield-CA-Independiente-Avellaneda",
+     "eid": 773424197,
+     "tid": 119599,
+     "coupon": {
+      "1": "DXSR4",
+      "X": "3XSR4",
+      "2": "HXSR4"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.234,
+       "12": 1.347,
+       "X2": 1.758
+      },
+      "ou25": {
+       "o": 2.306,
+       "u": 1.615
+      },
+      "btts": {
+       "y": 1.98,
+       "n": 1.74
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1785794400,
+        "h": "Vélez Sarsfield",
+        "a": "Independiente",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Argentina. Liga Profesional",
+        "hh": true
+       },
+       {
+        "d": 1769899500,
+        "h": "Independiente",
+        "a": "Vélez Sarsfield",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Argentina. Primera División - Apertura",
+        "hh": false
+       },
+       {
+        "d": 1755387000,
+        "h": "Vélez Sarsfield",
+        "a": "Independiente",
+        "s": [
+         2,
+         1
+        ],
+        "t": "Argentina. Primera División - Clausura",
+        "hh": true
+       },
+       {
+        "d": 1739401200,
+        "h": "Independiente",
+        "a": "Vélez Sarsfield",
+        "s": [
+         3,
+         0
+        ],
+        "t": "Argentina. Liga Profesional",
+        "hh": false
+       },
+       {
+        "d": 1727470800,
+        "h": "Vélez Sarsfield",
+        "a": "Independiente",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Argentina. Copa Argentina",
+        "hh": true
+       },
+       {
+        "d": 1716764400,
+        "h": "Independiente",
+        "a": "Vélez Sarsfield",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Argentina. Liga Profesional",
+        "hh": false
+       },
+       {
+        "d": 1706661000,
+        "h": "Vélez Sarsfield",
+        "a": "Independiente",
+        "s": [
+         0,
+         1
+        ],
+        "t": "Argentina. Copa de la Liga",
+        "hh": true
+       },
+       {
+        "d": 1693173600,
+        "h": "Independiente",
+        "a": "Vélez Sarsfield",
+        "s": [
+         2,
+         1
+        ],
+        "t": "Argentina. Copa de la Liga",
+        "hh": false
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795215600,
+        "o": "Belgrano",
+        "gf": 3,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1794003300,
+        "o": "Unión de Santa Fe",
+        "gf": 0,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1793484900,
+        "o": "San Lorenzo de Almagro",
+        "gf": 2,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1792974600,
+        "o": "Central Córdoba",
+        "gf": 5,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1792278000,
+        "o": "Club Atlético Gimnasia y Esgrima",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795291200,
+        "o": "Argentinos Juniors",
+        "gf": 2,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1794003300,
+        "o": "Deportivo Riestra",
+        "gf": 2,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793656800,
+        "o": "Defensa y Justicia",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1792958400,
+        "o": "Boca Juniors",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1792345500,
+        "o": "Racing Club de Avellaneda",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "Argentina. Liga Profesional",
      "home": "Rosario Central",
      "away": "Barracas Central",
      "start": 1795989600,
@@ -368,8 +370,9 @@
      "eid": 773424200,
      "tid": 119599,
      "coupon": {
-      "X": "L3TPJ",
-      "2": "P3TPJ"
+      "1": "5XSR4",
+      "X": "UXSR4",
+      "2": "28SR4"
      },
      "markets": {
       "dc": {
@@ -555,208 +558,6 @@
     },
     {
      "tournament": "Argentina. Liga Profesional",
-     "home": "Vélez Sarsfield",
-     "away": "Independiente",
-     "start": 1795989600,
-     "odds": {
-      "1": 2.296,
-      "X": 3.14,
-      "2": 3.345
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/14bfc0f4b2b3ad16a642371835fcf8f9.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/2518129.png",
-     "link": "https://1xlite-32085.pro/es/line/Football/119599-Argentina-Primera-Division/396829741-Velez-Sarsfield-CA-Independiente-Avellaneda",
-     "eid": 773424197,
-     "tid": 119599,
-     "coupon": {
-      "1": "SGTPJ",
-      "X": "GHTPJ",
-      "2": "ZHTPJ"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.317,
-       "12": 1.351,
-       "X2": 1.606
-      },
-      "ou25": {
-       "o": 2.327,
-       "u": 1.605
-      },
-      "btts": {
-       "y": 1.94,
-       "n": 1.771
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1785794400,
-        "h": "Vélez Sarsfield",
-        "a": "Independiente",
-        "s": [
-         1,
-         0
-        ],
-        "t": "Argentina. Liga Profesional",
-        "hh": true
-       },
-       {
-        "d": 1769899500,
-        "h": "Independiente",
-        "a": "Vélez Sarsfield",
-        "s": [
-         1,
-         1
-        ],
-        "t": "Argentina. Primera División - Apertura",
-        "hh": false
-       },
-       {
-        "d": 1755387000,
-        "h": "Vélez Sarsfield",
-        "a": "Independiente",
-        "s": [
-         2,
-         1
-        ],
-        "t": "Argentina. Primera División - Clausura",
-        "hh": true
-       },
-       {
-        "d": 1739401200,
-        "h": "Independiente",
-        "a": "Vélez Sarsfield",
-        "s": [
-         3,
-         0
-        ],
-        "t": "Argentina. Liga Profesional",
-        "hh": false
-       },
-       {
-        "d": 1727470800,
-        "h": "Vélez Sarsfield",
-        "a": "Independiente",
-        "s": [
-         1,
-         0
-        ],
-        "t": "Argentina. Copa Argentina",
-        "hh": true
-       },
-       {
-        "d": 1716764400,
-        "h": "Independiente",
-        "a": "Vélez Sarsfield",
-        "s": [
-         1,
-         1
-        ],
-        "t": "Argentina. Liga Profesional",
-        "hh": false
-       },
-       {
-        "d": 1706661000,
-        "h": "Vélez Sarsfield",
-        "a": "Independiente",
-        "s": [
-         0,
-         1
-        ],
-        "t": "Argentina. Copa de la Liga",
-        "hh": true
-       },
-       {
-        "d": 1693173600,
-        "h": "Independiente",
-        "a": "Vélez Sarsfield",
-        "s": [
-         2,
-         1
-        ],
-        "t": "Argentina. Copa de la Liga",
-        "hh": false
-       }
-      ],
-      "f1": [
-       {
-        "d": 1795215600,
-        "o": "Belgrano",
-        "gf": 3,
-        "ga": 2,
-        "dom": true
-       },
-       {
-        "d": 1794003300,
-        "o": "Unión de Santa Fe",
-        "gf": 0,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1793484900,
-        "o": "San Lorenzo de Almagro",
-        "gf": 2,
-        "ga": 2,
-        "dom": true
-       },
-       {
-        "d": 1792974600,
-        "o": "Central Córdoba",
-        "gf": 5,
-        "ga": 0,
-        "dom": false
-       },
-       {
-        "d": 1792278000,
-        "o": "Club Atlético Gimnasia y Esgrima",
-        "gf": 1,
-        "ga": 0,
-        "dom": true
-       }
-      ],
-      "f2": [
-       {
-        "d": 1795291200,
-        "o": "Argentinos Juniors",
-        "gf": 2,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1794003300,
-        "o": "Deportivo Riestra",
-        "gf": 2,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1793656800,
-        "o": "Defensa y Justicia",
-        "gf": 1,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1792958400,
-        "o": "Boca Juniors",
-        "gf": 0,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1792345500,
-        "o": "Racing Club de Avellaneda",
-        "gf": 1,
-        "ga": 1,
-        "dom": false
-       }
-      ]
-     }
-    },
-    {
-     "tournament": "Argentina. Liga Profesional",
      "home": "Instituto Córdoba",
      "away": "River Plate Buenos Aires",
      "start": 1796065200,
@@ -771,9 +572,9 @@
      "eid": 773507975,
      "tid": 119599,
      "coupon": {
-      "1": "K4TPJ",
-      "X": "94TPJ",
-      "2": "JKTPJ"
+      "1": "Z8SR4",
+      "X": "BYSR4",
+      "2": "DYSR4"
      },
      "markets": {
       "dc": {
@@ -782,8 +583,8 @@
        "X2": 1.279
       },
       "ou25": {
-       "o": 2.577,
-       "u": 1.442
+       "o": 2.579,
+       "u": 1.443
       },
       "btts": {
        "y": 2.16,

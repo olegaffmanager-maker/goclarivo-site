@@ -1,67 +1,11 @@
 {
- "updated": "2026-11-23T16:38:31+00:00",
+ "updated": "2026-11-24T02:35:41+00:00",
  "backfilled": [
   119599,
   1706694,
   125983
  ],
  "matches": [
-  {
-   "id": 663552906,
-   "tid": 119599,
-   "tname": "Argentina. Liga Profesional",
-   "home": "Estudiantes de La Plata",
-   "away": "Gimnasia y Esgrima La Plata",
-   "score": [
-    2,
-    0
-   ],
-   "detail": "2:0 (1:0,1:0)",
-   "start": 1760896800,
-   "group": "liga"
-  },
-  {
-   "id": 663552961,
-   "tid": 119599,
-   "tname": "Argentina. Liga Profesional",
-   "home": "CA Sarmiento",
-   "away": "Vélez Sarsfield",
-   "score": [
-    0,
-    2
-   ],
-   "detail": "0:2 (0:0,0:2)",
-   "start": 1760896800,
-   "group": "liga"
-  },
-  {
-   "id": 663589862,
-   "tid": 119599,
-   "tname": "Argentina. Liga Profesional",
-   "home": "Rosario Central",
-   "away": "Platense",
-   "score": [
-    1,
-    0
-   ],
-   "detail": "1:0 (0:0,1:0)",
-   "start": 1760907600,
-   "group": "liga"
-  },
-  {
-   "id": 663590768,
-   "tid": 119599,
-   "tname": "Argentina. Liga Profesional",
-   "home": "San Martin de San Juan",
-   "away": "Independiente",
-   "score": [
-    1,
-    0
-   ],
-   "detail": "1:0 (0:0,1:0)",
-   "start": 1760907600,
-   "group": "liga"
-  },
   {
    "id": 663850430,
    "tid": 119599,
@@ -8572,6 +8516,34 @@
    ],
    "detail": "2:1 (2:0,0:1)",
    "start": 1795395600,
+   "group": "liga"
+  },
+  {
+   "id": 773583705,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Gimnasia y Esgrima La Plata",
+   "away": "Newell's Old Boys",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (1:0,1:2,2:0)",
+   "start": 1795464000,
+   "group": "liga"
+  },
+  {
+   "id": 773606103,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Gimnasia y Esgrima La Plata",
+   "away": "Newell's Old Boys",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1795464000,
    "group": "liga"
   }
  ]
