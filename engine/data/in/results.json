@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T02:43:26+00:00",
+ "updated": "2026-11-24T14:33:23+00:00",
  "backfilled": [
   2783103,
   1122087,
@@ -8,7 +8,8 @@
   1706694,
   2905343,
   125983,
-  2479360
+  2479360,
+  2477839
  ],
  "matches": [
   {
@@ -1188,6 +1189,20 @@
    "group": "liga"
   },
   {
+   "id": 681740819,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "IAF Palam",
+   "away": "Young Boys New Delhi",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1766727000,
+   "group": "liga"
+  },
+  {
    "id": 681784352,
    "tid": 2783103,
    "tname": "India. Mumbai. Premier League",
@@ -1199,6 +1214,20 @@
    ],
    "detail": "5:0 (0:0,5:0)",
    "start": 1766744100,
+   "group": "liga"
+  },
+  {
+   "id": 682463131,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Ajmal",
+   "away": "Dream Team",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1766986200,
    "group": "liga"
   },
   {
@@ -1398,6 +1427,20 @@
    "group": "liga"
   },
   {
+   "id": 688692892,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Garhwal United",
+   "away": "Ahbab",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1768978800,
+   "group": "liga"
+  },
+  {
    "id": 688697251,
    "tid": 2783103,
    "tname": "India. Mumbai. Premier League",
@@ -1423,6 +1466,20 @@
    ],
    "detail": "0:2 (0:0,0:2)",
    "start": 1768986900,
+   "group": "liga"
+  },
+  {
+   "id": 688728520,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Young Boys New Delhi",
+   "away": "Jaguar New Delhi",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1768989600,
    "group": "liga"
   },
   {
@@ -1524,6 +1581,20 @@
    "group": "liga"
   },
   {
+   "id": 690727170,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Juba Sangha",
+   "away": "Ahbab",
+   "score": [
+    13,
+    1
+   ],
+   "detail": "13:1 (6:0,7:1)",
+   "start": 1769589000,
+   "group": "liga"
+  },
+  {
    "id": 690669189,
    "tid": 2783103,
    "tname": "India. Mumbai. Premier League",
@@ -1577,6 +1648,48 @@
    ],
    "detail": "0:7 (0:2,0:5)",
    "start": 1770111000,
+   "group": "liga"
+  },
+  {
+   "id": 692497483,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Garhwal United",
+   "away": "Indian Air Force",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1770111000,
+   "group": "liga"
+  },
+  {
+   "id": 692777298,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Ahbab",
+   "away": "Dream Team Delhi",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1770197400,
+   "group": "liga"
+  },
+  {
+   "id": 693032145,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Ajmal",
+   "away": "Young Boys New Delhi",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1770273000,
    "group": "liga"
   },
   {
@@ -1706,6 +1819,20 @@
    "group": "liga"
   },
   {
+   "id": 695285948,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "M2M",
+   "away": "Young Boys New Delhi",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1770975000,
+   "group": "liga"
+  },
+  {
    "id": 695295999,
    "tid": 2783103,
    "tname": "India. Mumbai. Premier League",
@@ -1776,6 +1903,20 @@
    "group": "liga"
   },
   {
+   "id": 696163808,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Frontier",
+   "away": "Garhwal United",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1771234200,
+   "group": "liga"
+  },
+  {
    "id": 696213154,
    "tid": 1122087,
    "tname": "India. Super League",
@@ -1818,6 +1959,20 @@
    "group": "liga"
   },
   {
+   "id": 696642232,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "M2M",
+   "away": "Indian Air Force",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:1,0:3)",
+   "start": 1771396200,
+   "group": "liga"
+  },
+  {
    "id": 696651044,
    "tid": 2783103,
    "tname": "India. Mumbai. Premier League",
@@ -1829,6 +1984,34 @@
    ],
    "detail": "3:2 (1:0,2:2)",
    "start": 1771398900,
+   "group": "liga"
+  },
+  {
+   "id": 696675828,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Frontier",
+   "away": "Warriors Delhi",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1771407000,
+   "group": "liga"
+  },
+  {
+   "id": 696914822,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Juba Sangha",
+   "away": "Young Boys New Delhi",
+   "score": [
+    8,
+    1
+   ],
+   "detail": "8:1 (4:0,4:1)",
+   "start": 1771482600,
    "group": "liga"
   },
   {
@@ -1972,6 +2155,20 @@
    "group": "liga"
   },
   {
+   "id": 698117668,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Juba Sangha",
+   "away": "Dream Team Delhi",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (3:0,0:2)",
+   "start": 1771828200,
+   "group": "liga"
+  },
+  {
    "id": 698126833,
    "tid": 2783103,
    "tname": "India. Mumbai. Premier League",
@@ -2011,6 +2208,20 @@
    ],
    "detail": "2:0 (1:0,1:0)",
    "start": 1771854300,
+   "group": "liga"
+  },
+  {
+   "id": 698356183,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Jaguar New Delhi",
+   "away": "Dream Team Delhi",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1771914600,
    "group": "liga"
   },
   {
@@ -2056,6 +2267,20 @@
    "group": "liga"
   },
   {
+   "id": 698625078,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Dream Team Delhi",
+   "away": "Warriors Delhi",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1772001000,
+   "group": "liga"
+  },
+  {
    "id": 698657925,
    "tid": 2783103,
    "tname": "India. Mumbai. Premier League",
@@ -2066,6 +2291,20 @@
     2
    ],
    "detail": "1:2 (1:1,0:1)",
+   "start": 1772011800,
+   "group": "liga"
+  },
+  {
+   "id": 698658694,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Juba Sangha",
+   "away": "Indian Air Force",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
    "start": 1772011800,
    "group": "liga"
   },
@@ -2840,6 +3079,34 @@
    "group": "liga"
   },
   {
+   "id": 704091914,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "CISF Protectors",
+   "away": "Garhwal Diamond",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1773642600,
+   "group": "liga"
+  },
+  {
+   "id": 704120190,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Garhwal United",
+   "away": "Shastri",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1773653400,
+   "group": "liga"
+  },
+  {
    "id": 704166424,
    "tid": 1122087,
    "tname": "India. Super League",
@@ -2851,6 +3118,20 @@
    ],
    "detail": "1:1 (1:0,0:1)",
    "start": 1773669600,
+   "group": "liga"
+  },
+  {
+   "id": 704335588,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Royal Rangers",
+   "away": "Norten United",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1773729000,
    "group": "liga"
   },
   {
@@ -2868,6 +3149,48 @@
    "group": "liga"
   },
   {
+   "id": 704623913,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Delhi II",
+   "away": "Friends United",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1773819000,
+   "group": "liga"
+  },
+  {
+   "id": 704647987,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Tarun Sangha",
+   "away": "Vatika",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1773829800,
+   "group": "liga"
+  },
+  {
+   "id": 704913237,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Hindustan",
+   "away": "National United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1773905400,
+   "group": "liga"
+  },
+  {
    "id": 704945639,
    "tid": 253537,
    "tname": "India. I-League",
@@ -2878,6 +3201,20 @@
     2
    ],
    "detail": "1:2 (1:1,0:1)",
+   "start": 1773916200,
+   "group": "liga"
+  },
+  {
+   "id": 704949795,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Shastri",
+   "away": "CISF Protectors",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
    "start": 1773916200,
    "group": "liga"
   },
@@ -2907,6 +3244,34 @@
    ],
    "detail": "1:1 (1:0,0:1)",
    "start": 1773928800,
+   "group": "liga"
+  },
+  {
+   "id": 705193789,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Garhwal Diamond",
+   "away": "Norten United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1773988200,
+   "group": "liga"
+  },
+  {
+   "id": 704917642,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Garhwal Diamond",
+   "away": "Norten United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1773988200,
    "group": "liga"
   },
   {
@@ -2966,6 +3331,34 @@
    "group": "liga"
   },
   {
+   "id": 705500667,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Royal Rangers",
+   "away": "Friends United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1774078200,
+   "group": "liga"
+  },
+  {
+   "id": 705540010,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Sudeva Delhi",
+   "away": "Vatika",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1774089000,
+   "group": "liga"
+  },
+  {
    "id": 705593365,
    "tid": 1122087,
    "tname": "India. Super League",
@@ -2977,6 +3370,34 @@
    ],
    "detail": "1:3 (0:3,1:0)",
    "start": 1774101600,
+   "group": "liga"
+  },
+  {
+   "id": 705842008,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Delhi II",
+   "away": "National United",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:1,2:1)",
+   "start": 1774164600,
+   "group": "liga"
+  },
+  {
+   "id": 705881386,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Tarun Sangha",
+   "away": "Hindustan",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1774175400,
    "group": "liga"
   },
   {
@@ -3008,6 +3429,34 @@
    "group": "liga"
   },
   {
+   "id": 706147205,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "CISF Protectors",
+   "away": "Norten United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1774251000,
+   "group": "liga"
+  },
+  {
+   "id": 706177173,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Shastri",
+   "away": "Noida City",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1774261800,
+   "group": "liga"
+  },
+  {
    "id": 706215405,
    "tid": 1122087,
    "tname": "India. Super League",
@@ -3019,6 +3468,48 @@
    ],
    "detail": "7:0 (3:0,4:0)",
    "start": 1774274400,
+   "group": "liga"
+  },
+  {
+   "id": 706369192,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Garhwal Diamond",
+   "away": "Friends United",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:1,1:1)",
+   "start": 1774326600,
+   "group": "liga"
+  },
+  {
+   "id": 706395940,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Garhwal United",
+   "away": "Vatika",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1774337400,
+   "group": "liga"
+  },
+  {
+   "id": 706428902,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Delhi II",
+   "away": "Tarun Sangha",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1774348200,
    "group": "liga"
   },
   {
@@ -3092,6 +3583,62 @@
    "group": "liga"
   },
   {
+   "id": 707897035,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Sudeva Delhi",
+   "away": "Hindustan",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1774776600,
+   "group": "liga"
+  },
+  {
+   "id": 708159888,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Norten United",
+   "away": "Friends United",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1774855800,
+   "group": "liga"
+  },
+  {
+   "id": 708192397,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Shastri",
+   "away": "Vatika",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1774866600,
+   "group": "liga"
+  },
+  {
+   "id": 708408311,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Garhwal Diamond",
+   "away": "National United",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1774942200,
+   "group": "liga"
+  },
+  {
    "id": 708443425,
    "tid": 253537,
    "tname": "India. I-League",
@@ -3106,6 +3653,34 @@
    "group": "liga"
   },
   {
+   "id": 708443430,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Garhwal United",
+   "away": "Hindustan",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1774953000,
+   "group": "liga"
+  },
+  {
+   "id": 708672362,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Royal Rangers",
+   "away": "Tarun Sangha",
+   "score": [
+    6,
+    1
+   ],
+   "detail": "6:1 (1:1,5:0)",
+   "start": 1775028600,
+   "group": "liga"
+  },
+  {
    "id": 708715505,
    "tid": 253537,
    "tname": "India. I-League",
@@ -3117,6 +3692,20 @@
    ],
    "detail": "2:0 (0:0,2:0)",
    "start": 1775038500,
+   "group": "liga"
+  },
+  {
+   "id": 708716633,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Sudeva Delhi",
+   "away": "Shastri",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:2,2:0)",
+   "start": 1775039400,
    "group": "liga"
   },
   {
@@ -3162,6 +3751,34 @@
    "group": "liga"
   },
   {
+   "id": 709252137,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Noida City",
+   "away": "Vatika",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1775201400,
+   "group": "liga"
+  },
+  {
+   "id": 709293808,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Norten United",
+   "away": "National United",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1775212200,
+   "group": "liga"
+  },
+  {
    "id": 709345513,
    "tid": 1122087,
    "tname": "India. Super League",
@@ -3176,6 +3793,20 @@
    "group": "liga"
   },
   {
+   "id": 709565272,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Shastri",
+   "away": "Hindustan",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1775287800,
+   "group": "liga"
+  },
+  {
    "id": 709603917,
    "tid": 2783103,
    "tname": "India. Mumbai. Premier League",
@@ -3186,6 +3817,20 @@
     3
    ],
    "detail": "1:3 (0:2,1:1)",
+   "start": 1775298600,
+   "group": "liga"
+  },
+  {
+   "id": 709605130,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Garhwal Diamond",
+   "away": "Tarun Sangha",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
    "start": 1775298600,
    "group": "liga"
   },
@@ -3215,6 +3860,34 @@
    ],
    "detail": "0:2 (0:1,0:1)",
    "start": 1775311200,
+   "group": "liga"
+  },
+  {
+   "id": 709545663,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Garhwal",
+   "away": "Delhi",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1775370600,
+   "group": "liga"
+  },
+  {
+   "id": 709874257,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Garhwal",
+   "away": "Delhi II",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1775374200,
    "group": "liga"
   },
   {
@@ -3386,6 +4059,34 @@
    "group": "liga"
   },
   {
+   "id": 710985188,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Vatika",
+   "away": "CISF Protectors",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1775719800,
+   "group": "liga"
+  },
+  {
+   "id": 711022491,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Noida City",
+   "away": "Hindustan",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1775730600,
+   "group": "liga"
+  },
+  {
    "id": 711066440,
    "tid": 1122087,
    "tname": "India. Super League",
@@ -3397,6 +4098,20 @@
    ],
    "detail": "1:1 (0:1,1:0)",
    "start": 1775743200,
+   "group": "liga"
+  },
+  {
+   "id": 711260276,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Norten United",
+   "away": "Tarun Sangha",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1775806200,
    "group": "liga"
   },
   {
@@ -3424,6 +4139,20 @@
     2
    ],
    "detail": "0:2 (0:0,0:2)",
+   "start": 1775817000,
+   "group": "liga"
+  },
+  {
+   "id": 711302171,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Friends United",
+   "away": "National United",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
    "start": 1775817000,
    "group": "liga"
   },
@@ -3456,6 +4185,20 @@
    "group": "liga"
   },
   {
+   "id": 711579724,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Shastri",
+   "away": "Delhi II",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1775892600,
+   "group": "liga"
+  },
+  {
    "id": 711625238,
    "tid": 253537,
    "tname": "India. I-League",
@@ -3467,6 +4210,20 @@
    ],
    "detail": "3:0 (1:0,2:0)",
    "start": 1775903400,
+   "group": "liga"
+  },
+  {
+   "id": 711629573,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Garhwal Diamond",
+   "away": "Sudeva Delhi",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1775904300,
    "group": "liga"
   },
   {
@@ -3512,6 +4269,20 @@
    "group": "liga"
   },
   {
+   "id": 711921687,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Garhwal",
+   "away": "Royal Rangers",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1775979000,
+   "group": "liga"
+  },
+  {
    "id": 711963703,
    "tid": 253537,
    "tname": "India. I-League",
@@ -3522,6 +4293,20 @@
     2
    ],
    "detail": "6:2 (1:1,5:1)",
+   "start": 1775989800,
+   "group": "liga"
+  },
+  {
+   "id": 711963693,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Vatika",
+   "away": "Hindustan",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
    "start": 1775989800,
    "group": "liga"
   },
@@ -3568,6 +4353,90 @@
    "group": "liga"
   },
   {
+   "id": 712217148,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "CISF Protectors",
+   "away": "National United",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1776065400,
+   "group": "liga"
+  },
+  {
+   "id": 712249280,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Friends United",
+   "away": "Tarun Sangha",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:2,2:0)",
+   "start": 1776076200,
+   "group": "liga"
+  },
+  {
+   "id": 712469036,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Noida City",
+   "away": "Delhi II",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1776151800,
+   "group": "liga"
+  },
+  {
+   "id": 712504279,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Norten United",
+   "away": "Sudeva Delhi",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1776162600,
+   "group": "liga"
+  },
+  {
+   "id": 712716474,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Shastri",
+   "away": "Royal Rangers",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1776227400,
+   "group": "liga"
+  },
+  {
+   "id": 712746862,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Garhwal Diamond",
+   "away": "Garhwal Heroes",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1776238200,
+   "group": "liga"
+  },
+  {
    "id": 712783298,
    "tid": 2783103,
    "tname": "India. Mumbai. Premier League",
@@ -3578,6 +4447,20 @@
     1
    ],
    "detail": "1:1 (1:0,0:1)",
+   "start": 1776249000,
+   "group": "liga"
+  },
+  {
+   "id": 712783299,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "CISF Protectors",
+   "away": "Friends United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
    "start": 1776249000,
    "group": "liga"
   },
@@ -3652,6 +4535,34 @@
    "group": "liga"
   },
   {
+   "id": 713568780,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Garhwal Diamond",
+   "away": "Norten United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1776486600,
+   "group": "liga"
+  },
+  {
+   "id": 713607157,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Hindustan",
+   "away": "CISF Protectors",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1776497400,
+   "group": "liga"
+  },
+  {
    "id": 713650299,
    "tid": 253537,
    "tname": "India. I-League",
@@ -3662,6 +4573,20 @@
     2
    ],
    "detail": "5:2 (1:1,4:1)",
+   "start": 1776508200,
+   "group": "liga"
+  },
+  {
+   "id": 713653118,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Vatika",
+   "away": "Delhi II",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
    "start": 1776508200,
    "group": "liga"
   },
@@ -3708,6 +4633,20 @@
    "group": "liga"
   },
   {
+   "id": 713944288,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Friends United",
+   "away": "Shastri",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:1,3:0)",
+   "start": 1776583800,
+   "group": "liga"
+  },
+  {
    "id": 713984926,
    "tid": 253537,
    "tname": "India. I-League",
@@ -3718,6 +4657,20 @@
     2
    ],
    "detail": "1:2 (1:0,0:2)",
+   "start": 1776594600,
+   "group": "liga"
+  },
+  {
+   "id": 713984924,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "National United",
+   "away": "Tarun Sangha",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
    "start": 1776594600,
    "group": "liga"
   },
@@ -3750,6 +4703,34 @@
    "group": "liga"
   },
   {
+   "id": 714237957,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Noida City",
+   "away": "Royal Rangers",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1776670200,
+   "group": "liga"
+  },
+  {
+   "id": 714271284,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Norten United",
+   "away": "Garhwal",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1776681000,
+   "group": "liga"
+  },
+  {
    "id": 714314185,
    "tid": 1122087,
    "tname": "India. Super League",
@@ -3764,6 +4745,34 @@
    "group": "liga"
   },
   {
+   "id": 714494451,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Shastri",
+   "away": "Garhwal Diamond",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1776756600,
+   "group": "liga"
+  },
+  {
+   "id": 714531073,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "CISF Protectors",
+   "away": "Tarun Sangha",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:1,1:2)",
+   "start": 1776767400,
+   "group": "liga"
+  },
+  {
    "id": 714572468,
    "tid": 1122087,
    "tname": "India. Super League",
@@ -3775,6 +4784,62 @@
    ],
    "detail": "0:0 (0:0,0:0)",
    "start": 1776780000,
+   "group": "liga"
+  },
+  {
+   "id": 714767073,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "National United",
+   "away": "Sudeva Delhi II",
+   "score": [
+    5,
+    3
+   ],
+   "detail": "5:3 (3:1,2:2)",
+   "start": 1776843000,
+   "group": "liga"
+  },
+  {
+   "id": 714802620,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Vatika",
+   "away": "Royal Rangers",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1776853800,
+   "group": "liga"
+  },
+  {
+   "id": 715051987,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Hindustan",
+   "away": "Delhi II",
+   "score": [
+    0,
+    5
+   ],
+   "detail": "0:5 (0:3,0:2)",
+   "start": 1776929400,
+   "group": "liga"
+  },
+  {
+   "id": 715087534,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Friends United",
+   "away": "Garhwal",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1776940200,
    "group": "liga"
   },
   {
@@ -3820,6 +4885,34 @@
    "group": "liga"
   },
   {
+   "id": 715589198,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Royal Rangers",
+   "away": "CISF Protectors",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1777087800,
+   "group": "liga"
+  },
+  {
+   "id": 715692468,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "National United",
+   "away": "Garhwal",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1777114800,
+   "group": "liga"
+  },
+  {
    "id": 715696017,
    "tid": 1122087,
    "tname": "India. Super League",
@@ -3859,6 +4952,20 @@
    ],
    "detail": "4:1 (2:0,2:1)",
    "start": 1777124700,
+   "group": "liga"
+  },
+  {
+   "id": 716023564,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Tarun Sangha",
+   "away": "Sudeva Delhi II",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1777201200,
    "group": "liga"
   },
   {
@@ -3918,6 +5025,20 @@
    "group": "liga"
   },
   {
+   "id": 717078237,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Delhi II",
+   "away": "CISF Protectors",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:2,1:1)",
+   "start": 1777537800,
+   "group": "liga"
+  },
+  {
    "id": 717133223,
    "tid": 253537,
    "tname": "India. I-League",
@@ -3929,6 +5050,34 @@
    ],
    "detail": "3:0 (1:0,2:0)",
    "start": 1777553100,
+   "group": "liga"
+  },
+  {
+   "id": 717356789,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Tarun Sangha",
+   "away": "Garhwal Heroes",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1777624200,
+   "group": "liga"
+  },
+  {
+   "id": 717391885,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Hindustan",
+   "away": "Garhwal Diamond",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1777633200,
    "group": "liga"
   },
   {
@@ -3957,6 +5106,34 @@
    ],
    "detail": "2:0 (0:0,2:0)",
    "start": 1777644000,
+   "group": "liga"
+  },
+  {
+   "id": 717660620,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "National United",
+   "away": "Shastri",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1777710600,
+   "group": "liga"
+  },
+  {
+   "id": 717703953,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Vatika",
+   "away": "Norten United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1777719600,
    "group": "liga"
   },
   {
@@ -4016,6 +5193,34 @@
    "group": "liga"
   },
   {
+   "id": 718267096,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Delhi",
+   "away": "Garhwal Diamond",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1777883400,
+   "group": "liga"
+  },
+  {
+   "id": 718292318,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Hindustan",
+   "away": "Norten United",
+   "score": [
+    4,
+    3
+   ],
+   "detail": "4:3 (1:3,3:0)",
+   "start": 1777892400,
+   "group": "liga"
+  },
+  {
    "id": 718314228,
    "tid": 253537,
    "tname": "India. I-League",
@@ -4041,6 +5246,20 @@
    ],
    "detail": "1:1 (1:0,0:1)",
    "start": 1777903200,
+   "group": "liga"
+  },
+  {
+   "id": 718545939,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "National United",
+   "away": "Noida City",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (1:0,2:3)",
+   "start": 1777978800,
    "group": "liga"
   },
   {
@@ -4111,6 +5330,20 @@
    ],
    "detail": "5:2 (2:2,3:0)",
    "start": 1778245200,
+   "group": "liga"
+  },
+  {
+   "id": 719601033,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "CISF Protectors",
+   "away": "Garhwal",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1778315400,
    "group": "liga"
   },
   {
@@ -4198,6 +5431,34 @@
    "group": "liga"
   },
   {
+   "id": 720196192,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Friends United",
+   "away": "Sudeva Delhi II",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1778488200,
+   "group": "liga"
+  },
+  {
+   "id": 720222224,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "National United",
+   "away": "Vatika",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (0:0,3:0)",
+   "start": 1778497200,
+   "group": "liga"
+  },
+  {
    "id": 720243972,
    "tid": 253537,
    "tname": "India. I-League",
@@ -4223,6 +5484,34 @@
    ],
    "detail": "0:0 (0:0,0:0)",
    "start": 1778508000,
+   "group": "liga"
+  },
+  {
+   "id": 720448258,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Garhwal",
+   "away": "Noida City",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:1,2:1)",
+   "start": 1778574600,
+   "group": "liga"
+  },
+  {
+   "id": 720480585,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Delhi II",
+   "away": "Royal Rangers",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1778583600,
    "group": "liga"
   },
   {
@@ -4254,6 +5543,62 @@
    "group": "liga"
   },
   {
+   "id": 720720603,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Hindustan",
+   "away": "Friends United",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1778661900,
+   "group": "liga"
+  },
+  {
+   "id": 720749513,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "CISF Protectors",
+   "away": "Sudeva Delhi II",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1778670000,
+   "group": "liga"
+  },
+  {
+   "id": 721253793,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Royal Rangers",
+   "away": "Garhwal Diamond",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (2:1,2:0)",
+   "start": 1778833800,
+   "group": "liga"
+  },
+  {
+   "id": 721290728,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Noida City",
+   "away": "CISF Protectors",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1778842800,
+   "group": "liga"
+  },
+  {
    "id": 721319766,
    "tid": 253537,
    "tname": "India. I-League",
@@ -4279,6 +5624,34 @@
    ],
    "detail": "0:4 (0:3,0:1)",
    "start": 1778852700,
+   "group": "liga"
+  },
+  {
+   "id": 721551466,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Vatika",
+   "away": "Friends United",
+   "score": [
+    2,
+    4
+   ],
+   "detail": "2:4 (1:2,1:2)",
+   "start": 1778920200,
+   "group": "liga"
+  },
+  {
+   "id": 721590091,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Sudeva Delhi II",
+   "away": "Delhi II",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1778929200,
    "group": "liga"
   },
   {
@@ -4408,6 +5781,34 @@
    "group": "liga"
   },
   {
+   "id": 722857098,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Friends United",
+   "away": "Garhwal Diamond",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1779332400,
+   "group": "liga"
+  },
+  {
+   "id": 722949342,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Garhwal",
+   "away": "CISF Protectors",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1779363000,
+   "group": "liga"
+  },
+  {
    "id": 722978936,
    "tid": 1122087,
    "tname": "India. Super League",
@@ -4478,6 +5879,20 @@
    "group": "liga"
   },
   {
+   "id": 723409469,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Royal Rangers",
+   "away": "CISF Protectors",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1779505200,
+   "group": "liga"
+  },
+  {
    "id": 723537740,
    "tid": 253537,
    "tname": "India. I-League",
@@ -4489,6 +5904,34 @@
    ],
    "detail": "0:3 (0:2,0:1)",
    "start": 1779541200,
+   "group": "liga"
+  },
+  {
+   "id": 723981433,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Garhwal Diamond",
+   "away": "Garhwal",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:2,0:2)",
+   "start": 1779678000,
+   "group": "liga"
+  },
+  {
+   "id": 724063390,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Royal Rangers",
+   "away": "Friends United",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1779708600,
    "group": "liga"
   },
   {
@@ -4504,6 +5947,34 @@
    "detail": "2:0 (1:0,1:0)",
    "start": 1779906600,
    "group": "seleccion"
+  },
+  {
+   "id": 724988121,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "CISF Protectors",
+   "away": "Friends United",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:1,1:2)",
+   "start": 1780023600,
+   "group": "liga"
+  },
+  {
+   "id": 725079496,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Garhwal Diamond",
+   "away": "Royal Rangers",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1780054200,
+   "group": "liga"
   },
   {
    "id": 725384654,
@@ -7222,6 +8693,20 @@
    "group": "liga"
   },
   {
+   "id": 773429055,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Garhwal Heroes",
+   "away": "Dream Team Delhi",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (1:0,3:1)",
+   "start": 1795415400,
+   "group": "liga"
+  },
+  {
    "id": 773442779,
    "tid": 330475,
    "tname": "India. Bangalore. Super Division",
@@ -7233,6 +8718,48 @@
    ],
    "detail": "1:2 (1:1,0:1)",
    "start": 1795420800,
+   "group": "liga"
+  },
+  {
+   "id": 773459131,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Royal Rangers",
+   "away": "Indian Air Force",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1795426200,
+   "group": "liga"
+  },
+  {
+   "id": 773680258,
+   "tid": 2477839,
+   "tname": "India. Delhi. Premier League",
+   "home": "Garhwal Diamond",
+   "away": "Juba Sangha",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:1,2:1)",
+   "start": 1795501800,
+   "group": "liga"
+  },
+  {
+   "id": 773723507,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Samaleswari",
+   "away": "Bengaluru United",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:1,0:1)",
+   "start": 1795516200,
    "group": "liga"
   }
  ]

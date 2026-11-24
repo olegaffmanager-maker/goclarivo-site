@@ -1,10 +1,4198 @@
 {
- "updated": "2026-11-24T02:42:27+00:00",
+ "updated": "2026-11-24T14:30:12+00:00",
  "backfilled": [
   1706694,
   2905343,
   125983,
-  2479360
+  2479360,
+  327197
  ],
- "matches": []
+ "matches": [
+  {
+   "id": 664041178,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkana",
+   "away": "Mufulira Wanderers",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1761138000,
+   "group": "liga"
+  },
+  {
+   "id": 664178916,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "MUZA",
+   "away": "Napsa Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1761138000,
+   "group": "liga"
+  },
+  {
+   "id": 664187792,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Zanaco",
+   "away": "Mutondo Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1761138000,
+   "group": "liga"
+  },
+  {
+   "id": 664300986,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Leopards",
+   "away": "Power Dynamos",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1761138000,
+   "group": "liga"
+  },
+  {
+   "id": 664187786,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkwazi",
+   "away": "Red Arrows",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1761138000,
+   "group": "liga"
+  },
+  {
+   "id": 664178910,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kabwe Warriors",
+   "away": "Green Eagles",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1761138000,
+   "group": "liga"
+  },
+  {
+   "id": 664041181,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "ZESCO United",
+   "away": "Nchanga Rangers",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1761138000,
+   "group": "liga"
+  },
+  {
+   "id": 664142547,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Leopards",
+   "away": "Power Dynamos",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1761138000,
+   "group": "liga"
+  },
+  {
+   "id": 665192191,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkwazi",
+   "away": "Red Arrows",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1761396300,
+   "group": "liga"
+  },
+  {
+   "id": 665191896,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkana",
+   "away": "Mufulira Wanderers",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1761397200,
+   "group": "liga"
+  },
+  {
+   "id": 665518724,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Zanaco",
+   "away": "Mutondo Stars",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1761483600,
+   "group": "liga"
+  },
+  {
+   "id": 666349834,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nchanga Rangers",
+   "away": "Power Dynamos",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1761742800,
+   "group": "liga"
+  },
+  {
+   "id": 666643865,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Napsa Stars",
+   "away": "ZESCO United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1761828300,
+   "group": "liga"
+  },
+  {
+   "id": 667216008,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mutondo Stars",
+   "away": "Konkola",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1762002000,
+   "group": "liga"
+  },
+  {
+   "id": 667216073,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Red Arrows",
+   "away": "Nkana",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1762002000,
+   "group": "liga"
+  },
+  {
+   "id": 667215960,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mufulira Wanderers",
+   "away": "Kabwe Warriors",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1762002000,
+   "group": "liga"
+  },
+  {
+   "id": 666894247,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Eagles",
+   "away": "Zanaco",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1762002000,
+   "group": "liga"
+  },
+  {
+   "id": 667539371,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Buffaloes",
+   "away": "ZESCO United",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1762088400,
+   "group": "liga"
+  },
+  {
+   "id": 667538393,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Power Dynamos",
+   "away": "Nkwazi",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1762088400,
+   "group": "liga"
+  },
+  {
+   "id": 667539381,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nchanga Rangers",
+   "away": "MUZA",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1762088400,
+   "group": "liga"
+  },
+  {
+   "id": 668337724,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Power Dynamos",
+   "away": "ZESCO United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1762347600,
+   "group": "liga"
+  },
+  {
+   "id": 668021800,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Zanaco",
+   "away": "Mufulira Wanderers",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1762351200,
+   "group": "liga"
+  },
+  {
+   "id": 668884722,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mutondo Stars",
+   "away": "Green Buffaloes",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762520400,
+   "group": "liga"
+  },
+  {
+   "id": 669193173,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkana",
+   "away": "Power Dynamos",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1762605900,
+   "group": "liga"
+  },
+  {
+   "id": 669193346,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Leopards",
+   "away": "Napsa Stars",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1762606800,
+   "group": "liga"
+  },
+  {
+   "id": 669193236,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkwazi",
+   "away": "Mines United",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1762606800,
+   "group": "liga"
+  },
+  {
+   "id": 669062654,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "MUZA",
+   "away": "ZESCO United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762606800,
+   "group": "liga"
+  },
+  {
+   "id": 669514829,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kabwe Warriors",
+   "away": "Red Arrows",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1762692300,
+   "group": "liga"
+  },
+  {
+   "id": 669514879,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Zanaco",
+   "away": "Mufulira Wanderers",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1762693200,
+   "group": "liga"
+  },
+  {
+   "id": 669514858,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Konkola",
+   "away": "Green Eagles",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762693200,
+   "group": "liga"
+  },
+  {
+   "id": 670554182,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kabwe Warriors",
+   "away": "Green Eagles",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1763038800,
+   "group": "liga"
+  },
+  {
+   "id": 670552582,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Power Dynamos",
+   "away": "Kansanshi Dynamos",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1763038800,
+   "group": "liga"
+  },
+  {
+   "id": 670138915,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "ZESCO United",
+   "away": "Red Arrows",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1763038800,
+   "group": "liga"
+  },
+  {
+   "id": 672699302,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Napsa Stars",
+   "away": "Nkwazi",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1763730000,
+   "group": "liga"
+  },
+  {
+   "id": 672995773,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Buffaloes",
+   "away": "MUZA",
+   "score": [
+    1,
+    5
+   ],
+   "detail": "1:5 (0:3,1:2)",
+   "start": 1763815500,
+   "group": "liga"
+  },
+  {
+   "id": 672995827,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mines United",
+   "away": "Nkana",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1763815500,
+   "group": "liga"
+  },
+  {
+   "id": 672995848,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mufulira Wanderers",
+   "away": "Konkola",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1763815500,
+   "group": "liga"
+  },
+  {
+   "id": 672872481,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nchanga Rangers",
+   "away": "Leopards",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1763816400,
+   "group": "liga"
+  },
+  {
+   "id": 673318439,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Red Arrows",
+   "away": "Zanaco",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1763902800,
+   "group": "liga"
+  },
+  {
+   "id": 673193746,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Eagles",
+   "away": "Mutondo Stars",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1763902800,
+   "group": "liga"
+  },
+  {
+   "id": 673888444,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkwazi",
+   "away": "Nchanga Rangers",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1764162000,
+   "group": "liga"
+  },
+  {
+   "id": 673850617,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mutondo Stars",
+   "away": "Mufulira Wanderers",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1764162000,
+   "group": "liga"
+  },
+  {
+   "id": 673986432,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Konkola",
+   "away": "Red Arrows",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1764165600,
+   "group": "liga"
+  },
+  {
+   "id": 673950889,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkana",
+   "away": "Napsa Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1764165600,
+   "group": "liga"
+  },
+  {
+   "id": 673850621,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Leopards",
+   "away": "ZESCO United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1764165600,
+   "group": "liga"
+  },
+  {
+   "id": 673986429,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Zanaco",
+   "away": "Power Dynamos",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1764165600,
+   "group": "liga"
+  },
+  {
+   "id": 673987060,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Eagles",
+   "away": "Green Buffaloes",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1764165600,
+   "group": "liga"
+  },
+  {
+   "id": 674896746,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kabwe Warriors",
+   "away": "Mines United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1764421200,
+   "group": "liga"
+  },
+  {
+   "id": 674773132,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kabwe Warriors",
+   "away": "Mines United",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1764421200,
+   "group": "liga"
+  },
+  {
+   "id": 675196358,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mutondo Stars",
+   "away": "Mufulira Wanderers",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1764507600,
+   "group": "liga"
+  },
+  {
+   "id": 675196201,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkana",
+   "away": "Napsa Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1764507600,
+   "group": "liga"
+  },
+  {
+   "id": 675196442,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkwazi",
+   "away": "Nchanga Rangers",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1764507600,
+   "group": "liga"
+  },
+  {
+   "id": 675196380,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Konkola",
+   "away": "Red Arrows",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1764507600,
+   "group": "liga"
+  },
+  {
+   "id": 675196339,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Eagles",
+   "away": "Green Buffaloes",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1764507600,
+   "group": "liga"
+  },
+  {
+   "id": 675933464,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Leopards",
+   "away": "Power Dynamos",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1764766800,
+   "group": "liga"
+  },
+  {
+   "id": 676094215,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "ZESCO United",
+   "away": "Nchanga Rangers",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1764853200,
+   "group": "liga"
+  },
+  {
+   "id": 676761715,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mufulira Wanderers",
+   "away": "Green Eagles",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1765026000,
+   "group": "liga"
+  },
+  {
+   "id": 676760093,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Buffaloes",
+   "away": "Kansanshi Dynamos",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1765026000,
+   "group": "liga"
+  },
+  {
+   "id": 676760073,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mines United",
+   "away": "Zanaco",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1765026000,
+   "group": "liga"
+  },
+  {
+   "id": 676635672,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "ZESCO United",
+   "away": "Nkwazi",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1765026000,
+   "group": "liga"
+  },
+  {
+   "id": 676632376,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Napsa Stars",
+   "away": "Kabwe Warriors",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1765026000,
+   "group": "liga"
+  },
+  {
+   "id": 677070362,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Red Arrows",
+   "away": "Mutondo Stars",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1765112400,
+   "group": "liga"
+  },
+  {
+   "id": 677070426,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Power Dynamos",
+   "away": "Konkola",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1765112400,
+   "group": "liga"
+  },
+  {
+   "id": 677070316,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nchanga Rangers",
+   "away": "Nkana",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1765112400,
+   "group": "liga"
+  },
+  {
+   "id": 676996889,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "MUZA",
+   "away": "Leopards",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1765112400,
+   "group": "liga"
+  },
+  {
+   "id": 678594795,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Power Dynamos",
+   "away": "Kabwe Warriors",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1765630800,
+   "group": "liga"
+  },
+  {
+   "id": 678594828,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "ZESCO United",
+   "away": "Red Arrows",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:1,3:0)",
+   "start": 1765630800,
+   "group": "liga"
+  },
+  {
+   "id": 679615095,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "ZESCO United",
+   "away": "Nchanga Rangers",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1765976400,
+   "group": "liga"
+  },
+  {
+   "id": 680409006,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Zanaco",
+   "away": "Power Dynamos",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1766235600,
+   "group": "liga"
+  },
+  {
+   "id": 680409074,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "ZESCO United",
+   "away": "Kansanshi Dynamos",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1766235600,
+   "group": "liga"
+  },
+  {
+   "id": 679974705,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Buffaloes",
+   "away": "Red Arrows",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1766235600,
+   "group": "liga"
+  },
+  {
+   "id": 681409549,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Leopards",
+   "away": "ZESCO United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1766581200,
+   "group": "liga"
+  },
+  {
+   "id": 685541273,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mutondo Stars",
+   "away": "Power Dynamos",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1768050000,
+   "group": "liga"
+  },
+  {
+   "id": 685858711,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkana",
+   "away": "ZESCO United",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1768136400,
+   "group": "liga"
+  },
+  {
+   "id": 686663718,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Power Dynamos",
+   "away": "Green Eagles",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1768395600,
+   "group": "liga"
+  },
+  {
+   "id": 686949945,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Zanaco",
+   "away": "Napsa Stars",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1768482000,
+   "group": "liga"
+  },
+  {
+   "id": 687528839,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Leopards",
+   "away": "Kansanshi Dynamos",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:3,0:0)",
+   "start": 1768654800,
+   "group": "liga"
+  },
+  {
+   "id": 687528940,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkwazi",
+   "away": "MUZA",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:1,2:1)",
+   "start": 1768654800,
+   "group": "liga"
+  },
+  {
+   "id": 687528865,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "ZESCO United",
+   "away": "Kabwe Warriors",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1768654800,
+   "group": "liga"
+  },
+  {
+   "id": 687860324,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mufulira Wanderers",
+   "away": "Power Dynamos",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1768741200,
+   "group": "liga"
+  },
+  {
+   "id": 689638045,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Red Arrows",
+   "away": "Mufulira Wanderers",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1769259600,
+   "group": "liga"
+  },
+  {
+   "id": 689510143,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Buffaloes",
+   "away": "Nkwazi",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1769259600,
+   "group": "liga"
+  },
+  {
+   "id": 689519208,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Konkola",
+   "away": "ZESCO United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1769259600,
+   "group": "liga"
+  },
+  {
+   "id": 689519211,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkana",
+   "away": "Leopards",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1769259600,
+   "group": "liga"
+  },
+  {
+   "id": 689507534,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kabwe Warriors",
+   "away": "Kansanshi Dynamos",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1769259600,
+   "group": "liga"
+  },
+  {
+   "id": 689519220,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mutondo Stars",
+   "away": "Nchanga Rangers",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1769259600,
+   "group": "liga"
+  },
+  {
+   "id": 689519214,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Eagles",
+   "away": "Napsa Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1769263200,
+   "group": "liga"
+  },
+  {
+   "id": 689519205,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Zanaco",
+   "away": "MUZA",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1769263200,
+   "group": "liga"
+  },
+  {
+   "id": 690785723,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kabwe Warriors",
+   "away": "Nchanga Rangers",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1769605200,
+   "group": "liga"
+  },
+  {
+   "id": 690784754,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mufulira Wanderers",
+   "away": "Green Buffaloes",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1769605200,
+   "group": "liga"
+  },
+  {
+   "id": 690648650,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mines United",
+   "away": "Red Arrows",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1769605200,
+   "group": "liga"
+  },
+  {
+   "id": 690670516,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mutondo Stars",
+   "away": "ZESCO United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1769605200,
+   "group": "liga"
+  },
+  {
+   "id": 690678661,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kansanshi Dynamos",
+   "away": "Zanaco",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1769608800,
+   "group": "liga"
+  },
+  {
+   "id": 690678664,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "MUZA",
+   "away": "Konkola",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1769608800,
+   "group": "liga"
+  },
+  {
+   "id": 690678667,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkwazi",
+   "away": "Nkana",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1769608800,
+   "group": "liga"
+  },
+  {
+   "id": 691666911,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kabwe Warriors",
+   "away": "MUZA",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1769864400,
+   "group": "liga"
+  },
+  {
+   "id": 691666956,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkwazi",
+   "away": "Leopards",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1769864400,
+   "group": "liga"
+  },
+  {
+   "id": 692001263,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Buffaloes",
+   "away": "Red Arrows",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1769950800,
+   "group": "liga"
+  },
+  {
+   "id": 692731364,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "ZESCO United",
+   "away": "Mufulira Wanderers",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1770210000,
+   "group": "liga"
+  },
+  {
+   "id": 692719131,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkana",
+   "away": "Kabwe Warriors",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1770210000,
+   "group": "liga"
+  },
+  {
+   "id": 692567377,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Napsa Stars",
+   "away": "Power Dynamos",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1770210000,
+   "group": "liga"
+  },
+  {
+   "id": 692720153,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Leopards",
+   "away": "Konkola",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1770210000,
+   "group": "liga"
+  },
+  {
+   "id": 692719132,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nchanga Rangers",
+   "away": "Red Arrows",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1770210000,
+   "group": "liga"
+  },
+  {
+   "id": 692720147,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "MUZA",
+   "away": "Green Eagles",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1770210000,
+   "group": "liga"
+  },
+  {
+   "id": 692719130,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kansanshi Dynamos",
+   "away": "Mutondo Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1770210000,
+   "group": "liga"
+  },
+  {
+   "id": 692720156,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkwazi",
+   "away": "Zanaco",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1770210000,
+   "group": "liga"
+  },
+  {
+   "id": 693383492,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkana",
+   "away": "Leopards",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1770381900,
+   "group": "liga"
+  },
+  {
+   "id": 693384474,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mutondo Stars",
+   "away": "Nchanga Rangers",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1770382800,
+   "group": "liga"
+  },
+  {
+   "id": 693677056,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Zanaco",
+   "away": "MUZA",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1770469200,
+   "group": "liga"
+  },
+  {
+   "id": 693676892,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Buffaloes",
+   "away": "Nkwazi",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1770469200,
+   "group": "liga"
+  },
+  {
+   "id": 693677473,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kabwe Warriors",
+   "away": "Kansanshi Dynamos",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1770469200,
+   "group": "liga"
+  },
+  {
+   "id": 693566219,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Power Dynamos",
+   "away": "Nchanga Rangers",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1770469200,
+   "group": "liga"
+  },
+  {
+   "id": 693566222,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mutondo Stars",
+   "away": "Leopards",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1770469200,
+   "group": "liga"
+  },
+  {
+   "id": 693692887,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Buffaloes",
+   "away": "Kabwe Warriors",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1770471000,
+   "group": "liga"
+  },
+  {
+   "id": 694789826,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mines United",
+   "away": "Red Arrows",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1770814800,
+   "group": "liga"
+  },
+  {
+   "id": 694789934,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkwazi",
+   "away": "Nkana",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1770814800,
+   "group": "liga"
+  },
+  {
+   "id": 695065483,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Napsa Stars",
+   "away": "Mufulira Wanderers",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1770900300,
+   "group": "liga"
+  },
+  {
+   "id": 695065049,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "MUZA",
+   "away": "Konkola",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1770901200,
+   "group": "liga"
+  },
+  {
+   "id": 695621145,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kabwe Warriors",
+   "away": "Nkwazi",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (3:0,1:0)",
+   "start": 1771073100,
+   "group": "liga"
+  },
+  {
+   "id": 695621313,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Buffaloes",
+   "away": "Nkana",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1771073100,
+   "group": "liga"
+  },
+  {
+   "id": 695935672,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Red Arrows",
+   "away": "Napsa Stars",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1771160400,
+   "group": "liga"
+  },
+  {
+   "id": 695936002,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Zanaco",
+   "away": "Leopards",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (0:0,3:0)",
+   "start": 1771160400,
+   "group": "liga"
+  },
+  {
+   "id": 696992171,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Zanaco",
+   "away": "ZESCO United",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1771506000,
+   "group": "liga"
+  },
+  {
+   "id": 697575823,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Napsa Stars",
+   "away": "Power Dynamos",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:2,0:1)",
+   "start": 1771678800,
+   "group": "liga"
+  },
+  {
+   "id": 697575825,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "MUZA",
+   "away": "Green Eagles",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1771678800,
+   "group": "liga"
+  },
+  {
+   "id": 697575807,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkana",
+   "away": "Kabwe Warriors",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1771678800,
+   "group": "liga"
+  },
+  {
+   "id": 697575827,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mines United",
+   "away": "Green Buffaloes",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1771678800,
+   "group": "liga"
+  },
+  {
+   "id": 697909152,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkwazi",
+   "away": "Zanaco",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1771765200,
+   "group": "liga"
+  },
+  {
+   "id": 697909131,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "ZESCO United",
+   "away": "Mufulira Wanderers",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1771765200,
+   "group": "liga"
+  },
+  {
+   "id": 697909144,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Leopards",
+   "away": "Konkola",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1771765200,
+   "group": "liga"
+  },
+  {
+   "id": 698980673,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Red Arrows",
+   "away": "Power Dynamos",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1772110800,
+   "group": "liga"
+  },
+  {
+   "id": 698980674,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Konkola",
+   "away": "ZESCO United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1772110800,
+   "group": "liga"
+  },
+  {
+   "id": 699552922,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mines United",
+   "away": "Napsa Stars",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1772283600,
+   "group": "liga"
+  },
+  {
+   "id": 699552932,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Zanaco",
+   "away": "Nkana",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1772283600,
+   "group": "liga"
+  },
+  {
+   "id": 699478744,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Buffaloes",
+   "away": "Kabwe Warriors",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1772283600,
+   "group": "liga"
+  },
+  {
+   "id": 699870821,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mutondo Stars",
+   "away": "Leopards",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1772370000,
+   "group": "liga"
+  },
+  {
+   "id": 699870832,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Red Arrows",
+   "away": "ZESCO United",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1772370000,
+   "group": "liga"
+  },
+  {
+   "id": 699870842,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Power Dynamos",
+   "away": "Nchanga Rangers",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:1,3:0)",
+   "start": 1772370000,
+   "group": "liga"
+  },
+  {
+   "id": 700467188,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kabwe Warriors",
+   "away": "Mufulira Wanderers",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1772629200,
+   "group": "liga"
+  },
+  {
+   "id": 700952568,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mutondo Stars",
+   "away": "ZESCO United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1772714700,
+   "group": "liga"
+  },
+  {
+   "id": 700952661,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Power Dynamos",
+   "away": "Green Buffaloes",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (3:0,0:0)",
+   "start": 1772714700,
+   "group": "liga"
+  },
+  {
+   "id": 701542273,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkana",
+   "away": "Konkola",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1772888400,
+   "group": "liga"
+  },
+  {
+   "id": 701542257,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "MUZA",
+   "away": "Red Arrows",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1772888400,
+   "group": "liga"
+  },
+  {
+   "id": 701542275,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Leopards",
+   "away": "Green Eagles",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (0:0,3:0)",
+   "start": 1772888400,
+   "group": "liga"
+  },
+  {
+   "id": 701876186,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Napsa Stars",
+   "away": "Green Buffaloes",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1772974800,
+   "group": "liga"
+  },
+  {
+   "id": 701876203,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "ZESCO United",
+   "away": "Power Dynamos",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (2:1,0:2)",
+   "start": 1772974800,
+   "group": "liga"
+  },
+  {
+   "id": 702680972,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mutondo Stars",
+   "away": "Nkana",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1773234000,
+   "group": "liga"
+  },
+  {
+   "id": 702680974,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mufulira Wanderers",
+   "away": "Leopards",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1773234000,
+   "group": "liga"
+  },
+  {
+   "id": 702680971,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Red Arrows",
+   "away": "Kansanshi Dynamos",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1773234000,
+   "group": "liga"
+  },
+  {
+   "id": 702959653,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Napsa Stars",
+   "away": "Nchanga Rangers",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1773320400,
+   "group": "liga"
+  },
+  {
+   "id": 702959651,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Buffaloes",
+   "away": "Zanaco",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1773320400,
+   "group": "liga"
+  },
+  {
+   "id": 702959650,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Power Dynamos",
+   "away": "MUZA",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (2:1,2:1)",
+   "start": 1773320400,
+   "group": "liga"
+  },
+  {
+   "id": 703553386,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkana",
+   "away": "Green Eagles",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1773493200,
+   "group": "liga"
+  },
+  {
+   "id": 703553210,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Leopards",
+   "away": "Red Arrows",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1773493200,
+   "group": "liga"
+  },
+  {
+   "id": 703885708,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Zanaco",
+   "away": "Konkola",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1773579600,
+   "group": "liga"
+  },
+  {
+   "id": 703885696,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kabwe Warriors",
+   "away": "Mutondo Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1773579600,
+   "group": "liga"
+  },
+  {
+   "id": 703885704,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkwazi",
+   "away": "Mufulira Wanderers",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1773579600,
+   "group": "liga"
+  },
+  {
+   "id": 703885697,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "ZESCO United",
+   "away": "Napsa Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1773579600,
+   "group": "liga"
+  },
+  {
+   "id": 703715094,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "ZESCO United",
+   "away": "Napsa Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1773579600,
+   "group": "liga"
+  },
+  {
+   "id": 704693117,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mines United",
+   "away": "Kansanshi Dynamos",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1773838800,
+   "group": "liga"
+  },
+  {
+   "id": 704978670,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Napsa Stars",
+   "away": "MUZA",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1773925200,
+   "group": "liga"
+  },
+  {
+   "id": 704978667,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Red Arrows",
+   "away": "Nkwazi",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1773925200,
+   "group": "liga"
+  },
+  {
+   "id": 704978666,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mufulira Wanderers",
+   "away": "Nkana",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1773925200,
+   "group": "liga"
+  },
+  {
+   "id": 704979924,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Buffaloes",
+   "away": "Konkola",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1773925200,
+   "group": "liga"
+  },
+  {
+   "id": 704978664,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Power Dynamos",
+   "away": "Leopards",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1773925200,
+   "group": "liga"
+  },
+  {
+   "id": 704640693,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Power Dynamos",
+   "away": "Leopards",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1773925200,
+   "group": "liga"
+  },
+  {
+   "id": 708749610,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Leopards",
+   "away": "Mines United",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1775048400,
+   "group": "liga"
+  },
+  {
+   "id": 708649958,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "ZESCO United",
+   "away": "Green Buffaloes",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1775048400,
+   "group": "liga"
+  },
+  {
+   "id": 708649960,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Konkola",
+   "away": "Mutondo Stars",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1775048400,
+   "group": "liga"
+  },
+  {
+   "id": 708649959,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kansanshi Dynamos",
+   "away": "Napsa Stars",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:1,2:1)",
+   "start": 1775048400,
+   "group": "liga"
+  },
+  {
+   "id": 708649961,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkana",
+   "away": "Red Arrows",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1775048400,
+   "group": "liga"
+  },
+  {
+   "id": 710770819,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Power Dynamos",
+   "away": "Mines United",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1775653200,
+   "group": "liga"
+  },
+  {
+   "id": 710769557,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kabwe Warriors",
+   "away": "Mufulira Wanderers",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1775653200,
+   "group": "liga"
+  },
+  {
+   "id": 710104828,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "MUZA",
+   "away": "Nchanga Rangers",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1775653200,
+   "group": "liga"
+  },
+  {
+   "id": 710104829,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Eagles",
+   "away": "ZESCO United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1775653200,
+   "group": "liga"
+  },
+  {
+   "id": 710925348,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Eagles",
+   "away": "ZESCO United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1775739600,
+   "group": "liga"
+  },
+  {
+   "id": 711666614,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Napsa Stars",
+   "away": "Leopards",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1775912400,
+   "group": "liga"
+  },
+  {
+   "id": 711666606,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Power Dynamos",
+   "away": "Nkana",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1775912400,
+   "group": "liga"
+  },
+  {
+   "id": 711236437,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Buffaloes",
+   "away": "Mutondo Stars",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1775912400,
+   "group": "liga"
+  },
+  {
+   "id": 711236436,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mines United",
+   "away": "Nkwazi",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1775912400,
+   "group": "liga"
+  },
+  {
+   "id": 712000430,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Red Arrows",
+   "away": "Kabwe Warriors",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:0,3:1)",
+   "start": 1775998800,
+   "group": "liga"
+  },
+  {
+   "id": 712000477,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "ZESCO United",
+   "away": "MUZA",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1775998800,
+   "group": "liga"
+  },
+  {
+   "id": 711236783,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Eagles",
+   "away": "Konkola",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1775998800,
+   "group": "liga"
+  },
+  {
+   "id": 711236786,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nchanga Rangers",
+   "away": "Kansanshi Dynamos",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1775998800,
+   "group": "liga"
+  },
+  {
+   "id": 711717212,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mufulira Wanderers",
+   "away": "Zanaco",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1775998800,
+   "group": "liga"
+  },
+  {
+   "id": 712815440,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkana",
+   "away": "Mines United",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1776258000,
+   "group": "liga"
+  },
+  {
+   "id": 712815444,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkwazi",
+   "away": "Napsa Stars",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1776258000,
+   "group": "liga"
+  },
+  {
+   "id": 713098104,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Konkola",
+   "away": "Mufulira Wanderers",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1776344400,
+   "group": "liga"
+  },
+  {
+   "id": 713102290,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Leopards",
+   "away": "Nchanga Rangers",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1776345300,
+   "group": "liga"
+  },
+  {
+   "id": 713689868,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kabwe Warriors",
+   "away": "Napsa Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1776517200,
+   "group": "liga"
+  },
+  {
+   "id": 713543736,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kabwe Warriors",
+   "away": "Napsa Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1776517200,
+   "group": "liga"
+  },
+  {
+   "id": 714571140,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "ZESCO United",
+   "away": "Nkana",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1776862800,
+   "group": "liga"
+  },
+  {
+   "id": 714834887,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkwazi",
+   "away": "Power Dynamos",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1776862800,
+   "group": "liga"
+  },
+  {
+   "id": 714834318,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Zanaco",
+   "away": "Green Eagles",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1776862800,
+   "group": "liga"
+  },
+  {
+   "id": 714834893,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Buffaloes",
+   "away": "Mufulira Wanderers",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1776862800,
+   "group": "liga"
+  },
+  {
+   "id": 714760329,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Buffaloes",
+   "away": "Mufulira Wanderers",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1776862800,
+   "group": "liga"
+  },
+  {
+   "id": 715122827,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "ZESCO United",
+   "away": "Napsa Stars",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1776949200,
+   "group": "liga"
+  },
+  {
+   "id": 716854754,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Power Dynamos",
+   "away": "Zanaco",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1777467600,
+   "group": "liga"
+  },
+  {
+   "id": 716856342,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mines United",
+   "away": "Kabwe Warriors",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1777467600,
+   "group": "liga"
+  },
+  {
+   "id": 716854752,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "ZESCO United",
+   "away": "Leopards",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1777467600,
+   "group": "liga"
+  },
+  {
+   "id": 716725900,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mufulira Wanderers",
+   "away": "Mutondo Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1777467600,
+   "group": "liga"
+  },
+  {
+   "id": 716725902,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Red Arrows",
+   "away": "Konkola",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1777467600,
+   "group": "liga"
+  },
+  {
+   "id": 716725904,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "MUZA",
+   "away": "Kansanshi Dynamos",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1777467600,
+   "group": "liga"
+  },
+  {
+   "id": 716725899,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Buffaloes",
+   "away": "Green Eagles",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1777467600,
+   "group": "liga"
+  },
+  {
+   "id": 716725901,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nchanga Rangers",
+   "away": "Nkwazi",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1777467600,
+   "group": "liga"
+  },
+  {
+   "id": 716854753,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Napsa Stars",
+   "away": "Nkana",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1777467600,
+   "group": "liga"
+  },
+  {
+   "id": 717135504,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Napsa Stars",
+   "away": "Nkana",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1777554000,
+   "group": "liga"
+  },
+  {
+   "id": 717734409,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mutondo Stars",
+   "away": "Red Arrows",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1777726800,
+   "group": "liga"
+  },
+  {
+   "id": 717738435,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Zanaco",
+   "away": "Mines United",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1777726800,
+   "group": "liga"
+  },
+  {
+   "id": 718047171,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kabwe Warriors",
+   "away": "Napsa Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1777813200,
+   "group": "liga"
+  },
+  {
+   "id": 718050473,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkana",
+   "away": "Nchanga Rangers",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1777813200,
+   "group": "liga"
+  },
+  {
+   "id": 717879325,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Eagles",
+   "away": "Mufulira Wanderers",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1777813200,
+   "group": "liga"
+  },
+  {
+   "id": 717879328,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkwazi",
+   "away": "ZESCO United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1777813200,
+   "group": "liga"
+  },
+  {
+   "id": 718821949,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Zanaco",
+   "away": "Red Arrows",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1778072400,
+   "group": "liga"
+  },
+  {
+   "id": 718946388,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Eagles",
+   "away": "ZESCO United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1778158800,
+   "group": "liga"
+  },
+  {
+   "id": 719364877,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nchanga Rangers",
+   "away": "Kabwe Warriors",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1778245200,
+   "group": "liga"
+  },
+  {
+   "id": 720503437,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Napsa Stars",
+   "away": "Zanaco",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1778590800,
+   "group": "liga"
+  },
+  {
+   "id": 720776275,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Buffaloes",
+   "away": "Mufulira Wanderers",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1778677200,
+   "group": "liga"
+  },
+  {
+   "id": 720775982,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Power Dynamos",
+   "away": "Mutondo Stars",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1778677200,
+   "group": "liga"
+  },
+  {
+   "id": 720352463,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "ZESCO United",
+   "away": "Nkana",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1778677200,
+   "group": "liga"
+  },
+  {
+   "id": 720352804,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kansanshi Dynamos",
+   "away": "Leopards",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1778677200,
+   "group": "liga"
+  },
+  {
+   "id": 720352465,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "MUZA",
+   "away": "Nkwazi",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1778677200,
+   "group": "liga"
+  },
+  {
+   "id": 721052490,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mines United",
+   "away": "Konkola",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1778763600,
+   "group": "liga"
+  },
+  {
+   "id": 721049994,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Red Arrows",
+   "away": "Green Eagles",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1778763600,
+   "group": "liga"
+  },
+  {
+   "id": 721618872,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Zanaco",
+   "away": "Nchanga Rangers",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1778936400,
+   "group": "liga"
+  },
+  {
+   "id": 721258232,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kabwe Warriors",
+   "away": "ZESCO United",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1778936400,
+   "group": "liga"
+  },
+  {
+   "id": 721258233,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mutondo Stars",
+   "away": "Mines United",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1778936400,
+   "group": "liga"
+  },
+  {
+   "id": 721888436,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkana",
+   "away": "MUZA",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1779015600,
+   "group": "liga"
+  },
+  {
+   "id": 721915326,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkwazi",
+   "away": "Kansanshi Dynamos",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1779022800,
+   "group": "liga"
+  },
+  {
+   "id": 721915844,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Leopards",
+   "away": "Green Buffaloes",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1779022800,
+   "group": "liga"
+  },
+  {
+   "id": 721258733,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mufulira Wanderers",
+   "away": "Red Arrows",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1779022800,
+   "group": "liga"
+  },
+  {
+   "id": 721915358,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Eagles",
+   "away": "Power Dynamos",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1779022800,
+   "group": "liga"
+  },
+  {
+   "id": 721258236,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Konkola",
+   "away": "Napsa Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1779022800,
+   "group": "liga"
+  },
+  {
+   "id": 722671363,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mines United",
+   "away": "ZESCO United",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1779274800,
+   "group": "liga"
+  },
+  {
+   "id": 722697783,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kabwe Warriors",
+   "away": "Zanaco",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1779282000,
+   "group": "liga"
+  },
+  {
+   "id": 722569020,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "MUZA",
+   "away": "Nkwazi",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1779282000,
+   "group": "liga"
+  },
+  {
+   "id": 723246119,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mines United",
+   "away": "Green Eagles",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1779454800,
+   "group": "liga"
+  },
+  {
+   "id": 723249604,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Red Arrows",
+   "away": "Green Buffaloes",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1779454800,
+   "group": "liga"
+  },
+  {
+   "id": 723541554,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Power Dynamos",
+   "away": "Mufulira Wanderers",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1779541200,
+   "group": "liga"
+  },
+  {
+   "id": 723540988,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nchanga Rangers",
+   "away": "Konkola",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1779541200,
+   "group": "liga"
+  },
+  {
+   "id": 723371011,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kansanshi Dynamos",
+   "away": "Nkana",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1779541200,
+   "group": "liga"
+  },
+  {
+   "id": 723371014,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "ZESCO United",
+   "away": "Zanaco",
+   "score": [
+    6,
+    1
+   ],
+   "detail": "6:1 (3:1,3:0)",
+   "start": 1779620400,
+   "group": "liga"
+  },
+  {
+   "id": 723826135,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Napsa Stars",
+   "away": "Mutondo Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1779627600,
+   "group": "liga"
+  },
+  {
+   "id": 723371251,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Leopards",
+   "away": "Nkwazi",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1779627600,
+   "group": "liga"
+  },
+  {
+   "id": 723371252,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "MUZA",
+   "away": "Kabwe Warriors",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1779627600,
+   "group": "liga"
+  },
+  {
+   "id": 758241876,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Napsa Stars",
+   "away": "MUZA",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1791032400,
+   "group": "liga"
+  },
+  {
+   "id": 758247334,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkwazi",
+   "away": "Roan United",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1791032400,
+   "group": "liga"
+  },
+  {
+   "id": 758241884,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mufulira Wanderers",
+   "away": "Green Eagles",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (0:2,1:2)",
+   "start": 1791032400,
+   "group": "liga"
+  },
+  {
+   "id": 758577320,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Buffaloes",
+   "away": "Chirundu United",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1791118800,
+   "group": "liga"
+  },
+  {
+   "id": 758577332,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Makeni All Stars",
+   "away": "Kansanshi Dynamos",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1791118800,
+   "group": "liga"
+  },
+  {
+   "id": 758577271,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mutondo Stars",
+   "away": "Red Arrows",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:2,0:1)",
+   "start": 1791118800,
+   "group": "liga"
+  },
+  {
+   "id": 760299912,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Roan United",
+   "away": "Green Buffaloes",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1791637200,
+   "group": "liga"
+  },
+  {
+   "id": 760299892,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kabwe Warriors",
+   "away": "Mutondo Stars",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (0:1,3:1)",
+   "start": 1791637200,
+   "group": "liga"
+  },
+  {
+   "id": 760299910,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkwazi",
+   "away": "Chirundu United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1791637200,
+   "group": "liga"
+  },
+  {
+   "id": 760650108,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mines United",
+   "away": "Leopards",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1791723600,
+   "group": "liga"
+  },
+  {
+   "id": 760650027,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Power Dynamos",
+   "away": "Nchanga Rangers",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1791723600,
+   "group": "liga"
+  },
+  {
+   "id": 760650025,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Zanaco",
+   "away": "Konkola",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (2:1,0:2)",
+   "start": 1791723600,
+   "group": "liga"
+  },
+  {
+   "id": 761427118,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Makeni All Stars",
+   "away": "Zanaco",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1792069200,
+   "group": "liga"
+  },
+  {
+   "id": 762439224,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Zanaco",
+   "away": "Napsa Stars",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1792242000,
+   "group": "liga"
+  },
+  {
+   "id": 762439290,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "MUZA",
+   "away": "Makeni All Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1792242000,
+   "group": "liga"
+  },
+  {
+   "id": 762800500,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Power Dynamos",
+   "away": "Trident",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1792328400,
+   "group": "liga"
+  },
+  {
+   "id": 762800483,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "ZESCO United",
+   "away": "Mufulira Wanderers",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1792328400,
+   "group": "liga"
+  },
+  {
+   "id": 762800429,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Chirundu United",
+   "away": "Mutondo Stars",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1792328400,
+   "group": "liga"
+  },
+  {
+   "id": 762800516,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Buffaloes",
+   "away": "Nkwazi",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1792328400,
+   "group": "liga"
+  },
+  {
+   "id": 764587099,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "ZESCO United",
+   "away": "Mutondo Stars",
+   "score": [
+    5,
+    0
+   ],
+   "detail": "5:0 (3:0,2:0)",
+   "start": 1792846800,
+   "group": "liga"
+  },
+  {
+   "id": 764587054,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Zanaco",
+   "away": "Kansanshi Dynamos",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1792846800,
+   "group": "liga"
+  },
+  {
+   "id": 764587096,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkwazi",
+   "away": "Green Eagles",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1792846800,
+   "group": "liga"
+  },
+  {
+   "id": 764933643,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mufulira Wanderers",
+   "away": "Chirundu United",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1792933200,
+   "group": "liga"
+  },
+  {
+   "id": 764933671,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kabwe Warriors",
+   "away": "Green Buffaloes",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1792933200,
+   "group": "liga"
+  },
+  {
+   "id": 765811966,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Roan United",
+   "away": "ZESCO United",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:2,0:2)",
+   "start": 1793192400,
+   "group": "liga"
+  },
+  {
+   "id": 766746728,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkwazi",
+   "away": "ZESCO United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1793451600,
+   "group": "liga"
+  },
+  {
+   "id": 766746742,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Red Arrows",
+   "away": "Chirundu United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1793451600,
+   "group": "liga"
+  },
+  {
+   "id": 766746687,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Power Dynamos",
+   "away": "Nkana",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1793451600,
+   "group": "liga"
+  },
+  {
+   "id": 767099450,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Buffaloes",
+   "away": "Mufulira Wanderers",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1793538000,
+   "group": "liga"
+  },
+  {
+   "id": 767101912,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Makeni All Stars",
+   "away": "Konkola",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1793538000,
+   "group": "liga"
+  },
+  {
+   "id": 767099503,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mutondo Stars",
+   "away": "Roan United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1793538000,
+   "group": "liga"
+  },
+  {
+   "id": 767964638,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkana",
+   "away": "Kansanshi Dynamos",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1793797200,
+   "group": "liga"
+  },
+  {
+   "id": 767964645,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Red Arrows",
+   "away": "Nkwazi",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1793797200,
+   "group": "liga"
+  },
+  {
+   "id": 767964634,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Zanaco",
+   "away": "MUZA",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1793797200,
+   "group": "liga"
+  },
+  {
+   "id": 767853760,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kabwe Warriors",
+   "away": "Roan United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1793797200,
+   "group": "liga"
+  },
+  {
+   "id": 768239218,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Buffaloes",
+   "away": "ZESCO United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1793883600,
+   "group": "liga"
+  },
+  {
+   "id": 768239221,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Napsa Stars",
+   "away": "Power Dynamos",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1793883600,
+   "group": "liga"
+  },
+  {
+   "id": 768239220,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Chirundu United",
+   "away": "Green Eagles",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1793883600,
+   "group": "liga"
+  },
+  {
+   "id": 768239222,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mutondo Stars",
+   "away": "Mufulira Wanderers",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1793883600,
+   "group": "liga"
+  },
+  {
+   "id": 769170503,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Napsa Stars",
+   "away": "Nkana",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1794142800,
+   "group": "liga"
+  },
+  {
+   "id": 771167505,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mufulira Wanderers",
+   "away": "Nkwazi",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1794747600,
+   "group": "liga"
+  },
+  {
+   "id": 771167526,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Konkola",
+   "away": "Nchanga Rangers",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:0,1:3)",
+   "start": 1794747600,
+   "group": "liga"
+  },
+  {
+   "id": 771847286,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Kansanshi Dynamos",
+   "away": "Trident",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1795006800,
+   "group": "liga"
+  },
+  {
+   "id": 771842222,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Eagles",
+   "away": "Green Buffaloes",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1795006800,
+   "group": "liga"
+  },
+  {
+   "id": 771995476,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Roan United",
+   "away": "Chirundu United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1795006800,
+   "group": "liga"
+  },
+  {
+   "id": 771743963,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Roan United",
+   "away": "Chirundu United",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1795006800,
+   "group": "liga"
+  },
+  {
+   "id": 772270817,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkwazi",
+   "away": "Mutondo Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1795093200,
+   "group": "liga"
+  },
+  {
+   "id": 772270828,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "ZESCO United",
+   "away": "Red Arrows",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1795093200,
+   "group": "liga"
+  },
+  {
+   "id": 772270822,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Mufulira Wanderers",
+   "away": "Kabwe Warriors",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1795093200,
+   "group": "liga"
+  },
+  {
+   "id": 772272374,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Makeni All Stars",
+   "away": "Napsa Stars",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1795093200,
+   "group": "liga"
+  },
+  {
+   "id": 772866836,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "MUZA",
+   "away": "Nkana",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1795266000,
+   "group": "liga"
+  },
+  {
+   "id": 772866859,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Power Dynamos",
+   "away": "Zanaco",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1795266000,
+   "group": "liga"
+  },
+  {
+   "id": 773212046,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nchanga Rangers",
+   "away": "Trident",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1795352400,
+   "group": "liga"
+  },
+  {
+   "id": 773212057,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Green Eagles",
+   "away": "Red Arrows",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:1,1:2)",
+   "start": 1795352400,
+   "group": "liga"
+  }
+ ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T02:38:30+00:00",
+ "updated": "2026-11-24T14:20:21+00:00",
  "groups": [
   {
    "key": "liga",
@@ -7,359 +7,201 @@
    "matches": [
     {
      "tournament": "Paraguay. Primera División",
-     "home": "Club Sportivo San Lorenzo",
-     "away": "Sportivo Ameliano",
-     "start": 1795640400,
+     "home": "Club Nacional Asunción",
+     "away": "Club Rubio Nu",
+     "start": 1795811400,
      "odds": {
-      "1": 3.115,
-      "X": 3.765,
-      "2": 2.07
+      "1": 1.703,
+      "X": 3.675,
+      "2": 4.75
      },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/402c7bd111e293859387a1a428dfada8.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/95c61c6cc1173ef0299a45ced6a9bed8.png",
-     "link": "https://1xlite-32085.pro/es/line/Football/55479-Paraguay-Primera-Division/396938479-Club-Sportivo-San-Lorenzo-Sportivo-Ameliano",
-     "eid": 773605689,
+     "img1": "https://nimblecd.com/sfiles/logo_teams/13869.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/1de3bb5d2e1e2872bc2e3373dffb5a16.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/55479-Paraguay-Primera-Division/397001423-Club-Nacional-Asuncion-Club-Rubio-Nu",
+     "eid": 773650667,
      "tid": 55479,
      "coupon": {
-      "1": "AL7R4",
-      "X": "DL7R4",
-      "2": "HL7R4"
+      "1": "ZT41L",
+      "X": "H741L",
+      "2": "S741L"
      },
      "markets": {
       "dc": {
-       "1X": 1.688,
-       "12": 1.235,
-       "X2": 1.326
+       "1X": 1.156,
+       "12": 1.245,
+       "X2": 2.049
       },
       "ou25": {
-       "o": 1.792,
-       "u": 1.955
+       "o": 1.977,
+       "u": 1.774
       },
       "btts": {
-       "y": 1.65,
-       "n": 2.084
+       "y": 1.89,
+       "n": 1.796
       }
      },
      "stats": {
       "h2h": [
        {
-        "d": 1789153200,
-        "h": "Sportivo Ameliano",
-        "a": "Club Sportivo San Lorenzo",
+        "d": 1789335000,
+        "h": "Club Rubio Nu",
+        "a": "Club Nacional Asunción",
         "s": [
-         1,
-         0
+         0,
+         1
         ],
         "t": "Paraguay. Primera División (Clausura)",
         "hh": false
        },
        {
-        "d": 1774999800,
-        "h": "Club Sportivo San Lorenzo",
-        "a": "Sportivo Ameliano",
+        "d": 1778875200,
+        "h": "Club Rubio Nu",
+        "a": "Club Nacional Asunción",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Paraguay. Primera División (Apertura)",
+        "hh": false
+       },
+       {
+        "d": 1773610200,
+        "h": "Club Nacional Asunción",
+        "a": "Club Rubio Nu",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Paraguay. Primera División (Apertura)",
+        "hh": true
+       },
+       {
+        "d": 1508627400,
+        "h": "Club Nacional Asunción",
+        "a": "Club Rubio Nu",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Paraguay. Primera División (Clausura)",
+        "hh": true
+       },
+       {
+        "d": 1502493000,
+        "h": "Club Rubio Nu",
+        "a": "Club Nacional Asunción",
+        "s": [
+         0,
+         1
+        ],
+        "t": "Paraguay. Primera División (Clausura)",
+        "hh": false
+       },
+       {
+        "d": 1493413200,
+        "h": "Club Rubio Nu",
+        "a": "Club Nacional Asunción",
         "s": [
          1,
          2
         ],
         "t": "Paraguay. Primera División (Apertura)",
+        "hh": false
+       },
+       {
+        "d": 1487545800,
+        "h": "Club Nacional Asunción",
+        "a": "Club Rubio Nu",
+        "s": [
+         0,
+         3
+        ],
+        "t": "Paraguay. Primera División (Apertura)",
         "hh": true
        },
        {
-        "d": 1769901300,
-        "h": "Sportivo Ameliano",
-        "a": "Club Sportivo San Lorenzo",
-        "s": [
-         1,
-         0
-        ],
-        "t": "Paraguay. Primera División (Apertura)",
-        "hh": false
-       },
-       {
-        "d": 1632578400,
-        "h": "Sportivo Ameliano",
-        "a": "Club Sportivo San Lorenzo",
+        "d": 1480806600,
+        "h": "Club Nacional Asunción",
+        "a": "Club Rubio Nu",
         "s": [
          3,
-         0
+         1
         ],
-        "t": "Paraguay. División Intermedia",
-        "hh": false
-       },
-       {
-        "d": 1624132800,
-        "h": "Club Sportivo San Lorenzo",
-        "a": "Sportivo Ameliano",
-        "s": [
-         2,
-         0
-        ],
-        "t": "Paraguay. División Intermedia",
+        "t": "Paraguay. Primera División (Clausura)",
         "hh": true
        }
       ],
       "f1": [
        {
-        "d": 1794254400,
-        "o": "Club Rubio Nu",
+        "d": 1795475700,
+        "o": "Cerro Porteno",
         "gf": 2,
-        "ga": 2,
+        "ga": 0,
         "dom": true
+       },
+       {
+        "d": 1794090600,
+        "o": "Club Libertad",
+        "gf": 0,
+        "ga": 3,
+        "dom": false
        },
        {
         "d": 1793745000,
-        "o": "Club Nacional Asunción",
-        "gf": 2,
-        "ga": 0,
-        "dom": false
+        "o": "Club Sportivo San Lorenzo",
+        "gf": 0,
+        "ga": 2,
+        "dom": true
        },
        {
         "d": 1793485800,
-        "o": "Club Libertad",
-        "gf": 2,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1792967400,
-        "o": "Cerro Porteno",
-        "gf": 1,
-        "ga": 3,
-        "dom": true
-       },
-       {
-        "d": 1792362000,
         "o": "Sportivo Luqueño",
-        "gf": 2,
-        "ga": 3,
-        "dom": false
-       }
-      ],
-      "f2": [
-       {
-        "d": 1795206600,
-        "o": "Sportivo Luqueño",
-        "gf": 1,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1794177000,
-        "o": "Sportivo Trinidense",
-        "gf": 0,
-        "ga": 3,
-        "dom": false
-       },
-       {
-        "d": 1793829600,
-        "o": "Club Guaraní",
-        "gf": 0,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1793476800,
-        "o": "Recoleta",
-        "gf": 0,
-        "ga": 3,
-        "dom": false
-       },
-       {
-        "d": 1792933200,
-        "o": "Club Olimpia",
-        "gf": 2,
-        "ga": 3,
-        "dom": true
-       }
-      ]
-     }
-    },
-    {
-     "tournament": "Paraguay. Primera División",
-     "home": "Sportivo Trinidense",
-     "away": "Recoleta",
-     "start": 1795640400,
-     "odds": {
-      "1": 1.538,
-      "X": 4.1,
-      "2": 5.7
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/9031de2b12369d64676efc58cb4993c1.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/8a15a9a99e322f46e5c6cdd376f33d7d.png",
-     "link": "https://1xlite-32085.pro/es/line/Football/55479-Paraguay-Primera-Division/396854883-Sportivo-Trinidense-Recoleta",
-     "eid": 773467637,
-     "tid": 55479,
-     "coupon": {
-      "1": "6L7R4",
-      "X": "SL7R4",
-      "2": "7L7R4"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.111,
-       "12": 1.203,
-       "X2": 2.353
-      },
-      "ou25": {
-       "o": 1.762,
-       "u": 1.992
-      },
-      "btts": {
-       "y": 1.81,
-       "n": 1.877
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1789248600,
-        "h": "Recoleta",
-        "a": "Sportivo Trinidense",
-        "s": [
-         1,
-         3
-        ],
-        "t": "Paraguay. Primera División (Clausura)",
-        "hh": false
-       },
-       {
-        "d": 1774301400,
-        "h": "Sportivo Trinidense",
-        "a": "Recoleta",
-        "s": [
-         3,
-         2
-        ],
-        "t": "Paraguay. Primera División (Apertura)",
-        "hh": true
-       },
-       {
-        "d": 1769202000,
-        "h": "Recoleta",
-        "a": "Sportivo Trinidense",
-        "s": [
-         1,
-         1
-        ],
-        "t": "Paraguay. Primera División (Apertura)",
-        "hh": false
-       },
-       {
-        "d": 1757887200,
-        "h": "Recoleta",
-        "a": "Sportivo Trinidense",
-        "s": [
-         3,
-         2
-        ],
-        "t": "Paraguay. Primera División (Clausura)",
-        "hh": false
-       },
-       {
-        "d": 1751664600,
-        "h": "Recoleta",
-        "a": "Sportivo Trinidense",
-        "s": [
-         2,
-         4
-        ],
-        "t": "Paraguay. Primera División (Clausura)",
-        "hh": false
-       },
-       {
-        "d": 1748296800,
-        "h": "Recoleta",
-        "a": "Sportivo Trinidense",
-        "s": [
-         1,
-         2
-        ],
-        "t": "Paraguay. Primera División (Apertura)",
-        "hh": false
-       },
-       {
-        "d": 1742596200,
-        "h": "Sportivo Trinidense",
-        "a": "Recoleta",
-        "s": [
-         1,
-         1
-        ],
-        "t": "Paraguay. Primera División (Apertura)",
-        "hh": true
-       }
-      ],
-      "f1": [
-       {
-        "d": 1795381200,
-        "o": "Club Olimpia",
-        "gf": 1,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1794177000,
-        "o": "Sportivo Ameliano",
         "gf": 3,
         "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1793736000,
-        "o": "2 de Mayo",
-        "gf": 0,
-        "ga": 0,
         "dom": false
-       },
-       {
-        "d": 1793399400,
-        "o": "Club Rubio Nu",
-        "gf": 2,
-        "ga": 4,
-        "dom": true
        },
        {
         "d": 1792872000,
-        "o": "Club Nacional Asunción",
-        "gf": 1,
-        "ga": 0,
-        "dom": false
+        "o": "Sportivo Trinidense",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
        }
       ],
       "f2": [
        {
-        "d": 1795215600,
-        "o": "Club Guaraní",
-        "gf": 2,
+        "d": 1795381200,
+        "o": "Club Libertad",
+        "gf": 1,
         "ga": 2,
         "dom": true
        },
        {
-        "d": 1794690000,
-        "o": "Club Libertad",
+        "d": 1794254400,
+        "o": "Club Sportivo San Lorenzo",
         "gf": 2,
-        "ga": 1,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1793916000,
+        "o": "Sportivo Luqueño",
+        "gf": 0,
+        "ga": 5,
         "dom": true
        },
        {
-        "d": 1794168000,
-        "o": "Cerro Porteno",
-        "gf": 1,
-        "ga": 1,
+        "d": 1793399400,
+        "o": "Sportivo Trinidense",
+        "gf": 4,
+        "ga": 2,
         "dom": false
        },
        {
-        "d": 1793837700,
-        "o": "Club Olimpia",
-        "gf": 1,
-        "ga": 4,
-        "dom": false
-       },
-       {
-        "d": 1793476800,
-        "o": "Sportivo Ameliano",
-        "gf": 3,
-        "ga": 0,
+        "d": 1792785600,
+        "o": "Club Guaraní",
+        "gf": 0,
+        "ga": 2,
         "dom": true
        }
       ]
@@ -369,35 +211,35 @@
      "tournament": "Paraguay. Primera División",
      "home": "Sportivo Luqueño",
      "away": "Club Olimpia",
-     "start": 1795640400,
+     "start": 1795820400,
      "odds": {
-      "1": 4.86,
-      "X": 4.335,
-      "2": 1.579
+      "1": 4.7,
+      "X": 4.49,
+      "2": 1.577
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/65ea19b1e953a546421a581d06629619.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/e3650f3cc0c84333b4ee1a24c5c7ebf3.png",
-     "link": "https://1xlite-32085.pro/es/line/Football/55479-Paraguay-Primera-Division/396854882-Sportivo-Luqueno-Club-Olimpia",
-     "eid": 773467215,
+     "link": "https://1xlite-32085.pro/es/line/Football/55479-Paraguay-Primera-Division/397001077-Sportivo-Luqueno-Club-Olimpia",
+     "eid": 773650649,
      "tid": 55479,
      "coupon": {
-      "1": "ZL7R4",
-      "X": "1M7R4",
-      "2": "DM7R4"
+      "1": "3V41L",
+      "X": "TV41L",
+      "2": "KX41L"
      },
      "markets": {
       "dc": {
-       "1X": 2.263,
-       "12": 1.184,
-       "X2": 1.15
+       "1X": 2.267,
+       "12": 1.173,
+       "X2": 1.159
       },
       "ou25": {
-       "o": 1.721,
-       "u": 2.047
+       "o": 1.613,
+       "u": 2.225
       },
       "btts": {
-       "y": 1.75,
-       "n": 1.949
+       "y": 1.65,
+       "n": 2.084
       }
      },
      "stats": {
@@ -569,403 +411,190 @@
     },
     {
      "tournament": "Paraguay. Primera División",
-     "home": "Club Libertad",
-     "away": "2 de Mayo",
-     "start": 1795640400,
+     "home": "Sportivo Trinidense",
+     "away": "Recoleta",
+     "start": 1795906800,
      "odds": {
-      "1": 1.526,
-      "X": 4.16,
-      "2": 5.74
+      "1": 1.59,
+      "X": 3.64,
+      "2": 6.01
      },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/4a5a8d6e5e87b7ce7adb4182cd7ddcb7.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/79a8f83e40956c2cc1459512950f9b70.png",
-     "link": "https://1xlite-32085.pro/es/line/Football/55479-Paraguay-Primera-Division/396938477-Club-Libertad-2-de-Mayo",
-     "eid": 773605686,
+     "img1": "https://nimblecd.com/sfiles/logo_teams/9031de2b12369d64676efc58cb4993c1.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/8a15a9a99e322f46e5c6cdd376f33d7d.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/55479-Paraguay-Primera-Division/397000943-Sportivo-Trinidense-Recoleta",
+     "eid": 773650658,
      "tid": 55479,
      "coupon": {
-      "1": "JM7R4",
-      "X": "NM7R4",
-      "2": "TM7R4"
+      "1": "2841L",
+      "X": "8841L",
+      "2": "KY41L"
      },
      "markets": {
       "dc": {
-       "1X": 1.109,
-       "12": 1.198,
-       "X2": 2.381
+       "1X": 1.1,
+       "12": 1.249,
+       "X2": 2.239
       },
       "ou25": {
-       "o": 1.774,
-       "u": 1.977
+       "o": 1.642,
+       "u": 2.172
       },
       "btts": {
-       "y": 1.82,
-       "n": 1.867
+       "y": 1.67,
+       "n": 2.053
       }
      },
      "stats": {
       "h2h": [
        {
-        "d": 1789162200,
-        "h": "2 de Mayo",
-        "a": "Club Libertad",
+        "d": 1789248600,
+        "h": "Recoleta",
+        "a": "Sportivo Trinidense",
         "s": [
-         0,
-         2
+         1,
+         3
         ],
         "t": "Paraguay. Primera División (Clausura)",
         "hh": false
        },
        {
-        "d": 1778788800,
-        "h": "Club Libertad",
-        "a": "2 de Mayo",
+        "d": 1774301400,
+        "h": "Sportivo Trinidense",
+        "a": "Recoleta",
         "s": [
-         0,
-         0
+         3,
+         2
         ],
         "t": "Paraguay. Primera División (Apertura)",
         "hh": true
        },
        {
-        "d": 1773444600,
-        "h": "2 de Mayo",
-        "a": "Club Libertad",
+        "d": 1769202000,
+        "h": "Recoleta",
+        "a": "Sportivo Trinidense",
         "s": [
-         0,
-         2
-        ],
-        "t": "Paraguay. Primera División (Apertura)",
-        "hh": false
-       },
-       {
-        "d": 1758492000,
-        "h": "Club Libertad",
-        "a": "2 de Mayo",
-        "s": [
-         0,
-         1
-        ],
-        "t": "Paraguay. Primera División (Clausura)",
-        "hh": true
-       },
-       {
-        "d": 1752269400,
-        "h": "2 de Mayo",
-        "a": "Club Libertad",
-        "s": [
-         0,
-         0
-        ],
-        "t": "Paraguay. Primera División (Clausura)",
-        "hh": false
-       },
-       {
-        "d": 1748793600,
-        "h": "2 de Mayo",
-        "a": "Club Libertad",
-        "s": [
-         0,
+         1,
          1
         ],
         "t": "Paraguay. Primera División (Apertura)",
         "hh": false
        },
        {
-        "d": 1743185700,
-        "h": "Club Libertad",
-        "a": "2 de Mayo",
+        "d": 1757887200,
+        "h": "Recoleta",
+        "a": "Sportivo Trinidense",
+        "s": [
+         3,
+         2
+        ],
+        "t": "Paraguay. Primera División (Clausura)",
+        "hh": false
+       },
+       {
+        "d": 1751664600,
+        "h": "Recoleta",
+        "a": "Sportivo Trinidense",
+        "s": [
+         2,
+         4
+        ],
+        "t": "Paraguay. Primera División (Clausura)",
+        "hh": false
+       },
+       {
+        "d": 1748296800,
+        "h": "Recoleta",
+        "a": "Sportivo Trinidense",
+        "s": [
+         1,
+         2
+        ],
+        "t": "Paraguay. Primera División (Apertura)",
+        "hh": false
+       },
+       {
+        "d": 1742596200,
+        "h": "Sportivo Trinidense",
+        "a": "Recoleta",
         "s": [
          1,
          1
         ],
         "t": "Paraguay. Primera División (Apertura)",
         "hh": true
-       },
-       {
-        "d": 1730667600,
-        "h": "2 de Mayo",
-        "a": "Club Libertad",
-        "s": [
-         2,
-         0
-        ],
-        "t": "Paraguay. Primera División (Apertura)",
-        "hh": false
        }
       ],
       "f1": [
        {
         "d": 1795381200,
-        "o": "Club Rubio Nu",
-        "gf": 2,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1794690000,
-        "o": "Recoleta",
+        "o": "Club Olimpia",
         "gf": 1,
         "ga": 2,
         "dom": false
        },
        {
-        "d": 1794090600,
-        "o": "Club Nacional Asunción",
+        "d": 1794177000,
+        "o": "Sportivo Ameliano",
         "gf": 3,
         "ga": 0,
         "dom": true
-       },
-       {
-        "d": 1793829600,
-        "o": "Cerro Porteno",
-        "gf": 0,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1793485800,
-        "o": "Club Sportivo San Lorenzo",
-        "gf": 1,
-        "ga": 2,
-        "dom": false
-       }
-      ],
-      "f2": [
-       {
-        "d": 1794263400,
-        "o": "Sportivo Luqueño",
-        "gf": 0,
-        "ga": 3,
-        "dom": false
        },
        {
         "d": 1793736000,
-        "o": "Sportivo Trinidense",
+        "o": "2 de Mayo",
         "gf": 0,
         "ga": 0,
-        "dom": true
+        "dom": false
        },
        {
         "d": 1793399400,
-        "o": "Club Guaraní",
-        "gf": 0,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1792880400,
-        "o": "Recoleta",
-        "gf": 1,
-        "ga": 1,
+        "o": "Club Rubio Nu",
+        "gf": 2,
+        "ga": 4,
         "dom": true
-       },
-       {
-        "d": 1792275600,
-        "o": "Club Olimpia",
-        "gf": 0,
-        "ga": 3,
-        "dom": false
-       }
-      ]
-     }
-    },
-    {
-     "tournament": "Paraguay. Primera División",
-     "home": "Club Nacional Asunción",
-     "away": "Club Rubio Nu",
-     "start": 1795640400,
-     "odds": {
-      "1": 1.726,
-      "X": 3.71,
-      "2": 4.53
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/13869.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/1de3bb5d2e1e2872bc2e3373dffb5a16.png",
-     "link": "https://1xlite-32085.pro/es/line/Football/55479-Paraguay-Primera-Division/396951714-Club-Nacional-Asuncion-Club-Rubio-Nu",
-     "eid": 773625174,
-     "tid": 55479,
-     "coupon": {
-      "1": "F57R4",
-      "X": "K57R4",
-      "2": "657R4"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.17,
-       "12": 1.241,
-       "X2": 2.017
-      },
-      "ou25": {
-       "o": 1.87,
-       "u": 1.87
-      },
-      "btts": {
-       "y": 1.8,
-       "n": 1.888
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1789335000,
-        "h": "Club Rubio Nu",
-        "a": "Club Nacional Asunción",
-        "s": [
-         0,
-         1
-        ],
-        "t": "Paraguay. Primera División (Clausura)",
-        "hh": false
-       },
-       {
-        "d": 1778875200,
-        "h": "Club Rubio Nu",
-        "a": "Club Nacional Asunción",
-        "s": [
-         1,
-         1
-        ],
-        "t": "Paraguay. Primera División (Apertura)",
-        "hh": false
-       },
-       {
-        "d": 1773610200,
-        "h": "Club Nacional Asunción",
-        "a": "Club Rubio Nu",
-        "s": [
-         1,
-         0
-        ],
-        "t": "Paraguay. Primera División (Apertura)",
-        "hh": true
-       },
-       {
-        "d": 1508627400,
-        "h": "Club Nacional Asunción",
-        "a": "Club Rubio Nu",
-        "s": [
-         1,
-         1
-        ],
-        "t": "Paraguay. Primera División (Clausura)",
-        "hh": true
-       },
-       {
-        "d": 1502493000,
-        "h": "Club Rubio Nu",
-        "a": "Club Nacional Asunción",
-        "s": [
-         0,
-         1
-        ],
-        "t": "Paraguay. Primera División (Clausura)",
-        "hh": false
-       },
-       {
-        "d": 1493413200,
-        "h": "Club Rubio Nu",
-        "a": "Club Nacional Asunción",
-        "s": [
-         1,
-         2
-        ],
-        "t": "Paraguay. Primera División (Apertura)",
-        "hh": false
-       },
-       {
-        "d": 1487545800,
-        "h": "Club Nacional Asunción",
-        "a": "Club Rubio Nu",
-        "s": [
-         0,
-         3
-        ],
-        "t": "Paraguay. Primera División (Apertura)",
-        "hh": true
-       },
-       {
-        "d": 1480806600,
-        "h": "Club Nacional Asunción",
-        "a": "Club Rubio Nu",
-        "s": [
-         3,
-         1
-        ],
-        "t": "Paraguay. Primera División (Clausura)",
-        "hh": true
-       }
-      ],
-      "f1": [
-       {
-        "d": 1794090600,
-        "o": "Club Libertad",
-        "gf": 0,
-        "ga": 3,
-        "dom": false
-       },
-       {
-        "d": 1793745000,
-        "o": "Club Sportivo San Lorenzo",
-        "gf": 0,
-        "ga": 2,
-        "dom": true
-       },
-       {
-        "d": 1793485800,
-        "o": "Sportivo Luqueño",
-        "gf": 3,
-        "ga": 0,
-        "dom": false
        },
        {
         "d": 1792872000,
-        "o": "Sportivo Trinidense",
-        "gf": 0,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1792267200,
-        "o": "Club Guaraní",
-        "gf": 2,
+        "o": "Club Nacional Asunción",
+        "gf": 1,
         "ga": 0,
         "dom": false
        }
       ],
       "f2": [
        {
-        "d": 1795381200,
-        "o": "Club Libertad",
-        "gf": 1,
-        "ga": 2,
-        "dom": true
-       },
-       {
-        "d": 1794254400,
-        "o": "Club Sportivo San Lorenzo",
+        "d": 1795215600,
+        "o": "Club Guaraní",
         "gf": 2,
         "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1793916000,
-        "o": "Sportivo Luqueño",
-        "gf": 0,
-        "ga": 5,
         "dom": true
        },
        {
-        "d": 1793399400,
-        "o": "Sportivo Trinidense",
-        "gf": 4,
-        "ga": 2,
+        "d": 1794690000,
+        "o": "Club Libertad",
+        "gf": 2,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1794168000,
+        "o": "Cerro Porteno",
+        "gf": 1,
+        "ga": 1,
         "dom": false
        },
        {
-        "d": 1792785600,
-        "o": "Club Guaraní",
-        "gf": 0,
-        "ga": 2,
+        "d": 1793837700,
+        "o": "Club Olimpia",
+        "gf": 1,
+        "ga": 4,
+        "dom": false
+       },
+       {
+        "d": 1793476800,
+        "o": "Sportivo Ameliano",
+        "gf": 3,
+        "ga": 0,
         "dom": true
        }
       ]
@@ -975,35 +604,35 @@
      "tournament": "Paraguay. Primera División",
      "home": "Cerro Porteno",
      "away": "Club Guaraní",
-     "start": 1795644000,
+     "start": 1795984200,
      "odds": {
-      "1": 1.894,
-      "X": 3.515,
-      "2": 3.89
+      "1": 2.164,
+      "X": 3.115,
+      "2": 3.49
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/b4f83cfb661f7099da53af2a2b70c54d.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/f6aa6ad3e6570bd2e4f7ce1d1cd12dd3.png",
-     "link": "https://1xlite-32085.pro/es/line/Football/55479-Paraguay-Primera-Division/396951713-Cerro-Porteno-Club-Guarani",
-     "eid": 773625171,
+     "link": "https://1xlite-32085.pro/es/line/Football/55479-Paraguay-Primera-Division/397000892-Cerro-Porteno-Club-Guarani",
+     "eid": 773650664,
      "tid": 55479,
      "coupon": {
-      "1": "U57R4",
-      "X": "Y57R4",
-      "2": "BN7R4"
+      "1": "SZ41L",
+      "X": "2941L",
+      "2": "R941L"
      },
      "markets": {
       "dc": {
-       "1X": 1.222,
-       "12": 1.264,
-       "X2": 1.827
+       "1X": 1.268,
+       "12": 1.326,
+       "X2": 1.631
       },
       "ou25": {
-       "o": 1.955,
-       "u": 1.792
+       "o": 1.928,
+       "u": 1.815
       },
       "btts": {
-       "y": 1.8,
-       "n": 1.888
+       "y": 1.71,
+       "n": 2.001
       }
      },
      "stats": {
@@ -1168,6 +797,377 @@
         "o": "Club Rubio Nu",
         "gf": 2,
         "ga": 0,
+        "dom": false
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "Paraguay. Primera División",
+     "home": "Club Sportivo San Lorenzo",
+     "away": "Sportivo Ameliano",
+     "start": 1795993200,
+     "odds": {
+      "1": 3.89,
+      "X": 3.18,
+      "2": 2.008
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/402c7bd111e293859387a1a428dfada8.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/95c61c6cc1173ef0299a45ced6a9bed8.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/55479-Paraguay-Primera-Division/397001215-Club-Sportivo-San-Lorenzo-Sportivo-Ameliano",
+     "eid": 773650655,
+     "tid": 55479,
+     "coupon": {
+      "1": "1AK1L",
+      "X": "PAK1L",
+      "2": "4BK1L"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.732,
+       "12": 1.314,
+       "X2": 1.222
+      },
+      "ou25": {
+       "o": 1.713,
+       "u": 2.059
+      },
+      "btts": {
+       "y": 1.57,
+       "n": 2.229
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1789153200,
+        "h": "Sportivo Ameliano",
+        "a": "Club Sportivo San Lorenzo",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Paraguay. Primera División (Clausura)",
+        "hh": false
+       },
+       {
+        "d": 1774999800,
+        "h": "Club Sportivo San Lorenzo",
+        "a": "Sportivo Ameliano",
+        "s": [
+         1,
+         2
+        ],
+        "t": "Paraguay. Primera División (Apertura)",
+        "hh": true
+       },
+       {
+        "d": 1769901300,
+        "h": "Sportivo Ameliano",
+        "a": "Club Sportivo San Lorenzo",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Paraguay. Primera División (Apertura)",
+        "hh": false
+       },
+       {
+        "d": 1632578400,
+        "h": "Sportivo Ameliano",
+        "a": "Club Sportivo San Lorenzo",
+        "s": [
+         3,
+         0
+        ],
+        "t": "Paraguay. División Intermedia",
+        "hh": false
+       },
+       {
+        "d": 1624132800,
+        "h": "Club Sportivo San Lorenzo",
+        "a": "Sportivo Ameliano",
+        "s": [
+         2,
+         0
+        ],
+        "t": "Paraguay. División Intermedia",
+        "hh": true
+       }
+      ],
+      "f1": [
+       {
+        "d": 1794254400,
+        "o": "Club Rubio Nu",
+        "gf": 2,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1793745000,
+        "o": "Club Nacional Asunción",
+        "gf": 2,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1793485800,
+        "o": "Club Libertad",
+        "gf": 2,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1792967400,
+        "o": "Cerro Porteno",
+        "gf": 1,
+        "ga": 3,
+        "dom": true
+       },
+       {
+        "d": 1792362000,
+        "o": "Sportivo Luqueño",
+        "gf": 2,
+        "ga": 3,
+        "dom": false
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795206600,
+        "o": "Sportivo Luqueño",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1794177000,
+        "o": "Sportivo Trinidense",
+        "gf": 0,
+        "ga": 3,
+        "dom": false
+       },
+       {
+        "d": 1793829600,
+        "o": "Club Guaraní",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793476800,
+        "o": "Recoleta",
+        "gf": 0,
+        "ga": 3,
+        "dom": false
+       },
+       {
+        "d": 1792933200,
+        "o": "Club Olimpia",
+        "gf": 2,
+        "ga": 3,
+        "dom": true
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "Paraguay. Primera División",
+     "home": "Club Libertad",
+     "away": "2 de Mayo",
+     "start": 1795993200,
+     "odds": {
+      "1": 1.694,
+      "X": 3.345,
+      "2": 5.54
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/4a5a8d6e5e87b7ce7adb4182cd7ddcb7.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/79a8f83e40956c2cc1459512950f9b70.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/55479-Paraguay-Primera-Division/397001374-Club-Libertad-2-de-Mayo",
+     "eid": 773650652,
+     "tid": 55479,
+     "coupon": {
+      "1": "L2K1L",
+      "X": "HDK1L",
+      "2": "6DK1L"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.117,
+       "12": 1.288,
+       "X2": 2.062
+      },
+      "ou25": {
+       "o": 1.825,
+       "u": 1.917
+      },
+      "btts": {
+       "y": 1.76,
+       "n": 1.938
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1789162200,
+        "h": "2 de Mayo",
+        "a": "Club Libertad",
+        "s": [
+         0,
+         2
+        ],
+        "t": "Paraguay. Primera División (Clausura)",
+        "hh": false
+       },
+       {
+        "d": 1778788800,
+        "h": "Club Libertad",
+        "a": "2 de Mayo",
+        "s": [
+         0,
+         0
+        ],
+        "t": "Paraguay. Primera División (Apertura)",
+        "hh": true
+       },
+       {
+        "d": 1773444600,
+        "h": "2 de Mayo",
+        "a": "Club Libertad",
+        "s": [
+         0,
+         2
+        ],
+        "t": "Paraguay. Primera División (Apertura)",
+        "hh": false
+       },
+       {
+        "d": 1758492000,
+        "h": "Club Libertad",
+        "a": "2 de Mayo",
+        "s": [
+         0,
+         1
+        ],
+        "t": "Paraguay. Primera División (Clausura)",
+        "hh": true
+       },
+       {
+        "d": 1752269400,
+        "h": "2 de Mayo",
+        "a": "Club Libertad",
+        "s": [
+         0,
+         0
+        ],
+        "t": "Paraguay. Primera División (Clausura)",
+        "hh": false
+       },
+       {
+        "d": 1748793600,
+        "h": "2 de Mayo",
+        "a": "Club Libertad",
+        "s": [
+         0,
+         1
+        ],
+        "t": "Paraguay. Primera División (Apertura)",
+        "hh": false
+       },
+       {
+        "d": 1743185700,
+        "h": "Club Libertad",
+        "a": "2 de Mayo",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Paraguay. Primera División (Apertura)",
+        "hh": true
+       },
+       {
+        "d": 1730667600,
+        "h": "2 de Mayo",
+        "a": "Club Libertad",
+        "s": [
+         2,
+         0
+        ],
+        "t": "Paraguay. Primera División (Apertura)",
+        "hh": false
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795381200,
+        "o": "Club Rubio Nu",
+        "gf": 2,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1794690000,
+        "o": "Recoleta",
+        "gf": 1,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1794090600,
+        "o": "Club Nacional Asunción",
+        "gf": 3,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1793829600,
+        "o": "Cerro Porteno",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793485800,
+        "o": "Club Sportivo San Lorenzo",
+        "gf": 1,
+        "ga": 2,
+        "dom": false
+       }
+      ],
+      "f2": [
+       {
+        "d": 1794263400,
+        "o": "Sportivo Luqueño",
+        "gf": 0,
+        "ga": 3,
+        "dom": false
+       },
+       {
+        "d": 1793736000,
+        "o": "Sportivo Trinidense",
+        "gf": 0,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1793399400,
+        "o": "Club Guaraní",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1792880400,
+        "o": "Recoleta",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1792275600,
+        "o": "Club Olimpia",
+        "gf": 0,
+        "ga": 3,
         "dom": false
        }
       ]

@@ -1,13 +1,42 @@
 {
- "updated": "2026-11-24T02:42:08+00:00",
+ "updated": "2026-11-24T14:27:14+00:00",
  "backfilled": [
   1706694,
   2905343,
   125983,
   2479360,
-  1786993
+  1786993,
+  1174103
  ],
  "matches": [
+  {
+   "id": 664849730,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mara Sugar",
+   "away": "Bidco United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1761303600,
+   "group": "liga"
+  },
+  {
+   "id": 665155826,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kakamega Homeboyz",
+   "away": "Ulinzi Stars",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1761390000,
+   "group": "liga"
+  },
   {
    "id": 665175455,
    "tid": 1786993,
@@ -51,6 +80,48 @@
    "group": "liga"
   },
   {
+   "id": 665175023,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kariobangi Sharks",
+   "away": "APS Bomet",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1761393600,
+   "group": "liga"
+  },
+  {
+   "id": 665193675,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1761397200,
+   "group": "liga"
+  },
+  {
+   "id": 665483826,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Shabana",
+   "away": "Mathare United",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1761476400,
+   "group": "liga"
+  },
+  {
    "id": 665501509,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -79,6 +150,34 @@
    "group": "liga"
   },
   {
+   "id": 665501244,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Muranga Seal",
+   "away": "Tusker",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1761480000,
+   "group": "liga"
+  },
+  {
+   "id": 665518808,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "Posta Rangers",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (0:0,3:0)",
+   "start": 1761483600,
+   "group": "liga"
+  },
+  {
    "id": 666043796,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -89,6 +188,20 @@
     2
    ],
    "detail": "2:2 (1:1,1:1)",
+   "start": 1761652800,
+   "group": "liga"
+  },
+  {
+   "id": 666043768,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Sofapaka",
+   "away": "Mara Sugar",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:0,2:2)",
    "start": 1761652800,
    "group": "liga"
   },
@@ -104,6 +217,34 @@
    ],
    "detail": "1:0 (0:0,1:0)",
    "start": 1761731100,
+   "group": "liga"
+  },
+  {
+   "id": 666322283,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Shabana",
+   "away": "AFC Leopards",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1761734700,
+   "group": "liga"
+  },
+  {
+   "id": 666323276,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "APS Bomet",
+   "away": "Kakamega Homeboyz",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1761735600,
    "group": "liga"
   },
   {
@@ -163,6 +304,20 @@
    "group": "liga"
   },
   {
+   "id": 666335589,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Tusker",
+   "away": "Kariobangi Sharks",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1761738300,
+   "group": "liga"
+  },
+  {
    "id": 666216652,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -205,6 +360,34 @@
    "group": "liga"
   },
   {
+   "id": 666351173,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Bidco United",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1761742800,
+   "group": "liga"
+  },
+  {
+   "id": 666606021,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Posta Rangers",
+   "away": "Muranga Seal",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (2:0,0:2)",
+   "start": 1761818400,
+   "group": "liga"
+  },
+  {
    "id": 666631134,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -233,6 +416,90 @@
    "group": "liga"
   },
   {
+   "id": 666643874,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "Gor Mahia",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1761828300,
+   "group": "liga"
+  },
+  {
+   "id": 667168238,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mara Sugar",
+   "away": "Bandari",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1761990300,
+   "group": "liga"
+  },
+  {
+   "id": 667196967,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Sofapaka",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1761998400,
+   "group": "liga"
+  },
+  {
+   "id": 667215165,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kariobangi Sharks",
+   "away": "Shabana",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762002000,
+   "group": "liga"
+  },
+  {
+   "id": 667506338,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bidco United",
+   "away": "APS Bomet",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762081200,
+   "group": "liga"
+  },
+  {
+   "id": 667506365,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kakamega Homeboyz",
+   "away": "Tusker",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1762081200,
+   "group": "liga"
+  },
+  {
    "id": 667522130,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -244,6 +511,62 @@
    ],
    "detail": "3:2 (2:0,1:2)",
    "start": 1762084800,
+   "group": "liga"
+  },
+  {
+   "id": 667524851,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "Mathare United",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1762084800,
+   "group": "liga"
+  },
+  {
+   "id": 667522569,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Police",
+   "away": "Posta Rangers",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762084800,
+   "group": "liga"
+  },
+  {
+   "id": 667522122,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Muranga Seal",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1762084800,
+   "group": "liga"
+  },
+  {
+   "id": 667538870,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "Ulinzi Stars",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1762088400,
    "group": "liga"
   },
   {
@@ -303,6 +626,62 @@
    "group": "liga"
   },
   {
+   "id": 668056507,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Bandari",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1762256700,
+   "group": "liga"
+  },
+  {
+   "id": 668323702,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Police",
+   "away": "Sofapaka",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1762343100,
+   "group": "liga"
+  },
+  {
+   "id": 668883938,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bidco United",
+   "away": "Tusker",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1762519500,
+   "group": "liga"
+  },
+  {
+   "id": 669146554,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mara Sugar",
+   "away": "AFC Leopards",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1762596000,
+   "group": "liga"
+  },
+  {
    "id": 669160360,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -331,6 +710,62 @@
    "group": "liga"
   },
   {
+   "id": 669176671,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Kariobangi Sharks",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (3:1,1:1)",
+   "start": 1762603200,
+   "group": "liga"
+  },
+  {
+   "id": 669484031,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Shabana",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1762686000,
+   "group": "liga"
+  },
+  {
+   "id": 669485373,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kakamega Homeboyz",
+   "away": "Muranga Seal",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1762686000,
+   "group": "liga"
+  },
+  {
+   "id": 669485172,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "APS Bomet",
+   "away": "Mathare United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1762686000,
+   "group": "liga"
+  },
+  {
    "id": 669500978,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -345,6 +780,34 @@
    "group": "liga"
   },
   {
+   "id": 669500727,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bandari",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1762689600,
+   "group": "liga"
+  },
+  {
+   "id": 669515593,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Police",
+   "away": "Gor Mahia",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1762693200,
+   "group": "liga"
+  },
+  {
    "id": 669746091,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -356,6 +819,48 @@
    ],
    "detail": "2:1 (0:1,2:0)",
    "start": 1762767900,
+   "group": "liga"
+  },
+  {
+   "id": 669768740,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Sofapaka",
+   "away": "Posta Rangers",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1762776000,
+   "group": "liga"
+  },
+  {
+   "id": 670808544,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Commercial Bank SC",
+   "away": "Bidco United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1763125200,
+   "group": "liga"
+  },
+  {
+   "id": 671071783,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Posta Rangers",
+   "away": "Mara Sugar",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1763204400,
    "group": "liga"
   },
   {
@@ -384,6 +889,48 @@
    ],
    "detail": "0:2 (0:1,0:1)",
    "start": 1763208000,
+   "group": "liga"
+  },
+  {
+   "id": 671083897,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bandari",
+   "away": "Sofapaka",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1763208000,
+   "group": "liga"
+  },
+  {
+   "id": 671101005,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "Kakamega Homeboyz",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1763210700,
+   "group": "liga"
+  },
+  {
+   "id": 671377897,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Tusker",
+   "away": "Kenya Police",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1763290800,
    "group": "liga"
   },
   {
@@ -429,6 +976,34 @@
    "group": "liga"
   },
   {
+   "id": 671405398,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "Muranga Seal",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1763298000,
+   "group": "liga"
+  },
+  {
+   "id": 672147042,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "APS Bomet",
+   "away": "Ulinzi Stars",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1763546220,
+   "group": "liga"
+  },
+  {
    "id": 672950824,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -440,6 +1015,20 @@
    ],
    "detail": "2:0 (1:0,1:0)",
    "start": 1763805600,
+   "group": "liga"
+  },
+  {
+   "id": 672966880,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mara Sugar",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1763809200,
    "group": "liga"
   },
   {
@@ -471,6 +1060,62 @@
    "group": "liga"
   },
   {
+   "id": 672982350,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Police",
+   "away": "Mathare United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1763812800,
+   "group": "liga"
+  },
+  {
+   "id": 672982812,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "Tusker",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1763812800,
+   "group": "liga"
+  },
+  {
+   "id": 672981176,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bidco United",
+   "away": "Bandari",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1763812800,
+   "group": "liga"
+  },
+  {
+   "id": 673283174,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kakamega Homeboyz",
+   "away": "Posta Rangers",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1763895600,
+   "group": "liga"
+  },
+  {
    "id": 673300666,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -499,6 +1144,62 @@
    "group": "liga"
   },
   {
+   "id": 673300891,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Muranga Seal",
+   "away": "Shabana",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1763899200,
+   "group": "liga"
+  },
+  {
+   "id": 673300378,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kariobangi Sharks",
+   "away": "AFC Leopards",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1763899200,
+   "group": "liga"
+  },
+  {
+   "id": 673568849,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Sofapaka",
+   "away": "Ulinzi Stars",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:1,0:2)",
+   "start": 1763985600,
+   "group": "liga"
+  },
+  {
+   "id": 673824165,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "APS Bomet",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (1:2,0:2)",
+   "start": 1764075600,
+   "group": "liga"
+  },
+  {
    "id": 674077513,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -509,6 +1210,20 @@
     0
    ],
    "detail": "1:0 (0:0,1:0)",
+   "start": 1764158400,
+   "group": "liga"
+  },
+  {
+   "id": 674077431,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bidco United",
+   "away": "Kenya Police",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:2,2:1)",
    "start": 1764158400,
    "group": "liga"
   },
@@ -541,6 +1256,20 @@
    "group": "liga"
   },
   {
+   "id": 674866613,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mara Sugar",
+   "away": "Tusker",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1764414000,
+   "group": "liga"
+  },
+  {
    "id": 674880826,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -569,6 +1298,34 @@
    "group": "liga"
   },
   {
+   "id": 674568927,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "AFC Leopards",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1764417600,
+   "group": "liga"
+  },
+  {
+   "id": 674896228,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Sofapaka",
+   "away": "APS Bomet",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1764420300,
+   "group": "liga"
+  },
+  {
    "id": 675146391,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -594,6 +1351,20 @@
    ],
    "detail": "2:0 (2:0,0:0)",
    "start": 1764499500,
+   "group": "liga"
+  },
+  {
+   "id": 675165465,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Bandari",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1764500400,
    "group": "liga"
   },
   {
@@ -636,6 +1407,62 @@
    ],
    "detail": "0:1 (0:0,0:1)",
    "start": 1764504000,
+   "group": "liga"
+  },
+  {
+   "id": 675180657,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Muranga Seal",
+   "away": "Kariobangi Sharks",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1764504000,
+   "group": "liga"
+  },
+  {
+   "id": 675180957,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kakamega Homeboyz",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1764504000,
+   "group": "liga"
+  },
+  {
+   "id": 675195991,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Police",
+   "away": "Shabana",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1764507600,
+   "group": "liga"
+  },
+  {
+   "id": 675446953,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bidco United",
+   "away": "Posta Rangers",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1764594000,
    "group": "liga"
   },
   {
@@ -751,6 +1578,62 @@
    "group": "liga"
   },
   {
+   "id": 676199158,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Mathare United",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1764852300,
+   "group": "liga"
+  },
+  {
+   "id": 676446016,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Tusker",
+   "away": "Ulinzi Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1764936000,
+   "group": "liga"
+  },
+  {
+   "id": 676729753,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Shabana",
+   "away": "Bidco United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1765018800,
+   "group": "liga"
+  },
+  {
+   "id": 676759607,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kariobangi Sharks",
+   "away": "Kenya Police",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1765026000,
+   "group": "liga"
+  },
+  {
    "id": 677002843,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -849,6 +1732,90 @@
    "group": "liga"
   },
   {
+   "id": 677054036,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "APS Bomet",
+   "away": "Bandari",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1765108800,
+   "group": "liga"
+  },
+  {
+   "id": 677054324,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "AFC Leopards",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1765108800,
+   "group": "liga"
+  },
+  {
+   "id": 677054261,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Commercial Bank SC",
+   "away": "Sofapaka",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1765108800,
+   "group": "liga"
+  },
+  {
+   "id": 677336030,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "Mara Sugar",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1765197900,
+   "group": "liga"
+  },
+  {
+   "id": 677335839,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Posta Rangers",
+   "away": "Nairobi United",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1765197900,
+   "group": "liga"
+  },
+  {
+   "id": 678064517,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1765458000,
+   "group": "liga"
+  },
+  {
    "id": 678303328,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -877,6 +1844,34 @@
    "group": "liga"
   },
   {
+   "id": 678303370,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bidco United",
+   "away": "Mathare United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1765539900,
+   "group": "liga"
+  },
+  {
+   "id": 678305126,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "APS Bomet",
+   "away": "Posta Rangers",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1765540740,
+   "group": "liga"
+  },
+  {
    "id": 678302913,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -902,6 +1897,62 @@
    ],
    "detail": "0:0 (0:0,0:0)",
    "start": 1765540800,
+   "group": "liga"
+  },
+  {
+   "id": 678305933,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bandari",
+   "away": "Gor Mahia",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1765540800,
+   "group": "liga"
+  },
+  {
+   "id": 678305936,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kakamega Homeboyz",
+   "away": "Shabana",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1765540800,
+   "group": "liga"
+  },
+  {
+   "id": 678308513,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Muranga Seal",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1765544400,
+   "group": "liga"
+  },
+  {
+   "id": 678564550,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mara Sugar",
+   "away": "Kariobangi Sharks",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1765623600,
    "group": "liga"
   },
   {
@@ -961,6 +2012,20 @@
    "group": "liga"
   },
   {
+   "id": 678596468,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Police",
+   "away": "AFC Leopards",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1765630800,
+   "group": "liga"
+  },
+  {
    "id": 678865164,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -972,6 +2037,48 @@
    ],
    "detail": "1:0 (0:0,1:0)",
    "start": 1765713600,
+   "group": "liga"
+  },
+  {
+   "id": 678878464,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Sofapaka",
+   "away": "Tusker",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1765713600,
+   "group": "liga"
+  },
+  {
+   "id": 679344046,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Posta Rangers",
+   "away": "Bandari",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1765882800,
+   "group": "liga"
+  },
+  {
+   "id": 679368458,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Commercial Bank SC",
+   "away": "APS Bomet",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (1:2,3:0)",
+   "start": 1765890000,
    "group": "liga"
   },
   {
@@ -1000,6 +2107,34 @@
    ],
    "detail": "3:0 (2:0,1:0)",
    "start": 1765965600,
+   "group": "liga"
+  },
+  {
+   "id": 679591714,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Tusker",
+   "away": "Nairobi United",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1765969200,
+   "group": "liga"
+  },
+  {
+   "id": 679592556,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Shabana",
+   "away": "Mara Sugar",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1765969200,
    "group": "liga"
   },
   {
@@ -1073,6 +2208,48 @@
    "group": "liga"
   },
   {
+   "id": 679603162,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "Sofapaka",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1765972800,
+   "group": "liga"
+  },
+  {
+   "id": 679616219,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "Kakamega Homeboyz",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1765976400,
+   "group": "liga"
+  },
+  {
+   "id": 679851502,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kariobangi Sharks",
+   "away": "Bidco United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1766055600,
+   "group": "liga"
+  },
+  {
    "id": 679863429,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -1084,6 +2261,62 @@
    ],
    "detail": "2:1 (1:0,1:1)",
    "start": 1766059200,
+   "group": "liga"
+  },
+  {
+   "id": 679864755,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Muranga Seal",
+   "away": "Kenya Police",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1766059200,
+   "group": "liga"
+  },
+  {
+   "id": 679875293,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "Ulinzi Stars",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1766062800,
+   "group": "liga"
+  },
+  {
+   "id": 679856158,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Sofapaka",
+   "away": "Kariobangi Sharks",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1766149200,
+   "group": "liga"
+  },
+  {
+   "id": 680379209,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Commercial Bank SC",
+   "away": "Shabana",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:2,1:1)",
+   "start": 1766228400,
    "group": "liga"
   },
   {
@@ -1112,6 +2345,48 @@
    ],
    "detail": "0:0 (0:0)",
    "start": 1766232000,
+   "group": "liga"
+  },
+  {
+   "id": 680098873,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Posta Rangers",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1766232000,
+   "group": "liga"
+  },
+  {
+   "id": 680122387,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bidco United",
+   "away": "AFC Leopards",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1766235600,
+   "group": "liga"
+  },
+  {
+   "id": 680677657,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "APS Bomet",
+   "away": "Tusker",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1766314800,
    "group": "liga"
   },
   {
@@ -1185,6 +2460,62 @@
    "group": "liga"
   },
   {
+   "id": 680693870,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bandari",
+   "away": "Mathare United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1766318400,
+   "group": "liga"
+  },
+  {
+   "id": 680707816,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Gor Mahia",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1766322000,
+   "group": "liga"
+  },
+  {
+   "id": 680928476,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mara Sugar",
+   "away": "Muranga Seal",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:2,0:1)",
+   "start": 1766397600,
+   "group": "liga"
+  },
+  {
+   "id": 680938354,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Sofapaka",
+   "away": "Kariobangi Sharks",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1766401200,
+   "group": "liga"
+  },
+  {
    "id": 680949583,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -1196,6 +2527,90 @@
    ],
    "detail": "1:0 (1:0,0:0)",
    "start": 1766404800,
+   "group": "liga"
+  },
+  {
+   "id": 680950132,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kakamega Homeboyz",
+   "away": "Kenya Police",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:2,2:0)",
+   "start": 1766404800,
+   "group": "liga"
+  },
+  {
+   "id": 680960236,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Posta Rangers",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1766408400,
+   "group": "liga"
+  },
+  {
+   "id": 681170814,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bidco United",
+   "away": "AFC Leopards",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1766490300,
+   "group": "liga"
+  },
+  {
+   "id": 683914392,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Shabana",
+   "away": "Nairobi United",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:2,1:1)",
+   "start": 1767524400,
+   "group": "liga"
+  },
+  {
+   "id": 683943239,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "Kakamega Homeboyz",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1767530700,
+   "group": "liga"
+  },
+  {
+   "id": 684453697,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kariobangi Sharks",
+   "away": "Gor Mahia",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (0:2,1:2)",
+   "start": 1767704400,
    "group": "liga"
   },
   {
@@ -1227,6 +2642,20 @@
    "group": "liga"
   },
   {
+   "id": 684720469,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "AFC Leopards",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1767790800,
+   "group": "liga"
+  },
+  {
    "id": 685235845,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -1238,6 +2667,34 @@
    ],
    "detail": "2:1 (2:1,0:0)",
    "start": 1767959100,
+   "group": "liga"
+  },
+  {
+   "id": 685237334,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Commercial Bank SC",
+   "away": "Kenya Police",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1767960000,
+   "group": "liga"
+  },
+  {
+   "id": 685248681,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Sofapaka",
+   "away": "Bidco United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1767962700,
    "group": "liga"
   },
   {
@@ -1269,6 +2726,48 @@
    "group": "liga"
   },
   {
+   "id": 685525066,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "APS Bomet",
+   "away": "Mara Sugar",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1768046400,
+   "group": "liga"
+  },
+  {
+   "id": 685525406,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bandari",
+   "away": "Kakamega Homeboyz",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1768046400,
+   "group": "liga"
+  },
+  {
+   "id": 685525124,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "Muranga Seal",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1768046400,
+   "group": "liga"
+  },
+  {
    "id": 685785232,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -1280,6 +2779,34 @@
    ],
    "detail": "2:1 (0:1,2:0)",
    "start": 1768117500,
+   "group": "liga"
+  },
+  {
+   "id": 685825935,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Shabana",
+   "away": "Gor Mahia",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1768129200,
+   "group": "liga"
+  },
+  {
+   "id": 685826400,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Posta Rangers",
+   "away": "Kariobangi Sharks",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1768129200,
    "group": "liga"
   },
   {
@@ -1325,6 +2852,20 @@
    "group": "liga"
   },
   {
+   "id": 685841953,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Nairobi United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1768131900,
+   "group": "liga"
+  },
+  {
    "id": 685842811,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -1353,6 +2894,20 @@
    "group": "liga"
   },
   {
+   "id": 685857253,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Tusker",
+   "away": "AFC Leopards",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:2,0:2)",
+   "start": 1768136400,
+   "group": "liga"
+  },
+  {
    "id": 686122218,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -1364,6 +2919,76 @@
    ],
    "detail": "1:4 (0:0,1:4)",
    "start": 1768219200,
+   "group": "liga"
+  },
+  {
+   "id": 686637577,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Police",
+   "away": "Mara Sugar",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1768388400,
+   "group": "liga"
+  },
+  {
+   "id": 686665756,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "Muranga Seal",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (0:2,3:0)",
+   "start": 1768395600,
+   "group": "liga"
+  },
+  {
+   "id": 686948779,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Commercial Bank SC",
+   "away": "Nairobi United",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1768481100,
+   "group": "liga"
+  },
+  {
+   "id": 687226985,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "Ulinzi Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1768568400,
+   "group": "liga"
+  },
+  {
+   "id": 687497365,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Shabana",
+   "away": "Sofapaka",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1768647600,
    "group": "liga"
   },
   {
@@ -1381,6 +3006,20 @@
    "group": "liga"
   },
   {
+   "id": 687511536,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Tusker",
+   "away": "Bandari",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1768651200,
+   "group": "liga"
+  },
+  {
    "id": 687529732,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -1391,6 +3030,20 @@
     4
    ],
    "detail": "2:4 (1:2,1:2)",
+   "start": 1768654800,
+   "group": "liga"
+  },
+  {
+   "id": 687529778,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "APS Bomet",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
    "start": 1768654800,
    "group": "liga"
   },
@@ -1423,6 +3076,34 @@
    "group": "liga"
   },
   {
+   "id": 687844784,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Muranga Seal",
+   "away": "Bidco United",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1768736700,
+   "group": "liga"
+  },
+  {
+   "id": 687844549,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kakamega Homeboyz",
+   "away": "Kariobangi Sharks",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1768736700,
+   "group": "liga"
+  },
+  {
    "id": 687860171,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -1437,6 +3118,62 @@
    "group": "liga"
   },
   {
+   "id": 687859979,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "Mara Sugar",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1768741200,
+   "group": "liga"
+  },
+  {
+   "id": 688153109,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Police",
+   "away": "Nairobi United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1768827600,
+   "group": "liga"
+  },
+  {
+   "id": 688405081,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Posta Rangers",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1768910400,
+   "group": "liga"
+  },
+  {
+   "id": 688965661,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kariobangi Sharks",
+   "away": "Ulinzi Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1769169600,
+   "group": "liga"
+  },
+  {
    "id": 689588436,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -1448,6 +3185,48 @@
    ],
    "detail": "1:1 (0:1,1:0)",
    "start": 1769248800,
+   "group": "liga"
+  },
+  {
+   "id": 689604262,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mara Sugar",
+   "away": "Kenya Police",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1769251500,
+   "group": "liga"
+  },
+  {
+   "id": 689604222,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "APS Bomet",
+   "away": "Shabana",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (1:1,2:2)",
+   "start": 1769251500,
+   "group": "liga"
+  },
+  {
+   "id": 689604287,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bandari",
+   "away": "Kariobangi Sharks",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1769252400,
    "group": "liga"
   },
   {
@@ -1479,6 +3258,34 @@
    "group": "liga"
   },
   {
+   "id": 689619405,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Posta Rangers",
+   "away": "Mathare United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1769256000,
+   "group": "liga"
+  },
+  {
+   "id": 689636650,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bidco United",
+   "away": "Gor Mahia",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1769258700,
+   "group": "liga"
+  },
+  {
    "id": 689953861,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -1507,6 +3314,62 @@
    "group": "liga"
   },
   {
+   "id": 689953987,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Commercial Bank SC",
+   "away": "Tusker",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1769342400,
+   "group": "liga"
+  },
+  {
+   "id": 689953891,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Muranga Seal",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1769342400,
+   "group": "liga"
+  },
+  {
+   "id": 689969695,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Sofapaka",
+   "away": "AFC Leopards",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1769346000,
+   "group": "liga"
+  },
+  {
+   "id": 690758067,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bandari",
+   "away": "Kenya Police",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1769598000,
+   "group": "liga"
+  },
+  {
    "id": 690776413,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -1521,6 +3384,48 @@
    "group": "liga"
   },
   {
+   "id": 690424054,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "APS Bomet",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1769601600,
+   "group": "liga"
+  },
+  {
+   "id": 691631795,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kakamega Homeboyz",
+   "away": "Mara Sugar",
+   "score": [
+    3,
+    3
+   ],
+   "detail": "3:3 (1:1,2:2)",
+   "start": 1769856300,
+   "group": "liga"
+  },
+  {
+   "id": 691632576,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1769857200,
+   "group": "liga"
+  },
+  {
    "id": 691649539,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -1531,6 +3436,20 @@
     0
    ],
    "detail": "1:0 (0:0,1:0)",
+   "start": 1769860800,
+   "group": "liga"
+  },
+  {
+   "id": 691649502,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Tusker",
+   "away": "Posta Rangers",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
    "start": 1769860800,
    "group": "liga"
   },
@@ -1563,6 +3482,20 @@
    "group": "liga"
   },
   {
+   "id": 691665880,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "Sofapaka",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (3:0,0:0)",
+   "start": 1769864400,
+   "group": "liga"
+  },
+  {
    "id": 691954275,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -1574,6 +3507,34 @@
    ],
    "detail": "2:1 (0:0,2:1)",
    "start": 1769940000,
+   "group": "liga"
+  },
+  {
+   "id": 691967316,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kariobangi Sharks",
+   "away": "Ulinzi Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1769942700,
+   "group": "liga"
+  },
+  {
+   "id": 691967263,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Shabana",
+   "away": "Bandari",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1769943600,
    "group": "liga"
   },
   {
@@ -1633,6 +3594,76 @@
    "group": "liga"
   },
   {
+   "id": 691985459,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Muranga Seal",
+   "away": "APS Bomet",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1769947200,
+   "group": "liga"
+  },
+  {
+   "id": 692285908,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Police",
+   "away": "Bidco United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1770037200,
+   "group": "liga"
+  },
+  {
+   "id": 692806504,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "APS Bomet",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1770206400,
+   "group": "liga"
+  },
+  {
+   "id": 693911747,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Mara Sugar",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1770642000,
+   "group": "liga"
+  },
+  {
+   "id": 695315781,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bidco United",
+   "away": "Kakamega Homeboyz",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (0:2,1:2)",
+   "start": 1770984000,
+   "group": "liga"
+  },
+  {
    "id": 695552804,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -1644,6 +3675,20 @@
    ],
    "detail": "3:1 (1:0,2:1)",
    "start": 1771056000,
+   "group": "liga"
+  },
+  {
+   "id": 695593086,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bandari",
+   "away": "AFC Leopards",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1771066800,
    "group": "liga"
   },
   {
@@ -1661,6 +3706,34 @@
    "group": "liga"
   },
   {
+   "id": 695622198,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "Tusker",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:1,3:0)",
+   "start": 1771074000,
+   "group": "liga"
+  },
+  {
+   "id": 695622230,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Posta Rangers",
+   "away": "Shabana",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1771074000,
+   "group": "liga"
+  },
+  {
    "id": 695889205,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -1675,6 +3748,20 @@
    "group": "liga"
   },
   {
+   "id": 695903075,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "APS Bomet",
+   "away": "Gor Mahia",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1771153200,
+   "group": "liga"
+  },
+  {
    "id": 695920287,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -1686,6 +3773,132 @@
    ],
    "detail": "2:2 (1:1,1:1)",
    "start": 1771156800,
+   "group": "liga"
+  },
+  {
+   "id": 695919717,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Commercial Bank SC",
+   "away": "Kariobangi Sharks",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1771156800,
+   "group": "liga"
+  },
+  {
+   "id": 695920290,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Sofapaka",
+   "away": "Muranga Seal",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:2,1:1)",
+   "start": 1771156800,
+   "group": "liga"
+  },
+  {
+   "id": 695934768,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Kenya Police",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1771160400,
+   "group": "liga"
+  },
+  {
+   "id": 696378262,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Sofapaka",
+   "away": "Kenya Police",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1771416000,
+   "group": "liga"
+  },
+  {
+   "id": 696372370,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Kakamega Homeboyz",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1771416000,
+   "group": "liga"
+  },
+  {
+   "id": 696558358,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Mara Sugar",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1771416000,
+   "group": "liga"
+  },
+  {
+   "id": 696378266,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "Shabana",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1771426800,
+   "group": "liga"
+  },
+  {
+   "id": 696994740,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Commercial Bank SC",
+   "away": "AFC Leopards",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1771505729,
+   "group": "liga"
+  },
+  {
+   "id": 697230005,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kakamega Homeboyz",
+   "away": "Sofapaka",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1771581600,
    "group": "liga"
   },
   {
@@ -1717,6 +3930,20 @@
    "group": "liga"
   },
   {
+   "id": 697267802,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kariobangi Sharks",
+   "away": "Mathare United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1771592400,
+   "group": "liga"
+  },
+  {
    "id": 697529110,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -1728,6 +3955,20 @@
    ],
    "detail": "0:2 (0:0,0:2)",
    "start": 1771668000,
+   "group": "liga"
+  },
+  {
+   "id": 697544201,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Shabana",
+   "away": "Tusker",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1771671600,
    "group": "liga"
   },
   {
@@ -1745,6 +3986,62 @@
    "group": "liga"
   },
   {
+   "id": 697544203,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kariobangi Sharks",
+   "away": "Mathare United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1771675200,
+   "group": "liga"
+  },
+  {
+   "id": 697558224,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Muranga Seal",
+   "away": "Bandari Kenya",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:1,2:2)",
+   "start": 1771675200,
+   "group": "liga"
+  },
+  {
+   "id": 697559180,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Bidco United",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1771675200,
+   "group": "liga"
+  },
+  {
+   "id": 697575808,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "Posta Rangers",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1771678800,
+   "group": "liga"
+  },
+  {
    "id": 697879027,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -1755,6 +4052,34 @@
     1
    ],
    "detail": "0:1 (0:1,0:0)",
+   "start": 1771758000,
+   "group": "liga"
+  },
+  {
+   "id": 697875966,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mara Sugar",
+   "away": "Ulinzi Stars",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1771758000,
+   "group": "liga"
+  },
+  {
+   "id": 697875951,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Police",
+   "away": "APS Bomet",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
    "start": 1771758000,
    "group": "liga"
   },
@@ -1784,6 +4109,132 @@
    ],
    "detail": "2:1 (1:1,1:0)",
    "start": 1771761600,
+   "group": "liga"
+  },
+  {
+   "id": 697909119,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (3:0,0:0)",
+   "start": 1771765200,
+   "group": "liga"
+  },
+  {
+   "id": 698675170,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Tusker",
+   "away": "Muranga Seal",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1772017200,
+   "group": "liga"
+  },
+  {
+   "id": 698676403,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bandari Kenya",
+   "away": "Nairobi United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1772017200,
+   "group": "liga"
+  },
+  {
+   "id": 698704439,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "Shabana",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1772025300,
+   "group": "liga"
+  },
+  {
+   "id": 698944017,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Sofapaka",
+   "away": "Kenya Police",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1772100000,
+   "group": "liga"
+  },
+  {
+   "id": 698956042,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "APS Bomet",
+   "away": "Kariobangi Sharks",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1772103600,
+   "group": "liga"
+  },
+  {
+   "id": 698956041,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bidco United",
+   "away": "Mara Sugar",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:0,2:2)",
+   "start": 1772103600,
+   "group": "liga"
+  },
+  {
+   "id": 698956045,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Kakamega Homeboyz",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1772103600,
+   "group": "liga"
+  },
+  {
+   "id": 698980681,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Commercial Bank SC",
+   "away": "AFC Leopards",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1772110800,
    "group": "liga"
   },
   {
@@ -1857,6 +4308,34 @@
    "group": "liga"
   },
   {
+   "id": 699552892,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "Mathare United",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1772283600,
+   "group": "liga"
+  },
+  {
+   "id": 699825883,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Police",
+   "away": "Bandari Kenya",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1772359200,
+   "group": "liga"
+  },
+  {
    "id": 699852188,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -1896,6 +4375,118 @@
    ],
    "detail": "0:0 (0:0,0:0)",
    "start": 1772366400,
+   "group": "liga"
+  },
+  {
+   "id": 699855701,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Muranga Seal",
+   "away": "Posta Rangers",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1772366400,
+   "group": "liga"
+  },
+  {
+   "id": 699870810,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "Shabana",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (2:0,3:1)",
+   "start": 1772370000,
+   "group": "liga"
+  },
+  {
+   "id": 700125893,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mara Sugar",
+   "away": "Sofapaka",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1772449200,
+   "group": "liga"
+  },
+  {
+   "id": 700125895,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bidco United",
+   "away": "Ulinzi Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1772449200,
+   "group": "liga"
+  },
+  {
+   "id": 700125896,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kakamega Homeboyz",
+   "away": "APS Bomet",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1772449200,
+   "group": "liga"
+  },
+  {
+   "id": 700153716,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kariobangi Sharks",
+   "away": "Tusker",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1772457300,
+   "group": "liga"
+  },
+  {
+   "id": 700657115,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1772625600,
+   "group": "liga"
+  },
+  {
+   "id": 700953292,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Posta Rangers",
+   "away": "Gor Mahia",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1772715600,
    "group": "liga"
   },
   {
@@ -1997,6 +4588,20 @@
    "group": "liga"
   },
   {
+   "id": 703221464,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Posta Rangers",
+   "away": "Kenya Police",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1773403200,
+   "group": "liga"
+  },
+  {
    "id": 702916817,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -2008,6 +4613,48 @@
    ],
    "detail": "3:1 (1:1,2:0)",
    "start": 1773482400,
+   "group": "liga"
+  },
+  {
+   "id": 703503871,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Sofapaka",
+   "away": "Nairobi United",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1773482400,
+   "group": "liga"
+  },
+  {
+   "id": 703519510,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "APS Bomet",
+   "away": "Bidco United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1773486000,
+   "group": "liga"
+  },
+  {
+   "id": 703519509,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bandari Kenya",
+   "away": "Mara Sugar",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1773486000,
    "group": "liga"
   },
   {
@@ -2025,6 +4672,20 @@
    "group": "liga"
   },
   {
+   "id": 703544370,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "AFC Leopards",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (0:0,4:1)",
+   "start": 1773491400,
+   "group": "liga"
+  },
+  {
    "id": 703837754,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -2036,6 +4697,76 @@
    ],
    "detail": "2:0 (1:0,1:0)",
    "start": 1773568800,
+   "group": "liga"
+  },
+  {
+   "id": 703852526,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Tusker",
+   "away": "Kakamega Homeboyz",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1773572400,
+   "group": "liga"
+  },
+  {
+   "id": 703852516,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Shabana",
+   "away": "Kariobangi Sharks",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1773572400,
+   "group": "liga"
+  },
+  {
+   "id": 703870422,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Commercial Bank SC",
+   "away": "Muranga Seal",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1773576000,
+   "group": "liga"
+  },
+  {
+   "id": 703878402,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Gor Mahia",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:1,1:2)",
+   "start": 1773577800,
+   "group": "liga"
+  },
+  {
+   "id": 704681366,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "Nairobi United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1773835200,
    "group": "liga"
   },
   {
@@ -2063,6 +4794,34 @@
     2
    ],
    "detail": "3:2 (3:0,0:2)",
+   "start": 1774090800,
+   "group": "liga"
+  },
+  {
+   "id": 705546596,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mara Sugar",
+   "away": "APS Bomet",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1774090800,
+   "group": "liga"
+  },
+  {
+   "id": 705546607,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bidco United",
+   "away": "Sofapaka",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
    "start": 1774090800,
    "group": "liga"
   },
@@ -2095,6 +4854,62 @@
    "group": "liga"
   },
   {
+   "id": 705562795,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Police",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1774094400,
+   "group": "liga"
+  },
+  {
+   "id": 705578429,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "Shabana",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1774098000,
+   "group": "liga"
+  },
+  {
+   "id": 705873824,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kariobangi Sharks",
+   "away": "Posta Rangers",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1774173600,
+   "group": "liga"
+  },
+  {
+   "id": 705887966,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kakamega Homeboyz",
+   "away": "Bandari Kenya",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1774177200,
+   "group": "liga"
+  },
+  {
    "id": 705904705,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -2106,6 +4921,48 @@
    ],
    "detail": "1:0 (0:0,1:0)",
    "start": 1774180800,
+   "group": "liga"
+  },
+  {
+   "id": 705904700,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Muranga Seal",
+   "away": "Mathare United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1774180800,
+   "group": "liga"
+  },
+  {
+   "id": 705912545,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Ulinzi Stars",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1774182600,
+   "group": "liga"
+  },
+  {
+   "id": 705919827,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "Tusker",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1774184400,
    "group": "liga"
   },
   {
@@ -2137,6 +4994,48 @@
    "group": "liga"
   },
   {
+   "id": 707583964,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bandari Kenya",
+   "away": "Bidco United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1774695600,
+   "group": "liga"
+  },
+  {
+   "id": 707583971,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "APS Bomet",
+   "away": "Nairobi United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1774695600,
+   "group": "liga"
+  },
+  {
+   "id": 707315543,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "APS Bomet",
+   "away": "Nairobi United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1774695600,
+   "group": "liga"
+  },
+  {
    "id": 707599370,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -2147,6 +5046,20 @@
     3
    ],
    "detail": "3:3 (1:1,2:2)",
+   "start": 1774699200,
+   "group": "liga"
+  },
+  {
+   "id": 707599359,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Commercial Bank SC",
+   "away": "Mara Sugar",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
    "start": 1774699200,
    "group": "liga"
   },
@@ -2162,6 +5075,20 @@
    ],
    "detail": "1:1 (0:0,1:1)",
    "start": 1774702800,
+   "group": "liga"
+  },
+  {
+   "id": 707621312,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Posta Rangers",
+   "away": "Kakamega Homeboyz",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1774703700,
    "group": "liga"
   },
   {
@@ -2207,6 +5134,34 @@
    "group": "liga"
   },
   {
+   "id": 707919714,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Shabana",
+   "away": "Muranga Seal",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1774782000,
+   "group": "liga"
+  },
+  {
+   "id": 707933673,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Sofapaka",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1774785600,
+   "group": "liga"
+  },
+  {
    "id": 707948406,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -2221,6 +5176,48 @@
    "group": "liga"
   },
   {
+   "id": 707956360,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "Kariobangi Sharks",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1774790100,
+   "group": "liga"
+  },
+  {
+   "id": 708722785,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Mara Sugar",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1775041200,
+   "group": "liga"
+  },
+  {
+   "id": 708668998,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "Kenya Police",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1775127600,
+   "group": "liga"
+  },
+  {
    "id": 709300480,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -2231,6 +5228,20 @@
     1
    ],
    "detail": "3:1 (2:1,1:0)",
+   "start": 1775214000,
+   "group": "liga"
+  },
+  {
+   "id": 709304092,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Sofapaka",
+   "away": "Bandari Kenya",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
    "start": 1775214000,
    "group": "liga"
   },
@@ -2277,6 +5288,62 @@
    "group": "liga"
   },
   {
+   "id": 709335484,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Police",
+   "away": "Tusker",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1775222100,
+   "group": "liga"
+  },
+  {
+   "id": 709596089,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "APS Bomet",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1775296800,
+   "group": "liga"
+  },
+  {
+   "id": 709627663,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kakamega Homeboyz",
+   "away": "Mathare United",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1775304000,
+   "group": "liga"
+  },
+  {
+   "id": 709630122,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "Kariobangi Sharks",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1775304900,
+   "group": "liga"
+  },
+  {
    "id": 709904938,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -2288,6 +5355,20 @@
    ],
    "detail": "4:0 (2:0,2:0)",
    "start": 1775383200,
+   "group": "liga"
+  },
+  {
+   "id": 709919411,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Muranga Seal",
+   "away": "AFC Leopards",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1775386800,
    "group": "liga"
   },
   {
@@ -2305,6 +5386,48 @@
    "group": "liga"
   },
   {
+   "id": 709933803,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bidco United",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1775390400,
+   "group": "liga"
+  },
+  {
+   "id": 709953142,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Shabana",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1775394900,
+   "group": "liga"
+  },
+  {
+   "id": 710189082,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mara Sugar",
+   "away": "Posta Rangers",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1775473200,
+   "group": "liga"
+  },
+  {
    "id": 710202706,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -2316,6 +5439,34 @@
    ],
    "detail": "2:1 (1:0,1:1)",
    "start": 1775476800,
+   "group": "liga"
+  },
+  {
+   "id": 710473495,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "Kenya Police",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1775646000,
+   "group": "liga"
+  },
+  {
+   "id": 710768158,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Kakamega Homeboyz",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:2,1:0)",
+   "start": 1775653200,
    "group": "liga"
   },
   {
@@ -2431,6 +5582,76 @@
    "group": "liga"
   },
   {
+   "id": 712510137,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "Kenya Police",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1776164400,
+   "group": "liga"
+  },
+  {
+   "id": 712539147,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Tusker",
+   "away": "Gor Mahia",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1776172500,
+   "group": "liga"
+  },
+  {
+   "id": 713641708,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kariobangi Sharks",
+   "away": "Mara Sugar",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1776506400,
+   "group": "liga"
+  },
+  {
+   "id": 713656862,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Shabana",
+   "away": "Kakamega Homeboyz",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1776510000,
+   "group": "liga"
+  },
+  {
+   "id": 713656845,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "Bidco United",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1776510000,
+   "group": "liga"
+  },
+  {
    "id": 713673356,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -2441,6 +5662,34 @@
     2
    ],
    "detail": "1:2 (0:1,1:1)",
+   "start": 1776513600,
+   "group": "liga"
+  },
+  {
+   "id": 713673333,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Tusker",
+   "away": "Sofapaka",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1776513600,
+   "group": "liga"
+  },
+  {
+   "id": 713674324,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "Kenya Police",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:3,0:0)",
    "start": 1776513600,
    "group": "liga"
   },
@@ -2459,6 +5708,20 @@
    "group": "liga"
   },
   {
+   "id": 713692491,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Commercial Bank SC",
+   "away": "Ulinzi Stars",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:2,2:1)",
+   "start": 1776517200,
+   "group": "liga"
+  },
+  {
    "id": 713994533,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -2469,6 +5732,20 @@
     0
    ],
    "detail": "1:0 (1:0,0:0)",
+   "start": 1776596400,
+   "group": "liga"
+  },
+  {
+   "id": 713991741,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Posta Rangers",
+   "away": "APS Bomet",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
    "start": 1776596400,
    "group": "liga"
   },
@@ -2515,6 +5792,62 @@
    "group": "liga"
   },
   {
+   "id": 714008147,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Muranga Seal",
+   "away": "Nairobi United",
+   "score": [
+    2,
+    4
+   ],
+   "detail": "2:4 (2:3,0:1)",
+   "start": 1776600000,
+   "group": "liga"
+  },
+  {
+   "id": 714030174,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "Bandari Kenya",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1776604500,
+   "group": "liga"
+  },
+  {
+   "id": 715374902,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Tusker",
+   "away": "Mara Sugar",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1777028400,
+   "group": "liga"
+  },
+  {
+   "id": 715404402,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Posta Rangers",
+   "away": "Bidco United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1777035600,
+   "group": "liga"
+  },
+  {
    "id": 715673100,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -2543,6 +5876,48 @@
    "group": "liga"
   },
   {
+   "id": 715688791,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bandari Kenya",
+   "away": "Ulinzi Stars",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1777114800,
+   "group": "liga"
+  },
+  {
+   "id": 715688806,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Shabana",
+   "away": "Kenya Police",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1777114800,
+   "group": "liga"
+  },
+  {
+   "id": 715688811,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "Nairobi United",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1777114800,
+   "group": "liga"
+  },
+  {
    "id": 715707016,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -2557,6 +5932,20 @@
    "group": "liga"
   },
   {
+   "id": 715707013,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kariobangi Sharks",
+   "away": "Muranga Seal",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1777118400,
+   "group": "liga"
+  },
+  {
    "id": 716020774,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -2567,6 +5956,20 @@
     4
    ],
    "detail": "0:4 (0:3,0:1)",
+   "start": 1777201200,
+   "group": "liga"
+  },
+  {
+   "id": 716020775,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "APS Bomet",
+   "away": "Sofapaka",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
    "start": 1777201200,
    "group": "liga"
   },
@@ -2595,6 +5998,34 @@
     2
    ],
    "detail": "0:2 (0:1,0:1)",
+   "start": 1777204800,
+   "group": "liga"
+  },
+  {
+   "id": 716035366,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Commercial Bank SC",
+   "away": "Kakamega Homeboyz",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1777204800,
+   "group": "liga"
+  },
+  {
+   "id": 716035282,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "Gor Mahia",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
    "start": 1777204800,
    "group": "liga"
   },
@@ -2641,11 +6072,39 @@
    "group": "liga"
   },
   {
+   "id": 717721095,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Sofapaka",
+   "away": "Mathare United",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1777723200,
+   "group": "liga"
+  },
+  {
    "id": 718015030,
    "tid": 1786993,
    "tname": "Kenya. Super League",
    "home": "Mombasa United",
    "away": "Migori Youth",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1777806000,
+   "group": "liga"
+  },
+  {
+   "id": 718015011,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bidco United",
+   "away": "Kariobangi Sharks",
    "score": [
     0,
     0
@@ -2669,6 +6128,48 @@
    "group": "liga"
   },
   {
+   "id": 718035178,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kakamega Homeboyz",
+   "away": "Gor Mahia",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1777809600,
+   "group": "liga"
+  },
+  {
+   "id": 718797448,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bandari Kenya",
+   "away": "Posta Rangers",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1778065200,
+   "group": "liga"
+  },
+  {
+   "id": 718797366,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Police",
+   "away": "Muranga Seal",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1778065200,
+   "group": "liga"
+  },
+  {
    "id": 718809628,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -2680,6 +6181,48 @@
    ],
    "detail": "2:0 (1:0,1:0)",
    "start": 1778068800,
+   "group": "liga"
+  },
+  {
+   "id": 718800541,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "APS Bomet",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1778068800,
+   "group": "liga"
+  },
+  {
+   "id": 718823252,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Tusker",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1778072400,
+   "group": "liga"
+  },
+  {
+   "id": 719638431,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Shabana",
+   "away": "Ulinzi Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1778324400,
    "group": "liga"
   },
   {
@@ -2725,6 +6268,20 @@
    "group": "liga"
   },
   {
+   "id": 719675443,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "Mara Sugar",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1778332500,
+   "group": "liga"
+  },
+  {
    "id": 719932388,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -2739,6 +6296,118 @@
    "group": "liga"
   },
   {
+   "id": 719932369,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "APS Bomet",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1778407200,
+   "group": "liga"
+  },
+  {
+   "id": 719949650,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kariobangi Sharks",
+   "away": "Nairobi United",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1778410800,
+   "group": "liga"
+  },
+  {
+   "id": 719970890,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Muranga Seal",
+   "away": "Kakamega Homeboyz",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1778414400,
+   "group": "liga"
+  },
+  {
+   "id": 719967608,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Commercial Bank SC",
+   "away": "Bandari Kenya",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1778415300,
+   "group": "liga"
+  },
+  {
+   "id": 719979823,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "Kenya Police",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1778418000,
+   "group": "liga"
+  },
+  {
+   "id": 720233221,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Posta Rangers",
+   "away": "Sofapaka",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1778500800,
+   "group": "liga"
+  },
+  {
+   "id": 720751001,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mara Sugar",
+   "away": "Shabana",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1778670000,
+   "group": "liga"
+  },
+  {
+   "id": 720774798,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "Ulinzi Stars",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1778677200,
+   "group": "liga"
+  },
+  {
    "id": 721574677,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -2750,6 +6419,48 @@
    ],
    "detail": "2:1 (1:1,1:0)",
    "start": 1778925600,
+   "group": "liga"
+  },
+  {
+   "id": 721587761,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Posta Rangers",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:2,1:0)",
+   "start": 1778929200,
+   "group": "liga"
+  },
+  {
+   "id": 721588469,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mara Sugar",
+   "away": "Mathare United",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1778929200,
+   "group": "liga"
+  },
+  {
+   "id": 721603941,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kakamega Homeboyz",
+   "away": "AFC Leopards",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1778932800,
    "group": "liga"
   },
   {
@@ -2778,6 +6489,90 @@
    ],
    "detail": "2:1 (2:1,0:0)",
    "start": 1779015600,
+   "group": "liga"
+  },
+  {
+   "id": 721886341,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bidco United",
+   "away": "Shabana",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1779015600,
+   "group": "liga"
+  },
+  {
+   "id": 721917621,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Muranga Seal",
+   "away": "Gor Mahia",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:1,0:2)",
+   "start": 1779023700,
+   "group": "liga"
+  },
+  {
+   "id": 722671212,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bandari Kenya",
+   "away": "APS Bomet",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1779274800,
+   "group": "liga"
+  },
+  {
+   "id": 722298197,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Sofapaka",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1779278400,
+   "group": "liga"
+  },
+  {
+   "id": 722296926,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Police",
+   "away": "Kariobangi Sharks",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1779278400,
+   "group": "liga"
+  },
+  {
+   "id": 722298766,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Tusker",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1779282000,
    "group": "liga"
   },
   {
@@ -2837,6 +6632,48 @@
    "group": "liga"
   },
   {
+   "id": 723526801,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Commercial Bank SC",
+   "away": "Posta Rangers",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1779537600,
+   "group": "liga"
+  },
+  {
+   "id": 723525814,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kariobangi Sharks",
+   "away": "Kakamega Homeboyz",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1779537600,
+   "group": "liga"
+  },
+  {
+   "id": 723523661,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Mathare United",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1779537600,
+   "group": "liga"
+  },
+  {
    "id": 723537712,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -2851,6 +6688,34 @@
    "group": "liga"
   },
   {
+   "id": 723799809,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Sofapaka",
+   "away": "Shabana",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1779620400,
+   "group": "liga"
+  },
+  {
+   "id": 723799554,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "APS Bomet",
+   "away": "AFC Leopards",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1779620400,
+   "group": "liga"
+  },
+  {
    "id": 723810771,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -2862,6 +6727,48 @@
    ],
    "detail": "1:0 (0:0,1:0)",
    "start": 1779624000,
+   "group": "liga"
+  },
+  {
+   "id": 723813547,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bidco United",
+   "away": "Muranga Seal",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1779624000,
+   "group": "liga"
+  },
+  {
+   "id": 723812984,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bandari Kenya",
+   "away": "Tusker",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1779624000,
+   "group": "liga"
+  },
+  {
+   "id": 723826082,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Kenya Police",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1779627600,
    "group": "liga"
   },
   {
@@ -2935,6 +6842,48 @@
    "group": "liga"
   },
   {
+   "id": 724569304,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Sofapaka",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1779883200,
+   "group": "liga"
+  },
+  {
+   "id": 724585497,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Police",
+   "away": "Kariobangi Sharks",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1779886800,
+   "group": "liga"
+  },
+  {
+   "id": 724582779,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Tusker",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1779886800,
+   "group": "liga"
+  },
+  {
    "id": 724830922,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -2988,6 +6937,132 @@
    ],
    "detail": "1:1 (1:0,0:1)",
    "start": 1779969600,
+   "group": "liga"
+  },
+  {
+   "id": 725636351,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Shabana",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1780228800,
+   "group": "liga"
+  },
+  {
+   "id": 725636531,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Muranga Seal",
+   "away": "Mara Sugar",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1780228800,
+   "group": "liga"
+  },
+  {
+   "id": 725610801,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "Bandari Kenya",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1780228800,
+   "group": "liga"
+  },
+  {
+   "id": 725636355,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Police",
+   "away": "Kakamega Homeboyz",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1780228800,
+   "group": "liga"
+  },
+  {
+   "id": 725636357,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "Bidco United",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1780228800,
+   "group": "liga"
+  },
+  {
+   "id": 725637426,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Posta Rangers",
+   "away": "Ulinzi Stars",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1780228800,
+   "group": "liga"
+  },
+  {
+   "id": 725636359,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kariobangi Sharks",
+   "away": "Sofapaka",
+   "score": [
+    6,
+    0
+   ],
+   "detail": "6:0 (2:0,4:0)",
+   "start": 1780228800,
+   "group": "liga"
+  },
+  {
+   "id": 725636361,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "Nairobi United",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1780228800,
+   "group": "liga"
+  },
+  {
+   "id": 725636353,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Tusker",
+   "away": "APS Bomet",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1780228800,
    "group": "liga"
   },
   {
@@ -3397,6 +7472,370 @@
    "group": "liga"
   },
   {
+   "id": 747975418,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mombasa United",
+   "away": "Kakamega Homeboyz",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1788001200,
+   "group": "liga"
+  },
+  {
+   "id": 747975427,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1788001200,
+   "group": "liga"
+  },
+  {
+   "id": 747975421,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "Muranga Seal",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1788004800,
+   "group": "liga"
+  },
+  {
+   "id": 748290978,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "APS Bomet",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1788177600,
+   "group": "liga"
+  },
+  {
+   "id": 748817285,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Tusker",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1788264000,
+   "group": "liga"
+  },
+  {
+   "id": 748764195,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "Muranga Seal",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1788267600,
+   "group": "liga"
+  },
+  {
+   "id": 748383414,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1788350400,
+   "group": "liga"
+  },
+  {
+   "id": 751551770,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Posta Rangers",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1789128000,
+   "group": "liga"
+  },
+  {
+   "id": 751631286,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "APS Bomet",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1789128000,
+   "group": "liga"
+  },
+  {
+   "id": 751631939,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "3K",
+   "away": "Muranga Seal",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1789128000,
+   "group": "liga"
+  },
+  {
+   "id": 751631942,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Tusker",
+   "away": "Kakamega Homeboyz",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1789128000,
+   "group": "liga"
+  },
+  {
+   "id": 751633248,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "Bandari Kenya",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1789128000,
+   "group": "liga"
+  },
+  {
+   "id": 751545301,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "Shabana",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1789128000,
+   "group": "liga"
+  },
+  {
+   "id": 751631936,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mombasa United",
+   "away": "Kenya Police",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1789128000,
+   "group": "liga"
+  },
+  {
+   "id": 751633245,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Migori Youth",
+   "away": "Mathare United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1789128000,
+   "group": "liga"
+  },
+  {
+   "id": 754240013,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Tusker",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1789815600,
+   "group": "liga"
+  },
+  {
+   "id": 753953378,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Tusker",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1789815600,
+   "group": "liga"
+  },
+  {
+   "id": 754256720,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "APS Bomet",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1789819200,
+   "group": "liga"
+  },
+  {
+   "id": 754256736,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Posta Rangers",
+   "away": "Shabana",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1789819200,
+   "group": "liga"
+  },
+  {
+   "id": 753956071,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Posta Rangers",
+   "away": "Shabana",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1789819200,
+   "group": "liga"
+  },
+  {
+   "id": 753954311,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "APS Bomet",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1789819200,
+   "group": "liga"
+  },
+  {
+   "id": 753939778,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "Muranga Seal",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1789822800,
+   "group": "liga"
+  },
+  {
+   "id": 757626766,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mombasa United",
+   "away": "Kariobangi Sharks",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1790852400,
+   "group": "liga"
+  },
+  {
+   "id": 758206842,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Posta Rangers",
+   "away": "3K",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1791025200,
+   "group": "liga"
+  },
+  {
+   "id": 758206865,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "Kakamega Homeboyz",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1791025200,
+   "group": "liga"
+  },
+  {
+   "id": 758206852,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Shabana",
+   "away": "Kenya Police",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1791025200,
+   "group": "liga"
+  },
+  {
    "id": 758892662,
    "tid": 125983,
    "tname": "Friendlies. National Teams",
@@ -3411,6 +7850,426 @@
    "group": "seleccion"
   },
   {
+   "id": 760263949,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "APS Bomet",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1791630000,
+   "group": "liga"
+  },
+  {
+   "id": 760307080,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Posta Rangers",
+   "away": "Shabana",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1791638100,
+   "group": "liga"
+  },
+  {
+   "id": 760616396,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Tusker",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:0,0:2)",
+   "start": 1791716400,
+   "group": "liga"
+  },
+  {
+   "id": 760632903,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Migori Youth",
+   "away": "Kenya Police",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1791720000,
+   "group": "liga"
+  },
+  {
+   "id": 760634752,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "3K",
+   "away": "Mara Sugar",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:1,2:1)",
+   "start": 1791720000,
+   "group": "liga"
+  },
+  {
+   "id": 760649832,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1791723600,
+   "group": "liga"
+  },
+  {
+   "id": 760658377,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "Bandari Kenya",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1791724500,
+   "group": "liga"
+  },
+  {
+   "id": 761269012,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "Muranga Seal",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (1:0,3:2)",
+   "start": 1791907200,
+   "group": "liga"
+  },
+  {
+   "id": 761502048,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mombasa United",
+   "away": "Kakamega Homeboyz",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1791979200,
+   "group": "liga"
+  },
+  {
+   "id": 761516835,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "Bandari Kenya",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1791982800,
+   "group": "liga"
+  },
+  {
+   "id": 761499080,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Migori Youth",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1792152000,
+   "group": "liga"
+  },
+  {
+   "id": 761506338,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Police",
+   "away": "Posta Rangers",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1792152000,
+   "group": "liga"
+  },
+  {
+   "id": 761634951,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "Mombasa United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1792152000,
+   "group": "liga"
+  },
+  {
+   "id": 761513768,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "3K",
+   "away": "Gor Mahia",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1792152000,
+   "group": "liga"
+  },
+  {
+   "id": 761520545,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Mara Sugar",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1792152000,
+   "group": "liga"
+  },
+  {
+   "id": 762419780,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "APS Bomet",
+   "away": "Gor Mahia",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1792238400,
+   "group": "liga"
+  },
+  {
+   "id": 762419777,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Commercial Bank SC",
+   "away": "Mathare United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1792238400,
+   "group": "liga"
+  },
+  {
+   "id": 762781438,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Shabana",
+   "away": "Nairobi United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1792324800,
+   "group": "liga"
+  },
+  {
+   "id": 762781423,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Muranga Seal",
+   "away": "Posta Rangers",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (3:0,2:1)",
+   "start": 1792324800,
+   "group": "liga"
+  },
+  {
+   "id": 762781483,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kakamega Homeboyz",
+   "away": "Ulinzi Stars",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1792324800,
+   "group": "liga"
+  },
+  {
+   "id": 763073566,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mara Sugar",
+   "away": "Mombasa United",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1792407600,
+   "group": "liga"
+  },
+  {
+   "id": 763102721,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bandari Kenya",
+   "away": "3K",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1792415700,
+   "group": "liga"
+  },
+  {
+   "id": 763364278,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Police",
+   "away": "AFC Leopards",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1792497600,
+   "group": "liga"
+  },
+  {
+   "id": 764250290,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Posta Rangers",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1792760400,
+   "group": "liga"
+  },
+  {
+   "id": 764547663,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Migori Youth",
+   "away": "Mathare United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1792839600,
+   "group": "liga"
+  },
+  {
+   "id": 764566182,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Mara Sugar",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1792843200,
+   "group": "liga"
+  },
+  {
+   "id": 764594157,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "Bandari Kenya",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1792847700,
+   "group": "liga"
+  },
+  {
+   "id": 764898573,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "3K",
+   "away": "Muranga Seal",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1792926000,
+   "group": "liga"
+  },
+  {
+   "id": 764917172,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "APS Bomet",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1792929600,
+   "group": "liga"
+  },
+  {
+   "id": 764939531,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "Shabana",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1792934100,
+   "group": "liga"
+  },
+  {
    "id": 765166208,
    "tid": 1786993,
    "tname": "Kenya. Super League",
@@ -3422,6 +8281,636 @@
    ],
    "detail": "0:0 (0:0)",
    "start": 1793016000,
+   "group": "liga"
+  },
+  {
+   "id": 765781670,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kakamega Homeboyz",
+   "away": "Gor Mahia",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1793185200,
+   "group": "liga"
+  },
+  {
+   "id": 765781675,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bandari Kenya",
+   "away": "Posta Rangers",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1793185200,
+   "group": "liga"
+  },
+  {
+   "id": 765796642,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "APS Bomet",
+   "away": "3K",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1793188800,
+   "group": "liga"
+  },
+  {
+   "id": 765796654,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Commercial Bank SC",
+   "away": "Mombasa United",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1793188800,
+   "group": "liga"
+  },
+  {
+   "id": 765796640,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Muranga Seal",
+   "away": "Nairobi United",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (3:1,0:1)",
+   "start": 1793188800,
+   "group": "liga"
+  },
+  {
+   "id": 765816440,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mara Sugar",
+   "away": "AFC Leopards",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1793193300,
+   "group": "liga"
+  },
+  {
+   "id": 766091007,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Shabana",
+   "away": "Migori Youth",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1793271600,
+   "group": "liga"
+  },
+  {
+   "id": 766103193,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "Tusker",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1793275200,
+   "group": "liga"
+  },
+  {
+   "id": 766121210,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Police",
+   "away": "Ulinzi Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1793279700,
+   "group": "liga"
+  },
+  {
+   "id": 767065408,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "Kakamega Homeboyz",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1793530800,
+   "group": "liga"
+  },
+  {
+   "id": 767065423,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Migori Youth",
+   "away": "Mombasa United",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1793530800,
+   "group": "liga"
+  },
+  {
+   "id": 767083602,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Bandari Kenya",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1793534400,
+   "group": "liga"
+  },
+  {
+   "id": 767083592,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "APS Bomet",
+   "away": "Muranga Seal",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1793534400,
+   "group": "liga"
+  },
+  {
+   "id": 767105979,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1793538900,
+   "group": "liga"
+  },
+  {
+   "id": 767360885,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Mathare United",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1793613600,
+   "group": "liga"
+  },
+  {
+   "id": 767372194,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Posta Rangers",
+   "away": "3K",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1793617200,
+   "group": "liga"
+  },
+  {
+   "id": 767384212,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Tusker",
+   "away": "Mara Sugar",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1793620800,
+   "group": "liga"
+  },
+  {
+   "id": 767402046,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Shabana",
+   "away": "Kenya Police",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1793625300,
+   "group": "liga"
+  },
+  {
+   "id": 768520987,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Commercial Bank SC",
+   "away": "APS Bomet",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1793970000,
+   "group": "liga"
+  },
+  {
+   "id": 768799517,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mombasa United",
+   "away": "Shabana",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (0:1,2:2)",
+   "start": 1794049200,
+   "group": "liga"
+  },
+  {
+   "id": 768814234,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mara Sugar",
+   "away": "Migori Youth",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1794052800,
+   "group": "liga"
+  },
+  {
+   "id": 768840622,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "3K",
+   "away": "AFC Leopards",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1794057300,
+   "group": "liga"
+  },
+  {
+   "id": 769135523,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bandari Kenya",
+   "away": "Tusker",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1794135600,
+   "group": "liga"
+  },
+  {
+   "id": 769151904,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "Posta Rangers",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1794139200,
+   "group": "liga"
+  },
+  {
+   "id": 769151901,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kakamega Homeboyz",
+   "away": "Kenya Police",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1794139200,
+   "group": "liga"
+  },
+  {
+   "id": 769151918,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Muranga Seal",
+   "away": "Ulinzi Stars",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:0,2:2)",
+   "start": 1794139200,
+   "group": "liga"
+  },
+  {
+   "id": 768716154,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "Nairobi United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1794143700,
+   "group": "liga"
+  },
+  {
+   "id": 770800581,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "Migori Youth",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1794652200,
+   "group": "liga"
+  },
+  {
+   "id": 770806594,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Mara Sugar",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1794654000,
+   "group": "liga"
+  },
+  {
+   "id": 770448246,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Nairobi United",
+   "away": "Mara Sugar",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1794654000,
+   "group": "liga"
+  },
+  {
+   "id": 770821212,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "APS Bomet",
+   "away": "Bandari Kenya",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1794657600,
+   "group": "liga"
+  },
+  {
+   "id": 771132566,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Police",
+   "away": "Posta Rangers",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1794739500,
+   "group": "liga"
+  },
+  {
+   "id": 770773145,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Tusker",
+   "away": "Shabana",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1794740400,
+   "group": "liga"
+  },
+  {
+   "id": 771152863,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kakamega Homeboyz",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1794744000,
+   "group": "liga"
+  },
+  {
+   "id": 771152836,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Muranga Seal",
+   "away": "Mathare United",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1794744000,
+   "group": "liga"
+  },
+  {
+   "id": 771160898,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "AFC Leopards",
+   "away": "Mombasa United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1794745800,
+   "group": "liga"
+  },
+  {
+   "id": 767036765,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "3K",
+   "away": "Gor Mahia",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1794748500,
+   "group": "liga"
+  },
+  {
+   "id": 772519216,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mathare United",
+   "away": "Kakamega Homeboyz",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1795172400,
+   "group": "liga"
+  },
+  {
+   "id": 772519213,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bandari Kenya",
+   "away": "Muranga Seal",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1795172400,
+   "group": "liga"
+  },
+  {
+   "id": 772826962,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Migori Youth",
+   "away": "AFC Leopards",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1795257000,
+   "group": "liga"
+  },
+  {
+   "id": 772849217,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mombasa United",
+   "away": "Ulinzi Stars",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1795262400,
+   "group": "liga"
+  },
+  {
+   "id": 772858501,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Police",
+   "away": "APS Bomet",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1795264200,
+   "group": "liga"
+  },
+  {
+   "id": 773173368,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Shabana",
+   "away": "Mara Sugar",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1795343400,
+   "group": "liga"
+  },
+  {
+   "id": 773197142,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kenya Commercial Bank SC",
+   "away": "3K",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1795348800,
+   "group": "liga"
+  },
+  {
+   "id": 773204723,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Posta Rangers",
+   "away": "Gor Mahia",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1795350600,
    "group": "liga"
   },
   {

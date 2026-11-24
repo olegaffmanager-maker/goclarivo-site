@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T02:37:33+00:00",
+ "updated": "2026-11-24T14:19:11+00:00",
  "groups": [
   {
    "key": "liga",
@@ -21,9 +21,9 @@
      "eid": 773059964,
      "tid": 276999,
      "coupon": {
-      "1": "UYTR4",
-      "X": "YYTR4",
-      "2": "9YTR4"
+      "1": "HRG1L",
+      "X": "QRG1L",
+      "2": "2SG1L"
      },
      "markets": {
       "dc": {
@@ -222,11 +222,6 @@
      "link": "https://1xlite-32085.pro/es/line/Football/276999-Ecuador-Serie-A/396798898-Delfin-Orense-Sporting-Club",
      "eid": 773378866,
      "tid": 276999,
-     "coupon": {
-      "1": "FZTR4",
-      "X": "GZTR4",
-      "2": "LZTR4"
-     },
      "markets": {
       "dc": {
        "1X": 1.341,
@@ -425,9 +420,7 @@
      "eid": 773364764,
      "tid": 276999,
      "coupon": {
-      "1": "QZTR4",
-      "X": "RZTR4",
-      "2": "VZTR4"
+      "2": "48G1L"
      },
      "markets": {
       "dc": {
@@ -627,9 +620,9 @@
      "eid": 773360407,
      "tid": 276999,
      "coupon": {
-      "1": "C9TR4",
-      "X": "D9TR4",
-      "2": "F9TR4"
+      "1": "MYG1L",
+      "X": "VYG1L",
+      "2": "MZG1L"
      },
      "markets": {
       "dc": {
@@ -829,9 +822,9 @@
      "eid": 773464074,
      "tid": 276999,
      "coupon": {
-      "1": "T9TR4",
-      "X": "U9TR4",
-      "2": "X9TR4"
+      "1": "V9G1L",
+      "X": "E1H1L",
+      "2": "FAH1L"
      },
      "markets": {
       "dc": {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T02:36:09+00:00",
+ "updated": "2026-11-24T14:17:30+00:00",
  "groups": [
   {
    "key": "liga",
@@ -9,35 +9,35 @@
      "tournament": "México. Liga MX",
      "home": "FC Toluca",
      "away": "Atlas Guadalajara",
-     "start": 1795640400,
+     "start": 1795654800,
      "odds": {
-      "1": 1.46,
-      "X": 5.2,
-      "2": 5.95
+      "1": 1.41,
+      "X": 4.75,
+      "2": 6.26
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/f6386c379c3a6ad7129f7a0adecc0629.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/4100.png",
      "link": "https://1xlite-32085.pro/es/line/Football/2306111-Mexico-Liga-MX/396917686-Deportivo-Toluca-Atlas-Guadalajara",
-     "eid": 773531671,
+     "eid": 773750486,
      "tid": 2306111,
      "coupon": {
-      "1": "RBTR4",
-      "X": "7BTR4",
-      "2": "XBTR4"
+      "1": "JAD1L",
+      "X": "CBD1L",
+      "2": "S2D1L"
      },
      "markets": {
       "dc": {
-       "1X": 1.13,
-       "12": 1.16,
-       "X2": 2.75
+       "1X": 1.082,
+       "12": 1.143,
+       "X2": 2.7
       },
       "ou25": {
-       "o": 1.43,
-       "u": 2.7
+       "o": 1.42,
+       "u": 2.49
       },
       "btts": {
-       "y": 1.56,
-       "n": 2.304
+       "y": 1.61,
+       "n": 2.182
       }
      },
      "stats": {
@@ -213,9 +213,9 @@
      "away": "Club America",
      "start": 1795662600,
      "odds": {
-      "1": 2.36,
-      "X": 3.34,
-      "2": 2.75
+      "1": 2.41,
+      "X": 3.125,
+      "2": 2.903
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/f2acb9c3aa8aeab977bdc0a8f7e0597d.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/80bf07c68f91236dbfacdf8bef0cbbe8.png",
@@ -223,23 +223,23 @@
      "eid": 773567935,
      "tid": 2306111,
      "coupon": {
-      "1": "ACTR4",
-      "X": "CCTR4",
-      "2": "DCTR4"
+      "1": "8DD1L",
+      "X": "LED1L",
+      "2": "BFD1L"
      },
      "markets": {
       "dc": {
-       "1X": 1.39,
-       "12": 1.28,
-       "X2": 1.52
+       "1X": 1.36,
+       "12": 1.31,
+       "X2": 1.5
       },
       "ou25": {
-       "o": 1.68,
-       "u": 2.09
+       "o": 1.87,
+       "u": 1.87
       },
       "btts": {
-       "y": 1.54,
-       "n": 2.317
+       "y": 1.66,
+       "n": 2.09
       }
      },
      "stats": {
@@ -415,33 +415,33 @@
      "away": "Guadalajara",
      "start": 1795741200,
      "odds": {
-      "1": 2.72,
-      "X": 3.3,
-      "2": 2.41
+      "1": 2.64,
+      "X": 3.24,
+      "2": 2.51
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/b8e48789f41d6ff23731f424715e5ddc.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/8e41fcba66e9b6b895099f8668af25d0.png",
      "link": "https://1xlite-32085.pro/es/line/Football/2306111-Mexico-Liga-MX/396917969-Pachuca-Guadalajara",
-     "eid": 773568487,
+     "eid": 773727681,
      "tid": 2306111,
      "coupon": {
-      "1": "KCTR4",
-      "X": "5CTR4",
-      "2": "QCTR4"
+      "1": "F3D1L",
+      "X": "S3D1L",
+      "2": "EGD1L"
      },
      "markets": {
       "dc": {
-       "1X": 1.5,
-       "12": 1.28,
-       "X2": 1.4
+       "1X": 1.46,
+       "12": 1.29,
+       "X2": 1.42
       },
       "ou25": {
-       "o": 1.69,
-       "u": 2.08
+       "o": 1.71,
+       "u": 2.05
       },
       "btts": {
-       "y": 1.54,
-       "n": 2.317
+       "y": 1.55,
+       "n": 2.297
       }
      },
      "stats": {
@@ -617,9 +617,9 @@
      "away": "Cruz Azul",
      "start": 1795749000,
      "odds": {
-      "1": 3.285,
-      "X": 3.6,
-      "2": 2.16
+      "1": 3.095,
+      "X": 3.5,
+      "2": 2.22
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/02895b7d0c0b1e4d4bfb7cef872763e0.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/cbfdb11c01ff057254ee21a7d27d1016.png",
@@ -627,23 +627,23 @@
      "eid": 773565148,
      "tid": 2306111,
      "coupon": {
-      "1": "UCTR4",
-      "X": "8CTR4",
-      "2": "12TR4"
+      "1": "LHD1L",
+      "X": "XHD1L",
+      "2": "EJD1L"
      },
      "markets": {
       "dc": {
-       "1X": 1.71,
-       "12": 1.29,
-       "X2": 1.33
+       "1X": 1.63,
+       "12": 1.28,
+       "X2": 1.34
       },
       "ou25": {
-       "o": 1.69,
-       "u": 2.17
+       "o": 1.71,
+       "u": 2.06
       },
       "btts": {
-       "y": 1.57,
-       "n": 2.283
+       "y": 1.6,
+       "n": 2.222
       }
      },
      "stats": {
