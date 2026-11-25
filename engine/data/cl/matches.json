@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T00:09:36+00:00",
+ "updated": "2026-11-25T09:07:47+00:00",
  "groups": [
   {
    "key": "liga",
@@ -21,7 +21,9 @@
      "eid": 773378863,
      "tid": 28298,
      "coupon": {
-      "X": "18E4M"
+      "1": "U5LUM",
+      "X": "Y5LUM",
+      "2": "FNLUM"
      },
      "markets": {
       "dc": {
@@ -221,9 +223,9 @@
      "eid": 773378860,
      "tid": 28298,
      "coupon": {
-      "1": "B1F4M",
-      "X": "H1F4M",
-      "2": "M1F4M"
+      "1": "6RLUM",
+      "X": "2SLUM",
+      "2": "KSLUM"
      },
      "markets": {
       "dc": {
@@ -423,9 +425,9 @@
      "eid": 773376211,
      "tid": 28298,
      "coupon": {
-      "1": "AAF4M",
-      "X": "2AF4M",
-      "2": "GAF4M"
+      "1": "1TLUM",
+      "X": "ETLUM",
+      "2": "GTLUM"
      },
      "markets": {
       "dc": {
@@ -625,9 +627,9 @@
      "eid": 773376223,
      "tid": 28298,
      "coupon": {
-      "1": "LAF4M",
-      "X": "QAF4M",
-      "2": "RAF4M"
+      "1": "ZTLUM",
+      "X": "E7LUM",
+      "2": "L7LUM"
      },
      "markets": {
       "dc": {
@@ -813,208 +815,6 @@
     },
     {
      "tournament": "Chile. Primera Division",
-     "home": "Audax Italiano",
-     "away": "Palestino",
-     "start": 1795995000,
-     "odds": {
-      "1": 2.3,
-      "X": 3.34,
-      "2": 2.9
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/8927ca0978125e0f6abdf962d447111f.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/ed709f2fb5976fd1a5d619b288abe5b5.png",
-     "link": "https://1xlite-32085.pro/es/line/Football/28298-Chile-Primera-Division/396792597-Audax-Italiano-Palestino",
-     "eid": 773376217,
-     "tid": 28298,
-     "coupon": {
-      "1": "9BF4M",
-      "X": "2CF4M",
-      "2": "GCF4M"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.36,
-       "12": 1.28,
-       "X2": 1.55
-      },
-      "ou25": {
-       "o": 1.79,
-       "u": 1.94
-      },
-      "btts": {
-       "y": 1.63,
-       "n": 2.142
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1782856800,
-        "h": "Audax Italiano",
-        "a": "Palestino",
-        "s": [
-         3,
-         2
-        ],
-        "t": "Chile. Copa de Chile",
-        "hh": true
-       },
-       {
-        "d": 1782261000,
-        "h": "Palestino",
-        "a": "Audax Italiano",
-        "s": [
-         1,
-         2
-        ],
-        "t": "Chile. Copa de Chile",
-        "hh": false
-       },
-       {
-        "d": 1780272000,
-        "h": "Palestino",
-        "a": "Audax Italiano",
-        "s": [
-         0,
-         0
-        ],
-        "t": "Chile. Primera Division",
-        "hh": false
-       },
-       {
-        "d": 1754089200,
-        "h": "Audax Italiano",
-        "a": "Palestino",
-        "s": [
-         1,
-         1
-        ],
-        "t": "Chile. Primera Division",
-        "hh": true
-       },
-       {
-        "d": 1746910800,
-        "h": "Audax Italiano",
-        "a": "Palestino",
-        "s": [
-         2,
-         2
-        ],
-        "t": "Chile. Copa de Chile",
-        "hh": true
-       },
-       {
-        "d": 1740862800,
-        "h": "Palestino",
-        "a": "Audax Italiano",
-        "s": [
-         0,
-         2
-        ],
-        "t": "Chile. Primera Division",
-        "hh": false
-       },
-       {
-        "d": 1738011600,
-        "h": "Palestino",
-        "a": "Audax Italiano",
-        "s": [
-         0,
-         2
-        ],
-        "t": "Chile. Copa de Chile",
-        "hh": false
-       },
-       {
-        "d": 1731250800,
-        "h": "Palestino",
-        "a": "Audax Italiano",
-        "s": [
-         2,
-         0
-        ],
-        "t": "Chile. Primera Division",
-        "hh": false
-       }
-      ],
-      "f1": [
-       {
-        "d": 1795208400,
-        "o": "Cobresal",
-        "gf": 2,
-        "ga": 3,
-        "dom": false
-       },
-       {
-        "d": 1794151800,
-        "o": "Coquimbo Unido",
-        "gf": 0,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1793653200,
-        "o": "Deportes Limache",
-        "gf": 0,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1793230200,
-        "o": "Universidad Católica Santiago",
-        "gf": 1,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1792796400,
-        "o": "Huachipato",
-        "gf": 1,
-        "ga": 1,
-        "dom": true
-       }
-      ],
-      "f2": [
-       {
-        "d": 1795217400,
-        "o": "Unión La Calera",
-        "gf": 0,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1794074400,
-        "o": "Deportes La Serena",
-        "gf": 0,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1793662200,
-        "o": "Club Deportes Concepcion",
-        "gf": 0,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1792960200,
-        "o": "Colo-Colo",
-        "gf": 1,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1791759600,
-        "o": "Deportes Limache",
-        "gf": 2,
-        "ga": 2,
-        "dom": false
-       }
-      ]
-     }
-    },
-    {
-     "tournament": "Chile. Primera Division",
      "home": "Everton de Vina del Mar",
      "away": "O'Higgins",
      "start": 1795995000,
@@ -1029,9 +829,9 @@
      "eid": 773376220,
      "tid": 28298,
      "coupon": {
-      "1": "RCF4M",
-      "X": "VCF4M",
-      "2": "ZCF4M"
+      "1": "DULUM",
+      "X": "HULUM",
+      "2": "QULUM"
      },
      "markets": {
       "dc": {
@@ -1231,9 +1031,9 @@
      "eid": 773376214,
      "tid": 28298,
      "coupon": {
-      "1": "G2F4M",
-      "X": "42F4M",
-      "2": "L2F4M"
+      "1": "JVLUM",
+      "X": "PVLUM",
+      "2": "TVLUM"
      },
      "markets": {
       "dc": {
@@ -1433,9 +1233,9 @@
      "eid": 773376689,
      "tid": 28298,
      "coupon": {
-      "1": "Z2F4M",
-      "X": "CDF4M",
-      "2": "LDF4M"
+      "1": "4XLUM",
+      "X": "6XLUM",
+      "2": "SXLUM"
      },
      "markets": {
       "dc": {
@@ -1614,6 +1414,208 @@
         "o": "Cobresal",
         "gf": 1,
         "ga": 1,
+        "dom": false
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "Chile. Primera Division",
+     "home": "Audax Italiano",
+     "away": "Palestino",
+     "start": 1795995000,
+     "odds": {
+      "1": 2.3,
+      "X": 3.34,
+      "2": 2.9
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/8927ca0978125e0f6abdf962d447111f.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/ed709f2fb5976fd1a5d619b288abe5b5.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/28298-Chile-Primera-Division/396792597-Audax-Italiano-Palestino",
+     "eid": 773376217,
+     "tid": 28298,
+     "coupon": {
+      "1": "38LUM",
+      "X": "M8LUM",
+      "2": "R8LUM"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.36,
+       "12": 1.28,
+       "X2": 1.55
+      },
+      "ou25": {
+       "o": 1.79,
+       "u": 1.94
+      },
+      "btts": {
+       "y": 1.63,
+       "n": 2.142
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1782856800,
+        "h": "Audax Italiano",
+        "a": "Palestino",
+        "s": [
+         3,
+         2
+        ],
+        "t": "Chile. Copa de Chile",
+        "hh": true
+       },
+       {
+        "d": 1782261000,
+        "h": "Palestino",
+        "a": "Audax Italiano",
+        "s": [
+         1,
+         2
+        ],
+        "t": "Chile. Copa de Chile",
+        "hh": false
+       },
+       {
+        "d": 1780272000,
+        "h": "Palestino",
+        "a": "Audax Italiano",
+        "s": [
+         0,
+         0
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1754089200,
+        "h": "Audax Italiano",
+        "a": "Palestino",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Chile. Primera Division",
+        "hh": true
+       },
+       {
+        "d": 1746910800,
+        "h": "Audax Italiano",
+        "a": "Palestino",
+        "s": [
+         2,
+         2
+        ],
+        "t": "Chile. Copa de Chile",
+        "hh": true
+       },
+       {
+        "d": 1740862800,
+        "h": "Palestino",
+        "a": "Audax Italiano",
+        "s": [
+         0,
+         2
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       },
+       {
+        "d": 1738011600,
+        "h": "Palestino",
+        "a": "Audax Italiano",
+        "s": [
+         0,
+         2
+        ],
+        "t": "Chile. Copa de Chile",
+        "hh": false
+       },
+       {
+        "d": 1731250800,
+        "h": "Palestino",
+        "a": "Audax Italiano",
+        "s": [
+         2,
+         0
+        ],
+        "t": "Chile. Primera Division",
+        "hh": false
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795208400,
+        "o": "Cobresal",
+        "gf": 2,
+        "ga": 3,
+        "dom": false
+       },
+       {
+        "d": 1794151800,
+        "o": "Coquimbo Unido",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793653200,
+        "o": "Deportes Limache",
+        "gf": 0,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1793230200,
+        "o": "Universidad Católica Santiago",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1792796400,
+        "o": "Huachipato",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795217400,
+        "o": "Unión La Calera",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1794074400,
+        "o": "Deportes La Serena",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1793662200,
+        "o": "Club Deportes Concepcion",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1792960200,
+        "o": "Colo-Colo",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1791759600,
+        "o": "Deportes Limache",
+        "gf": 2,
+        "ga": 2,
         "dom": false
        }
       ]

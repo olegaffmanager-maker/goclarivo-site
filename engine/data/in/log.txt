@@ -1,52 +1,58 @@
-DEBUG tour 2765014: hong kong. premier league u22
 DEBUG tour 127733: spain. la liga
-DEBUG tour 88637: england. premier league
-DEBUG tour 118587: uefa champions league
-DEBUG tour 2726129: uefa european championship 2028. winner
-DEBUG tour 41199: israel. premier league
-DEBUG tour 2743971: afc champions league 2
 DEBUG tour 147087: egypt. premier league
-DEBUG tour 225733: russia. premier league
-DEBUG tour 2421233: russian championship. league 1
+DEBUG tour 2013039: angola championship
+DEBUG tour 1460999: chinese taipei. premier league
+DEBUG tour 2908998: lebanon. premier league
+DEBUG tour 2740174: afc champions league elite
+DEBUG tour 253537: india. i-league
+DEBUG tour 1225239: georgia championship
+DEBUG tour 118587: uefa champions league
+DEBUG tour 52245: poland championship. liga 3
+DEBUG tour 40053: armenia. premier league
+DEBUG tour 2477839: india. delhi. premier league
+DEBUG tour 41199: israel. premier league
+DEBUG tour 13521: scotland. premier league
 DEBUG tour 1174103: kenya. premier league
+DEBUG tour 218103: uefa champions league. winner
+DEBUG tour 104509: australian championship
+DEBUG tour 2726129: uefa european championship 2028. winner
+DEBUG tour 2421233: russian championship. league 1
 DEBUG tour 105759: england. championship
+DEBUG tour 88637: england. premier league
 DEBUG tour 1351549: thailand. thai premier league
 DEBUG tour 40311: poland championship. liga 2
-DEBUG tour 196313: botswana championship
-DEBUG tour 2469052: japan. regional champions league
-DEBUG tour 2740174: afc champions league elite
-DEBUG tour 52245: poland championship. liga 3
-DEBUG tour 13521: scotland. premier league
-DEBUG tour 142091: copa libertadores
-DEBUG tour 104509: australian championship
-DEBUG tour 281713: scotland. championship
-DEBUG tour 181251: myanmar. premier league
-DEBUG tour 108683: bosnia and herzegovina. premier league
-DEBUG tour 218103: uefa champions league. winner
+DEBUG tour 2743971: afc champions league 2
+DEBUG tour 2765014: hong kong. premier league u22
 DEBUG tour 29949: ukraine. premier league
-DEBUG tour 13721: wales. premier league
-DEBUG tour 2013039: angola championship
-DEBUG tour 2477839: india. delhi. premier league
+DEBUG tour 281713: scotland. championship
+DEBUG tour 918823: nicaragua championship
+DEBUG tour 108683: bosnia and herzegovina. premier league
+DEBUG tour 142091: copa libertadores
 DEBUG tour 310027: northern ireland. championship
-DEBUG tour 1225239: georgia championship
+DEBUG tour 1097391: jordan championship. division 1
+DEBUG tour 2331896: championship congo dr. league 1
+DEBUG tour 13721: wales. premier league
 DEBUG tour 1156373: uganda. premier league
-DEBUG tour 2908998: lebanon. premier league
-DEBUG tour 947439: gulf club championship
-DEBUG tour 30693: poland championship. liga 1
-DEBUG tour 40053: armenia. premier league
-DEBUG tour 1015483: belarus. premier league
 DEBUG tour 27695: switzerland championship
-DEBUG tour 38317: caf champions league
-DEBUG tour 253537: india. i-league
-DEBUG tour 47513: qatar championship
-DEBUG tour 2783103: india. mumbai. premier league
-DEBUG tour 1460999: chinese taipei. premier league
-DEBUG tour 1800014: england. southern premier league. central
+DEBUG tour 30693: poland championship. liga 1
+DEBUG tour 831053: tanzania. premier league
+DEBUG tour 605255: libya. premier league
+DEBUG tour 947439: gulf club championship
+DEBUG tour 2469052: japan. regional champions league
 DEBUG tour 1122087: india. super league
+DEBUG tour 47513: qatar championship
+DEBUG tour 1015483: belarus. premier league
+DEBUG tour 32527: jordan. premier league
+DEBUG tour 196313: botswana championship
+DEBUG tour 225733: russia. premier league
+DEBUG tour 177397: mozambique championship
+DEBUG tour 2331806: seychelles championship
+DEBUG tour 38317: caf champions league
+DEBUG tour 1800014: england. southern premier league. central
 DEBUG tour 2809583: spain. la liga. team vs player
-liga: India. Delhi. Premier League | India. I-League | India. Mumbai. Premier League | India. Super League
-sharecoupon sample: https://1xlite-32085.pro/en?coupon-code=KSM4M
-liga: 4 tournaments, 9 matches
-seleccion: UEFA Nations League | Friendlies. National Teams | CONCACAF Caribbean Cup | Estonia. Qualification
+liga: India. I-League | India. Delhi. Premier League | India. Super League
+sharecoupon sample: https://1xlite-32085.pro/en?coupon-code=ENZUM
+liga: 3 tournaments, 8 matches
+seleccion: UEFA Nations League | Estonia. Qualification | Friendlies. National Teams | CONCACAF Caribbean Cup
 seleccion: 4 tournaments, 0 matches
-results: 10 fetched, 627 stored
+results: 9 fetched, 625 stored

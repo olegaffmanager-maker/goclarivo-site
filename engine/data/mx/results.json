@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T00:08:55+00:00",
+ "updated": "2026-11-25T09:07:10+00:00",
  "backfilled": [
   2306111,
   1706694,
@@ -5478,6 +5478,20 @@
    ],
    "detail": "2:2 (1:1,1:1)",
    "start": 1795396200,
+   "group": "liga"
+  },
+  {
+   "id": 773466658,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "Guadalajara",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1795564800,
    "group": "liga"
   }
  ]

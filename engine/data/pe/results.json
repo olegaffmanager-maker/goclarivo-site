@@ -1,25 +1,11 @@
 {
- "updated": "2026-11-25T00:11:14+00:00",
+ "updated": "2026-11-25T09:08:11+00:00",
  "backfilled": [
   1706694,
   125983,
   2892390
  ],
  "matches": [
-  {
-   "id": 663877468,
-   "tid": 2892390,
-   "tname": "Perú. Liga 1",
-   "home": "Club Universitario de Deportes",
-   "away": "Ayacucho",
-   "score": [
-    2,
-    1
-   ],
-   "detail": "2:1 (1:1,1:0)",
-   "start": 1761009300,
-   "group": "liga"
-  },
   {
    "id": 664741968,
    "tid": 2892390,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T00:07:17+00:00",
+ "updated": "2026-11-25T09:06:42+00:00",
  "groups": [
   {
    "key": "liga",
@@ -11,9 +11,9 @@
      "away": "Independiente Rivadavia",
      "start": 1795651200,
      "odds": {
-      "1": 1.624,
-      "X": 3.725,
-      "2": 5.92
+      "1": 1.664,
+      "X": 3.63,
+      "2": 5.66
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/2346.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/70fcba7e6a469f60d97f9b42945c9a7f.png",
@@ -21,19 +21,19 @@
      "eid": 770751656,
      "tid": 119599,
      "coupon": {
-      "1": "5N24M",
-      "X": "6N24M",
-      "2": "VN24M"
+      "1": "4FKUM",
+      "X": "NFKUM",
+      "2": "VFKUM"
      },
      "markets": {
       "dc": {
-       "1X": 1.124,
-       "12": 1.266,
-       "X2": 2.26
+       "1X": 1.134,
+       "12": 1.277,
+       "X2": 2.187
       },
       "ou25": {
-       "o": 2.226,
-       "u": 1.657
+       "o": 2.266,
+       "u": 1.636
       },
       "btts": {
        "y": 2.15,
@@ -168,9 +168,9 @@
      "eid": 773424200,
      "tid": 119599,
      "coupon": {
-      "1": "AP24M",
-      "X": "DP24M",
-      "2": "GP24M"
+      "1": "N3KUM",
+      "X": "U3KUM",
+      "2": "Y3KUM"
      },
      "markets": {
       "dc": {
@@ -370,9 +370,9 @@
      "eid": 773424197,
      "tid": 119599,
      "coupon": {
-      "1": "5P24M",
-      "X": "6P24M",
-      "2": "VP24M"
+      "1": "KGKUM",
+      "X": "RGKUM",
+      "2": "1HKUM"
      },
      "markets": {
       "dc": {
@@ -572,9 +572,9 @@
      "eid": 773713173,
      "tid": 119599,
      "coupon": {
-      "1": "9P24M",
-      "X": "2Q24M",
-      "2": "3Q24M"
+      "1": "6HKUM",
+      "X": "ZHKUM",
+      "2": "EJKUM"
      },
      "markets": {
       "dc": {

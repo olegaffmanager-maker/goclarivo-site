@@ -1,25 +1,11 @@
 {
- "updated": "2026-11-25T00:07:17+00:00",
+ "updated": "2026-11-25T09:06:42+00:00",
  "backfilled": [
   119599,
   1706694,
   125983
  ],
  "matches": [
-  {
-   "id": 663869352,
-   "tid": 119599,
-   "tname": "Argentina. Liga Profesional",
-   "home": "Club Atlético Tucumán",
-   "away": "San Lorenzo de Almagro",
-   "score": [
-    1,
-    2
-   ],
-   "detail": "1:2 (1:1,0:1)",
-   "start": 1761005700,
-   "group": "liga"
-  },
   {
    "id": 664140150,
    "tid": 119599,
