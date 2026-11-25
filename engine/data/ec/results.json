@@ -1,25 +1,11 @@
 {
- "updated": "2026-11-24T14:19:11+00:00",
+ "updated": "2026-11-25T00:11:40+00:00",
  "backfilled": [
   276999,
   1706694,
   125983
  ],
  "matches": [
-  {
-   "id": 663867310,
-   "tid": 276999,
-   "tname": "Ecuador. Serie A",
-   "home": "El Nacional",
-   "away": "Deportivo Cuenca",
-   "score": [
-    0,
-    2
-   ],
-   "detail": "0:2 (0:1,0:1)",
-   "start": 1761004800,
-   "group": "liga"
-  },
   {
    "id": 665029377,
    "tid": 276999,

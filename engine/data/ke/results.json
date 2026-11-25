@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:27:14+00:00",
+ "updated": "2026-11-25T00:17:58+00:00",
  "backfilled": [
   1706694,
   2905343,
@@ -8981,6 +8981,20 @@
    ],
    "detail": "3:0 (1:0,2:0)",
    "start": 1795437000,
+   "group": "liga"
+  },
+  {
+   "id": 773729486,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Bandari Kenya",
+   "away": "Mathare United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1795522500,
    "group": "liga"
   }
  ]

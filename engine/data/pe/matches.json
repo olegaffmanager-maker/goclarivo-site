@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:18:39+00:00",
+ "updated": "2026-11-25T00:11:14+00:00",
  "groups": [
   {
    "key": "liga",
@@ -9,7 +9,7 @@
      "tournament": "Perú. Liga 1",
      "home": "Sport Huancayo",
      "away": "Club Universitario de Deportes",
-     "start": 1795896000,
+     "start": 1795982400,
      "odds": {
       "1": 1.91,
       "X": 3.45,
@@ -17,13 +17,13 @@
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/181f4ec0d7f6b90c01644d6768833e3a.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/a78c80080be9952d106dc9f70e375f8a.png",
-     "link": "https://1xlite-32085.pro/es/line/Football/2892390-Peru-Liga-1/396900485-Sport-Huancayo-Club-Universitario-de-Deportes",
-     "eid": 773541187,
+     "link": "https://1xlite-32085.pro/es/line/Football/2892390-Peru-Liga-1/397095669-Sport-Huancayo-Club-Universitario-de-Deportes",
+     "eid": 773862170,
      "tid": 2892390,
      "coupon": {
-      "1": "CJ31L",
-      "X": "4J31L",
-      "2": "UJ31L"
+      "1": "5434M",
+      "X": "R434M",
+      "2": "U434M"
      },
      "markets": {
       "dc": {
@@ -229,9 +229,9 @@
      "eid": 773542009,
      "tid": 125983,
      "coupon": {
-      "1": "VAG1L",
-      "X": "2BG1L",
-      "2": "5BG1L"
+      "1": "XQ34M",
+      "X": "E634M",
+      "2": "3634M"
      },
      "markets": {
       "dc": {

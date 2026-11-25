@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:19:11+00:00",
+ "updated": "2026-11-25T00:11:40+00:00",
  "groups": [
   {
    "key": "liga",
@@ -11,9 +11,9 @@
      "away": "Independiente del Valle",
      "start": 1795651200,
      "odds": {
-      "1": 2.705,
-      "X": 3.32,
-      "2": 2.507
+      "1": 2.584,
+      "X": 3.345,
+      "2": 2.605
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/5754.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/d999af4b2bfdae0838fe911450dfa1a7.png",
@@ -21,23 +21,23 @@
      "eid": 773059964,
      "tid": 276999,
      "coupon": {
-      "1": "HRG1L",
-      "X": "QRG1L",
-      "2": "2SG1L"
+      "1": "7T34M",
+      "X": "8T34M",
+      "2": "ZT34M"
      },
      "markets": {
       "dc": {
-       "1X": 1.478,
-       "12": 1.291,
-       "X2": 1.417
+       "1X": 1.446,
+       "12": 1.288,
+       "X2": 1.453
       },
       "ou25": {
-       "o": 1.875,
-       "u": 1.865
+       "o": 1.885,
+       "u": 1.855
       },
       "btts": {
-       "y": 1.66,
-       "n": 2.073
+       "y": 1.666,
+       "n": 2.063
       }
      },
      "stats": {
@@ -222,6 +222,11 @@
      "link": "https://1xlite-32085.pro/es/line/Football/276999-Ecuador-Serie-A/396798898-Delfin-Orense-Sporting-Club",
      "eid": 773378866,
      "tid": 276999,
+     "coupon": {
+      "1": "H734M",
+      "X": "M734M",
+      "2": "P734M"
+     },
      "markets": {
       "dc": {
        "1X": 1.341,
@@ -420,7 +425,9 @@
      "eid": 773364764,
      "tid": 276999,
      "coupon": {
-      "2": "48G1L"
+      "1": "Y734M",
+      "X": "9734M",
+      "2": "2U34M"
      },
      "markets": {
       "dc": {
@@ -620,9 +627,9 @@
      "eid": 773360407,
      "tid": 276999,
      "coupon": {
-      "1": "MYG1L",
-      "X": "VYG1L",
-      "2": "MZG1L"
+      "1": "MU34M",
+      "X": "QU34M",
+      "2": "UU34M"
      },
      "markets": {
       "dc": {
@@ -812,9 +819,9 @@
      "away": "Técnico Universitario",
      "start": 1796070600,
      "odds": {
-      "1": 2.091,
-      "X": 3.635,
-      "2": 3.155
+      "1": 2.143,
+      "X": 3.575,
+      "2": 3.09
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/9019cdf68a0451d2d6638a5441822864.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/103979.png",
@@ -822,23 +829,23 @@
      "eid": 773464074,
      "tid": 276999,
      "coupon": {
-      "1": "V9G1L",
-      "X": "E1H1L",
-      "2": "FAH1L"
+      "1": "DV34M",
+      "X": "GV34M",
+      "2": "JV34M"
      },
      "markets": {
       "dc": {
-       "1X": 1.318,
-       "12": 1.249,
-       "X2": 1.675
+       "1X": 1.33,
+       "12": 1.257,
+       "X2": 1.643
       },
       "ou25": {
-       "o": 1.989,
-       "u": 1.764
+       "o": 2.018,
+       "u": 1.742
       },
       "btts": {
-       "y": 1.79,
-       "n": 1.898
+       "y": 1.8,
+       "n": 1.888
       }
      },
      "stats": {

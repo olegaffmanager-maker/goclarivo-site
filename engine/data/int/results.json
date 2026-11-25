@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:16:31+00:00",
+ "updated": "2026-11-25T00:06:50+00:00",
  "backfilled": [
   142091,
   118587,
@@ -7930,6 +7930,132 @@
    "detail": "4:0 (2:0,2:0)",
    "start": 1795464000,
    "group": "premier-league"
+  },
+  {
+   "id": 773814582,
+   "tid": 118587,
+   "tname": "Liga de Campeones de la UEFA",
+   "home": "Galatasaray",
+   "away": "Aston Villa",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1795542300,
+   "group": "champions-league"
+  },
+  {
+   "id": 773814170,
+   "tid": 118587,
+   "tname": "Liga de Campeones de la UEFA",
+   "home": "Bode-Glimt",
+   "away": "LASK Linz",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1795542300,
+   "group": "champions-league"
+  },
+  {
+   "id": 773847275,
+   "tid": 118587,
+   "tname": "Liga de Campeones de la UEFA",
+   "home": "Slovan Bratislava",
+   "away": "Real Betis",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1795550400,
+   "group": "champions-league"
+  },
+  {
+   "id": 773847760,
+   "tid": 118587,
+   "tname": "Liga de Campeones de la UEFA",
+   "home": "RB Leipzig",
+   "away": "RC Lens",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1795550400,
+   "group": "champions-league"
+  },
+  {
+   "id": 773846127,
+   "tid": 118587,
+   "tname": "Liga de Campeones de la UEFA",
+   "home": "Real Madrid",
+   "away": "PSV Eindhoven",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (0:1,5:0)",
+   "start": 1795550400,
+   "group": "champions-league"
+  },
+  {
+   "id": 773847434,
+   "tid": 118587,
+   "tname": "Liga de Campeones de la UEFA",
+   "home": "Manchester City",
+   "away": "Napoli",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:0,2:2)",
+   "start": 1795550400,
+   "group": "champions-league"
+  },
+  {
+   "id": 773846396,
+   "tid": 118587,
+   "tname": "Liga de Campeones de la UEFA",
+   "home": "Arsenal",
+   "away": "Borussia Dortmund",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1795550400,
+   "group": "champions-league"
+  },
+  {
+   "id": 773847497,
+   "tid": 118587,
+   "tname": "Liga de Campeones de la UEFA",
+   "home": "Como",
+   "away": "AEK Athens",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1795550400,
+   "group": "champions-league"
+  },
+  {
+   "id": 773847337,
+   "tid": 118587,
+   "tname": "Liga de Campeones de la UEFA",
+   "home": "Feyenoord",
+   "away": "Porto",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1795550400,
+   "group": "champions-league"
   }
  ]
 }

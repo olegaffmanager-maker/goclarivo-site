@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:33:23+00:00",
+ "updated": "2026-11-25T00:20:17+00:00",
  "backfilled": [
   2783103,
   1122087,
@@ -8760,6 +8760,34 @@
    ],
    "detail": "2:2 (2:1,0:1)",
    "start": 1795516200,
+   "group": "liga"
+  },
+  {
+   "id": 773754142,
+   "tid": 253537,
+   "tname": "India. I-League",
+   "home": "Sreenidi Deccan",
+   "away": "Chanmari",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1795525200,
+   "group": "liga"
+  },
+  {
+   "id": 773766639,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "North East United",
+   "away": "Sporting Delhi",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1795528800,
    "group": "liga"
   }
  ]

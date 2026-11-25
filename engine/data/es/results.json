@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:23:55+00:00",
+ "updated": "2026-11-25T00:15:46+00:00",
  "backfilled": [
   127733,
   1706694,
@@ -7,20 +7,6 @@
   2282697
  ],
  "matches": [
-  {
-   "id": 663817764,
-   "tid": 127733,
-   "tname": "España. La Liga",
-   "home": "Deportivo Alavés",
-   "away": "Valencia CF",
-   "score": [
-    0,
-    0
-   ],
-   "detail": "0:0 (0:0,0:0)",
-   "start": 1760986800,
-   "group": "liga"
-  },
   {
    "id": 664971947,
    "tid": 127733,

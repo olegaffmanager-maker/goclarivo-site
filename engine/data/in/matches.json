@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:33:23+00:00",
+ "updated": "2026-11-25T00:20:17+00:00",
  "groups": [
   {
    "key": "liga",
@@ -11,9 +11,9 @@
      "away": "UBI",
      "start": 1795581000,
      "odds": {
-      "1": 2.7,
-      "X": 3.3,
-      "2": 2.35
+      "1": 3.675,
+      "X": 3.53,
+      "2": 1.872
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/1304141.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/475907.png",
@@ -21,23 +21,23 @@
      "eid": 773674880,
      "tid": 2783103,
      "coupon": {
-      "1": "1YJAL",
-      "X": "MYJAL",
-      "2": "ZYJAL"
+      "1": "KSM4M",
+      "X": "QSM4M",
+      "2": "TSM4M"
      },
      "markets": {
       "dc": {
-       "1X": 1.53,
-       "12": 1.29,
-       "X2": 1.41
+       "1X": 1.78,
+       "12": 1.27,
+       "X2": 1.26
       },
       "ou25": {
        "o": 1.8,
        "u": 1.9
       },
       "btts": {
-       "y": 1.741,
-       "n": 2.09
+       "y": 1.781,
+       "n": 2.036
       }
      }
     },
@@ -57,9 +57,9 @@
      "eid": 773663274,
      "tid": 2477839,
      "coupon": {
-      "1": "GZJAL",
-      "X": "PZJAL",
-      "2": "19JAL"
+      "1": "XSM4M",
+      "X": "YSM4M",
+      "2": "CTM4M"
      },
      "markets": {
       "dc": {
@@ -93,9 +93,9 @@
      "eid": 773663277,
      "tid": 2477839,
      "coupon": {
-      "1": "P9JAL",
-      "X": "S14AL",
-      "2": "KA4AL"
+      "1": "3TM4M",
+      "X": "KTM4M",
+      "2": "MTM4M"
      },
      "markets": {
       "dc": {
@@ -129,9 +129,9 @@
      "eid": 773499533,
      "tid": 253537,
      "coupon": {
-      "1": "XA4AL",
-      "X": "2B4AL",
-      "2": "MB4AL"
+      "1": "QTM4M",
+      "X": "STM4M",
+      "2": "VTM4M"
      },
      "markets": {
       "dc": {
@@ -309,17 +309,28 @@
        },
        {
         "pos": 3,
-        "team": "Chanmari",
-        "pj": 3,
+        "team": "Sreenidi Deccan",
+        "pj": 5,
         "g": 2,
-        "p": 0,
-        "n": 1,
+        "p": 1,
+        "n": 2,
         "bp": 7,
-        "bc": 3,
-        "pts": 7
+        "bc": 6,
+        "pts": 8
        },
        {
         "pos": 4,
+        "team": "Chanmari",
+        "pj": 4,
+        "g": 2,
+        "p": 1,
+        "n": 1,
+        "bp": 8,
+        "bc": 5,
+        "pts": 7
+       },
+       {
+        "pos": 5,
         "team": "Shillong Lajong",
         "pj": 4,
         "g": 2,
@@ -330,7 +341,7 @@
         "pts": 7
        },
        {
-        "pos": 5,
+        "pos": 6,
         "team": "Nagaland United",
         "pj": 3,
         "g": 2,
@@ -341,7 +352,7 @@
         "pts": 6
        },
        {
-        "pos": 6,
+        "pos": 7,
         "team": "Bengaluru United",
         "pj": 5,
         "g": 1,
@@ -352,7 +363,7 @@
         "pts": 6
        },
        {
-        "pos": 7,
+        "pos": 8,
         "team": "Real Kashmir",
         "pj": 4,
         "g": 1,
@@ -360,17 +371,6 @@
         "n": 2,
         "bp": 7,
         "bc": 7,
-        "pts": 5
-       },
-       {
-        "pos": 8,
-        "team": "Sreenidi Deccan",
-        "pj": 4,
-        "g": 1,
-        "p": 1,
-        "n": 2,
-        "bp": 5,
-        "bc": 5,
         "pts": 5
        },
        {
@@ -429,9 +429,9 @@
      "eid": 773507960,
      "tid": 253537,
      "coupon": {
-      "1": "ZC4AL",
-      "X": "H24AL",
-      "2": "X24AL"
+      "1": "E7M4M",
+      "X": "F7M4M",
+      "2": "L7M4M"
      },
      "markets": {
       "dc": {
@@ -539,17 +539,28 @@
        },
        {
         "pos": 3,
-        "team": "Chanmari",
-        "pj": 3,
+        "team": "Sreenidi Deccan",
+        "pj": 5,
         "g": 2,
-        "p": 0,
-        "n": 1,
+        "p": 1,
+        "n": 2,
         "bp": 7,
-        "bc": 3,
-        "pts": 7
+        "bc": 6,
+        "pts": 8
        },
        {
         "pos": 4,
+        "team": "Chanmari",
+        "pj": 4,
+        "g": 2,
+        "p": 1,
+        "n": 1,
+        "bp": 8,
+        "bc": 5,
+        "pts": 7
+       },
+       {
+        "pos": 5,
         "team": "Shillong Lajong",
         "pj": 4,
         "g": 2,
@@ -560,7 +571,7 @@
         "pts": 7
        },
        {
-        "pos": 5,
+        "pos": 6,
         "team": "Nagaland United",
         "pj": 3,
         "g": 2,
@@ -571,7 +582,7 @@
         "pts": 6
        },
        {
-        "pos": 6,
+        "pos": 7,
         "team": "Bengaluru United",
         "pj": 5,
         "g": 1,
@@ -582,7 +593,7 @@
         "pts": 6
        },
        {
-        "pos": 7,
+        "pos": 8,
         "team": "Real Kashmir",
         "pj": 4,
         "g": 1,
@@ -590,17 +601,6 @@
         "n": 2,
         "bp": 7,
         "bc": 7,
-        "pts": 5
-       },
-       {
-        "pos": 8,
-        "team": "Sreenidi Deccan",
-        "pj": 4,
-        "g": 1,
-        "p": 1,
-        "n": 2,
-        "bp": 5,
-        "bc": 5,
         "pts": 5
        },
        {
@@ -649,9 +649,9 @@
      "away": "Mumbai City",
      "start": 1795874400,
      "odds": {
-      "1": 2.46,
-      "X": 3.18,
-      "2": 2.52
+      "1": 2.47,
+      "X": 3.2,
+      "2": 2.49
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/117445.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/9fef2f745d6024fa111783769ae66ef5.png",
@@ -659,23 +659,23 @@
      "eid": 773477932,
      "tid": 1122087,
      "coupon": {
-      "1": "ZD4AL",
-      "X": "HE4AL",
-      "2": "RE4AL"
+      "1": "Q7M4M",
+      "X": "77M4M",
+      "2": "X7M4M"
      },
      "markets": {
       "dc": {
-       "1X": 1.39,
+       "1X": 1.4,
        "12": 1.25,
        "X2": 1.41
       },
       "ou25": {
-       "o": 1.833,
-       "u": 1.833
+       "o": 1.75,
+       "u": 1.93
       },
       "btts": {
-       "y": 1.66,
-       "n": 2.073
+       "y": 1.59,
+       "n": 2.188
       }
      },
      "stats": {
@@ -873,24 +873,24 @@
        {
         "pos": 3,
         "team": "North East United",
-        "pj": 6,
+        "pj": 7,
         "g": 3,
         "p": 1,
-        "n": 2,
-        "bp": 8,
-        "bc": 3,
-        "pts": 11
+        "n": 3,
+        "bp": 9,
+        "bc": 4,
+        "pts": 12
        },
        {
         "pos": 4,
         "team": "Sporting Delhi",
-        "pj": 6,
+        "pj": 7,
         "g": 2,
         "p": 2,
-        "n": 2,
-        "bp": 12,
-        "bc": 10,
-        "pts": 8
+        "n": 3,
+        "bp": 13,
+        "bc": 11,
+        "pts": 9
        },
        {
         "pos": 5,
@@ -1015,9 +1015,9 @@
      "eid": 773203073,
      "tid": 1122087,
      "coupon": {
-      "1": "G34AL",
-      "X": "X34AL",
-      "2": "BH4AL"
+      "1": "FUM4M",
+      "X": "NUM4M",
+      "2": "ZUM4M"
      },
      "markets": {
       "dc": {
@@ -1229,24 +1229,24 @@
        {
         "pos": 3,
         "team": "North East United",
-        "pj": 6,
+        "pj": 7,
         "g": 3,
         "p": 1,
-        "n": 2,
-        "bp": 8,
-        "bc": 3,
-        "pts": 11
+        "n": 3,
+        "bp": 9,
+        "bc": 4,
+        "pts": 12
        },
        {
         "pos": 4,
         "team": "Sporting Delhi",
-        "pj": 6,
+        "pj": 7,
         "g": 2,
         "p": 2,
-        "n": 2,
-        "bp": 12,
-        "bc": 10,
-        "pts": 8
+        "n": 3,
+        "bp": 13,
+        "bc": 11,
+        "pts": 9
        },
        {
         "pos": 5,
@@ -1371,9 +1371,9 @@
      "eid": 773245730,
      "tid": 1122087,
      "coupon": {
-      "1": "LJ4AL",
-      "X": "244AL",
-      "2": "Y44AL"
+      "1": "JVM4M",
+      "X": "MVM4M",
+      "2": "QVM4M"
      },
      "markets": {
       "dc": {
@@ -1585,24 +1585,347 @@
        {
         "pos": 3,
         "team": "North East United",
-        "pj": 6,
+        "pj": 7,
         "g": 3,
         "p": 1,
-        "n": 2,
-        "bp": 8,
-        "bc": 3,
-        "pts": 11
+        "n": 3,
+        "bp": 9,
+        "bc": 4,
+        "pts": 12
        },
        {
         "pos": 4,
         "team": "Sporting Delhi",
-        "pj": 6,
+        "pj": 7,
         "g": 2,
         "p": 2,
+        "n": 3,
+        "bp": 13,
+        "bc": 11,
+        "pts": 9
+       },
+       {
+        "pos": 5,
+        "team": "Punjab FC",
+        "pj": 5,
+        "g": 2,
+        "p": 1,
         "n": 2,
-        "bp": 12,
-        "bc": 10,
+        "bp": 8,
+        "bc": 7,
         "pts": 8
+       },
+       {
+        "pos": 6,
+        "team": "Goa",
+        "pj": 5,
+        "g": 2,
+        "p": 1,
+        "n": 2,
+        "bp": 6,
+        "bc": 5,
+        "pts": 8
+       },
+       {
+        "pos": 7,
+        "team": "East Bengal",
+        "pj": 4,
+        "g": 2,
+        "p": 1,
+        "n": 1,
+        "bp": 14,
+        "bc": 8,
+        "pts": 7
+       },
+       {
+        "pos": 8,
+        "team": "Chennaiyin",
+        "pj": 6,
+        "g": 1,
+        "p": 2,
+        "n": 3,
+        "bp": 7,
+        "bc": 8,
+        "pts": 6
+       },
+       {
+        "pos": 9,
+        "team": "Kerala Blasters",
+        "pj": 4,
+        "g": 1,
+        "p": 1,
+        "n": 2,
+        "bp": 3,
+        "bc": 4,
+        "pts": 5
+       },
+       {
+        "pos": 10,
+        "team": "Churchill Brothers",
+        "pj": 5,
+        "g": 1,
+        "p": 4,
+        "n": 0,
+        "bp": 5,
+        "bc": 12,
+        "pts": 3
+       },
+       {
+        "pos": 11,
+        "team": "Odisha",
+        "pj": 4,
+        "g": 0,
+        "p": 2,
+        "n": 2,
+        "bp": 4,
+        "bc": 6,
+        "pts": 2
+       },
+       {
+        "pos": 12,
+        "team": "Mumbai City",
+        "pj": 5,
+        "g": 0,
+        "p": 3,
+        "n": 2,
+        "bp": 4,
+        "bc": 8,
+        "pts": 2
+       },
+       {
+        "pos": 13,
+        "team": "Inter Kashi",
+        "pj": 5,
+        "g": 0,
+        "p": 4,
+        "n": 1,
+        "bp": 3,
+        "bc": 13,
+        "pts": 1
+       }
+      ],
+      "foot": [
+       "Promotion - Superleague (Play-off: Round of 4)",
+       "Promotion - Superleague (Play-off: Round of 8)",
+       "Relegation"
+      ]
+     }
+    },
+    {
+     "tournament": "India. Super League",
+     "home": "North East United",
+     "away": "Punjab FC",
+     "start": 1796038200,
+     "odds": {
+      "1": 2.07,
+      "X": 3.24,
+      "2": 3.175
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/8a69280b8edb1b29c25ac43820d8401a.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/ae7bdce7213f9274cc3ed712e2057f7e.png",
+     "link": "https://1xlite-32085.pro/en/line/Football/1122087-India-Super-League/397052427-North-East-United-Punjab-FC",
+     "eid": 773779365,
+     "tid": 1122087,
+     "coupon": {
+      "1": "ZVM4M",
+      "X": "BXM4M",
+      "2": "CXM4M"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.26,
+       "12": 1.24,
+       "X2": 1.59
+      },
+      "ou25": {
+       "o": 1.78,
+       "u": 1.89
+      },
+      "btts": {
+       "y": 1.64,
+       "n": 2.104
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1773064800,
+        "h": "Punjab FC",
+        "a": "North East United",
+        "s": [
+         1,
+         1
+        ],
+        "t": "India. Super League",
+        "hh": false
+       },
+       {
+        "d": 1736517600,
+        "h": "North East United",
+        "a": "Punjab FC",
+        "s": [
+         1,
+         1
+        ],
+        "t": "India. Super League",
+        "hh": true
+       },
+       {
+        "d": 1732361400,
+        "h": "Punjab FC",
+        "a": "North East United",
+        "s": [
+         1,
+         2
+        ],
+        "t": "India. Super League",
+        "hh": false
+       },
+       {
+        "d": 1709820000,
+        "h": "North East United",
+        "a": "Punjab FC",
+        "s": [
+         0,
+         1
+        ],
+        "t": "India. Super League",
+        "hh": true
+       },
+       {
+        "d": 1696602600,
+        "h": "Punjab FC",
+        "a": "North East United",
+        "s": [
+         1,
+         1
+        ],
+        "t": "India. Super League",
+        "hh": false
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795269600,
+        "o": "Goa",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793878200,
+        "o": "Churchill Brothers",
+        "gf": 2,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1793368800,
+        "o": "Bengaluru",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1792850400,
+        "o": "Odisha",
+        "gf": 0,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1792332000,
+        "o": "Kerala Blasters",
+        "gf": 4,
+        "ga": 1,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795260600,
+        "o": "Chennaiyin",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1793455200,
+        "o": "Mohun Bagan Super Giant",
+        "gf": 1,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1792927800,
+        "o": "Churchill Brothers",
+        "gf": 3,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1792418400,
+        "o": "Mumbai City",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1791986400,
+        "o": "Odisha",
+        "gf": 2,
+        "ga": 1,
+        "dom": true
+       }
+      ]
+     },
+     "table": {
+      "title": "India. Super League",
+      "group": "",
+      "rows": [
+       {
+        "pos": 1,
+        "team": "Mohun Bagan Super Giant",
+        "pj": 6,
+        "g": 5,
+        "p": 1,
+        "n": 0,
+        "bp": 10,
+        "bc": 6,
+        "pts": 15
+       },
+       {
+        "pos": 2,
+        "team": "Bengaluru",
+        "pj": 5,
+        "g": 4,
+        "p": 0,
+        "n": 1,
+        "bp": 10,
+        "bc": 4,
+        "pts": 13
+       },
+       {
+        "pos": 3,
+        "team": "North East United",
+        "pj": 7,
+        "g": 3,
+        "p": 1,
+        "n": 3,
+        "bp": 9,
+        "bc": 4,
+        "pts": 12
+       },
+       {
+        "pos": 4,
+        "team": "Sporting Delhi",
+        "pj": 7,
+        "g": 2,
+        "p": 2,
+        "n": 3,
+        "bp": 13,
+        "bc": 11,
+        "pts": 9
        },
        {
         "pos": 5,

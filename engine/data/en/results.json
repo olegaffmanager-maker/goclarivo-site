@@ -1,23 +1,9 @@
 {
- "updated": "2026-11-24T14:34:19+00:00",
+ "updated": "2026-11-25T00:22:19+00:00",
  "backfilled": [
   88637
  ],
  "matches": [
-  {
-   "id": 663817528,
-   "tid": 88637,
-   "tname": "England. Premier League",
-   "home": "West Ham United",
-   "away": "Brentford",
-   "score": [
-    0,
-    2
-   ],
-   "detail": "0:2 (0:1,0:1)",
-   "start": 1760985900,
-   "group": "liga"
-  },
   {
    "id": 664971319,
    "tid": 88637,

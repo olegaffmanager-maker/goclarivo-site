@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:17:30+00:00",
+ "updated": "2026-11-25T00:08:55+00:00",
  "groups": [
   {
    "key": "liga",
@@ -21,9 +21,9 @@
      "eid": 773750486,
      "tid": 2306111,
      "coupon": {
-      "1": "JAD1L",
-      "X": "CBD1L",
-      "2": "S2D1L"
+      "1": "YCE4M",
+      "X": "A2E4M",
+      "2": "L2E4M"
      },
      "markets": {
       "dc": {
@@ -213,28 +213,27 @@
      "away": "Club America",
      "start": 1795662600,
      "odds": {
-      "1": 2.41,
-      "X": 3.125,
-      "2": 2.903
+      "1": 2.29,
+      "X": 3.18,
+      "2": 3.045
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/f2acb9c3aa8aeab977bdc0a8f7e0597d.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/80bf07c68f91236dbfacdf8bef0cbbe8.png",
      "link": "https://1xlite-32085.pro/es/line/Football/2306111-Mexico-Liga-MX/396917472-Monterrey-Club-America",
-     "eid": 773567935,
+     "eid": 773869637,
      "tid": 2306111,
      "coupon": {
-      "1": "8DD1L",
-      "X": "LED1L",
-      "2": "BFD1L"
+      "X": "SEE4M",
+      "2": "9EE4M"
      },
      "markets": {
       "dc": {
-       "1X": 1.36,
-       "12": 1.31,
-       "X2": 1.5
+       "1X": 1.33,
+       "12": 1.3,
+       "X2": 1.56
       },
       "ou25": {
-       "o": 1.87,
+       "o": 1.86,
        "u": 1.87
       },
       "btts": {
@@ -425,9 +424,8 @@
      "eid": 773727681,
      "tid": 2306111,
      "coupon": {
-      "1": "F3D1L",
-      "X": "S3D1L",
-      "2": "EGD1L"
+      "X": "L3E4M",
+      "2": "V3E4M"
      },
      "markets": {
       "dc": {
@@ -617,33 +615,33 @@
      "away": "Cruz Azul",
      "start": 1795749000,
      "odds": {
-      "1": 3.095,
-      "X": 3.5,
-      "2": 2.22
+      "1": 3.12,
+      "X": 3.45,
+      "2": 2.13
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/02895b7d0c0b1e4d4bfb7cef872763e0.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/cbfdb11c01ff057254ee21a7d27d1016.png",
      "link": "https://1xlite-32085.pro/es/line/Football/2306111-Mexico-Liga-MX/396917843-Leon-Cruz-Azul",
-     "eid": 773565148,
+     "eid": 773874666,
      "tid": 2306111,
      "coupon": {
-      "1": "LHD1L",
-      "X": "XHD1L",
-      "2": "EJD1L"
+      "1": "VGE4M",
+      "X": "9GE4M",
+      "2": "AHE4M"
      },
      "markets": {
       "dc": {
-       "1X": 1.63,
-       "12": 1.28,
-       "X2": 1.34
+       "1X": 1.64,
+       "12": 1.26,
+       "X2": 1.32
       },
       "ou25": {
        "o": 1.71,
-       "u": 2.06
+       "u": 2.05
       },
       "btts": {
-       "y": 1.6,
-       "n": 2.222
+       "y": 1.58,
+       "n": 2.234
       }
      },
      "stats": {

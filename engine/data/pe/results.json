@@ -1,53 +1,11 @@
 {
- "updated": "2026-11-24T14:18:39+00:00",
+ "updated": "2026-11-25T00:11:14+00:00",
  "backfilled": [
   1706694,
   125983,
   2892390
  ],
  "matches": [
-  {
-   "id": 663807516,
-   "tid": 2892390,
-   "tname": "Perú. Liga 1",
-   "home": "Sport Huancayo",
-   "away": "Alianza Lima",
-   "score": [
-    1,
-    2
-   ],
-   "detail": "1:2 (0:1,1:1)",
-   "start": 1760984100,
-   "group": "liga"
-  },
-  {
-   "id": 662090658,
-   "tid": 2892390,
-   "tname": "Perú. Liga 1",
-   "home": "Alianza Universidad",
-   "away": "ADT Tarma",
-   "score": [
-    0,
-    0
-   ],
-   "detail": "0:0 (0:0)",
-   "start": 1760990400,
-   "group": "liga"
-  },
-  {
-   "id": 663858985,
-   "tid": 2892390,
-   "tname": "Perú. Liga 1",
-   "home": "Sport Boys",
-   "away": "Melgar",
-   "score": [
-    1,
-    0
-   ],
-   "detail": "1:0 (1:0,0:0)",
-   "start": 1761001200,
-   "group": "liga"
-  },
   {
    "id": 663877468,
    "tid": 2892390,

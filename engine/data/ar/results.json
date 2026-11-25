@@ -1,39 +1,11 @@
 {
- "updated": "2026-11-24T14:17:00+00:00",
+ "updated": "2026-11-25T00:07:17+00:00",
  "backfilled": [
   119599,
   1706694,
   125983
  ],
  "matches": [
-  {
-   "id": 663850430,
-   "tid": 119599,
-   "tname": "Argentina. Liga Profesional",
-   "home": "Club Atlético Tigre",
-   "away": "Barracas Central",
-   "score": [
-    2,
-    2
-   ],
-   "detail": "2:2 (0:1,2:1)",
-   "start": 1760996700,
-   "group": "liga"
-  },
-  {
-   "id": 663850573,
-   "tid": 119599,
-   "tname": "Argentina. Liga Profesional",
-   "home": "Deportivo Riestra",
-   "away": "Instituto Córdoba",
-   "score": [
-    1,
-    0
-   ],
-   "detail": "1:0 (0:0,1:0)",
-   "start": 1760997600,
-   "group": "liga"
-  },
   {
    "id": 663869352,
    "tid": 119599,
