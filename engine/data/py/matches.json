@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T09:11:11+00:00",
+ "updated": "2026-11-25T19:42:51+00:00",
  "groups": [
   {
    "key": "liga",
@@ -21,9 +21,9 @@
      "eid": 773650667,
      "tid": 55479,
      "coupon": {
-      "1": "X9PUM",
-      "X": "B1QUM",
-      "2": "21QUM"
+      "1": "B173N",
+      "X": "Q173N",
+      "2": "DA73N"
      },
      "markets": {
       "dc": {
@@ -223,9 +223,9 @@
      "eid": 773650649,
      "tid": 55479,
      "coupon": {
-      "1": "R1QUM",
-      "X": "V1QUM",
-      "2": "CAQUM"
+      "1": "C273N",
+      "X": "P273N",
+      "2": "CD73N"
      },
      "markets": {
       "dc": {
@@ -415,9 +415,9 @@
      "away": "Recoleta",
      "start": 1795906800,
      "odds": {
-      "1": 1.548,
-      "X": 3.745,
-      "2": 6.38
+      "1": 1.527,
+      "X": 3.89,
+      "2": 6.33
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/9031de2b12369d64676efc58cb4993c1.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/8a15a9a99e322f46e5c6cdd376f33d7d.png",
@@ -425,23 +425,22 @@
      "eid": 773650658,
      "tid": 55479,
      "coupon": {
-      "1": "CCQUM",
-      "X": "HCQUM",
-      "2": "RCQUM"
+      "1": "AE73N",
+      "X": "QE73N"
      },
      "markets": {
       "dc": {
-       "1X": 1.089,
-       "12": 1.237,
-       "X2": 2.329
+       "1X": 1.09,
+       "12": 1.222,
+       "X2": 2.377
       },
       "ou25": {
        "o": 1.62,
        "u": 2.211
       },
       "btts": {
-       "y": 1.68,
-       "n": 2.042
+       "y": 1.69,
+       "n": 2.031
       }
      },
      "stats": {
@@ -606,9 +605,9 @@
      "away": "Club Guaraní",
      "start": 1795984200,
      "odds": {
-      "1": 2.164,
-      "X": 3.115,
-      "2": 3.49
+      "1": 2.059,
+      "X": 3.22,
+      "2": 3.655
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/b4f83cfb661f7099da53af2a2b70c54d.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/f6aa6ad3e6570bd2e4f7ce1d1cd12dd3.png",
@@ -616,19 +615,17 @@
      "eid": 773650664,
      "tid": 55479,
      "coupon": {
-      "1": "AEQUM",
-      "X": "3EQUM",
-      "2": "NEQUM"
+      "1": "7F73N"
      },
      "markets": {
       "dc": {
-       "1X": 1.268,
-       "12": 1.326,
-       "X2": 1.631
+       "1X": 1.247,
+       "12": 1.308,
+       "X2": 1.696
       },
       "ou25": {
-       "o": 1.928,
-       "u": 1.815
+       "o": 1.896,
+       "u": 1.845
       },
       "btts": {
        "y": 1.71,
@@ -808,9 +805,9 @@
      "away": "2 de Mayo",
      "start": 1795993200,
      "odds": {
-      "1": 1.694,
-      "X": 3.345,
-      "2": 5.54
+      "1": 1.674,
+      "X": 3.385,
+      "2": 5.64
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/4a5a8d6e5e87b7ce7adb4182cd7ddcb7.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/79a8f83e40956c2cc1459512950f9b70.png",
@@ -818,23 +815,22 @@
      "eid": 773650652,
      "tid": 55479,
      "coupon": {
-      "1": "3FQUM",
-      "X": "LFQUM",
-      "2": "TFQUM"
+      "1": "Y373N",
+      "2": "5G73N"
      },
      "markets": {
       "dc": {
-       "1X": 1.117,
-       "12": 1.288,
-       "X2": 2.062
+       "1X": 1.113,
+       "12": 1.282,
+       "X2": 2.093
       },
       "ou25": {
-       "o": 1.815,
-       "u": 1.928
+       "o": 1.806,
+       "u": 1.939
       },
       "btts": {
-       "y": 1.76,
-       "n": 1.938
+       "y": 1.75,
+       "n": 1.949
       }
      },
      "stats": {
@@ -1010,9 +1006,9 @@
      "away": "Sportivo Ameliano",
      "start": 1795993200,
      "odds": {
-      "1": 4.335,
-      "X": 3.28,
-      "2": 1.871
+      "1": 4.29,
+      "X": 3.305,
+      "2": 1.873
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/402c7bd111e293859387a1a428dfada8.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/95c61c6cc1173ef0299a45ced6a9bed8.png",
@@ -1020,15 +1016,14 @@
      "eid": 773650655,
      "tid": 55479,
      "coupon": {
-      "1": "G3QUM",
-      "X": "L3QUM",
-      "2": "R3QUM"
+      "1": "2H73N",
+      "X": "HH73N"
      },
      "markets": {
       "dc": {
-       "1X": 1.849,
-       "12": 1.298,
-       "X2": 1.184
+       "1X": 1.847,
+       "12": 1.294,
+       "X2": 1.187
       },
       "ou25": {
        "o": 1.684,

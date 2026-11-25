@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T09:07:10+00:00",
+ "updated": "2026-11-25T19:37:48+00:00",
  "groups": [
   {
    "key": "liga",
@@ -21,9 +21,9 @@
      "eid": 773750486,
      "tid": 2306111,
      "coupon": {
-      "1": "9XKUM",
-      "X": "H8KUM",
-      "2": "58KUM"
+      "1": "59K3N",
+      "X": "S9K3N",
+      "2": "11L3N"
      },
      "markets": {
       "dc": {
@@ -213,9 +213,9 @@
      "away": "Club America",
      "start": 1795662600,
      "odds": {
-      "1": 2.29,
-      "X": 3.18,
-      "2": 3.045
+      "1": 2.21,
+      "X": 3.2,
+      "2": 3.185
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/f2acb9c3aa8aeab977bdc0a8f7e0597d.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/80bf07c68f91236dbfacdf8bef0cbbe8.png",
@@ -223,23 +223,23 @@
      "eid": 773869637,
      "tid": 2306111,
      "coupon": {
-      "1": "4YKUM",
-      "X": "PYKUM",
-      "2": "UYKUM"
+      "1": "71L3N",
+      "X": "DAL3N",
+      "2": "HAL3N"
      },
      "markets": {
       "dc": {
-       "1X": 1.33,
+       "1X": 1.31,
        "12": 1.3,
-       "X2": 1.56
+       "X2": 1.59
       },
       "ou25": {
        "o": 1.86,
        "u": 1.87
       },
       "btts": {
-       "y": 1.66,
-       "n": 2.09
+       "y": 1.67,
+       "n": 2.079
       }
      },
      "stats": {
@@ -425,9 +425,9 @@
      "eid": 773727681,
      "tid": 2306111,
      "coupon": {
-      "1": "MZKUM",
-      "X": "VZKUM",
-      "2": "19KUM"
+      "1": "SAL3N",
+      "X": "8AL3N",
+      "2": "FBL3N"
      },
      "markets": {
       "dc": {
@@ -627,9 +627,9 @@
      "eid": 773874666,
      "tid": 2306111,
      "coupon": {
-      "1": "S9KUM",
-      "X": "Y9KUM",
-      "2": "21LUM"
+      "1": "6BL3N",
+      "X": "YBL3N",
+      "2": "GCL3N"
      },
      "markets": {
       "dc": {

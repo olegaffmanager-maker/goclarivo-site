@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T09:07:47+00:00",
+ "updated": "2026-11-25T19:38:25+00:00",
  "groups": [
   {
    "key": "liga",
@@ -21,9 +21,9 @@
      "eid": 773378863,
      "tid": 28298,
      "coupon": {
-      "1": "U5LUM",
-      "X": "Y5LUM",
-      "2": "FNLUM"
+      "1": "A8L3N",
+      "X": "K8L3N",
+      "2": "68L3N"
      },
      "markets": {
       "dc": {
@@ -170,6 +170,13 @@
       ],
       "f2": [
        {
+        "d": 1795390200,
+        "o": "Deportes La Serena",
+        "gf": 1,
+        "ga": 2,
+        "dom": true
+       },
+       {
         "d": 1794151800,
         "o": "Universidad Católica Santiago",
         "gf": 0,
@@ -196,13 +203,6 @@
         "gf": 2,
         "ga": 2,
         "dom": true
-       },
-       {
-        "d": 1789428600,
-        "o": "Unión La Calera",
-        "gf": 0,
-        "ga": 1,
-        "dom": false
        }
       ]
      }
@@ -213,9 +213,9 @@
      "away": "Deportes La Serena",
      "start": 1795908600,
      "odds": {
-      "1": 1.43,
-      "X": 5.15,
-      "2": 5.4
+      "1": 1.53,
+      "X": 4.8,
+      "2": 4.605
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/01af75c004c05818c821d12f6764ed2f.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/3841222ffd25b9be78e2e42cfe34fbee.png",
@@ -223,23 +223,23 @@
      "eid": 773378860,
      "tid": 28298,
      "coupon": {
-      "1": "6RLUM",
-      "X": "2SLUM",
-      "2": "KSLUM"
+      "1": "UYL3N",
+      "X": "AZL3N",
+      "2": "EZL3N"
      },
      "markets": {
       "dc": {
-       "1X": 1.113,
-       "12": 1.122,
-       "X2": 2.625
+       "1X": 1.149,
+       "12": 1.14,
+       "X2": 2.375
       },
       "ou25": {
-       "o": 1.42,
-       "u": 2.49
+       "o": 1.44,
+       "u": 2.43
       },
       "btts": {
-       "y": 1.59,
-       "n": 2.214
+       "y": 1.55,
+       "n": 2.297
       }
      },
      "stats": {
@@ -372,6 +372,13 @@
       ],
       "f2": [
        {
+        "d": 1795390200,
+        "o": "Deportes Limache",
+        "gf": 2,
+        "ga": 1,
+        "dom": false
+       },
+       {
         "d": 1794074400,
         "o": "Palestino",
         "gf": 1,
@@ -398,13 +405,6 @@
         "gf": 2,
         "ga": 3,
         "dom": false
-       },
-       {
-        "d": 1789322400,
-        "o": "Universidad de Chile",
-        "gf": 0,
-        "ga": 3,
-        "dom": true
        }
       ]
      }
@@ -425,9 +425,9 @@
      "eid": 773376211,
      "tid": 28298,
      "coupon": {
-      "1": "1TLUM",
-      "X": "ETLUM",
-      "2": "GTLUM"
+      "1": "VZL3N",
+      "X": "A9L3N",
+      "2": "F9L3N"
      },
      "markets": {
       "dc": {
@@ -627,9 +627,9 @@
      "eid": 773376223,
      "tid": 28298,
      "coupon": {
-      "1": "ZTLUM",
-      "X": "E7LUM",
-      "2": "L7LUM"
+      "1": "T9L3N",
+      "X": "B1M3N",
+      "2": "E1M3N"
      },
      "markets": {
       "dc": {
@@ -829,9 +829,9 @@
      "eid": 773376220,
      "tid": 28298,
      "coupon": {
-      "1": "DULUM",
-      "X": "HULUM",
-      "2": "QULUM"
+      "1": "S1M3N",
+      "X": "X1M3N",
+      "2": "AAM3N"
      },
      "markets": {
       "dc": {
@@ -1031,9 +1031,9 @@
      "eid": 773376214,
      "tid": 28298,
      "coupon": {
-      "1": "JVLUM",
-      "X": "PVLUM",
-      "2": "TVLUM"
+      "1": "KAM3N",
+      "X": "NAM3N",
+      "2": "6AM3N"
      },
      "markets": {
       "dc": {
@@ -1233,9 +1233,9 @@
      "eid": 773376689,
      "tid": 28298,
      "coupon": {
-      "1": "4XLUM",
-      "X": "6XLUM",
-      "2": "SXLUM"
+      "1": "GBM3N",
+      "X": "GCM3N",
+      "2": "MCM3N"
      },
      "markets": {
       "dc": {
@@ -1435,9 +1435,9 @@
      "eid": 773376217,
      "tid": 28298,
      "coupon": {
-      "1": "38LUM",
-      "X": "M8LUM",
-      "2": "R8LUM"
+      "1": "FDM3N",
+      "X": "VEM3N",
+      "2": "YEM3N"
      },
      "markets": {
       "dc": {

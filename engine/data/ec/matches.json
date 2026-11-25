@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T09:10:00+00:00",
+ "updated": "2026-11-25T19:40:32+00:00",
  "groups": [
   {
    "key": "liga",
@@ -11,9 +11,9 @@
      "away": "Independiente del Valle",
      "start": 1795651200,
      "odds": {
-      "1": 2.781,
-      "X": 3.28,
-      "2": 2.467
+      "1": 2.919,
+      "X": 3.265,
+      "2": 2.375
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/5754.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/d999af4b2bfdae0838fe911450dfa1a7.png",
@@ -21,23 +21,23 @@
      "eid": 773059964,
      "tid": 276999,
      "coupon": {
-      "1": "JMNUM",
-      "X": "PMNUM",
-      "2": "UMNUM"
+      "1": "57P3N",
+      "X": "V7P3N",
+      "2": "FUP3N"
      },
      "markets": {
       "dc": {
-       "1X": 1.493,
-       "12": 1.298,
-       "X2": 1.397
+       "1X": 1.528,
+       "12": 1.3,
+       "X2": 1.365
       },
       "ou25": {
-       "o": 2.0,
-       "u": 1.755
+       "o": 2.029,
+       "u": 1.734
       },
       "btts": {
-       "y": 1.75,
-       "n": 1.949
+       "y": 1.77,
+       "n": 1.919
       }
      },
      "stats": {
@@ -223,9 +223,9 @@
      "eid": 773378866,
      "tid": 276999,
      "coupon": {
-      "1": "K6NUM",
-      "X": "Y6NUM",
-      "2": "2RNUM"
+      "1": "NVP3N",
+      "X": "UVP3N",
+      "2": "1XP3N"
      },
      "markets": {
       "dc": {
@@ -415,9 +415,9 @@
      "away": "Manta",
      "start": 1795815000,
      "odds": {
-      "1": 1.775,
-      "X": 3.525,
-      "2": 4.485
+      "1": 1.789,
+      "X": 3.535,
+      "2": 4.39
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/5d27024fc3f92771eeb1ccbb6aa747ae.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/e9289c846044467509962956b78b8121.png",
@@ -425,23 +425,23 @@
      "eid": 773364764,
      "tid": 276999,
      "coupon": {
-      "1": "7RNUM",
-      "X": "CSNUM",
-      "2": "3SNUM"
+      "1": "ZXP3N",
+      "X": "J8P3N",
+      "2": "U8P3N"
      },
      "markets": {
       "dc": {
-       "1X": 1.173,
-       "12": 1.263,
-       "X2": 1.954
+       "1X": 1.18,
+       "12": 1.262,
+       "X2": 1.937
       },
       "ou25": {
-       "o": 2.09,
-       "u": 1.692
+       "o": 2.071,
+       "u": 1.704
       },
       "btts": {
-       "y": 1.93,
-       "n": 1.764
+       "y": 1.909,
+       "n": 1.784
       }
      },
      "stats": {
@@ -617,9 +617,9 @@
      "away": "LDU Quito",
      "start": 1795892400,
      "odds": {
-      "1": 2.968,
-      "X": 3.175,
-      "2": 2.393
+      "1": 2.951,
+      "X": 3.27,
+      "2": 2.354
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/02b84a457d39fda9f75da1a3154d4b2b.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/80bc59fa00517165321a0838c775f4d1.png",
@@ -627,19 +627,19 @@
      "eid": 773360407,
      "tid": 276999,
      "coupon": {
-      "1": "USNUM",
-      "X": "ZSNUM",
-      "2": "ETNUM"
+      "1": "6YP3N",
+      "X": "1ZP3N",
+      "2": "NZP3N"
      },
      "markets": {
       "dc": {
-       "1X": 1.521,
-       "12": 1.315,
-       "X2": 1.354
+       "1X": 1.537,
+       "12": 1.3,
+       "X2": 1.358
       },
       "ou25": {
-       "o": 1.966,
-       "u": 1.783
+       "o": 1.939,
+       "u": 1.806
       },
       "btts": {
        "y": 1.72,
@@ -819,9 +819,9 @@
      "away": "Técnico Universitario",
      "start": 1796070600,
      "odds": {
-      "1": 2.143,
-      "X": 3.575,
-      "2": 3.09
+      "1": 2.239,
+      "X": 3.505,
+      "2": 2.961
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/9019cdf68a0451d2d6638a5441822864.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/103979.png",
@@ -829,23 +829,23 @@
      "eid": 773464074,
      "tid": 276999,
      "coupon": {
-      "1": "6TNUM",
-      "X": "UTNUM",
-      "2": "B7NUM"
+      "1": "M9P3N",
+      "X": "R9P3N",
+      "2": "C1Q3N"
      },
      "markets": {
       "dc": {
-       "1X": 1.33,
-       "12": 1.257,
-       "X2": 1.643
+       "1X": 1.356,
+       "12": 1.266,
+       "X2": 1.59
       },
       "ou25": {
-       "o": 2.018,
-       "u": 1.742
+       "o": 2.0,
+       "u": 1.755
       },
       "btts": {
-       "y": 1.8,
-       "n": 1.888
+       "y": 1.77,
+       "n": 1.919
       }
      },
      "stats": {

@@ -1,12 +1,14 @@
 {
- "updated": "2026-11-25T09:15:36+00:00",
+ "updated": "2026-11-25T19:49:25+00:00",
  "backfilled": [
   1706694,
   2905343,
   125983,
   2479360,
   1786993,
-  1174103
+  1174103,
+  2475890,
+  2474293
  ],
  "matches": [
   {
@@ -8995,6 +8997,76 @@
    ],
    "detail": "1:0 (0:0,1:0)",
    "start": 1795522500,
+   "group": "liga"
+  },
+  {
+   "id": 773998548,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Kakamega Homeboyz",
+   "away": "Shabana",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:2,2:0)",
+   "start": 1795602600,
+   "group": "liga"
+  },
+  {
+   "id": 774019485,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "APS Bomet",
+   "away": "Migori Youth",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1795608000,
+   "group": "liga"
+  },
+  {
+   "id": 774019486,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "3K",
+   "away": "Nairobi United",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1795608000,
+   "group": "liga"
+  },
+  {
+   "id": 774019484,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Tusker",
+   "away": "Posta Rangers",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1795608000,
+   "group": "liga"
+  },
+  {
+   "id": 774026652,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Ulinzi Stars",
+   "away": "AFC Leopards",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1795609800,
    "group": "liga"
   }
  ]

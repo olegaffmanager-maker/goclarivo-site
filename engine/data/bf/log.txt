@@ -1,25 +1,26 @@
-DEBUG tour 2743971: ligue des champions afc 2
-DEBUG tour 2765014: hong kong. premier league u22
-DEBUG tour 127733: espagne. la liga
 DEBUG tour 118587: ligue des champions de l'uefa
+DEBUG tour 88637: angleterre. premier league
+DEBUG tour 38317: caf ligue des champions
+DEBUG tour 127733: espagne. la liga
+DEBUG tour 1800014: anglèterre. southern premier league. central
+DEBUG tour 1800476: angleterre. southern premier league. south
 DEBUG tour 281713: écosse. championship
 DEBUG tour 142091: copa libertadores
-DEBUG tour 2740174: afc champions league elite
-DEBUG tour 88637: angleterre. premier league
+DEBUG tour 13721: pays de galles. premier league
 DEBUG tour 105759: angleterre. championship
 DEBUG tour 310027: championnat d'irlande du nord. championship
-DEBUG tour 13721: pays de galles. premier league
-DEBUG tour 218103: ligue des champions de l'uefa. gagnant
+DEBUG tour 2743971: ligue des champions afc 2
+DEBUG tour 2903318: singapour. premier league
+DEBUG tour 104553: azerbaïdjan. premier league
 DEBUG tour 2477839: championnat d'inde. delhi. premier league
-DEBUG tour 947439: coupe du golfe des clubs champions
+DEBUG tour 2740174: afc champions league elite
+DEBUG tour 2190933: tanzanie. premier league de zanzibar
 DEBUG tour 2469052: japon. ligue des champions régionale
-DEBUG tour 2908998: liban. premier league
-DEBUG tour 38317: caf ligue des champions
-DEBUG tour 1800014: anglèterre. southern premier league. central
+DEBUG tour 2765014: hong kong. premier league u22
 DEBUG tour 2809583: espagne. la liga. équipe vs joueur
 liga: 
 liga: 0 tournaments, 0 matches
-seleccion: Estonie. Matchs de qualification | Coupe des Caraïbes de la CONCACAF | Coupe du Monde 2030. Vainqueur | Gold Cup de la CONCACAF. 2027. Vainqueur
-seleccion: 4 tournaments, 0 matches
+seleccion: Suède. Matchs de qualification | Estonie. Matchs de qualification | Norvège. Matchs de qualification | Coupe des Caraïbes de la CONCACAF | Coupe du Monde 2030. Vainqueur | Gold Cup de la CONCACAF. 2027. Vainqueur
+seleccion: 6 tournaments, 0 matches
 results: 0 fetched, 0 stored
 No matches returned, keeping previous data

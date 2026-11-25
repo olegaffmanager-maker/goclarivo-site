@@ -1,1939 +1,10 @@
 {
- "updated": "2026-11-25T09:15:36+00:00",
+ "updated": "2026-11-25T19:49:25+00:00",
  "groups": [
   {
    "key": "liga",
    "name": "Kenyan Premier League",
    "matches": [
-    {
-     "tournament": "Kenya. Premier League",
-     "home": "Kakamega Homeboyz",
-     "away": "Shabana",
-     "start": 1795602600,
-     "odds": {
-      "1": 1.87,
-      "X": 2.94,
-      "2": 4.28
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/33cc3b6d1778392019f548cb285556dd.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/776691.png",
-     "link": "https://1xlite-32085.pro/en/line/Football/1174103-Kenya-Premier-League/397022593-Kakamega-Homeboyz-Shabana",
-     "eid": 773725936,
-     "tid": 1174103,
-     "coupon": {
-      "1": "1U7UM",
-      "X": "HU7UM",
-      "2": "NU7UM"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.136,
-       "12": 1.28,
-       "X2": 1.727
-      },
-      "ou25": {
-       "o": 2.7,
-       "u": 1.36
-      },
-      "btts": {
-       "y": 2.34,
-       "n": 1.51
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1776510000,
-        "h": "Shabana",
-        "a": "Kakamega Homeboyz",
-        "s": [
-         1,
-         0
-        ],
-        "t": "Kenya. Premier League",
-        "hh": false
-       },
-       {
-        "d": 1765540800,
-        "h": "Kakamega Homeboyz",
-        "a": "Shabana",
-        "s": [
-         2,
-         2
-        ],
-        "t": "Kenya. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1744545600,
-        "h": "Kakamega Homeboyz",
-        "a": "Shabana",
-        "s": [
-         1,
-         0
-        ],
-        "t": "Kenya Cup",
-        "hh": true
-       },
-       {
-        "d": 1740913200,
-        "h": "Shabana",
-        "a": "Kakamega Homeboyz",
-        "s": [
-         4,
-         1
-        ],
-        "t": "Kenya. Premier League",
-        "hh": false
-       },
-       {
-        "d": 1733050800,
-        "h": "Kakamega Homeboyz",
-        "a": "Shabana",
-        "s": [
-         2,
-         0
-        ],
-        "t": "Kenya. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1713614400,
-        "h": "Shabana",
-        "a": "Kakamega Homeboyz",
-        "s": [
-         0,
-         0
-        ],
-        "t": "Kenya. Premier League",
-        "hh": false
-       },
-       {
-        "d": 1702209600,
-        "h": "Kakamega Homeboyz",
-        "a": "Shabana",
-        "s": [
-         2,
-         0
-        ],
-        "t": "Kenya. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1411214400,
-        "h": "Shabana",
-        "a": "Kakamega Homeboyz",
-        "s": [
-         2,
-         0
-        ],
-        "t": "National Super League Zone B",
-        "hh": false
-       }
-      ],
-      "f1": [
-       {
-        "d": 1795172400,
-        "o": "Mathare United",
-        "gf": 1,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1794744000,
-        "o": "Kenya Commercial Bank SC",
-        "gf": 0,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1794139200,
-        "o": "Kenya Police",
-        "gf": 2,
-        "ga": 2,
-        "dom": true
-       },
-       {
-        "d": 1793530800,
-        "o": "AFC Leopards",
-        "gf": 0,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1793185200,
-        "o": "Gor Mahia",
-        "gf": 0,
-        "ga": 1,
-        "dom": true
-       }
-      ],
-      "f2": [
-       {
-        "d": 1795343400,
-        "o": "Mara Sugar",
-        "gf": 0,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1794049200,
-        "o": "Mombasa United",
-        "gf": 3,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1793625300,
-        "o": "Kenya Police",
-        "gf": 0,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1793271600,
-        "o": "Migori Youth",
-        "gf": 1,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1792934100,
-        "o": "AFC Leopards",
-        "gf": 0,
-        "ga": 0,
-        "dom": false
-       }
-      ]
-     },
-     "table": {
-      "title": "Kenya. Premier League",
-      "group": "",
-      "rows": [
-       {
-        "pos": 1,
-        "team": "Kenya Commercial Bank SC",
-        "pj": 8,
-        "g": 5,
-        "p": 1,
-        "n": 2,
-        "bp": 10,
-        "bc": 5,
-        "pts": 17
-       },
-       {
-        "pos": 2,
-        "team": "Gor Mahia",
-        "pj": 7,
-        "g": 5,
-        "p": 1,
-        "n": 1,
-        "bp": 11,
-        "bc": 6,
-        "pts": 16
-       },
-       {
-        "pos": 3,
-        "team": "AFC Leopards",
-        "pj": 8,
-        "g": 4,
-        "p": 0,
-        "n": 4,
-        "bp": 6,
-        "bc": 1,
-        "pts": 16
-       },
-       {
-        "pos": 4,
-        "team": "APS Bomet",
-        "pj": 8,
-        "g": 3,
-        "p": 2,
-        "n": 3,
-        "bp": 8,
-        "bc": 5,
-        "pts": 12
-       },
-       {
-        "pos": 5,
-        "team": "Kenya Police",
-        "pj": 8,
-        "g": 3,
-        "p": 2,
-        "n": 3,
-        "bp": 9,
-        "bc": 8,
-        "pts": 12
-       },
-       {
-        "pos": 6,
-        "team": "Mara Sugar",
-        "pj": 7,
-        "g": 3,
-        "p": 1,
-        "n": 3,
-        "bp": 8,
-        "bc": 7,
-        "pts": 12
-       },
-       {
-        "pos": 7,
-        "team": "Muranga Seal",
-        "pj": 8,
-        "g": 3,
-        "p": 3,
-        "n": 2,
-        "bp": 16,
-        "bc": 13,
-        "pts": 11
-       },
-       {
-        "pos": 8,
-        "team": "Bandari Kenya",
-        "pj": 9,
-        "g": 2,
-        "p": 3,
-        "n": 4,
-        "bp": 5,
-        "bc": 7,
-        "pts": 10
-       },
-       {
-        "pos": 9,
-        "team": "Shabana",
-        "pj": 7,
-        "g": 2,
-        "p": 2,
-        "n": 3,
-        "bp": 5,
-        "bc": 5,
-        "pts": 9
-       },
-       {
-        "pos": 10,
-        "team": "Mathare United",
-        "pj": 9,
-        "g": 2,
-        "p": 4,
-        "n": 3,
-        "bp": 7,
-        "bc": 9,
-        "pts": 9
-       },
-       {
-        "pos": 11,
-        "team": "3K",
-        "pj": 7,
-        "g": 2,
-        "p": 2,
-        "n": 3,
-        "bp": 7,
-        "bc": 9,
-        "pts": 9
-       },
-       {
-        "pos": 12,
-        "team": "Ulinzi Stars",
-        "pj": 8,
-        "g": 1,
-        "p": 2,
-        "n": 5,
-        "bp": 7,
-        "bc": 9,
-        "pts": 8
-       },
-       {
-        "pos": 13,
-        "team": "Migori Youth",
-        "pj": 7,
-        "g": 1,
-        "p": 2,
-        "n": 4,
-        "bp": 6,
-        "bc": 6,
-        "pts": 7
-       },
-       {
-        "pos": 14,
-        "team": "Kakamega Homeboyz",
-        "pj": 7,
-        "g": 1,
-        "p": 2,
-        "n": 4,
-        "bp": 5,
-        "bc": 7,
-        "pts": 7
-       },
-       {
-        "pos": 15,
-        "team": "Posta Rangers",
-        "pj": 8,
-        "g": 2,
-        "p": 5,
-        "n": 1,
-        "bp": 7,
-        "bc": 13,
-        "pts": 7
-       },
-       {
-        "pos": 16,
-        "team": "Tusker",
-        "pj": 4,
-        "g": 2,
-        "p": 2,
-        "n": 0,
-        "bp": 6,
-        "bc": 4,
-        "pts": 6
-       },
-       {
-        "pos": 17,
-        "team": "Nairobi United",
-        "pj": 6,
-        "g": 0,
-        "p": 1,
-        "n": 5,
-        "bp": 7,
-        "bc": 8,
-        "pts": 5
-       },
-       {
-        "pos": 18,
-        "team": "Mombasa United",
-        "pj": 8,
-        "g": 0,
-        "p": 6,
-        "n": 2,
-        "bp": 5,
-        "bc": 13,
-        "pts": 2
-       }
-      ],
-      "foot": [
-       "Promotion - Champions League (Qualification)",
-       "Relegation - Superliga"
-      ]
-     }
-    },
-    {
-     "tournament": "Kenya. Premier League",
-     "home": "3K",
-     "away": "Nairobi United",
-     "start": 1795608000,
-     "odds": {
-      "1": 3.19,
-      "X": 2.875,
-      "2": 2.23
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/ccf01d62c4c97c0bd2882795df8f9855.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/361023ec8d1f6da5d8a17974ec4c2347.png",
-     "link": "https://1xlite-32085.pro/en/line/Football/1174103-Kenya-Premier-League/397033323-3K-Nairobi-United",
-     "eid": 773736951,
-     "tid": 1174103,
-     "coupon": {
-      "1": "BX7UM",
-      "X": "FX7UM",
-      "2": "6X7UM"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.5,
-       "12": 1.3,
-       "X2": 1.26
-      },
-      "ou25": {
-       "o": 2.49,
-       "u": 1.45
-      },
-      "btts": {
-       "y": 2.06,
-       "n": 1.654
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1747980000,
-        "h": "Nairobi United",
-        "a": "3K",
-        "s": [
-         2,
-         1
-        ],
-        "t": "Kenya. Super League",
-        "hh": false
-       },
-       {
-        "d": 1733907600,
-        "h": "3K",
-        "a": "Nairobi United",
-        "s": [
-         0,
-         0
-        ],
-        "t": "Kenya. Super League",
-        "hh": true
-       }
-      ],
-      "f1": [
-       {
-        "d": 1795348800,
-        "o": "Kenya Commercial Bank SC",
-        "gf": 0,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1794057300,
-        "o": "AFC Leopards",
-        "gf": 0,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1793617200,
-        "o": "Posta Rangers",
-        "gf": 2,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1793188800,
-        "o": "APS Bomet",
-        "gf": 0,
-        "ga": 3,
-        "dom": false
-       },
-       {
-        "d": 1792926000,
-        "o": "Muranga Seal",
-        "gf": 2,
-        "ga": 1,
-        "dom": true
-       }
-      ],
-      "f2": [
-       {
-        "d": 1794143700,
-        "o": "Gor Mahia",
-        "gf": 1,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1793534400,
-        "o": "Bandari Kenya",
-        "gf": 1,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1793188800,
-        "o": "Muranga Seal",
-        "gf": 2,
-        "ga": 3,
-        "dom": false
-       },
-       {
-        "d": 1792929600,
-        "o": "APS Bomet",
-        "gf": 1,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1792324800,
-        "o": "Shabana",
-        "gf": 0,
-        "ga": 0,
-        "dom": false
-       }
-      ]
-     },
-     "table": {
-      "title": "Kenya. Premier League",
-      "group": "",
-      "rows": [
-       {
-        "pos": 1,
-        "team": "Kenya Commercial Bank SC",
-        "pj": 8,
-        "g": 5,
-        "p": 1,
-        "n": 2,
-        "bp": 10,
-        "bc": 5,
-        "pts": 17
-       },
-       {
-        "pos": 2,
-        "team": "Gor Mahia",
-        "pj": 7,
-        "g": 5,
-        "p": 1,
-        "n": 1,
-        "bp": 11,
-        "bc": 6,
-        "pts": 16
-       },
-       {
-        "pos": 3,
-        "team": "AFC Leopards",
-        "pj": 8,
-        "g": 4,
-        "p": 0,
-        "n": 4,
-        "bp": 6,
-        "bc": 1,
-        "pts": 16
-       },
-       {
-        "pos": 4,
-        "team": "APS Bomet",
-        "pj": 8,
-        "g": 3,
-        "p": 2,
-        "n": 3,
-        "bp": 8,
-        "bc": 5,
-        "pts": 12
-       },
-       {
-        "pos": 5,
-        "team": "Kenya Police",
-        "pj": 8,
-        "g": 3,
-        "p": 2,
-        "n": 3,
-        "bp": 9,
-        "bc": 8,
-        "pts": 12
-       },
-       {
-        "pos": 6,
-        "team": "Mara Sugar",
-        "pj": 7,
-        "g": 3,
-        "p": 1,
-        "n": 3,
-        "bp": 8,
-        "bc": 7,
-        "pts": 12
-       },
-       {
-        "pos": 7,
-        "team": "Muranga Seal",
-        "pj": 8,
-        "g": 3,
-        "p": 3,
-        "n": 2,
-        "bp": 16,
-        "bc": 13,
-        "pts": 11
-       },
-       {
-        "pos": 8,
-        "team": "Bandari Kenya",
-        "pj": 9,
-        "g": 2,
-        "p": 3,
-        "n": 4,
-        "bp": 5,
-        "bc": 7,
-        "pts": 10
-       },
-       {
-        "pos": 9,
-        "team": "Shabana",
-        "pj": 7,
-        "g": 2,
-        "p": 2,
-        "n": 3,
-        "bp": 5,
-        "bc": 5,
-        "pts": 9
-       },
-       {
-        "pos": 10,
-        "team": "Mathare United",
-        "pj": 9,
-        "g": 2,
-        "p": 4,
-        "n": 3,
-        "bp": 7,
-        "bc": 9,
-        "pts": 9
-       },
-       {
-        "pos": 11,
-        "team": "3K",
-        "pj": 7,
-        "g": 2,
-        "p": 2,
-        "n": 3,
-        "bp": 7,
-        "bc": 9,
-        "pts": 9
-       },
-       {
-        "pos": 12,
-        "team": "Ulinzi Stars",
-        "pj": 8,
-        "g": 1,
-        "p": 2,
-        "n": 5,
-        "bp": 7,
-        "bc": 9,
-        "pts": 8
-       },
-       {
-        "pos": 13,
-        "team": "Migori Youth",
-        "pj": 7,
-        "g": 1,
-        "p": 2,
-        "n": 4,
-        "bp": 6,
-        "bc": 6,
-        "pts": 7
-       },
-       {
-        "pos": 14,
-        "team": "Kakamega Homeboyz",
-        "pj": 7,
-        "g": 1,
-        "p": 2,
-        "n": 4,
-        "bp": 5,
-        "bc": 7,
-        "pts": 7
-       },
-       {
-        "pos": 15,
-        "team": "Posta Rangers",
-        "pj": 8,
-        "g": 2,
-        "p": 5,
-        "n": 1,
-        "bp": 7,
-        "bc": 13,
-        "pts": 7
-       },
-       {
-        "pos": 16,
-        "team": "Tusker",
-        "pj": 4,
-        "g": 2,
-        "p": 2,
-        "n": 0,
-        "bp": 6,
-        "bc": 4,
-        "pts": 6
-       },
-       {
-        "pos": 17,
-        "team": "Nairobi United",
-        "pj": 6,
-        "g": 0,
-        "p": 1,
-        "n": 5,
-        "bp": 7,
-        "bc": 8,
-        "pts": 5
-       },
-       {
-        "pos": 18,
-        "team": "Mombasa United",
-        "pj": 8,
-        "g": 0,
-        "p": 6,
-        "n": 2,
-        "bp": 5,
-        "bc": 13,
-        "pts": 2
-       }
-      ],
-      "foot": [
-       "Promotion - Champions League (Qualification)",
-       "Relegation - Superliga"
-      ]
-     }
-    },
-    {
-     "tournament": "Kenya. Premier League",
-     "home": "APS Bomet",
-     "away": "Migori Youth",
-     "start": 1795608000,
-     "odds": {
-      "1": 2.64,
-      "X": 2.56,
-      "2": 2.84
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/bb5f6c59a9ac059a4057732c19e6d840.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/f23b564208c3ea8fa9cf8fe4cf75875a.png",
-     "link": "https://1xlite-32085.pro/en/line/Football/1174103-Kenya-Premier-League/397033540-APS-Bomet-Migori-Youth",
-     "eid": 773741055,
-     "tid": 1174103,
-     "coupon": {
-      "1": "687UM",
-      "X": "2Y7UM",
-      "2": "4Y7UM"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.3,
-       "12": 1.37,
-       "X2": 1.35
-      },
-      "ou25": {
-       "o": 2.875,
-       "u": 1.32
-      },
-      "btts": {
-       "y": 2.27,
-       "n": 1.541
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1745744400,
-        "h": "Migori Youth",
-        "a": "APS Bomet",
-        "s": [
-         1,
-         0
-        ],
-        "t": "Kenya. Super League",
-        "hh": false
-       },
-       {
-        "d": 1737288000,
-        "h": "APS Bomet",
-        "a": "Migori Youth",
-        "s": [
-         2,
-         1
-        ],
-        "t": "Kenya. Super League",
-        "hh": true
-       },
-       {
-        "d": 1651503600,
-        "h": "Migori Youth",
-        "a": "APS Bomet",
-        "s": [
-         2,
-         0
-        ],
-        "t": "Kenya. Super League",
-        "hh": false
-       }
-      ],
-      "f1": [
-       {
-        "d": 1795264200,
-        "o": "Kenya Police",
-        "gf": 2,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1794657600,
-        "o": "Bandari Kenya",
-        "gf": 2,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1793970000,
-        "o": "Kenya Commercial Bank SC",
-        "gf": 0,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1793534400,
-        "o": "Muranga Seal",
-        "gf": 0,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1793188800,
-        "o": "3K",
-        "gf": 3,
-        "ga": 0,
-        "dom": true
-       }
-      ],
-      "f2": [
-       {
-        "d": 1795257000,
-        "o": "AFC Leopards",
-        "gf": 0,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1794652200,
-        "o": "Ulinzi Stars",
-        "gf": 1,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1794052800,
-        "o": "Mara Sugar",
-        "gf": 1,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1793530800,
-        "o": "Mombasa United",
-        "gf": 2,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1793271600,
-        "o": "Shabana",
-        "gf": 1,
-        "ga": 1,
-        "dom": false
-       }
-      ]
-     },
-     "table": {
-      "title": "Kenya. Premier League",
-      "group": "",
-      "rows": [
-       {
-        "pos": 1,
-        "team": "Kenya Commercial Bank SC",
-        "pj": 8,
-        "g": 5,
-        "p": 1,
-        "n": 2,
-        "bp": 10,
-        "bc": 5,
-        "pts": 17
-       },
-       {
-        "pos": 2,
-        "team": "Gor Mahia",
-        "pj": 7,
-        "g": 5,
-        "p": 1,
-        "n": 1,
-        "bp": 11,
-        "bc": 6,
-        "pts": 16
-       },
-       {
-        "pos": 3,
-        "team": "AFC Leopards",
-        "pj": 8,
-        "g": 4,
-        "p": 0,
-        "n": 4,
-        "bp": 6,
-        "bc": 1,
-        "pts": 16
-       },
-       {
-        "pos": 4,
-        "team": "APS Bomet",
-        "pj": 8,
-        "g": 3,
-        "p": 2,
-        "n": 3,
-        "bp": 8,
-        "bc": 5,
-        "pts": 12
-       },
-       {
-        "pos": 5,
-        "team": "Kenya Police",
-        "pj": 8,
-        "g": 3,
-        "p": 2,
-        "n": 3,
-        "bp": 9,
-        "bc": 8,
-        "pts": 12
-       },
-       {
-        "pos": 6,
-        "team": "Mara Sugar",
-        "pj": 7,
-        "g": 3,
-        "p": 1,
-        "n": 3,
-        "bp": 8,
-        "bc": 7,
-        "pts": 12
-       },
-       {
-        "pos": 7,
-        "team": "Muranga Seal",
-        "pj": 8,
-        "g": 3,
-        "p": 3,
-        "n": 2,
-        "bp": 16,
-        "bc": 13,
-        "pts": 11
-       },
-       {
-        "pos": 8,
-        "team": "Bandari Kenya",
-        "pj": 9,
-        "g": 2,
-        "p": 3,
-        "n": 4,
-        "bp": 5,
-        "bc": 7,
-        "pts": 10
-       },
-       {
-        "pos": 9,
-        "team": "Shabana",
-        "pj": 7,
-        "g": 2,
-        "p": 2,
-        "n": 3,
-        "bp": 5,
-        "bc": 5,
-        "pts": 9
-       },
-       {
-        "pos": 10,
-        "team": "Mathare United",
-        "pj": 9,
-        "g": 2,
-        "p": 4,
-        "n": 3,
-        "bp": 7,
-        "bc": 9,
-        "pts": 9
-       },
-       {
-        "pos": 11,
-        "team": "3K",
-        "pj": 7,
-        "g": 2,
-        "p": 2,
-        "n": 3,
-        "bp": 7,
-        "bc": 9,
-        "pts": 9
-       },
-       {
-        "pos": 12,
-        "team": "Ulinzi Stars",
-        "pj": 8,
-        "g": 1,
-        "p": 2,
-        "n": 5,
-        "bp": 7,
-        "bc": 9,
-        "pts": 8
-       },
-       {
-        "pos": 13,
-        "team": "Migori Youth",
-        "pj": 7,
-        "g": 1,
-        "p": 2,
-        "n": 4,
-        "bp": 6,
-        "bc": 6,
-        "pts": 7
-       },
-       {
-        "pos": 14,
-        "team": "Kakamega Homeboyz",
-        "pj": 7,
-        "g": 1,
-        "p": 2,
-        "n": 4,
-        "bp": 5,
-        "bc": 7,
-        "pts": 7
-       },
-       {
-        "pos": 15,
-        "team": "Posta Rangers",
-        "pj": 8,
-        "g": 2,
-        "p": 5,
-        "n": 1,
-        "bp": 7,
-        "bc": 13,
-        "pts": 7
-       },
-       {
-        "pos": 16,
-        "team": "Tusker",
-        "pj": 4,
-        "g": 2,
-        "p": 2,
-        "n": 0,
-        "bp": 6,
-        "bc": 4,
-        "pts": 6
-       },
-       {
-        "pos": 17,
-        "team": "Nairobi United",
-        "pj": 6,
-        "g": 0,
-        "p": 1,
-        "n": 5,
-        "bp": 7,
-        "bc": 8,
-        "pts": 5
-       },
-       {
-        "pos": 18,
-        "team": "Mombasa United",
-        "pj": 8,
-        "g": 0,
-        "p": 6,
-        "n": 2,
-        "bp": 5,
-        "bc": 13,
-        "pts": 2
-       }
-      ],
-      "foot": [
-       "Promotion - Champions League (Qualification)",
-       "Relegation - Superliga"
-      ]
-     }
-    },
-    {
-     "tournament": "Kenya. Premier League",
-     "home": "Tusker",
-     "away": "Posta Rangers",
-     "start": 1795608000,
-     "odds": {
-      "1": 1.76,
-      "X": 3.1,
-      "2": 4.585
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/3772.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/302823.png",
-     "link": "https://1xlite-32085.pro/en/line/Football/1174103-Kenya-Premier-League/397034005-Tusker-Posta-Rangers",
-     "eid": 773777075,
-     "tid": 1174103,
-     "coupon": {
-      "1": "9Z7UM",
-      "X": "L97UM",
-      "2": "697UM"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.115,
-       "12": 1.26,
-       "X2": 1.83
-      },
-      "ou25": {
-       "o": 2.46,
-       "u": 1.43
-      },
-      "btts": {
-       "y": 2.24,
-       "n": 1.551
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1769860800,
-        "h": "Tusker",
-        "a": "Posta Rangers",
-        "s": [
-         1,
-         1
-        ],
-        "t": "Kenya. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1758967200,
-        "h": "Posta Rangers",
-        "a": "Tusker",
-        "s": [
-         2,
-         1
-        ],
-        "t": "Kenya. Premier League",
-        "hh": false
-       },
-       {
-        "d": 1741957200,
-        "h": "Tusker",
-        "a": "Posta Rangers",
-        "s": [
-         2,
-         1
-        ],
-        "t": "Kenya. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1734775200,
-        "h": "Posta Rangers",
-        "a": "Tusker",
-        "s": [
-         1,
-         3
-        ],
-        "t": "Kenya. Premier League",
-        "hh": false
-       },
-       {
-        "d": 1718798400,
-        "h": "Posta Rangers",
-        "a": "Tusker",
-        "s": [
-         1,
-         2
-        ],
-        "t": "Kenya. Premier League",
-        "hh": false
-       },
-       {
-        "d": 1702209600,
-        "h": "Tusker",
-        "a": "Posta Rangers",
-        "s": [
-         0,
-         0
-        ],
-        "t": "Kenya. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1687348800,
-        "h": "Tusker",
-        "a": "Posta Rangers",
-        "s": [
-         1,
-         1
-        ],
-        "t": "Kenya. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1677412800,
-        "h": "Posta Rangers",
-        "a": "Tusker",
-        "s": [
-         0,
-         1
-        ],
-        "t": "Kenya. Premier League",
-        "hh": false
-       }
-      ],
-      "f1": [
-       {
-        "d": 1794135600,
-        "o": "Bandari Kenya",
-        "gf": 0,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1793620800,
-        "o": "Mara Sugar",
-        "gf": 3,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1793275200,
-        "o": "Mathare United",
-        "gf": 1,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1792944000,
-        "o": "Singida Black Stars",
-        "gf": 1,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1792324800,
-        "o": "Singida Black Stars",
-        "gf": 0,
-        "ga": 1,
-        "dom": true
-       }
-      ],
-      "f2": [
-       {
-        "d": 1795350600,
-        "o": "Gor Mahia",
-        "gf": 1,
-        "ga": 2,
-        "dom": true
-       },
-       {
-        "d": 1794739500,
-        "o": "Kenya Police",
-        "gf": 1,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1794139200,
-        "o": "Mathare United",
-        "gf": 2,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1793617200,
-        "o": "3K",
-        "gf": 1,
-        "ga": 2,
-        "dom": true
-       },
-       {
-        "d": 1793185200,
-        "o": "Bandari Kenya",
-        "gf": 0,
-        "ga": 0,
-        "dom": false
-       }
-      ]
-     },
-     "table": {
-      "title": "Kenya. Premier League",
-      "group": "",
-      "rows": [
-       {
-        "pos": 1,
-        "team": "Kenya Commercial Bank SC",
-        "pj": 8,
-        "g": 5,
-        "p": 1,
-        "n": 2,
-        "bp": 10,
-        "bc": 5,
-        "pts": 17
-       },
-       {
-        "pos": 2,
-        "team": "Gor Mahia",
-        "pj": 7,
-        "g": 5,
-        "p": 1,
-        "n": 1,
-        "bp": 11,
-        "bc": 6,
-        "pts": 16
-       },
-       {
-        "pos": 3,
-        "team": "AFC Leopards",
-        "pj": 8,
-        "g": 4,
-        "p": 0,
-        "n": 4,
-        "bp": 6,
-        "bc": 1,
-        "pts": 16
-       },
-       {
-        "pos": 4,
-        "team": "APS Bomet",
-        "pj": 8,
-        "g": 3,
-        "p": 2,
-        "n": 3,
-        "bp": 8,
-        "bc": 5,
-        "pts": 12
-       },
-       {
-        "pos": 5,
-        "team": "Kenya Police",
-        "pj": 8,
-        "g": 3,
-        "p": 2,
-        "n": 3,
-        "bp": 9,
-        "bc": 8,
-        "pts": 12
-       },
-       {
-        "pos": 6,
-        "team": "Mara Sugar",
-        "pj": 7,
-        "g": 3,
-        "p": 1,
-        "n": 3,
-        "bp": 8,
-        "bc": 7,
-        "pts": 12
-       },
-       {
-        "pos": 7,
-        "team": "Muranga Seal",
-        "pj": 8,
-        "g": 3,
-        "p": 3,
-        "n": 2,
-        "bp": 16,
-        "bc": 13,
-        "pts": 11
-       },
-       {
-        "pos": 8,
-        "team": "Bandari Kenya",
-        "pj": 9,
-        "g": 2,
-        "p": 3,
-        "n": 4,
-        "bp": 5,
-        "bc": 7,
-        "pts": 10
-       },
-       {
-        "pos": 9,
-        "team": "Shabana",
-        "pj": 7,
-        "g": 2,
-        "p": 2,
-        "n": 3,
-        "bp": 5,
-        "bc": 5,
-        "pts": 9
-       },
-       {
-        "pos": 10,
-        "team": "Mathare United",
-        "pj": 9,
-        "g": 2,
-        "p": 4,
-        "n": 3,
-        "bp": 7,
-        "bc": 9,
-        "pts": 9
-       },
-       {
-        "pos": 11,
-        "team": "3K",
-        "pj": 7,
-        "g": 2,
-        "p": 2,
-        "n": 3,
-        "bp": 7,
-        "bc": 9,
-        "pts": 9
-       },
-       {
-        "pos": 12,
-        "team": "Ulinzi Stars",
-        "pj": 8,
-        "g": 1,
-        "p": 2,
-        "n": 5,
-        "bp": 7,
-        "bc": 9,
-        "pts": 8
-       },
-       {
-        "pos": 13,
-        "team": "Migori Youth",
-        "pj": 7,
-        "g": 1,
-        "p": 2,
-        "n": 4,
-        "bp": 6,
-        "bc": 6,
-        "pts": 7
-       },
-       {
-        "pos": 14,
-        "team": "Kakamega Homeboyz",
-        "pj": 7,
-        "g": 1,
-        "p": 2,
-        "n": 4,
-        "bp": 5,
-        "bc": 7,
-        "pts": 7
-       },
-       {
-        "pos": 15,
-        "team": "Posta Rangers",
-        "pj": 8,
-        "g": 2,
-        "p": 5,
-        "n": 1,
-        "bp": 7,
-        "bc": 13,
-        "pts": 7
-       },
-       {
-        "pos": 16,
-        "team": "Tusker",
-        "pj": 4,
-        "g": 2,
-        "p": 2,
-        "n": 0,
-        "bp": 6,
-        "bc": 4,
-        "pts": 6
-       },
-       {
-        "pos": 17,
-        "team": "Nairobi United",
-        "pj": 6,
-        "g": 0,
-        "p": 1,
-        "n": 5,
-        "bp": 7,
-        "bc": 8,
-        "pts": 5
-       },
-       {
-        "pos": 18,
-        "team": "Mombasa United",
-        "pj": 8,
-        "g": 0,
-        "p": 6,
-        "n": 2,
-        "bp": 5,
-        "bc": 13,
-        "pts": 2
-       }
-      ],
-      "foot": [
-       "Promotion - Champions League (Qualification)",
-       "Relegation - Superliga"
-      ]
-     }
-    },
-    {
-     "tournament": "Kenya. Premier League",
-     "home": "Ulinzi Stars",
-     "away": "AFC Leopards",
-     "start": 1795609800,
-     "odds": {
-      "1": 3.42,
-      "X": 2.72,
-      "2": 2.23
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/f0894364cd0e74408d012bd90e408f56.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/73c19ab4ec4d6270f89bbc7f5d35ef0f.png",
-     "link": "https://1xlite-32085.pro/en/line/Football/1174103-Kenya-Premier-League/397023419-Ulinzi-Stars-AFC-Leopards",
-     "eid": 773726934,
-     "tid": 1174103,
-     "coupon": {
-      "1": "11UUM",
-      "X": "K1UUM",
-      "2": "AAUUM"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.5,
-       "12": 1.33,
-       "X2": 1.22
-      },
-      "ou25": {
-       "o": 2.69,
-       "u": 1.363
-      },
-      "btts": {
-       "y": 2.2,
-       "n": 1.572
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1778677200,
-        "h": "Ulinzi Stars",
-        "a": "AFC Leopards",
-        "s": [
-         0,
-         2
-        ],
-        "t": "Kenya. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1766062800,
-        "h": "AFC Leopards",
-        "a": "Ulinzi Stars",
-        "s": [
-         2,
-         1
-        ],
-        "t": "Kenya. Premier League",
-        "hh": false
-       },
-       {
-        "d": 1745402400,
-        "h": "AFC Leopards",
-        "a": "Ulinzi Stars",
-        "s": [
-         0,
-         0
-        ],
-        "t": "Kenya. Premier League",
-        "hh": false
-       },
-       {
-        "d": 1730638800,
-        "h": "Ulinzi Stars",
-        "a": "AFC Leopards",
-        "s": [
-         2,
-         0
-        ],
-        "t": "Kenya. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1719144000,
-        "h": "Ulinzi Stars",
-        "a": "AFC Leopards",
-        "s": [
-         0,
-         1
-        ],
-        "t": "Kenya. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1704628800,
-        "h": "AFC Leopards",
-        "a": "Ulinzi Stars",
-        "s": [
-         1,
-         0
-        ],
-        "t": "Kenya. Premier League",
-        "hh": false
-       },
-       {
-        "d": 1688202000,
-        "h": "Ulinzi Stars",
-        "a": "AFC Leopards",
-        "s": [
-         0,
-         1
-        ],
-        "t": "Kenya Cup",
-        "hh": true
-       },
-       {
-        "d": 1683115200,
-        "h": "AFC Leopards",
-        "a": "Ulinzi Stars",
-        "s": [
-         0,
-         1
-        ],
-        "t": "Kenya. Premier League",
-        "hh": false
-       }
-      ],
-      "f1": [
-       {
-        "d": 1795262400,
-        "o": "Mombasa United",
-        "gf": 1,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1794652200,
-        "o": "Migori Youth",
-        "gf": 1,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1794139200,
-        "o": "Muranga Seal",
-        "gf": 2,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1793613600,
-        "o": "Mathare United",
-        "gf": 2,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1793279700,
-        "o": "Kenya Police",
-        "gf": 0,
-        "ga": 1,
-        "dom": false
-       }
-      ],
-      "f2": [
-       {
-        "d": 1795257000,
-        "o": "Migori Youth",
-        "gf": 1,
-        "ga": 0,
-        "dom": false
-       },
-       {
-        "d": 1794745800,
-        "o": "Mombasa United",
-        "gf": 1,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1794057300,
-        "o": "3K",
-        "gf": 0,
-        "ga": 0,
-        "dom": false
-       },
-       {
-        "d": 1793530800,
-        "o": "Kakamega Homeboyz",
-        "gf": 2,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1793193300,
-        "o": "Mara Sugar",
-        "gf": 0,
-        "ga": 0,
-        "dom": false
-       }
-      ]
-     },
-     "table": {
-      "title": "Kenya. Premier League",
-      "group": "",
-      "rows": [
-       {
-        "pos": 1,
-        "team": "Kenya Commercial Bank SC",
-        "pj": 8,
-        "g": 5,
-        "p": 1,
-        "n": 2,
-        "bp": 10,
-        "bc": 5,
-        "pts": 17
-       },
-       {
-        "pos": 2,
-        "team": "Gor Mahia",
-        "pj": 7,
-        "g": 5,
-        "p": 1,
-        "n": 1,
-        "bp": 11,
-        "bc": 6,
-        "pts": 16
-       },
-       {
-        "pos": 3,
-        "team": "AFC Leopards",
-        "pj": 8,
-        "g": 4,
-        "p": 0,
-        "n": 4,
-        "bp": 6,
-        "bc": 1,
-        "pts": 16
-       },
-       {
-        "pos": 4,
-        "team": "APS Bomet",
-        "pj": 8,
-        "g": 3,
-        "p": 2,
-        "n": 3,
-        "bp": 8,
-        "bc": 5,
-        "pts": 12
-       },
-       {
-        "pos": 5,
-        "team": "Kenya Police",
-        "pj": 8,
-        "g": 3,
-        "p": 2,
-        "n": 3,
-        "bp": 9,
-        "bc": 8,
-        "pts": 12
-       },
-       {
-        "pos": 6,
-        "team": "Mara Sugar",
-        "pj": 7,
-        "g": 3,
-        "p": 1,
-        "n": 3,
-        "bp": 8,
-        "bc": 7,
-        "pts": 12
-       },
-       {
-        "pos": 7,
-        "team": "Muranga Seal",
-        "pj": 8,
-        "g": 3,
-        "p": 3,
-        "n": 2,
-        "bp": 16,
-        "bc": 13,
-        "pts": 11
-       },
-       {
-        "pos": 8,
-        "team": "Bandari Kenya",
-        "pj": 9,
-        "g": 2,
-        "p": 3,
-        "n": 4,
-        "bp": 5,
-        "bc": 7,
-        "pts": 10
-       },
-       {
-        "pos": 9,
-        "team": "Shabana",
-        "pj": 7,
-        "g": 2,
-        "p": 2,
-        "n": 3,
-        "bp": 5,
-        "bc": 5,
-        "pts": 9
-       },
-       {
-        "pos": 10,
-        "team": "Mathare United",
-        "pj": 9,
-        "g": 2,
-        "p": 4,
-        "n": 3,
-        "bp": 7,
-        "bc": 9,
-        "pts": 9
-       },
-       {
-        "pos": 11,
-        "team": "3K",
-        "pj": 7,
-        "g": 2,
-        "p": 2,
-        "n": 3,
-        "bp": 7,
-        "bc": 9,
-        "pts": 9
-       },
-       {
-        "pos": 12,
-        "team": "Ulinzi Stars",
-        "pj": 8,
-        "g": 1,
-        "p": 2,
-        "n": 5,
-        "bp": 7,
-        "bc": 9,
-        "pts": 8
-       },
-       {
-        "pos": 13,
-        "team": "Migori Youth",
-        "pj": 7,
-        "g": 1,
-        "p": 2,
-        "n": 4,
-        "bp": 6,
-        "bc": 6,
-        "pts": 7
-       },
-       {
-        "pos": 14,
-        "team": "Kakamega Homeboyz",
-        "pj": 7,
-        "g": 1,
-        "p": 2,
-        "n": 4,
-        "bp": 5,
-        "bc": 7,
-        "pts": 7
-       },
-       {
-        "pos": 15,
-        "team": "Posta Rangers",
-        "pj": 8,
-        "g": 2,
-        "p": 5,
-        "n": 1,
-        "bp": 7,
-        "bc": 13,
-        "pts": 7
-       },
-       {
-        "pos": 16,
-        "team": "Tusker",
-        "pj": 4,
-        "g": 2,
-        "p": 2,
-        "n": 0,
-        "bp": 6,
-        "bc": 4,
-        "pts": 6
-       },
-       {
-        "pos": 17,
-        "team": "Nairobi United",
-        "pj": 6,
-        "g": 0,
-        "p": 1,
-        "n": 5,
-        "bp": 7,
-        "bc": 8,
-        "pts": 5
-       },
-       {
-        "pos": 18,
-        "team": "Mombasa United",
-        "pj": 8,
-        "g": 0,
-        "p": 6,
-        "n": 2,
-        "bp": 5,
-        "bc": 13,
-        "pts": 2
-       }
-      ],
-      "foot": [
-       "Promotion - Champions League (Qualification)",
-       "Relegation - Superliga"
-      ]
-     }
-    },
     {
      "tournament": "Kenya. Premier League",
      "home": "Muranga Seal",
@@ -1950,9 +21,8 @@
      "eid": 773874660,
      "tid": 1174103,
      "coupon": {
-      "1": "KBUUM",
-      "X": "RBUUM",
-      "2": "UBUUM"
+      "1": "EGCGN",
+      "X": "QGCGN"
      },
      "markets": {
       "dc": {
@@ -2130,6 +200,17 @@
        },
        {
         "pos": 2,
+        "team": "AFC Leopards",
+        "pj": 9,
+        "g": 4,
+        "p": 0,
+        "n": 5,
+        "bp": 6,
+        "bc": 1,
+        "pts": 17
+       },
+       {
+        "pos": 3,
         "team": "Gor Mahia",
         "pj": 7,
         "g": 5,
@@ -2140,26 +221,15 @@
         "pts": 16
        },
        {
-        "pos": 3,
-        "team": "AFC Leopards",
-        "pj": 8,
-        "g": 4,
-        "p": 0,
-        "n": 4,
-        "bp": 6,
-        "bc": 1,
-        "pts": 16
-       },
-       {
         "pos": 4,
         "team": "APS Bomet",
-        "pj": 8,
+        "pj": 9,
         "g": 3,
         "p": 2,
-        "n": 3,
+        "n": 4,
         "bp": 8,
         "bc": 5,
-        "pts": 12
+        "pts": 13
        },
        {
         "pos": 5,
@@ -2196,6 +266,17 @@
        },
        {
         "pos": 8,
+        "team": "Kakamega Homeboyz",
+        "pj": 8,
+        "g": 2,
+        "p": 2,
+        "n": 4,
+        "bp": 8,
+        "bc": 9,
+        "pts": 10
+       },
+       {
+        "pos": 9,
         "team": "Bandari Kenya",
         "pj": 9,
         "g": 2,
@@ -2206,18 +287,29 @@
         "pts": 10
        },
        {
-        "pos": 9,
-        "team": "Shabana",
-        "pj": 7,
-        "g": 2,
+        "pos": 10,
+        "team": "Tusker",
+        "pj": 5,
+        "g": 3,
         "p": 2,
-        "n": 3,
-        "bp": 5,
+        "n": 0,
+        "bp": 8,
         "bc": 5,
         "pts": 9
        },
        {
-        "pos": 10,
+        "pos": 11,
+        "team": "Shabana",
+        "pj": 8,
+        "g": 2,
+        "p": 3,
+        "n": 3,
+        "bp": 7,
+        "bc": 8,
+        "pts": 9
+       },
+       {
+        "pos": 12,
         "team": "Mathare United",
         "pj": 9,
         "g": 2,
@@ -2228,81 +320,59 @@
         "pts": 9
        },
        {
-        "pos": 11,
-        "team": "3K",
-        "pj": 7,
-        "g": 2,
+        "pos": 13,
+        "team": "Ulinzi Stars",
+        "pj": 9,
+        "g": 1,
         "p": 2,
-        "n": 3,
+        "n": 6,
         "bp": 7,
         "bc": 9,
         "pts": 9
        },
        {
-        "pos": 12,
-        "team": "Ulinzi Stars",
-        "pj": 8,
-        "g": 1,
-        "p": 2,
-        "n": 5,
-        "bp": 7,
-        "bc": 9,
-        "pts": 8
-       },
-       {
-        "pos": 13,
-        "team": "Migori Youth",
-        "pj": 7,
-        "g": 1,
-        "p": 2,
-        "n": 4,
-        "bp": 6,
-        "bc": 6,
-        "pts": 7
-       },
-       {
         "pos": 14,
-        "team": "Kakamega Homeboyz",
-        "pj": 7,
-        "g": 1,
-        "p": 2,
-        "n": 4,
-        "bp": 5,
-        "bc": 7,
-        "pts": 7
+        "team": "3K",
+        "pj": 8,
+        "g": 2,
+        "p": 3,
+        "n": 3,
+        "bp": 7,
+        "bc": 11,
+        "pts": 9
        },
        {
         "pos": 15,
-        "team": "Posta Rangers",
-        "pj": 8,
-        "g": 2,
-        "p": 5,
-        "n": 1,
-        "bp": 7,
-        "bc": 13,
-        "pts": 7
+        "team": "Nairobi United",
+        "pj": 7,
+        "g": 1,
+        "p": 1,
+        "n": 5,
+        "bp": 9,
+        "bc": 8,
+        "pts": 8
        },
        {
         "pos": 16,
-        "team": "Tusker",
-        "pj": 4,
-        "g": 2,
+        "team": "Migori Youth",
+        "pj": 8,
+        "g": 1,
         "p": 2,
-        "n": 0,
+        "n": 5,
         "bp": 6,
-        "bc": 4,
-        "pts": 6
+        "bc": 6,
+        "pts": 8
        },
        {
         "pos": 17,
-        "team": "Nairobi United",
-        "pj": 6,
-        "g": 0,
-        "p": 1,
-        "n": 5,
-        "bp": 7,
-        "bc": 8,
-        "pts": 5
+        "team": "Posta Rangers",
+        "pj": 9,
+        "g": 2,
+        "p": 6,
+        "n": 1,
+        "bp": 8,
+        "bc": 15,
+        "pts": 7
        },
        {
         "pos": 18,
@@ -2338,9 +408,9 @@
      "eid": 773736288,
      "tid": 1174103,
      "coupon": {
-      "1": "4CUUM",
-      "X": "NCUUM",
-      "2": "TCUUM"
+      "1": "AJCGN",
+      "X": "3JCGN",
+      "2": "5JCGN"
      },
      "markets": {
       "dc": {
@@ -2507,6 +577,17 @@
        },
        {
         "pos": 2,
+        "team": "AFC Leopards",
+        "pj": 9,
+        "g": 4,
+        "p": 0,
+        "n": 5,
+        "bp": 6,
+        "bc": 1,
+        "pts": 17
+       },
+       {
+        "pos": 3,
         "team": "Gor Mahia",
         "pj": 7,
         "g": 5,
@@ -2517,26 +598,15 @@
         "pts": 16
        },
        {
-        "pos": 3,
-        "team": "AFC Leopards",
-        "pj": 8,
-        "g": 4,
-        "p": 0,
-        "n": 4,
-        "bp": 6,
-        "bc": 1,
-        "pts": 16
-       },
-       {
         "pos": 4,
         "team": "APS Bomet",
-        "pj": 8,
+        "pj": 9,
         "g": 3,
         "p": 2,
-        "n": 3,
+        "n": 4,
         "bp": 8,
         "bc": 5,
-        "pts": 12
+        "pts": 13
        },
        {
         "pos": 5,
@@ -2573,6 +643,17 @@
        },
        {
         "pos": 8,
+        "team": "Kakamega Homeboyz",
+        "pj": 8,
+        "g": 2,
+        "p": 2,
+        "n": 4,
+        "bp": 8,
+        "bc": 9,
+        "pts": 10
+       },
+       {
+        "pos": 9,
         "team": "Bandari Kenya",
         "pj": 9,
         "g": 2,
@@ -2583,18 +664,29 @@
         "pts": 10
        },
        {
-        "pos": 9,
-        "team": "Shabana",
-        "pj": 7,
-        "g": 2,
+        "pos": 10,
+        "team": "Tusker",
+        "pj": 5,
+        "g": 3,
         "p": 2,
-        "n": 3,
-        "bp": 5,
+        "n": 0,
+        "bp": 8,
         "bc": 5,
         "pts": 9
        },
        {
-        "pos": 10,
+        "pos": 11,
+        "team": "Shabana",
+        "pj": 8,
+        "g": 2,
+        "p": 3,
+        "n": 3,
+        "bp": 7,
+        "bc": 8,
+        "pts": 9
+       },
+       {
+        "pos": 12,
         "team": "Mathare United",
         "pj": 9,
         "g": 2,
@@ -2605,81 +697,59 @@
         "pts": 9
        },
        {
-        "pos": 11,
-        "team": "3K",
-        "pj": 7,
-        "g": 2,
+        "pos": 13,
+        "team": "Ulinzi Stars",
+        "pj": 9,
+        "g": 1,
         "p": 2,
-        "n": 3,
+        "n": 6,
         "bp": 7,
         "bc": 9,
         "pts": 9
        },
        {
-        "pos": 12,
-        "team": "Ulinzi Stars",
-        "pj": 8,
-        "g": 1,
-        "p": 2,
-        "n": 5,
-        "bp": 7,
-        "bc": 9,
-        "pts": 8
-       },
-       {
-        "pos": 13,
-        "team": "Migori Youth",
-        "pj": 7,
-        "g": 1,
-        "p": 2,
-        "n": 4,
-        "bp": 6,
-        "bc": 6,
-        "pts": 7
-       },
-       {
         "pos": 14,
-        "team": "Kakamega Homeboyz",
-        "pj": 7,
-        "g": 1,
-        "p": 2,
-        "n": 4,
-        "bp": 5,
-        "bc": 7,
-        "pts": 7
+        "team": "3K",
+        "pj": 8,
+        "g": 2,
+        "p": 3,
+        "n": 3,
+        "bp": 7,
+        "bc": 11,
+        "pts": 9
        },
        {
         "pos": 15,
-        "team": "Posta Rangers",
-        "pj": 8,
-        "g": 2,
-        "p": 5,
-        "n": 1,
-        "bp": 7,
-        "bc": 13,
-        "pts": 7
+        "team": "Nairobi United",
+        "pj": 7,
+        "g": 1,
+        "p": 1,
+        "n": 5,
+        "bp": 9,
+        "bc": 8,
+        "pts": 8
        },
        {
         "pos": 16,
-        "team": "Tusker",
-        "pj": 4,
-        "g": 2,
+        "team": "Migori Youth",
+        "pj": 8,
+        "g": 1,
         "p": 2,
-        "n": 0,
+        "n": 5,
         "bp": 6,
-        "bc": 4,
-        "pts": 6
+        "bc": 6,
+        "pts": 8
        },
        {
         "pos": 17,
-        "team": "Nairobi United",
-        "pj": 6,
-        "g": 0,
-        "p": 1,
-        "n": 5,
-        "bp": 7,
-        "bc": 8,
-        "pts": 5
+        "team": "Posta Rangers",
+        "pj": 9,
+        "g": 2,
+        "p": 6,
+        "n": 1,
+        "bp": 8,
+        "bc": 15,
+        "pts": 7
        },
        {
         "pos": 18,
@@ -2715,9 +785,7 @@
      "eid": 773738270,
      "tid": 1174103,
      "coupon": {
-      "1": "K2UUM",
-      "X": "N2UUM",
-      "2": "U2UUM"
+      "X": "U4CGN"
      },
      "markets": {
       "dc": {
@@ -2828,6 +896,17 @@
        },
        {
         "pos": 2,
+        "team": "AFC Leopards",
+        "pj": 9,
+        "g": 4,
+        "p": 0,
+        "n": 5,
+        "bp": 6,
+        "bc": 1,
+        "pts": 17
+       },
+       {
+        "pos": 3,
         "team": "Gor Mahia",
         "pj": 7,
         "g": 5,
@@ -2838,26 +917,15 @@
         "pts": 16
        },
        {
-        "pos": 3,
-        "team": "AFC Leopards",
-        "pj": 8,
-        "g": 4,
-        "p": 0,
-        "n": 4,
-        "bp": 6,
-        "bc": 1,
-        "pts": 16
-       },
-       {
         "pos": 4,
         "team": "APS Bomet",
-        "pj": 8,
+        "pj": 9,
         "g": 3,
         "p": 2,
-        "n": 3,
+        "n": 4,
         "bp": 8,
         "bc": 5,
-        "pts": 12
+        "pts": 13
        },
        {
         "pos": 5,
@@ -2894,6 +962,17 @@
        },
        {
         "pos": 8,
+        "team": "Kakamega Homeboyz",
+        "pj": 8,
+        "g": 2,
+        "p": 2,
+        "n": 4,
+        "bp": 8,
+        "bc": 9,
+        "pts": 10
+       },
+       {
+        "pos": 9,
         "team": "Bandari Kenya",
         "pj": 9,
         "g": 2,
@@ -2904,18 +983,29 @@
         "pts": 10
        },
        {
-        "pos": 9,
-        "team": "Shabana",
-        "pj": 7,
-        "g": 2,
+        "pos": 10,
+        "team": "Tusker",
+        "pj": 5,
+        "g": 3,
         "p": 2,
-        "n": 3,
-        "bp": 5,
+        "n": 0,
+        "bp": 8,
         "bc": 5,
         "pts": 9
        },
        {
-        "pos": 10,
+        "pos": 11,
+        "team": "Shabana",
+        "pj": 8,
+        "g": 2,
+        "p": 3,
+        "n": 3,
+        "bp": 7,
+        "bc": 8,
+        "pts": 9
+       },
+       {
+        "pos": 12,
         "team": "Mathare United",
         "pj": 9,
         "g": 2,
@@ -2926,81 +1016,59 @@
         "pts": 9
        },
        {
-        "pos": 11,
-        "team": "3K",
-        "pj": 7,
-        "g": 2,
+        "pos": 13,
+        "team": "Ulinzi Stars",
+        "pj": 9,
+        "g": 1,
         "p": 2,
-        "n": 3,
+        "n": 6,
         "bp": 7,
         "bc": 9,
         "pts": 9
        },
        {
-        "pos": 12,
-        "team": "Ulinzi Stars",
-        "pj": 8,
-        "g": 1,
-        "p": 2,
-        "n": 5,
-        "bp": 7,
-        "bc": 9,
-        "pts": 8
-       },
-       {
-        "pos": 13,
-        "team": "Migori Youth",
-        "pj": 7,
-        "g": 1,
-        "p": 2,
-        "n": 4,
-        "bp": 6,
-        "bc": 6,
-        "pts": 7
-       },
-       {
         "pos": 14,
-        "team": "Kakamega Homeboyz",
-        "pj": 7,
-        "g": 1,
-        "p": 2,
-        "n": 4,
-        "bp": 5,
-        "bc": 7,
-        "pts": 7
+        "team": "3K",
+        "pj": 8,
+        "g": 2,
+        "p": 3,
+        "n": 3,
+        "bp": 7,
+        "bc": 11,
+        "pts": 9
        },
        {
         "pos": 15,
-        "team": "Posta Rangers",
-        "pj": 8,
-        "g": 2,
-        "p": 5,
-        "n": 1,
-        "bp": 7,
-        "bc": 13,
-        "pts": 7
+        "team": "Nairobi United",
+        "pj": 7,
+        "g": 1,
+        "p": 1,
+        "n": 5,
+        "bp": 9,
+        "bc": 8,
+        "pts": 8
        },
        {
         "pos": 16,
-        "team": "Tusker",
-        "pj": 4,
-        "g": 2,
+        "team": "Migori Youth",
+        "pj": 8,
+        "g": 1,
         "p": 2,
-        "n": 0,
+        "n": 5,
         "bp": 6,
-        "bc": 4,
-        "pts": 6
+        "bc": 6,
+        "pts": 8
        },
        {
         "pos": 17,
-        "team": "Nairobi United",
-        "pj": 6,
-        "g": 0,
-        "p": 1,
-        "n": 5,
-        "bp": 7,
-        "bc": 8,
-        "pts": 5
+        "team": "Posta Rangers",
+        "pj": 9,
+        "g": 2,
+        "p": 6,
+        "n": 1,
+        "bp": 8,
+        "bc": 15,
+        "pts": 7
        },
        {
         "pos": 18,
