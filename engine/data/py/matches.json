@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T03:52:20+00:00",
+ "updated": "2026-11-26T17:26:09+00:00",
  "groups": [
   {
    "key": "liga",
@@ -21,9 +21,9 @@
      "eid": 773650667,
      "tid": 55479,
      "coupon": {
-      "1": "923ZN",
-      "X": "1D3ZN",
-      "2": "2D3ZN"
+      "1": "1CXHQ",
+      "X": "ECXHQ",
+      "2": "HCXHQ"
      },
      "markets": {
       "dc": {
@@ -213,9 +213,9 @@
      "away": "Club Olimpia",
      "start": 1795820400,
      "odds": {
-      "1": 4.7,
-      "X": 4.49,
-      "2": 1.577
+      "1": 4.55,
+      "X": 4.285,
+      "2": 1.622
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/65ea19b1e953a546421a581d06629619.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/e3650f3cc0c84333b4ee1a24c5c7ebf3.png",
@@ -223,23 +223,23 @@
      "eid": 773650649,
      "tid": 55479,
      "coupon": {
-      "1": "MD3ZN",
-      "X": "5D3ZN",
-      "2": "ND3ZN"
+      "1": "J2XHQ",
+      "X": "L2XHQ",
+      "2": "62XHQ"
      },
      "markets": {
       "dc": {
-       "1X": 2.267,
-       "12": 1.173,
-       "X2": 1.159
+       "1X": 2.18,
+       "12": 1.187,
+       "X2": 1.169
       },
       "ou25": {
-       "o": 1.613,
-       "u": 2.225
+       "o": 1.672,
+       "u": 2.121
       },
       "btts": {
-       "y": 1.65,
-       "n": 2.084
+       "y": 1.68,
+       "n": 2.042
       }
      },
      "stats": {
@@ -425,9 +425,9 @@
      "eid": 773650658,
      "tid": 55479,
      "coupon": {
-      "1": "7D3ZN",
-      "X": "YD3ZN",
-      "2": "1E3ZN"
+      "1": "HDXHQ",
+      "X": "NDXHQ",
+      "2": "UDXHQ"
      },
      "markets": {
       "dc": {
@@ -616,9 +616,9 @@
      "eid": 773650664,
      "tid": 55479,
      "coupon": {
-      "1": "2E3ZN",
-      "X": "3E3ZN",
-      "2": "HE3ZN"
+      "1": "5EXHQ",
+      "X": "VEXHQ",
+      "2": "DFXHQ"
      },
      "markets": {
       "dc": {
@@ -808,9 +808,9 @@
      "away": "2 de Mayo",
      "start": 1795993200,
      "odds": {
-      "1": 1.674,
-      "X": 3.385,
-      "2": 5.64
+      "1": 1.651,
+      "X": 3.425,
+      "2": 5.8
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/4a5a8d6e5e87b7ce7adb4182cd7ddcb7.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/79a8f83e40956c2cc1459512950f9b70.png",
@@ -818,23 +818,23 @@
      "eid": 773650652,
      "tid": 55479,
      "coupon": {
-      "1": "RE3ZN",
-      "X": "YE3ZN",
-      "2": "2F3ZN"
+      "1": "C3XHQ",
+      "X": "K3XHQ",
+      "2": "63XHQ"
      },
      "markets": {
       "dc": {
-       "1X": 1.113,
-       "12": 1.282,
-       "X2": 2.093
+       "1X": 1.107,
+       "12": 1.276,
+       "X2": 2.129
       },
       "ou25": {
-       "o": 1.806,
-       "u": 1.939
+       "o": 1.792,
+       "u": 1.955
       },
       "btts": {
-       "y": 1.75,
-       "n": 1.949
+       "y": 1.76,
+       "n": 1.938
       }
      },
      "stats": {
@@ -1020,9 +1020,9 @@
      "eid": 773650655,
      "tid": 55479,
      "coupon": {
-      "1": "FF3ZN",
-      "X": "HF3ZN",
-      "2": "4F3ZN"
+      "1": "VGXHQ",
+      "X": "EHXHQ",
+      "2": "6HXHQ"
      },
      "markets": {
       "dc": {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T03:50:40+00:00",
+ "updated": "2026-11-26T17:23:50+00:00",
  "groups": [
   {
    "key": "liga",
@@ -21,9 +21,9 @@
      "eid": 773378866,
      "tid": 276999,
      "coupon": {
-      "1": "HLFZN",
-      "X": "4LFZN",
-      "2": "LLFZN"
+      "1": "G7SHQ",
+      "X": "K7SHQ",
+      "2": "Q7SHQ"
      },
      "markets": {
       "dc": {
@@ -213,9 +213,9 @@
      "away": "Manta",
      "start": 1795815000,
      "odds": {
-      "1": 1.789,
-      "X": 3.535,
-      "2": 4.39
+      "1": 1.705,
+      "X": 3.66,
+      "2": 4.76
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/5d27024fc3f92771eeb1ccbb6aa747ae.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/e9289c846044467509962956b78b8121.png",
@@ -223,23 +223,23 @@
      "eid": 773364764,
      "tid": 276999,
      "coupon": {
-      "1": "7LFZN",
-      "X": "VLFZN",
-      "2": "YLFZN"
+      "1": "HUSHQ",
+      "X": "5USHQ",
+      "2": "7USHQ"
      },
      "markets": {
       "dc": {
-       "1X": 1.18,
-       "12": 1.262,
-       "X2": 1.937
+       "1X": 1.156,
+       "12": 1.246,
+       "X2": 2.045
       },
       "ou25": {
-       "o": 2.071,
-       "u": 1.704
+       "o": 2.029,
+       "u": 1.734
       },
       "btts": {
-       "y": 1.909,
-       "n": 1.784
+       "y": 1.92,
+       "n": 1.774
       }
      },
      "stats": {
@@ -415,9 +415,9 @@
      "away": "Independiente del Valle",
      "start": 1795883400,
      "odds": {
-      "1": 2.822,
-      "X": 3.265,
-      "2": 2.445
+      "1": 2.663,
+      "X": 3.26,
+      "2": 2.58
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/5574.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/d999af4b2bfdae0838fe911450dfa1a7.png",
@@ -425,19 +425,19 @@
      "eid": 774182209,
      "tid": 276999,
      "coupon": {
-      "1": "3MFZN",
-      "X": "JMFZN",
-      "2": "KMFZN"
+      "1": "4VSHQ",
+      "X": "RVSHQ",
+      "2": "CXSHQ"
      },
      "markets": {
       "dc": {
-       "1X": 1.501,
-       "12": 1.3,
-       "X2": 1.387
+       "1X": 1.454,
+       "12": 1.301,
+       "X2": 1.429
       },
       "ou25": {
-       "o": 1.835,
-       "u": 1.906
+       "o": 1.845,
+       "u": 1.896
       },
       "btts": {
        "y": 1.63,
@@ -574,6 +574,13 @@
       ],
       "f2": [
        {
+        "d": 1795651200,
+        "o": "Barcelona Sporting Club",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       },
+       {
         "d": 1795194000,
         "o": "Club Social y Deportivo Macará",
         "gf": 0,
@@ -600,13 +607,6 @@
         "gf": 2,
         "ga": 0,
         "dom": true
-       },
-       {
-        "d": 1793232000,
-        "o": "Delfin",
-        "gf": 3,
-        "ga": 0,
-        "dom": false
        }
       ]
      }
@@ -617,9 +617,9 @@
      "away": "LDU Quito",
      "start": 1795892400,
      "odds": {
-      "1": 2.951,
-      "X": 3.27,
-      "2": 2.354
+      "1": 3.265,
+      "X": 3.345,
+      "2": 2.153
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/02b84a457d39fda9f75da1a3154d4b2b.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/80bc59fa00517165321a0838c775f4d1.png",
@@ -627,23 +627,23 @@
      "eid": 773360407,
      "tid": 276999,
      "coupon": {
-      "1": "NMFZN",
-      "X": "VMFZN",
-      "2": "9MFZN"
+      "1": "QXSHQ",
+      "X": "8XSHQ",
+      "2": "38SHQ"
      },
      "markets": {
       "dc": {
-       "1X": 1.537,
-       "12": 1.3,
-       "X2": 1.358
+       "1X": 1.637,
+       "12": 1.288,
+       "X2": 1.3
       },
       "ou25": {
-       "o": 1.939,
-       "u": 1.806
+       "o": 1.928,
+       "u": 1.815
       },
       "btts": {
-       "y": 1.72,
-       "n": 1.983
+       "y": 1.727,
+       "n": 1.98
       }
      },
      "stats": {
@@ -829,9 +829,9 @@
      "eid": 774182206,
      "tid": 276999,
      "coupon": {
-      "1": "K5FZN",
-      "X": "M5FZN",
-      "2": "P5FZN"
+      "1": "Y8SHQ",
+      "X": "JYSHQ",
+      "2": "8YSHQ"
      },
      "markets": {
       "dc": {
@@ -941,6 +941,13 @@
       ],
       "f1": [
        {
+        "d": 1795651200,
+        "o": "Independiente del Valle",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       },
+       {
         "d": 1795296600,
         "o": "Universidad Católica Quito",
         "gf": 1,
@@ -967,13 +974,6 @@
         "gf": 4,
         "ga": 0,
         "dom": false
-       },
-       {
-        "d": 1792359000,
-        "o": "Universidad Católica Quito",
-        "gf": 1,
-        "ga": 1,
-        "dom": true
        }
       ],
       "f2": [
@@ -1021,9 +1021,9 @@
      "away": "Técnico Universitario",
      "start": 1796070600,
      "odds": {
-      "1": 2.239,
-      "X": 3.505,
-      "2": 2.961
+      "1": 2.354,
+      "X": 3.47,
+      "2": 2.803
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/9019cdf68a0451d2d6638a5441822864.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/103979.png",
@@ -1031,23 +1031,23 @@
      "eid": 773464074,
      "tid": 276999,
      "coupon": {
-      "1": "65FZN",
-      "X": "U5FZN",
-      "2": "Y5FZN"
+      "1": "F9SHQ",
+      "X": "R9SHQ",
+      "2": "F1THQ"
      },
      "markets": {
       "dc": {
-       "1X": 1.356,
-       "12": 1.266,
-       "X2": 1.59
+       "1X": 1.392,
+       "12": 1.27,
+       "X2": 1.537
       },
       "ou25": {
-       "o": 2.0,
-       "u": 1.755
+       "o": 2.018,
+       "u": 1.742
       },
       "btts": {
-       "y": 1.77,
-       "n": 1.919
+       "y": 1.78,
+       "n": 1.909
       }
      },
      "stats": {

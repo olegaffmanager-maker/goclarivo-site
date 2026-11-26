@@ -1,66 +1,71 @@
-DEBUG tour 127733: spain. la liga
-DEBUG tour 88637: england. premier league
-DEBUG tour 1174103: kenya. premier league
-DEBUG tour 27695: switzerland championship
-DEBUG tour 2743971: afc champions league 2
-DEBUG tour 118587: uefa champions league
-DEBUG tour 129545: bangladesh. premier league
-DEBUG tour 13521: scotland. premier league
-DEBUG tour 2726129: uefa european championship 2028. winner
-DEBUG tour 225733: russia. premier league
-DEBUG tour 105759: england. championship
-DEBUG tour 918823: nicaragua championship
-DEBUG tour 1097391: jordan championship. division 1
-DEBUG tour 2331896: championship congo dr. league 1
-DEBUG tour 605255: libya. premier league
-DEBUG tour 104509: australian championship
-DEBUG tour 30693: poland championship. liga 1
-DEBUG tour 1750147: laos premier league
-DEBUG tour 2477839: india. delhi. premier league
-DEBUG tour 58655: bahrain. premier league
-DEBUG tour 1351549: thailand. thai premier league
-DEBUG tour 104553: azerbaijan. premier league
-DEBUG tour 29949: ukraine. premier league
-DEBUG tour 281713: scotland. championship
 DEBUG tour 13721: wales. premier league
-DEBUG tour 41199: israel. premier league
-DEBUG tour 2331806: seychelles championship
-DEBUG tour 2190933: tanzania. premier league zanzibar
-DEBUG tour 2908998: lebanon. premier league
+DEBUG tour 2794675: bermuda. premier league
+DEBUG tour 118587: uefa champions league
 DEBUG tour 118745: jamaica. national premier league
-DEBUG tour 142091: copa libertadores
-DEBUG tour 38317: caf champions league
-DEBUG tour 1800014: england. southern premier league. central
-DEBUG tour 1800476: england. southern premier league. south
-DEBUG tour 196313: botswana championship
-DEBUG tour 34711: england. northern premier league
-DEBUG tour 32527: jordan. premier league
-DEBUG tour 1156373: uganda. premier league
-DEBUG tour 40053: armenia. premier league
-DEBUG tour 40311: poland championship. liga 2
-DEBUG tour 310027: northern ireland. championship
-DEBUG tour 2903318: singapore. premier league
-DEBUG tour 108683: bosnia and herzegovina. premier league
-DEBUG tour 67023: tajikistan championship
-DEBUG tour 47513: qatar championship
-DEBUG tour 831053: tanzania. premier league
-DEBUG tour 1225239: georgia championship
-DEBUG tour 831037: sierra leone. premier league
+DEBUG tour 2008568: wales. championship. south
+DEBUG tour 2726129: uefa european championship 2028. winner
+DEBUG tour 281713: scotland. championship
+DEBUG tour 1351549: thailand. thai premier league
+DEBUG tour 2284664: portugal. national championship
+DEBUG tour 1299397: england. premier league 2
+DEBUG tour 88637: england. premier league
+DEBUG tour 127733: spain. la liga
+DEBUG tour 2809690: england. premier league. team vs player
+DEBUG tour 13521: scotland. premier league
 DEBUG tour 2421233: russian championship. league 1
-DEBUG tour 13741: syria. premier league
-DEBUG tour 1015483: belarus. premier league
-DEBUG tour 177397: mozambique championship
-DEBUG tour 2933940: india. shillong champions cup
-DEBUG tour 2845143: chad. premier league
-DEBUG tour 1460999: chinese taipei. premier league
-DEBUG tour 218103: uefa champions league. winner
-DEBUG tour 2740174: afc champions league elite
+DEBUG tour 2903318: singapore. premier league
 DEBUG tour 2469052: japan. regional champions league
-DEBUG tour 2765014: hong kong. premier league u22
+DEBUG tour 40311: poland championship. liga 2
+DEBUG tour 105759: england. championship
+DEBUG tour 142091: copa libertadores
+DEBUG tour 918823: nicaragua championship
+DEBUG tour 1800476: england. southern premier league. south
+DEBUG tour 1675485: aruba championship
+DEBUG tour 1709851: suriname championship
+DEBUG tour 1800014: england. southern premier league. central
+DEBUG tour 218103: uefa champions league. winner
+DEBUG tour 29949: ukraine. premier league
+DEBUG tour 52245: poland championship. liga 3
+DEBUG tour 104553: azerbaijan. premier league
+DEBUG tour 1015483: belarus. premier league
+DEBUG tour 108683: bosnia and herzegovina. premier league
+DEBUG tour 38317: caf champions league
+DEBUG tour 831053: tanzania. premier league
+DEBUG tour 605255: libya. premier league
+DEBUG tour 225733: russia. premier league
+DEBUG tour 129545: bangladesh. premier league
+DEBUG tour 2331806: seychelles championship
+DEBUG tour 310027: northern ireland. championship
+DEBUG tour 590333: ethiopia. premier league
+DEBUG tour 30693: poland championship. liga 1
+DEBUG tour 2008579: wales. championship. north
+DEBUG tour 47513: qatar championship
+DEBUG tour 40053: armenia. premier league
+DEBUG tour 41199: israel. premier league
+DEBUG tour 27695: switzerland championship
+DEBUG tour 2740174: afc champions league elite
+DEBUG tour 104509: australian championship
+DEBUG tour 34711: england. northern premier league
+DEBUG tour 31103: malta. premier league
+DEBUG tour 1750147: laos premier league
+DEBUG tour 13741: syria. premier league
+DEBUG tour 32527: jordan. premier league
+DEBUG tour 58655: bahrain. premier league
+DEBUG tour 611201: nigeria. premier league
+DEBUG tour 2908998: lebanon. premier league
+DEBUG tour 831037: sierra leone. premier league
+DEBUG tour 2331896: championship congo dr. league 1
+DEBUG tour 305381: singapore championship. division 1
+DEBUG tour 67023: tajikistan championship
+DEBUG tour 196313: botswana championship
+DEBUG tour 1225239: georgia championship
+DEBUG tour 3087796: gibraltar championship
 DEBUG tour 2809583: spain. la liga. team vs player
-liga: Kenya. Premier League
-sharecoupon sample: https://1xlite-32085.pro/en?coupon-code=FBLZN
-liga: 1 tournaments, 3 matches
-seleccion: Norway. Qualification | UEFA Nations League | Sweden. Qualification | CONCACAF Caribbean Cup | Estonia. Qualification | Friendlies. National Teams
+DEBUG tour 2765014: hong kong. premier league u22
+DEBUG tour 2845143: chad. premier league
+liga: 
+liga: 0 tournaments, 0 matches
+seleccion: UEFA Nations League | Estonia. Qualification | Norway. Qualification | Sweden. Qualification | Friendlies. National Teams | CONCACAF Caribbean Cup
 seleccion: 6 tournaments, 0 matches
-results: 9 fetched, 647 stored
+results: 0 fetched, 647 stored
+No matches returned, keeping previous data

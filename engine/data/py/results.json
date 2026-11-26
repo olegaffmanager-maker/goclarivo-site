@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T03:52:20+00:00",
+ "updated": "2026-11-26T17:26:09+00:00",
  "backfilled": [
   55479,
   1706694,
@@ -4190,6 +4190,20 @@
    ],
    "detail": "0:0 (0:0)",
    "start": 1795640400,
+   "group": "liga"
+  },
+  {
+   "id": 773621188,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Cerro Porteno",
+   "away": "Club Guaraní",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1795644000,
    "group": "liga"
   }
  ]
