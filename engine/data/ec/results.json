@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:40:32+00:00",
+ "updated": "2026-11-26T03:50:40+00:00",
  "backfilled": [
   276999,
   1706694,
@@ -5268,6 +5268,20 @@
    ],
    "detail": "0:1 (0:0,0:1)",
    "start": 1795383000,
+   "group": "liga"
+  },
+  {
+   "id": 774172673,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Barcelona Sporting Club",
+   "away": "Independiente del Valle",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1795651200,
    "group": "liga"
   }
  ]

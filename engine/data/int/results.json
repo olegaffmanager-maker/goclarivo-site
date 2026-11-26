@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:35:41+00:00",
+ "updated": "2026-11-26T03:47:38+00:00",
  "backfilled": [
   142091,
   118587,
@@ -8055,6 +8055,132 @@
    ],
    "detail": "0:1 (0:1,0:0)",
    "start": 1795550400,
+   "group": "champions-league"
+  },
+  {
+   "id": 774095870,
+   "tid": 118587,
+   "tname": "Liga de Campeones de la UEFA",
+   "home": "Slavia Praga",
+   "away": "Villarreal",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1795628700,
+   "group": "champions-league"
+  },
+  {
+   "id": 774095859,
+   "tid": 118587,
+   "tname": "Liga de Campeones de la UEFA",
+   "home": "Sabah Baku",
+   "away": "FC Barcelona",
+   "score": [
+    1,
+    4
+   ],
+   "detail": "1:4 (0:1,1:3)",
+   "start": 1795628700,
+   "group": "champions-league"
+  },
+  {
+   "id": 774127868,
+   "tid": 118587,
+   "tname": "Liga de Campeones de la UEFA",
+   "home": "Shakhtar Donetsk",
+   "away": "Fenerbahce",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1795636800,
+   "group": "champions-league"
+  },
+  {
+   "id": 774127765,
+   "tid": 118587,
+   "tname": "Liga de Campeones de la UEFA",
+   "home": "Inter de Milán",
+   "away": "VfB Stuttgart",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1795636800,
+   "group": "champions-league"
+  },
+  {
+   "id": 774128317,
+   "tid": 118587,
+   "tname": "Liga de Campeones de la UEFA",
+   "home": "Club Brugge",
+   "away": "Liverpool",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1795636800,
+   "group": "champions-league"
+  },
+  {
+   "id": 774128377,
+   "tid": 118587,
+   "tname": "Liga de Campeones de la UEFA",
+   "home": "Paris Saint-Germain",
+   "away": "Roma",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1795636800,
+   "group": "champions-league"
+  },
+  {
+   "id": 774128407,
+   "tid": 118587,
+   "tname": "Liga de Campeones de la UEFA",
+   "home": "Atlético de Madrid",
+   "away": "Viking",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1795636800,
+   "group": "champions-league"
+  },
+  {
+   "id": 774127711,
+   "tid": 118587,
+   "tname": "Liga de Campeones de la UEFA",
+   "home": "Sporting CP",
+   "away": "Manchester United",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1795636800,
+   "group": "champions-league"
+  },
+  {
+   "id": 774128446,
+   "tid": 118587,
+   "tname": "Liga de Campeones de la UEFA",
+   "home": "LOSC Lille",
+   "away": "FC Bayern München",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1795636800,
    "group": "champions-league"
   }
  ]

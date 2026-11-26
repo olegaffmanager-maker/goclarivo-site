@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:49:25+00:00",
+ "updated": "2026-11-26T03:56:12+00:00",
  "groups": [
   {
    "key": "liga",
@@ -21,8 +21,7 @@
      "eid": 773874660,
      "tid": 1174103,
      "coupon": {
-      "1": "EGCGN",
-      "X": "QGCGN"
+      "1": "FBLZN"
      },
      "markets": {
       "dc": {
@@ -408,9 +407,8 @@
      "eid": 773736288,
      "tid": 1174103,
      "coupon": {
-      "1": "AJCGN",
-      "X": "3JCGN",
-      "2": "5JCGN"
+      "X": "F9LZN",
+      "2": "ABMZN"
      },
      "markets": {
       "dc": {
@@ -775,31 +773,23 @@
      "away": "Mombasa United",
      "start": 1795708800,
      "odds": {
-      "1": 1.343,
-      "X": 3.95,
-      "2": 8.95
+      "1": 1.21,
+      "X": 4.6,
+      "2": 15.0
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/97b04b101e489bc3edd1869f814da1ee.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/99dd7514531cebe762df4ca4c3435266.png",
      "link": "https://1xlite-32085.pro/en/line/Football/1174103-Kenya-Premier-League/397034500-Gor-Mahia-Mombasa-United",
      "eid": 773738270,
      "tid": 1174103,
-     "coupon": {
-      "X": "U4CGN"
-     },
      "markets": {
-      "dc": {
-       "1X": 1.056,
-       "12": 1.152,
-       "X2": 2.7
-      },
       "ou25": {
        "o": 2.01,
        "u": 1.69
       },
       "btts": {
-       "y": 2.36,
-       "n": 1.5
+       "y": 3.125,
+       "n": 1.3
       }
      },
      "stats": {

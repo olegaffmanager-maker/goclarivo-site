@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:37:48+00:00",
+ "updated": "2026-11-26T03:49:09+00:00",
  "groups": [
   {
    "key": "liga",
@@ -7,417 +7,13 @@
    "matches": [
     {
      "tournament": "México. Liga MX",
-     "home": "FC Toluca",
-     "away": "Atlas Guadalajara",
-     "start": 1795654800,
-     "odds": {
-      "1": 1.41,
-      "X": 4.75,
-      "2": 6.26
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/f6386c379c3a6ad7129f7a0adecc0629.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/4100.png",
-     "link": "https://1xlite-32085.pro/es/line/Football/2306111-Mexico-Liga-MX/396917686-Deportivo-Toluca-Atlas-Guadalajara",
-     "eid": 773750486,
-     "tid": 2306111,
-     "coupon": {
-      "1": "59K3N",
-      "X": "S9K3N",
-      "2": "11L3N"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.082,
-       "12": 1.143,
-       "X2": 2.7
-      },
-      "ou25": {
-       "o": 1.42,
-       "u": 2.49
-      },
-      "btts": {
-       "y": 1.61,
-       "n": 2.182
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1789254300,
-        "h": "FC Toluca",
-        "a": "Atlas Guadalajara",
-        "s": [
-         5,
-         2
-        ],
-        "t": "México. Liga MX",
-        "hh": true
-       },
-       {
-        "d": 1773536400,
-        "h": "FC Toluca",
-        "a": "Atlas Guadalajara",
-        "s": [
-         1,
-         1
-        ],
-        "t": "México. Liga MX",
-        "hh": true
-       },
-       {
-        "d": 1762038000,
-        "h": "Atlas Guadalajara",
-        "a": "FC Toluca",
-        "s": [
-         0,
-         0
-        ],
-        "t": "México. Liga MX",
-        "hh": false
-       },
-       {
-        "d": 1744495500,
-        "h": "Atlas Guadalajara",
-        "a": "FC Toluca",
-        "s": [
-         2,
-         3
-        ],
-        "t": "México. Liga MX",
-        "hh": false
-       },
-       {
-        "d": 1727564400,
-        "h": "FC Toluca",
-        "a": "Atlas Guadalajara",
-        "s": [
-         4,
-         1
-        ],
-        "t": "México. Liga MX",
-        "hh": true
-       },
-       {
-        "d": 1712512800,
-        "h": "FC Toluca",
-        "a": "Atlas Guadalajara",
-        "s": [
-         4,
-         1
-        ],
-        "t": "México. Liga MX",
-        "hh": true
-       },
-       {
-        "d": 1693090800,
-        "h": "Atlas Guadalajara",
-        "a": "FC Toluca",
-        "s": [
-         0,
-         0
-        ],
-        "t": "México. Liga MX",
-        "hh": false
-       },
-       {
-        "d": 1675303500,
-        "h": "Atlas Guadalajara",
-        "a": "FC Toluca",
-        "s": [
-         0,
-         0
-        ],
-        "t": "Liga MX - Klausura",
-        "hh": false
-       }
-      ],
-      "f1": [
-       {
-        "d": 1795301400,
-        "o": "Pachuca FC",
-        "gf": 0,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1794099600,
-        "o": "FC Monterrey",
-        "gf": 4,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1793502600,
-        "o": "Club America",
-        "gf": 2,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1792882800,
-        "o": "Leon",
-        "gf": 1,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1792630800,
-        "o": "FC Tijuana",
-        "gf": 2,
-        "ga": 2,
-        "dom": true
-       }
-      ],
-      "f2": [
-       {
-        "d": 1795230000,
-        "o": "Juárez",
-        "gf": 3,
-        "ga": 3,
-        "dom": false
-       },
-       {
-        "d": 1794092400,
-        "o": "Pachuca FC",
-        "gf": 1,
-        "ga": 4,
-        "dom": true
-       },
-       {
-        "d": 1793408400,
-        "o": "Atletico San Luis",
-        "gf": 1,
-        "ga": 0,
-        "dom": false
-       },
-       {
-        "d": 1792969200,
-        "o": "Puebla FC",
-        "gf": 4,
-        "ga": 3,
-        "dom": true
-       },
-       {
-        "d": 1792630800,
-        "o": "Club America",
-        "gf": 2,
-        "ga": 5,
-        "dom": true
-       }
-      ]
-     }
-    },
-    {
-     "tournament": "México. Liga MX",
-     "home": "FC Monterrey",
-     "away": "Club America",
-     "start": 1795662600,
-     "odds": {
-      "1": 2.21,
-      "X": 3.2,
-      "2": 3.185
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/f2acb9c3aa8aeab977bdc0a8f7e0597d.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/80bf07c68f91236dbfacdf8bef0cbbe8.png",
-     "link": "https://1xlite-32085.pro/es/line/Football/2306111-Mexico-Liga-MX/396917472-Monterrey-Club-America",
-     "eid": 773869637,
-     "tid": 2306111,
-     "coupon": {
-      "1": "71L3N",
-      "X": "DAL3N",
-      "2": "HAL3N"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.31,
-       "12": 1.3,
-       "X2": 1.59
-      },
-      "ou25": {
-       "o": 1.86,
-       "u": 1.87
-      },
-      "btts": {
-       "y": 1.67,
-       "n": 2.079
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1791688200,
-        "h": "Club America",
-        "a": "FC Monterrey",
-        "s": [
-         1,
-         1
-        ],
-        "t": "México. Liga MX",
-        "hh": false
-       },
-       {
-        "d": 1788406200,
-        "h": "Club America",
-        "a": "FC Monterrey",
-        "s": [
-         2,
-         3
-        ],
-        "t": "América del Norte. Leagues Cup (Play-off)",
-        "hh": false
-       },
-       {
-        "d": 1770520200,
-        "h": "Club America",
-        "a": "FC Monterrey",
-        "s": [
-         1,
-         0
-        ],
-        "t": "México. Liga MX",
-        "hh": false
-       },
-       {
-        "d": 1764457200,
-        "h": "Club America",
-        "a": "FC Monterrey",
-        "s": [
-         2,
-         1
-        ],
-        "t": "México. Liga MX (Play-off)",
-        "hh": false
-       },
-       {
-        "d": 1764212700,
-        "h": "FC Monterrey",
-        "a": "Club America",
-        "s": [
-         2,
-         0
-        ],
-        "t": "México. Liga MX (Play-off)",
-        "hh": true
-       },
-       {
-        "d": 1758423900,
-        "h": "FC Monterrey",
-        "a": "Club America",
-        "s": [
-         2,
-         2
-        ],
-        "t": "México. Liga MX",
-        "hh": true
-       },
-       {
-        "d": 1744840800,
-        "h": "FC Monterrey",
-        "a": "Club America",
-        "s": [
-         1,
-         0
-        ],
-        "t": "México. Liga MX",
-        "hh": true
-       },
-       {
-        "d": 1734310800,
-        "h": "FC Monterrey",
-        "a": "Club America",
-        "s": [
-         1,
-         1
-        ],
-        "t": "México. Liga MX (Play-off)",
-        "hh": true
-       }
-      ],
-      "f1": [
-       {
-        "d": 1795309200,
-        "o": "Pumas UNAM",
-        "gf": 2,
-        "ga": 0,
-        "dom": false
-       },
-       {
-        "d": 1794697200,
-        "o": "Queretaro",
-        "gf": 1,
-        "ga": 0,
-        "dom": false
-       },
-       {
-        "d": 1794099600,
-        "o": "FC Toluca",
-        "gf": 0,
-        "ga": 4,
-        "dom": false
-       },
-       {
-        "d": 1793495100,
-        "o": "FC Tijuana",
-        "gf": 3,
-        "ga": 3,
-        "dom": true
-       },
-       {
-        "d": 1792886400,
-        "o": "Guadalajara",
-        "gf": 0,
-        "ga": 1,
-        "dom": true
-       }
-      ],
-      "f2": [
-       {
-        "d": 1795316400,
-        "o": "Tigres de la UANL",
-        "gf": 0,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1794702600,
-        "o": "FC New York Red Bulls",
-        "gf": 0,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1794107400,
-        "o": "Pumas UNAM",
-        "gf": 2,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1793502600,
-        "o": "FC Toluca",
-        "gf": 2,
-        "ga": 2,
-        "dom": true
-       },
-       {
-        "d": 1793242800,
-        "o": "FC Tijuana",
-        "gf": 1,
-        "ga": 1,
-        "dom": true
-       }
-      ]
-     }
-    },
-    {
-     "tournament": "México. Liga MX",
      "home": "Pachuca FC",
      "away": "Guadalajara",
      "start": 1795741200,
      "odds": {
-      "1": 2.64,
-      "X": 3.24,
-      "2": 2.51
+      "1": 2.68,
+      "X": 3.2,
+      "2": 2.5
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/b8e48789f41d6ff23731f424715e5ddc.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/8e41fcba66e9b6b895099f8668af25d0.png",
@@ -425,23 +21,23 @@
      "eid": 773727681,
      "tid": 2306111,
      "coupon": {
-      "1": "SAL3N",
-      "X": "8AL3N",
-      "2": "FBL3N"
+      "1": "3VEZN",
+      "X": "JVEZN",
+      "2": "4VEZN"
      },
      "markets": {
       "dc": {
        "1X": 1.46,
-       "12": 1.29,
-       "X2": 1.42
+       "12": 1.3,
+       "X2": 1.41
       },
       "ou25": {
-       "o": 1.71,
-       "u": 2.05
+       "o": 1.77,
+       "u": 1.97
       },
       "btts": {
-       "y": 1.55,
-       "n": 2.297
+       "y": 1.59,
+       "n": 2.214
       }
      },
      "stats": {
@@ -627,9 +223,9 @@
      "eid": 773874666,
      "tid": 2306111,
      "coupon": {
-      "1": "6BL3N",
-      "X": "YBL3N",
-      "2": "GCL3N"
+      "1": "PVEZN",
+      "X": "SVEZN",
+      "2": "TVEZN"
      },
      "markets": {
       "dc": {
@@ -809,6 +405,208 @@
         "gf": 2,
         "ga": 1,
         "dom": false
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "México. Liga MX",
+     "home": "Club America",
+     "away": "FC Monterrey",
+     "start": 1795921800,
+     "odds": {
+      "1": 2.42,
+      "X": 3.4,
+      "2": 2.851
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/80bf07c68f91236dbfacdf8bef0cbbe8.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/f2acb9c3aa8aeab977bdc0a8f7e0597d.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/2306111-Mexico-Liga-MX/397303154-Club-America-Monterrey",
+     "eid": 774205389,
+     "tid": 2306111,
+     "coupon": {
+      "1": "QXEZN",
+      "X": "SXEZN",
+      "2": "7XEZN"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.39,
+       "12": 1.29,
+       "X2": 1.53
+      },
+      "ou25": {
+       "o": 1.66,
+       "u": 2.14
+      },
+      "btts": {
+       "y": 1.55,
+       "n": 2.326
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1791688200,
+        "h": "Club America",
+        "a": "FC Monterrey",
+        "s": [
+         1,
+         1
+        ],
+        "t": "México. Liga MX",
+        "hh": true
+       },
+       {
+        "d": 1788406200,
+        "h": "Club America",
+        "a": "FC Monterrey",
+        "s": [
+         2,
+         3
+        ],
+        "t": "América del Norte. Leagues Cup (Play-off)",
+        "hh": true
+       },
+       {
+        "d": 1770520200,
+        "h": "Club America",
+        "a": "FC Monterrey",
+        "s": [
+         1,
+         0
+        ],
+        "t": "México. Liga MX",
+        "hh": true
+       },
+       {
+        "d": 1764457200,
+        "h": "Club America",
+        "a": "FC Monterrey",
+        "s": [
+         2,
+         1
+        ],
+        "t": "México. Liga MX (Play-off)",
+        "hh": true
+       },
+       {
+        "d": 1764212700,
+        "h": "FC Monterrey",
+        "a": "Club America",
+        "s": [
+         2,
+         0
+        ],
+        "t": "México. Liga MX (Play-off)",
+        "hh": false
+       },
+       {
+        "d": 1758423900,
+        "h": "FC Monterrey",
+        "a": "Club America",
+        "s": [
+         2,
+         2
+        ],
+        "t": "México. Liga MX",
+        "hh": false
+       },
+       {
+        "d": 1744840800,
+        "h": "FC Monterrey",
+        "a": "Club America",
+        "s": [
+         1,
+         0
+        ],
+        "t": "México. Liga MX",
+        "hh": false
+       },
+       {
+        "d": 1734310800,
+        "h": "FC Monterrey",
+        "a": "Club America",
+        "s": [
+         1,
+         1
+        ],
+        "t": "México. Liga MX (Play-off)",
+        "hh": false
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795316400,
+        "o": "Tigres de la UANL",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1794702600,
+        "o": "FC New York Red Bulls",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1794107400,
+        "o": "Pumas UNAM",
+        "gf": 2,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1793502600,
+        "o": "FC Toluca",
+        "gf": 2,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1793242800,
+        "o": "FC Tijuana",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795309200,
+        "o": "Pumas UNAM",
+        "gf": 2,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1794697200,
+        "o": "Queretaro",
+        "gf": 1,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1794099600,
+        "o": "FC Toluca",
+        "gf": 0,
+        "ga": 4,
+        "dom": false
+       },
+       {
+        "d": 1793495100,
+        "o": "FC Tijuana",
+        "gf": 3,
+        "ga": 3,
+        "dom": true
+       },
+       {
+        "d": 1792886400,
+        "o": "Guadalajara",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
        }
       ]
      }

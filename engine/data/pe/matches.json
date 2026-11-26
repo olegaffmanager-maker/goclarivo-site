@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:40:02+00:00",
+ "updated": "2026-11-26T03:50:06+00:00",
  "groups": [
   {
    "key": "liga",
@@ -21,9 +21,9 @@
      "eid": 773862170,
      "tid": 2892390,
      "coupon": {
-      "1": "JZN3N",
-      "X": "UZN3N",
-      "2": "D9N3N"
+      "1": "GFFZN",
+      "X": "4FFZN",
+      "2": "LFFZN"
      },
      "markets": {
       "dc": {
@@ -229,9 +229,9 @@
      "eid": 773542009,
      "tid": 125983,
      "coupon": {
-      "1": "LHP3N",
-      "X": "QHP3N",
-      "2": "ZHP3N"
+      "1": "BHFZN",
+      "X": "2HFZN",
+      "2": "EHFZN"
      },
      "markets": {
       "dc": {

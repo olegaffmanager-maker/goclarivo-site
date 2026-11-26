@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:55:19+00:00",
+ "updated": "2026-11-26T03:57:56+00:00",
  "backfilled": [
   2783103,
   1122087,
@@ -8695,6 +8695,20 @@
    "group": "liga"
   },
   {
+   "id": 773671148,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Real Bengaluru",
+   "away": "Rebels Bangalore",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1795498200,
+   "group": "liga"
+  },
+  {
    "id": 773680258,
    "tid": 2477839,
    "tname": "India. Delhi. Premier League",
@@ -8709,6 +8723,20 @@
    "group": "liga"
   },
   {
+   "id": 773694056,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "ASC",
+   "away": "Bangalore Dream United",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (2:2,2:0)",
+   "start": 1795507200,
+   "group": "liga"
+  },
+  {
    "id": 773723507,
    "tid": 253537,
    "tname": "India. I-League",
@@ -8719,6 +8747,20 @@
     2
    ],
    "detail": "2:2 (2:1,0:1)",
+   "start": 1795516200,
+   "group": "liga"
+  },
+  {
+   "id": 773725558,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Agniputhra",
+   "away": "HAL",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
    "start": 1795516200,
    "group": "liga"
   },
@@ -8775,6 +8817,20 @@
     0
    ],
    "detail": "2:0 (0:0,2:0)",
+   "start": 1795599000,
+   "group": "liga"
+  },
+  {
+   "id": 773984506,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Stride Sports",
+   "away": "Technico FF",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (0:1,3:1)",
    "start": 1795599000,
    "group": "liga"
   }

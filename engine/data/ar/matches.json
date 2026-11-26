@@ -1,157 +1,10 @@
 {
- "updated": "2026-11-25T19:36:08+00:00",
+ "updated": "2026-11-26T03:48:05+00:00",
  "groups": [
   {
    "key": "liga",
    "name": "Liga Profesional de Argentina",
    "matches": [
-    {
-     "tournament": "Argentina. Liga Profesional",
-     "home": "Boca Juniors",
-     "away": "Independiente Rivadavia",
-     "start": 1795651200,
-     "odds": {
-      "1": 1.512,
-      "X": 4.045,
-      "2": 6.94
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/2346.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/70fcba7e6a469f60d97f9b42945c9a7f.png",
-     "link": "https://1xlite-32085.pro/es/line/Football/119599-Argentina-Primera-Division/395030957-Boca-Juniors-Independiente-Rivadavia",
-     "eid": 770751656,
-     "tid": 119599,
-     "coupon": {
-      "1": "NFJ3N",
-      "X": "6FJ3N",
-      "2": "VFJ3N"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.094,
-       "12": 1.233,
-       "X2": 2.52
-      },
-      "ou25": {
-       "o": 2.094,
-       "u": 1.738
-      },
-      "btts": {
-       "y": 2.16,
-       "n": 1.618
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1755473400,
-        "h": "Independiente Rivadavia",
-        "a": "Boca Juniors",
-        "s": [
-         0,
-         3
-        ],
-        "t": "Argentina. Primera División - Clausura",
-        "hh": false
-       },
-       {
-        "d": 1739314800,
-        "h": "Boca Juniors",
-        "a": "Independiente Rivadavia",
-        "s": [
-         2,
-         0
-        ],
-        "t": "Argentina. Liga Profesional",
-        "hh": true
-       },
-       {
-        "d": 1723326300,
-        "h": "Independiente Rivadavia",
-        "a": "Boca Juniors",
-        "s": [
-         1,
-         1
-        ],
-        "t": "Argentina. Liga Profesional",
-        "hh": false
-       }
-      ],
-      "f1": [
-       {
-        "d": 1795300200,
-        "o": "Atlético Mineiro",
-        "gf": 2,
-        "ga": 0,
-        "dom": false
-       },
-       {
-        "d": 1794693600,
-        "o": "CA Banfield",
-        "gf": 3,
-        "ga": 0,
-        "dom": false
-       },
-       {
-        "d": 1794083400,
-        "o": "Defensa y Justicia",
-        "gf": 1,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1793556000,
-        "o": "River Plate Buenos Aires",
-        "gf": 1,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1792958400,
-        "o": "Independiente",
-        "gf": 1,
-        "ga": 0,
-        "dom": false
-       }
-      ],
-      "f2": [
-       {
-        "d": 1794524400,
-        "o": "Estudiantes de La Plata",
-        "gf": 2,
-        "ga": 3,
-        "dom": false
-       },
-       {
-        "d": 1794074400,
-        "o": "Club Atlético Gimnasia y Esgrima",
-        "gf": 1,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1793664900,
-        "o": "CA Banfield",
-        "gf": 3,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1793138400,
-        "o": "Argentinos Juniors",
-        "gf": 0,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1792269000,
-        "o": "Club Atlético Tigre",
-        "gf": 2,
-        "ga": 2,
-        "dom": true
-       }
-      ]
-     }
-    },
     {
      "tournament": "Argentina. Liga Profesional",
      "home": "Rosario Central",
@@ -168,9 +21,9 @@
      "eid": 773424200,
      "tid": 119599,
      "coupon": {
-      "1": "NGJ3N",
-      "X": "TGJ3N",
-      "2": "CHJ3N"
+      "1": "7LEZN",
+      "X": "VLEZN",
+      "2": "YLEZN"
      },
      "markets": {
       "dc": {
@@ -370,9 +223,9 @@
      "eid": 773713173,
      "tid": 119599,
      "coupon": {
-      "1": "8JJ3N",
-      "X": "D4J3N",
-      "2": "U4J3N"
+      "1": "QMEZN",
+      "X": "6MEZN",
+      "2": "TMEZN"
      },
      "markets": {
       "dc": {
@@ -572,9 +425,9 @@
      "eid": 773424197,
      "tid": 119599,
      "coupon": {
-      "1": "DKJ3N",
-      "X": "5KJ3N",
-      "2": "ALJ3N"
+      "1": "B5EZN",
+      "X": "C5EZN",
+      "2": "E5EZN"
      },
      "markets": {
       "dc": {

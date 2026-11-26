@@ -1,212 +1,10 @@
 {
- "updated": "2026-11-25T19:40:32+00:00",
+ "updated": "2026-11-26T03:50:40+00:00",
  "groups": [
   {
    "key": "liga",
    "name": "LigaPro Serie A de Ecuador",
    "matches": [
-    {
-     "tournament": "Ecuador. Serie A",
-     "home": "Barcelona Sporting Club",
-     "away": "Independiente del Valle",
-     "start": 1795651200,
-     "odds": {
-      "1": 2.919,
-      "X": 3.265,
-      "2": 2.375
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/5754.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/d999af4b2bfdae0838fe911450dfa1a7.png",
-     "link": "https://1xlite-32085.pro/es/line/Football/276999-Ecuador-Serie-A/396613635-Barcelona-Sporting-Club-Independiente-del-Valle",
-     "eid": 773059964,
-     "tid": 276999,
-     "coupon": {
-      "1": "57P3N",
-      "X": "V7P3N",
-      "2": "FUP3N"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.528,
-       "12": 1.3,
-       "X2": 1.365
-      },
-      "ou25": {
-       "o": 2.029,
-       "u": 1.734
-      },
-      "btts": {
-       "y": 1.77,
-       "n": 1.919
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1788393600,
-        "h": "Barcelona Sporting Club",
-        "a": "Independiente del Valle",
-        "s": [
-         2,
-         1
-        ],
-        "t": "Ecuador. Serie A",
-        "hh": true
-       },
-       {
-        "d": 1778371200,
-        "h": "Independiente del Valle",
-        "a": "Barcelona Sporting Club",
-        "s": [
-         1,
-         0
-        ],
-        "t": "Ecuador. Serie A",
-        "hh": false
-       },
-       {
-        "d": 1766352600,
-        "h": "Independiente del Valle",
-        "a": "Barcelona Sporting Club",
-        "s": [
-         1,
-         0
-        ],
-        "t": "Ecuador. Serie A (Championship - Play-off)",
-        "hh": false
-       },
-       {
-        "d": 1759703400,
-        "h": "Barcelona Sporting Club",
-        "a": "Independiente del Valle",
-        "s": [
-         0,
-         3
-        ],
-        "t": "Ecuador. Serie A (Championship - Play-off)",
-        "hh": true
-       },
-       {
-        "d": 1751760000,
-        "h": "Independiente del Valle",
-        "a": "Barcelona Sporting Club",
-        "s": [
-         1,
-         1
-        ],
-        "t": "Ecuador. Serie A",
-        "hh": false
-       },
-       {
-        "d": 1748392200,
-        "h": "Independiente del Valle",
-        "a": "Barcelona Sporting Club",
-        "s": [
-         2,
-         1
-        ],
-        "t": "Copa Libertadores",
-        "hh": false
-       },
-       {
-        "d": 1743559200,
-        "h": "Barcelona Sporting Club",
-        "a": "Independiente del Valle",
-        "s": [
-         1,
-         0
-        ],
-        "t": "Copa Libertadores",
-        "hh": true
-       },
-       {
-        "d": 1741478400,
-        "h": "Barcelona Sporting Club",
-        "a": "Independiente del Valle",
-        "s": [
-         0,
-         4
-        ],
-        "t": "Ecuador. Serie A",
-        "hh": true
-       }
-      ],
-      "f1": [
-       {
-        "d": 1795296600,
-        "o": "Universidad Católica Quito",
-        "gf": 1,
-        "ga": 0,
-        "dom": false
-       },
-       {
-        "d": 1794173400,
-        "o": "LDU Quito",
-        "gf": 1,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1793482200,
-        "o": "Club Social y Deportivo Macará",
-        "gf": 0,
-        "ga": 3,
-        "dom": false
-       },
-       {
-        "d": 1792963800,
-        "o": "SD Aucas",
-        "gf": 4,
-        "ga": 0,
-        "dom": false
-       },
-       {
-        "d": 1792359000,
-        "o": "Universidad Católica Quito",
-        "gf": 1,
-        "ga": 1,
-        "dom": true
-       }
-      ],
-      "f2": [
-       {
-        "d": 1795194000,
-        "o": "Club Social y Deportivo Macará",
-        "gf": 0,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1794163500,
-        "o": "SD Aucas",
-        "gf": 4,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1793923200,
-        "o": "Delfin",
-        "gf": 2,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1793557800,
-        "o": "LDU Quito",
-        "gf": 2,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1793232000,
-        "o": "Delfin",
-        "gf": 3,
-        "ga": 0,
-        "dom": false
-       }
-      ]
-     }
-    },
     {
      "tournament": "Ecuador. Serie A",
      "home": "Delfin",
@@ -223,9 +21,9 @@
      "eid": 773378866,
      "tid": 276999,
      "coupon": {
-      "1": "NVP3N",
-      "X": "UVP3N",
-      "2": "1XP3N"
+      "1": "HLFZN",
+      "X": "4LFZN",
+      "2": "LLFZN"
      },
      "markets": {
       "dc": {
@@ -425,9 +223,9 @@
      "eid": 773364764,
      "tid": 276999,
      "coupon": {
-      "1": "ZXP3N",
-      "X": "J8P3N",
-      "2": "U8P3N"
+      "1": "7LFZN",
+      "X": "VLFZN",
+      "2": "YLFZN"
      },
      "markets": {
       "dc": {
@@ -613,6 +411,208 @@
     },
     {
      "tournament": "Ecuador. Serie A",
+     "home": "Universidad Católica Quito",
+     "away": "Independiente del Valle",
+     "start": 1795883400,
+     "odds": {
+      "1": 2.822,
+      "X": 3.265,
+      "2": 2.445
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/5574.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/d999af4b2bfdae0838fe911450dfa1a7.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/276999-Ecuador-Serie-A/397284151-Universidad-Catolica-Quito-Independiente-del-Valle",
+     "eid": 774182209,
+     "tid": 276999,
+     "coupon": {
+      "1": "3MFZN",
+      "X": "JMFZN",
+      "2": "KMFZN"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.501,
+       "12": 1.3,
+       "X2": 1.387
+      },
+      "ou25": {
+       "o": 1.835,
+       "u": 1.906
+      },
+      "btts": {
+       "y": 1.63,
+       "n": 2.124
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1792787400,
+        "h": "Independiente del Valle",
+        "a": "Universidad Católica Quito",
+        "s": [
+         0,
+         0
+        ],
+        "t": "Ecuador. Serie A (Championship - Play-off)",
+        "hh": false
+       },
+       {
+        "d": 1788026400,
+        "h": "Independiente del Valle",
+        "a": "Universidad Católica Quito",
+        "s": [
+         2,
+         2
+        ],
+        "t": "Ecuador. Serie A",
+        "hh": false
+       },
+       {
+        "d": 1778709600,
+        "h": "Universidad Católica Quito",
+        "a": "Independiente del Valle",
+        "s": [
+         0,
+         3
+        ],
+        "t": "Ecuador. Super Copa de Ecuador",
+        "hh": true
+       },
+       {
+        "d": 1777671000,
+        "h": "Universidad Católica Quito",
+        "a": "Independiente del Valle",
+        "s": [
+         2,
+         3
+        ],
+        "t": "Ecuador. Serie A",
+        "hh": true
+       },
+       {
+        "d": 1765747800,
+        "h": "Universidad Católica Quito",
+        "a": "Independiente del Valle",
+        "s": [
+         0,
+         1
+        ],
+        "t": "Ecuador. Serie A (Championship - Play-off)",
+        "hh": true
+       },
+       {
+        "d": 1762637400,
+        "h": "Independiente del Valle",
+        "a": "Universidad Católica Quito",
+        "s": [
+         0,
+         2
+        ],
+        "t": "Ecuador. Serie A (Championship - Play-off)",
+        "hh": false
+       },
+       {
+        "d": 1760396400,
+        "h": "Independiente del Valle",
+        "a": "Universidad Católica Quito",
+        "s": [
+         1,
+         2
+        ],
+        "t": "Ecuador. Copa de Ecuador",
+        "hh": false
+       },
+       {
+        "d": 1751229000,
+        "h": "Universidad Católica Quito",
+        "a": "Independiente del Valle",
+        "s": [
+         0,
+         3
+        ],
+        "t": "Ecuador. Serie A",
+        "hh": true
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795296600,
+        "o": "Barcelona Sporting Club",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1794154500,
+        "o": "Club Social y Deportivo Macará",
+        "gf": 2,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1793836800,
+        "o": "LDU Quito",
+        "gf": 2,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1793548800,
+        "o": "SD Aucas",
+        "gf": 1,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1793318400,
+        "o": "LDU Quito",
+        "gf": 2,
+        "ga": 2,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795194000,
+        "o": "Club Social y Deportivo Macará",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1794163500,
+        "o": "SD Aucas",
+        "gf": 4,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1793923200,
+        "o": "Delfin",
+        "gf": 2,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1793557800,
+        "o": "LDU Quito",
+        "gf": 2,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1793232000,
+        "o": "Delfin",
+        "gf": 3,
+        "ga": 0,
+        "dom": false
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "Ecuador. Serie A",
      "home": "Club Social y Deportivo Macará",
      "away": "LDU Quito",
      "start": 1795892400,
@@ -627,9 +627,9 @@
      "eid": 773360407,
      "tid": 276999,
      "coupon": {
-      "1": "6YP3N",
-      "X": "1ZP3N",
-      "2": "NZP3N"
+      "1": "NMFZN",
+      "X": "VMFZN",
+      "2": "9MFZN"
      },
      "markets": {
       "dc": {
@@ -815,6 +815,208 @@
     },
     {
      "tournament": "Ecuador. Serie A",
+     "home": "Barcelona Sporting Club",
+     "away": "SD Aucas",
+     "start": 1795901400,
+     "odds": {
+      "1": 2.09,
+      "X": 3.3,
+      "2": 3.465
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/5754.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/95515.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/276999-Ecuador-Serie-A/397284152-Barcelona-Sporting-Club-SD-Aucas",
+     "eid": 774182206,
+     "tid": 276999,
+     "coupon": {
+      "1": "K5FZN",
+      "X": "M5FZN",
+      "2": "P5FZN"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.27,
+       "12": 1.294,
+       "X2": 1.675
+      },
+      "ou25": {
+       "o": 1.977,
+       "u": 1.774
+      },
+      "btts": {
+       "y": 1.75,
+       "n": 1.949
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1792963800,
+        "h": "SD Aucas",
+        "a": "Barcelona Sporting Club",
+        "s": [
+         0,
+         4
+        ],
+        "t": "Ecuador. Serie A (Championship - Play-off)",
+        "hh": false
+       },
+       {
+        "d": 1788739200,
+        "h": "SD Aucas",
+        "a": "Barcelona Sporting Club",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Ecuador. Serie A",
+        "hh": false
+       },
+       {
+        "d": 1778976000,
+        "h": "Barcelona Sporting Club",
+        "a": "SD Aucas",
+        "s": [
+         3,
+         0
+        ],
+        "t": "Ecuador. Serie A",
+        "hh": true
+       },
+       {
+        "d": 1771034400,
+        "h": "Barcelona Sporting Club",
+        "a": "SD Aucas",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Partidos amistosos de clubes",
+        "hh": true
+       },
+       {
+        "d": 1759017600,
+        "h": "Barcelona Sporting Club",
+        "a": "SD Aucas",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Ecuador. Serie A",
+        "hh": true
+       },
+       {
+        "d": 1748818800,
+        "h": "SD Aucas",
+        "a": "Barcelona Sporting Club",
+        "s": [
+         2,
+         0
+        ],
+        "t": "Ecuador. Serie A",
+        "hh": false
+       },
+       {
+        "d": 1730579400,
+        "h": "SD Aucas",
+        "a": "Barcelona Sporting Club",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Ecuador. Serie A - Segunda etapa",
+        "hh": false
+       },
+       {
+        "d": 1715554800,
+        "h": "Barcelona Sporting Club",
+        "a": "SD Aucas",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Ecuador. Serie A - Primera etapa",
+        "hh": true
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795296600,
+        "o": "Universidad Católica Quito",
+        "gf": 1,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1794173400,
+        "o": "LDU Quito",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793482200,
+        "o": "Club Social y Deportivo Macará",
+        "gf": 0,
+        "ga": 3,
+        "dom": false
+       },
+       {
+        "d": 1792963800,
+        "o": "SD Aucas",
+        "gf": 4,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1792359000,
+        "o": "Universidad Católica Quito",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795383000,
+        "o": "LDU Quito",
+        "gf": 1,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1794163500,
+        "o": "Independiente del Valle",
+        "gf": 2,
+        "ga": 4,
+        "dom": true
+       },
+       {
+        "d": 1793548800,
+        "o": "Universidad Católica Quito",
+        "gf": 2,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1792963800,
+        "o": "Barcelona Sporting Club",
+        "gf": 0,
+        "ga": 4,
+        "dom": true
+       },
+       {
+        "d": 1792272600,
+        "o": "LDU Quito",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "Ecuador. Serie A",
      "home": "Mushuc Runa",
      "away": "Técnico Universitario",
      "start": 1796070600,
@@ -829,9 +1031,9 @@
      "eid": 773464074,
      "tid": 276999,
      "coupon": {
-      "1": "M9P3N",
-      "X": "R9P3N",
-      "2": "C1Q3N"
+      "1": "65FZN",
+      "X": "U5FZN",
+      "2": "Y5FZN"
      },
      "markets": {
       "dc": {

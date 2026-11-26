@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:42:51+00:00",
+ "updated": "2026-11-26T03:52:20+00:00",
  "backfilled": [
   55479,
   1706694,
@@ -4134,6 +4134,62 @@
    ],
    "detail": "2:0 (2:0,0:0)",
    "start": 1795475700,
+   "group": "liga"
+  },
+  {
+   "id": 773461547,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Club Olimpia",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1795640400,
+   "group": "liga"
+  },
+  {
+   "id": 773601209,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Libertad",
+   "away": "2 de Mayo",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1795640400,
+   "group": "liga"
+  },
+  {
+   "id": 773652925,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Trinidense",
+   "away": "Recoleta",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1795640400,
+   "group": "liga"
+  },
+  {
+   "id": 773605689,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Sportivo San Lorenzo",
+   "away": "Sportivo Ameliano",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1795640400,
    "group": "liga"
   }
  ]

@@ -1,25 +1,11 @@
 {
- "updated": "2026-11-25T19:36:08+00:00",
+ "updated": "2026-11-26T03:48:05+00:00",
  "backfilled": [
   119599,
   1706694,
   125983
  ],
  "matches": [
-  {
-   "id": 664140150,
-   "tid": 119599,
-   "tname": "Argentina. Liga Profesional",
-   "home": "Unión de Santa Fe",
-   "away": "Defensa y Justicia",
-   "score": [
-    3,
-    0
-   ],
-   "detail": "3:0 (1:0,2:0)",
-   "start": 1761084900,
-   "group": "liga"
-  },
   {
    "id": 664435296,
    "tid": 119599,
@@ -8502,6 +8488,20 @@
    ],
    "detail": "2:0 (1:0,1:0)",
    "start": 1795464000,
+   "group": "liga"
+  },
+  {
+   "id": 774171025,
+   "tid": 119599,
+   "tname": "Argentina. Liga Profesional",
+   "home": "Boca Juniors",
+   "away": "Independiente Rivadavia",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1795651200,
    "group": "liga"
   }
  ]

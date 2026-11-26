@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:42:23+00:00",
+ "updated": "2026-11-26T03:51:14+00:00",
  "groups": [
   {
    "key": "liga",
@@ -21,9 +21,9 @@
      "eid": 773575070,
      "tid": 2869549,
      "coupon": {
-      "1": "2SS3N",
-      "X": "JSS3N",
-      "2": "VSS3N"
+      "1": "HSFZN",
+      "X": "4SFZN",
+      "2": "KSFZN"
      },
      "markets": {
       "dc": {
@@ -168,7 +168,9 @@
      "eid": 774042960,
      "tid": 2869549,
      "coupon": {
-      "2": "GUS3N"
+      "1": "7SFZN",
+      "X": "8SFZN",
+      "2": "9SFZN"
      },
      "markets": {
       "dc": {
@@ -313,9 +315,9 @@
      "eid": 774049271,
      "tid": 2869549,
      "coupon": {
-      "1": "4VS3N",
-      "X": "5VS3N",
-      "2": "UVS3N"
+      "1": "FTFZN",
+      "X": "JTFZN",
+      "2": "4TFZN"
      },
      "markets": {
       "dc": {
@@ -462,6 +464,13 @@
       ],
       "f2": [
        {
+        "d": 1795647600,
+        "o": "Always Ready",
+        "gf": 0,
+        "ga": 0,
+        "dom": true
+       },
+       {
         "d": 1795374000,
         "o": "Bolivar",
         "gf": 1,
@@ -488,13 +497,6 @@
         "gf": 5,
         "ga": 5,
         "dom": true
-       },
-       {
-        "d": 1794164400,
-        "o": "Nacional Potosí",
-        "gf": 1,
-        "ga": 1,
-        "dom": false
        }
       ]
      }
@@ -515,9 +517,9 @@
      "eid": 774048569,
      "tid": 2869549,
      "coupon": {
-      "1": "MXS3N",
-      "X": "48S3N",
-      "2": "Q8S3N"
+      "1": "6TFZN",
+      "X": "TTFZN",
+      "2": "7TFZN"
      },
      "markets": {
       "dc": {
@@ -707,9 +709,9 @@
      "away": "Oriente Petrolero",
      "start": 1795908600,
      "odds": {
-      "1": 1.27,
-      "X": 4.7,
-      "2": 9.4
+      "1": 1.189,
+      "X": 5.6,
+      "2": 11.6
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/51069.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/e83eb7945efc5ca5fe3e1149b1937f16.png",
@@ -717,23 +719,23 @@
      "eid": 773576273,
      "tid": 2869549,
      "coupon": {
-      "1": "GYS3N",
-      "X": "LYS3N",
-      "2": "UYS3N"
+      "1": "9TFZN",
+      "X": "A7FZN",
+      "2": "C7FZN"
      },
      "markets": {
       "dc": {
-       "1X": 1.032,
-       "12": 1.105,
-       "X2": 3.1
+       "1X": 1.005,
+       "12": 1.065,
+       "X2": 3.72
       },
       "ou25": {
-       "o": 1.4,
-       "u": 2.56
+       "o": 1.38,
+       "u": 2.625
       },
       "btts": {
-       "y": 1.71,
-       "n": 2.001
+       "y": 1.83,
+       "n": 1.857
       }
      },
      "stats": {
@@ -919,9 +921,9 @@
      "eid": 773576276,
      "tid": 2869549,
      "coupon": {
-      "1": "MZS3N",
-      "X": "PZS3N",
-      "2": "ZZS3N"
+      "1": "F7FZN",
+      "X": "G7FZN",
+      "2": "47FZN"
      },
      "markets": {
       "dc": {
@@ -1111,9 +1113,9 @@
      "away": "Always Ready",
      "start": 1795986900,
      "odds": {
-      "1": 2.41,
-      "X": 3.44,
-      "2": 2.42
+      "1": 2.11,
+      "X": 3.5,
+      "2": 2.886
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/6f732744cbcd74aaf662bb8b25d27687.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/7dc22f420c9442be08f3836f97f30e81.png",
@@ -1121,23 +1123,23 @@
      "eid": 773577543,
      "tid": 2869549,
      "coupon": {
-      "1": "Y9S3N",
-      "X": "E1T3N",
-      "2": "L1T3N"
+      "1": "M7FZN",
+      "X": "P7FZN",
+      "2": "R7FZN"
      },
      "markets": {
       "dc": {
-       "1X": 1.42,
+       "1X": 1.32,
        "12": 1.21,
-       "X2": 1.43
+       "X2": 1.57
       },
       "ou25": {
-       "o": 1.47,
-       "u": 2.35
+       "o": 1.48,
+       "u": 2.33
       },
       "btts": {
-       "y": 1.42,
-       "n": 2.624
+       "y": 1.43,
+       "n": 2.592
       }
      },
      "stats": {
@@ -1270,6 +1272,13 @@
       ],
       "f2": [
        {
+        "d": 1795647600,
+        "o": "Club Real Potosí",
+        "gf": 0,
+        "ga": 0,
+        "dom": false
+       },
+       {
         "d": 1795390200,
         "o": "San Antonio Bulo Bulo",
         "gf": 3,
@@ -1296,13 +1305,6 @@
         "gf": 0,
         "ga": 0,
         "dom": false
-       },
-       {
-        "d": 1794086100,
-        "o": "ABB",
-        "gf": 3,
-        "ga": 2,
-        "dom": true
        }
       ]
      }
@@ -1323,9 +1325,9 @@
      "eid": 773577546,
      "tid": 2869549,
      "coupon": {
-      "1": "DAT3N",
-      "X": "MBT3N",
-      "2": "TBT3N"
+      "1": "U7FZN",
+      "X": "V7FZN",
+      "2": "87FZN"
      },
      "markets": {
       "dc": {

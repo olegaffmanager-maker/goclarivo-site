@@ -1,67 +1,11 @@
 {
- "updated": "2026-11-25T19:37:48+00:00",
+ "updated": "2026-11-26T03:49:09+00:00",
  "backfilled": [
   2306111,
   1706694,
   125983
  ],
  "matches": [
-  {
-   "id": 664165435,
-   "tid": 2306111,
-   "tname": "México. Liga MX",
-   "home": "Necaxa",
-   "away": "Cruz Azul",
-   "score": [
-    1,
-    1
-   ],
-   "detail": "1:1 (0:0,1:1)",
-   "start": 1761094800,
-   "group": "liga"
-  },
-  {
-   "id": 664165223,
-   "tid": 2306111,
-   "tname": "México. Liga MX",
-   "home": "Club America",
-   "away": "Puebla FC",
-   "score": [
-    2,
-    1
-   ],
-   "detail": "2:1 (0:0,2:1)",
-   "start": 1761094800,
-   "group": "liga"
-  },
-  {
-   "id": 664182317,
-   "tid": 2306111,
-   "tname": "México. Liga MX",
-   "home": "Mazatlan",
-   "away": "Santos Laguna",
-   "score": [
-    2,
-    2
-   ],
-   "detail": "2:2 (1:0,1:2)",
-   "start": 1761102000,
-   "group": "liga"
-  },
-  {
-   "id": 664182229,
-   "tid": 2306111,
-   "tname": "México. Liga MX",
-   "home": "FC Monterrey",
-   "away": "Juárez",
-   "score": [
-    4,
-    2
-   ],
-   "detail": "4:2 (2:0,2:2)",
-   "start": 1761102300,
-   "group": "liga"
-  },
   {
    "id": 664458389,
    "tid": 2306111,
@@ -5492,6 +5436,20 @@
    ],
    "detail": "0:0 (0:0)",
    "start": 1795564800,
+   "group": "liga"
+  },
+  {
+   "id": 774181975,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "FC Toluca",
+   "away": "Atlas Guadalajara",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1795653900,
    "group": "liga"
   }
  ]
