@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T17:34:55+00:00",
+ "updated": "2026-11-27T02:10:28+00:00",
  "groups": [
   {
    "key": "liga",
@@ -7,48 +7,13 @@
    "matches": [
     {
      "tournament": "India. Bangalore. Super Division",
-     "home": "Bengaluru United",
-     "away": "MEG & Centre",
-     "start": 1795747500,
-     "odds": {
-      "1": 1.055,
-      "X": 8.0,
-      "2": 20.0
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/dc4660e182a9510ac97cef0719950c67.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/09fda0cdc1b9943086c4c97430e031bf.png",
-     "link": "https://1xlite-32085.pro/en/line/Football/330475-India-Bangalore-Super-Division/397362940-Bengaluru-United-MEG-&-Centre",
-     "eid": 774301900,
-     "tid": 330475,
-     "coupon": {
-      "1": "EUJJQ",
-      "2": "RUJJQ"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.01,
-       "12": 1.004,
-       "X2": 5.8
-      },
-      "ou25": {
-       "o": 1.285,
-       "u": 3.05
-      },
-      "btts": {
-       "y": 2.34,
-       "n": 1.51
-      }
-     }
-    },
-    {
-     "tournament": "India. Bangalore. Super Division",
      "home": "Bangalore Dream United",
      "away": "Bangalore City",
      "start": 1795757400,
      "odds": {
-      "1": 6.62,
-      "X": 4.5,
-      "2": 1.36
+      "1": 6.73,
+      "X": 4.55,
+      "2": 1.35
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/41cdf8210c5f9f2291be991c579e924d.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/0c6ec106a92b6c1775fd48e88ab45a01.png",
@@ -56,21 +21,23 @@
      "eid": 774302468,
      "tid": 330475,
      "coupon": {
-      "2": "4VJJQ"
+      "1": "QSKB6",
+      "X": "RSKB6",
+      "2": "TSKB6"
      },
      "markets": {
       "dc": {
-       "1X": 2.63,
-       "12": 1.112,
-       "X2": 1.039
+       "1X": 2.67,
+       "12": 1.109,
+       "X2": 1.036
       },
       "ou25": {
-       "o": 1.52,
-       "u": 2.31
+       "o": 1.47,
+       "u": 2.35
       },
       "btts": {
-       "y": 1.69,
-       "n": 2.005
+       "y": 1.66,
+       "n": 2.047
       }
      }
     },
@@ -90,8 +57,9 @@
      "eid": 774306184,
      "tid": 330475,
      "coupon": {
-      "X": "AXJJQ",
-      "2": "JXJJQ"
+      "1": "XSKB6",
+      "X": "8SKB6",
+      "2": "1TKB6"
      },
      "markets": {
       "dc": {
@@ -125,8 +93,9 @@
      "eid": 774305687,
      "tid": 330475,
      "coupon": {
-      "1": "MXJJQ",
-      "2": "8XJJQ"
+      "1": "BTKB6",
+      "X": "2TKB6",
+      "2": "FTKB6"
      },
      "markets": {
       "dc": {
@@ -160,9 +129,9 @@
      "eid": 774233722,
      "tid": 1122087,
      "coupon": {
-      "1": "C8JJQ",
-      "X": "48JJQ",
-      "2": "S8JJQ"
+      "1": "JTKB6",
+      "X": "MTKB6",
+      "2": "NTKB6"
      },
      "markets": {
       "dc": {
@@ -472,9 +441,9 @@
      "eid": 773477932,
      "tid": 1122087,
      "coupon": {
-      "1": "LYJJQ",
-      "X": "QYJJQ",
-      "2": "UYJJQ"
+      "1": "D7KB6",
+      "X": "F7KB6",
+      "2": "37KB6"
      },
      "markets": {
       "dc": {
@@ -828,9 +797,9 @@
      "eid": 773203073,
      "tid": 1122087,
      "coupon": {
-      "1": "7ZJJQ",
-      "X": "YZJJQ",
-      "2": "D9JJQ"
+      "1": "K7KB6",
+      "X": "M7KB6",
+      "2": "57KB6"
      },
      "markets": {
       "dc": {
@@ -1184,9 +1153,9 @@
      "eid": 773245730,
      "tid": 1122087,
      "coupon": {
-      "1": "EB4JQ",
-      "X": "7B4JQ",
-      "2": "KC4JQ"
+      "1": "V7KB6",
+      "X": "87KB6",
+      "2": "97KB6"
      },
      "markets": {
       "dc": {
@@ -1540,9 +1509,9 @@
      "eid": 773779365,
      "tid": 1122087,
      "coupon": {
-      "1": "L24JQ",
-      "X": "Z24JQ",
-      "2": "5D4JQ"
+      "1": "EUKB6",
+      "X": "3UKB6",
+      "2": "JUKB6"
      },
      "markets": {
       "dc": {
@@ -1863,8 +1832,9 @@
      "eid": 774159664,
      "tid": 330475,
      "coupon": {
-      "X": "RF4JQ",
-      "2": "9F4JQ"
+      "1": "MUKB6",
+      "X": "NUKB6",
+      "2": "6UKB6"
      },
      "markets": {
       "dc": {

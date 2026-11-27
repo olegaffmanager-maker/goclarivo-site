@@ -1,25 +1,11 @@
 {
- "updated": "2026-11-26T17:19:22+00:00",
+ "updated": "2026-11-27T01:58:09+00:00",
  "backfilled": [
   119599,
   1706694,
   125983
  ],
  "matches": [
-  {
-   "id": 664435296,
-   "tid": 119599,
-   "tname": "Argentina. Liga Profesional",
-   "home": "Club Atletico Huracan",
-   "away": "Central Córdoba",
-   "score": [
-    0,
-    1
-   ],
-   "detail": "0:1 (0:1,0:0)",
-   "start": 1761171300,
-   "group": "liga"
-  },
   {
    "id": 664975980,
    "tid": 119599,

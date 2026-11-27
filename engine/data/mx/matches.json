@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T17:21:05+00:00",
+ "updated": "2026-11-27T01:59:49+00:00",
  "groups": [
   {
    "key": "liga",
@@ -7,215 +7,13 @@
    "matches": [
     {
      "tournament": "México. Liga MX",
-     "home": "Pachuca FC",
-     "away": "Guadalajara",
-     "start": 1795741200,
-     "odds": {
-      "1": 2.69,
-      "X": 3.1,
-      "2": 2.56
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/b8e48789f41d6ff23731f424715e5ddc.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/8e41fcba66e9b6b895099f8668af25d0.png",
-     "link": "https://1xlite-32085.pro/es/line/Football/2306111-Mexico-Liga-MX/396917969-Pachuca-Guadalajara",
-     "eid": 773727681,
-     "tid": 2306111,
-     "coupon": {
-      "1": "RVNHQ",
-      "X": "1XNHQ",
-      "2": "GXNHQ"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.44,
-       "12": 1.32,
-       "X2": 1.41
-      },
-      "ou25": {
-       "o": 1.92,
-       "u": 1.81
-      },
-      "btts": {
-       "y": 1.69,
-       "n": 2.049
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1788044400,
-        "h": "Pachuca FC",
-        "a": "Guadalajara",
-        "s": [
-         1,
-         1
-        ],
-        "t": "México. Liga MX",
-        "hh": true
-       },
-       {
-        "d": 1768086420,
-        "h": "Guadalajara",
-        "a": "Pachuca FC",
-        "s": [
-         2,
-         0
-        ],
-        "t": "México. Liga MX",
-        "hh": false
-       },
-       {
-        "d": 1762131600,
-        "h": "Pachuca FC",
-        "a": "Guadalajara",
-        "s": [
-         0,
-         1
-        ],
-        "t": "México. Liga MX",
-        "hh": true
-       },
-       {
-        "d": 1740272700,
-        "h": "Guadalajara",
-        "a": "Pachuca FC",
-        "s": [
-         2,
-         1
-        ],
-        "t": "México. Liga MX",
-        "hh": false
-       },
-       {
-        "d": 1729378800,
-        "h": "Pachuca FC",
-        "a": "Guadalajara",
-        "s": [
-         0,
-         2
-        ],
-        "t": "México. Liga MX",
-        "hh": true
-       },
-       {
-        "d": 1719176400,
-        "h": "Guadalajara",
-        "a": "Pachuca FC",
-        "s": [
-         0,
-         3
-        ],
-        "t": "Partidos amistosos de clubes",
-        "hh": false
-       },
-       {
-        "d": 1713049200,
-        "h": "Pachuca FC",
-        "a": "Guadalajara",
-        "s": [
-         0,
-         1
-        ],
-        "t": "México. Liga MX",
-        "hh": true
-       },
-       {
-        "d": 1695517200,
-        "h": "Guadalajara",
-        "a": "Pachuca FC",
-        "s": [
-         0,
-         0
-        ],
-        "t": "México. Liga MX",
-        "hh": false
-       }
-      ],
-      "f1": [
-       {
-        "d": 1795301400,
-        "o": "FC Toluca",
-        "gf": 2,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1794092400,
-        "o": "Atlas Guadalajara",
-        "gf": 4,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1793487600,
-        "o": "Tigres de la UANL",
-        "gf": 3,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1792976700,
-        "o": "Club America",
-        "gf": 2,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1792638600,
-        "o": "Cruz Azul",
-        "gf": 1,
-        "ga": 2,
-        "dom": true
-       }
-      ],
-      "f2": [
-       {
-        "d": 1795388820,
-        "o": "Cruz Azul",
-        "gf": 1,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1794190200,
-        "o": "Leon",
-        "gf": 1,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1793495220,
-        "o": "Atlante",
-        "gf": 4,
-        "ga": 2,
-        "dom": true
-       },
-       {
-        "d": 1792886400,
-        "o": "FC Monterrey",
-        "gf": 1,
-        "ga": 0,
-        "dom": false
-       },
-       {
-        "d": 1792541220,
-        "o": "Necaxa",
-        "gf": 1,
-        "ga": 0,
-        "dom": true
-       }
-      ]
-     }
-    },
-    {
-     "tournament": "México. Liga MX",
      "home": "Leon",
      "away": "Cruz Azul",
      "start": 1795749000,
      "odds": {
-      "1": 3.12,
-      "X": 3.45,
-      "2": 2.13
+      "1": 3.27,
+      "X": 3.5,
+      "2": 2.07
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/02895b7d0c0b1e4d4bfb7cef872763e0.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/cbfdb11c01ff057254ee21a7d27d1016.png",
@@ -223,23 +21,23 @@
      "eid": 773874666,
      "tid": 2306111,
      "coupon": {
-      "1": "A9NHQ",
-      "X": "J9NHQ",
-      "2": "69NHQ"
+      "1": "TJHB6",
+      "X": "7JHB6",
+      "2": "XJHB6"
      },
      "markets": {
       "dc": {
-       "1X": 1.64,
+       "1X": 1.68,
        "12": 1.26,
-       "X2": 1.32
+       "X2": 1.285
       },
       "ou25": {
        "o": 1.71,
        "u": 2.05
       },
       "btts": {
-       "y": 1.58,
-       "n": 2.234
+       "y": 1.59,
+       "n": 2.214
       }
      },
      "stats": {
@@ -425,9 +223,9 @@
      "eid": 774349795,
      "tid": 2306111,
      "coupon": {
-      "1": "S1PHQ",
-      "X": "1APHQ",
-      "2": "4APHQ"
+      "1": "A4HB6",
+      "X": "C4HB6",
+      "2": "F4HB6"
      },
      "markets": {
       "dc": {
@@ -627,9 +425,9 @@
      "eid": 774220944,
      "tid": 2306111,
      "coupon": {
-      "1": "ABPHQ",
-      "X": "JBPHQ",
-      "2": "7BPHQ"
+      "1": "N4HB6",
+      "X": "P4HB6",
+      "2": "64HB6"
      },
      "markets": {
       "dc": {

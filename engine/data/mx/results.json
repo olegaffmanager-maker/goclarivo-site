@@ -1,39 +1,11 @@
 {
- "updated": "2026-11-26T17:21:05+00:00",
+ "updated": "2026-11-27T01:59:49+00:00",
  "backfilled": [
   2306111,
   1706694,
   125983
  ],
  "matches": [
-  {
-   "id": 664458389,
-   "tid": 2306111,
-   "tname": "México. Liga MX",
-   "home": "Queretaro",
-   "away": "Guadalajara",
-   "score": [
-    1,
-    0
-   ],
-   "detail": "1:0 (1:0,0:0)",
-   "start": 1761180300,
-   "group": "liga"
-  },
-  {
-   "id": 664458388,
-   "tid": 2306111,
-   "tname": "México. Liga MX",
-   "home": "Pachuca FC",
-   "away": "Tigres de la UANL",
-   "score": [
-    1,
-    2
-   ],
-   "detail": "1:2 (0:0,1:2)",
-   "start": 1761180300,
-   "group": "liga"
-  },
   {
    "id": 664475455,
    "tid": 2306111,
