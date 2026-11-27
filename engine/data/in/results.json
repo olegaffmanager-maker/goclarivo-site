@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T02:10:28+00:00",
+ "updated": "2026-11-27T13:15:40+00:00",
  "backfilled": [
   2783103,
   1122087,
@@ -14,48 +14,6 @@
   2474293
  ],
  "matches": [
-  {
-   "id": 664497466,
-   "tid": 330475,
-   "tname": "India. Bangalore. Super Division",
-   "home": "Bharat Bengaluru",
-   "away": "Bengaluru United",
-   "score": [
-    0,
-    5
-   ],
-   "detail": "0:5 (0:2,0:3)",
-   "start": 1761197400,
-   "group": "liga"
-  },
-  {
-   "id": 664520739,
-   "tid": 330475,
-   "tname": "India. Bangalore. Super Division",
-   "home": "Bengaluru II",
-   "away": "Real Bengaluru",
-   "score": [
-    4,
-    0
-   ],
-   "detail": "4:0 (1:0,3:0)",
-   "start": 1761204600,
-   "group": "liga"
-  },
-  {
-   "id": 664560733,
-   "tid": 330475,
-   "tname": "India. Bangalore. Super Division",
-   "home": "ASC",
-   "away": "MEG & Centre",
-   "score": [
-    1,
-    1
-   ],
-   "detail": "1:1 (0:0,1:1)",
-   "start": 1761215400,
-   "group": "liga"
-  },
   {
    "id": 664779024,
    "tid": 330475,
@@ -8804,6 +8762,62 @@
    ],
    "detail": "3:0 (1:0,2:0)",
    "start": 1795689000,
+   "group": "liga"
+  },
+  {
+   "id": 774467672,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bengaluru United",
+   "away": "MEG & Centre",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1795747500,
+   "group": "liga"
+  },
+  {
+   "id": 774491020,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Bangalore Dream United",
+   "away": "Bangalore City",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1795757400,
+   "group": "liga"
+  },
+  {
+   "id": 774516147,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Rebels Bangalore",
+   "away": "Agniputhra",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1795766400,
+   "group": "liga"
+  },
+  {
+   "id": 774549143,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "HAL",
+   "away": "ASC",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1795775400,
    "group": "liga"
   }
  ]

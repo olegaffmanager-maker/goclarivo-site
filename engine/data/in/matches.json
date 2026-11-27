@@ -1,127 +1,19 @@
 {
- "updated": "2026-11-27T02:10:28+00:00",
+ "updated": "2026-11-27T13:15:40+00:00",
  "groups": [
   {
    "key": "liga",
    "name": "Indian Super League",
    "matches": [
     {
-     "tournament": "India. Bangalore. Super Division",
-     "home": "Bangalore Dream United",
-     "away": "Bangalore City",
-     "start": 1795757400,
-     "odds": {
-      "1": 6.73,
-      "X": 4.55,
-      "2": 1.35
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/41cdf8210c5f9f2291be991c579e924d.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/0c6ec106a92b6c1775fd48e88ab45a01.png",
-     "link": "https://1xlite-32085.pro/en/line/Football/330475-India-Bangalore-Super-Division/397362941-Bangalore-Dream-United-Bangalore-City",
-     "eid": 774302468,
-     "tid": 330475,
-     "coupon": {
-      "1": "QSKB6",
-      "X": "RSKB6",
-      "2": "TSKB6"
-     },
-     "markets": {
-      "dc": {
-       "1X": 2.67,
-       "12": 1.109,
-       "X2": 1.036
-      },
-      "ou25": {
-       "o": 1.47,
-       "u": 2.35
-      },
-      "btts": {
-       "y": 1.66,
-       "n": 2.047
-      }
-     }
-    },
-    {
-     "tournament": "India. Bangalore. Super Division",
-     "home": "Rebels Bangalore",
-     "away": "Agniputhra",
-     "start": 1795766400,
-     "odds": {
-      "1": 2.849,
-      "X": 3.55,
-      "2": 2.1
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/af41c3902f33e9023b2861c3a2718578.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/04ce8300dabb5ad0104420bc16286dfb.png",
-     "link": "https://1xlite-32085.pro/en/line/Football/330475-India-Bangalore-Super-Division/397362939-Rebels-Bangalore-Agniputhra",
-     "eid": 774306184,
-     "tid": 330475,
-     "coupon": {
-      "1": "XSKB6",
-      "X": "8SKB6",
-      "2": "1TKB6"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.57,
-       "12": 1.191,
-       "X2": 1.32
-      },
-      "ou25": {
-       "o": 1.56,
-       "u": 2.22
-      },
-      "btts": {
-       "y": 1.48,
-       "n": 2.411
-      }
-     }
-    },
-    {
-     "tournament": "India. Bangalore. Super Division",
-     "home": "HAL",
-     "away": "ASC",
-     "start": 1795775400,
-     "odds": {
-      "1": 2.29,
-      "X": 3.64,
-      "2": 2.43
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/386cc4aa6d854fceb9b27e4cec674bd7.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/727d262f025cdcaac2c3f0d233c0d584.png",
-     "link": "https://1xlite-32085.pro/en/line/Football/330475-India-Bangalore-Super-Division/397362937-HAL-ASC",
-     "eid": 774305687,
-     "tid": 330475,
-     "coupon": {
-      "1": "BTKB6",
-      "X": "2TKB6",
-      "2": "FTKB6"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.41,
-       "12": 1.181,
-       "X2": 1.47
-      },
-      "ou25": {
-       "o": 1.42,
-       "u": 2.49
-      },
-      "btts": {
-       "y": 1.39,
-       "n": 2.694
-      }
-     }
-    },
-    {
      "tournament": "India. Super League",
      "home": "Inter Kashi",
      "away": "Churchill Brothers",
      "start": 1795788000,
      "odds": {
-      "1": 3.97,
-      "X": 3.54,
-      "2": 1.75
+      "1": 4.55,
+      "X": 3.58,
+      "2": 1.65
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/b269dd5c35c5efc3c5850d15f767e74d.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/4843b5b02b86fc2c03daf12e4f177b42.png",
@@ -129,23 +21,23 @@
      "eid": 774233722,
      "tid": 1122087,
      "coupon": {
-      "1": "JTKB6",
-      "X": "MTKB6",
-      "2": "NTKB6"
+      "1": "8DEY6",
+      "X": "4EEY6",
+      "2": "VEEY6"
      },
      "markets": {
       "dc": {
-       "1X": 1.86,
-       "12": 1.198,
-       "X2": 1.163
+       "1X": 1.99,
+       "12": 1.193,
+       "X2": 1.12
       },
       "ou25": {
-       "o": 1.63,
-       "u": 2.1
+       "o": 1.76,
+       "u": 1.92
       },
       "btts": {
-       "y": 1.59,
-       "n": 2.188
+       "y": 1.727,
+       "n": 1.98
       }
      },
      "stats": {
@@ -426,6 +318,42 @@
      }
     },
     {
+     "tournament": "India. Bangalore. Super Division",
+     "home": "Kodagu",
+     "away": "Bengaluru II",
+     "start": 1795837200,
+     "odds": {
+      "1": 2.43,
+      "X": 3.82,
+      "2": 2.23
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/8219035f9a95cd9ee41bda8a5cf8029e.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/f9eaa526b545ecb5553ae174b0aca894.png",
+     "link": "https://1xlite-32085.pro/en/line/Football/330475-India-Bangalore-Super-Division/397469309-Kodagu-Bengaluru-II",
+     "eid": 774480661,
+     "tid": 330475,
+     "coupon": {
+      "1": "K3EY6",
+      "X": "N3EY6",
+      "2": "73EY6"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.49,
+       "12": 1.164,
+       "X2": 1.41
+      },
+      "ou25": {
+       "o": 1.33,
+       "u": 2.83
+      },
+      "btts": {
+       "y": 1.32,
+       "n": 3.0
+      }
+     }
+    },
+    {
      "tournament": "India. Super League",
      "home": "Chennaiyin",
      "away": "Mumbai City",
@@ -441,9 +369,9 @@
      "eid": 773477932,
      "tid": 1122087,
      "coupon": {
-      "1": "D7KB6",
-      "X": "F7KB6",
-      "2": "37KB6"
+      "1": "83EY6",
+      "X": "JGEY6",
+      "2": "1HEY6"
      },
      "markets": {
       "dc": {
@@ -797,9 +725,9 @@
      "eid": 773203073,
      "tid": 1122087,
      "coupon": {
-      "1": "K7KB6",
-      "X": "M7KB6",
-      "2": "57KB6"
+      "1": "3KEY6",
+      "X": "QKEY6",
+      "2": "ALEY6"
      },
      "markets": {
       "dc": {
@@ -1153,9 +1081,8 @@
      "eid": 773245730,
      "tid": 1122087,
      "coupon": {
-      "1": "V7KB6",
-      "X": "87KB6",
-      "2": "97KB6"
+      "X": "ENEY6",
+      "2": "DPEY6"
      },
      "markets": {
       "dc": {
@@ -1509,9 +1436,7 @@
      "eid": 773779365,
      "tid": 1122087,
      "coupon": {
-      "1": "EUKB6",
-      "X": "3UKB6",
-      "2": "JUKB6"
+      "2": "SREY6"
      },
      "markets": {
       "dc": {
@@ -1832,9 +1757,9 @@
      "eid": 774159664,
      "tid": 330475,
      "coupon": {
-      "1": "MUKB6",
-      "X": "NUKB6",
-      "2": "6UKB6"
+      "1": "XSEY6",
+      "X": "9SEY6",
+      "2": "ETEY6"
      },
      "markets": {
       "dc": {

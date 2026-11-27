@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T02:06:34+00:00",
+ "updated": "2026-11-27T13:11:35+00:00",
  "groups": [
   {
    "key": "liga",
@@ -11,9 +11,9 @@
      "away": "Cultural Leonesa",
      "start": 1795802400,
      "odds": {
-      "1": 2.1,
-      "X": 3.1,
-      "2": 3.26
+      "1": 2.41,
+      "X": 2.99,
+      "2": 2.71
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/23851.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/12465.png",
@@ -21,23 +21,22 @@
      "eid": 773755898,
      "tid": 2282697,
      "coupon": {
-      "1": "CL4B6",
-      "X": "2L4B6",
-      "2": "FL4B6"
+      "1": "73Y86",
+      "2": "BGY86"
      },
      "markets": {
       "dc": {
-       "1X": 1.25,
-       "12": 1.26,
-       "X2": 1.57
+       "1X": 1.34,
+       "12": 1.28,
+       "X2": 1.43
       },
       "ou25": {
-       "o": 2.06,
-       "u": 1.65
+       "o": 2.27,
+       "u": 1.54
       },
       "btts": {
-       "y": 1.83,
-       "n": 1.857
+       "y": 1.93,
+       "n": 1.764
       }
      },
      "stats": {
@@ -223,9 +222,9 @@
      "eid": 769399623,
      "tid": 127733,
      "coupon": {
-      "1": "LL4B6",
-      "X": "5L4B6",
-      "2": "PL4B6"
+      "1": "JJY86",
+      "X": "6JY86",
+      "2": "7JY86"
      },
      "markets": {
       "dc": {
@@ -415,9 +414,9 @@
      "away": "SD Ponferradina",
      "start": 1795867200,
      "odds": {
-      "1": 2.37,
+      "1": 2.29,
       "X": 3.0,
-      "2": 2.851
+      "2": 2.975
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/51715.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/74dd1b9081b7d61587a2e2c50bdfb769.png",
@@ -425,23 +424,23 @@
      "eid": 773764009,
      "tid": 2282697,
      "coupon": {
-      "1": "QL4B6",
-      "X": "6L4B6",
-      "2": "SL4B6"
+      "1": "YLY86",
+      "X": "KMY86",
+      "2": "XMY86"
      },
      "markets": {
       "dc": {
-       "1X": 1.32,
+       "1X": 1.3,
        "12": 1.28,
-       "X2": 1.45
+       "X2": 1.48
       },
       "ou25": {
-       "o": 2.12,
-       "u": 1.615
+       "o": 2.05,
+       "u": 1.66
       },
       "btts": {
-       "y": 1.84,
-       "n": 1.846
+       "y": 1.8,
+       "n": 1.888
       }
      },
      "stats": {
@@ -538,9 +537,8 @@
      "eid": 769399617,
      "tid": 127733,
      "coupon": {
-      "1": "7L4B6",
-      "X": "8L4B6",
-      "2": "ZL4B6"
+      "1": "45Y86",
+      "X": "75Y86"
      },
      "markets": {
       "dc": {
@@ -740,9 +738,7 @@
      "eid": 769399608,
      "tid": 127733,
      "coupon": {
-      "1": "2M4B6",
-      "X": "EM4B6",
-      "2": "FM4B6"
+      "1": "YQY86"
      },
      "markets": {
       "dc": {
@@ -942,9 +938,8 @@
      "eid": 773756865,
      "tid": 2282697,
      "coupon": {
-      "1": "6M4B6",
-      "X": "RM4B6",
-      "2": "7M4B6"
+      "X": "B7Y86",
+      "2": "J7Y86"
      },
      "markets": {
       "dc": {
@@ -1144,9 +1139,9 @@
      "eid": 773758659,
      "tid": 2282697,
      "coupon": {
-      "1": "154B6",
-      "X": "C54B6",
-      "2": "D54B6"
+      "1": "Z7Y86",
+      "X": "FUY86",
+      "2": "PUY86"
      },
      "markets": {
       "dc": {
@@ -1280,9 +1275,9 @@
      "eid": 769399614,
      "tid": 127733,
      "coupon": {
-      "1": "H54B6",
-      "X": "J54B6",
-      "2": "M54B6"
+      "1": "4XY86",
+      "X": "C8Y86",
+      "2": "T8Y86"
      },
      "markets": {
       "dc": {
@@ -1482,9 +1477,9 @@
      "eid": 773764672,
      "tid": 2282697,
      "coupon": {
-      "1": "AN4B6",
-      "X": "CN4B6",
-      "2": "DN4B6"
+      "1": "NZY86",
+      "X": "39Y86",
+      "2": "S9Y86"
      },
      "markets": {
       "dc": {
@@ -1670,6 +1665,131 @@
     },
     {
      "tournament": "España. Primera División RFEF. Grupo 1",
+     "home": "FC Lugo",
+     "away": "UD Ourense",
+     "start": 1795887900,
+     "odds": {
+      "1": 1.44,
+      "X": 3.98,
+      "2": 6.23
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/9f01ba61547517b5fc13444e77d2d932.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/2393535.png",
+     "link": "https://1xlite-32085.pro/es/line/Football/2282697-Spain-Primera-Division-RFEF-Group-1/397041761-Lugo-UD-Ourense",
+     "eid": 773764669,
+     "tid": 2282697,
+     "coupon": {
+      "1": "4BZ86",
+      "X": "PBZ86",
+      "2": "8BZ86"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.053,
+       "12": 1.154,
+       "X2": 2.39
+      },
+      "ou25": {
+       "o": 1.72,
+       "u": 1.96
+      },
+      "btts": {
+       "y": 1.84,
+       "n": 1.846
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1755799200,
+        "h": "UD Ourense",
+        "a": "FC Lugo",
+        "s": [
+         0,
+         1
+        ],
+        "t": "Partidos amistosos de clubes",
+        "hh": false
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795283100,
+        "o": "Pontevedra",
+        "gf": 2,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1794756600,
+        "o": "Mirandés",
+        "gf": 1,
+        "ga": 3,
+        "dom": true
+       },
+       {
+        "d": 1793988000,
+        "o": "CP Cacereno",
+        "gf": 1,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1793555100,
+        "o": "Mérida AD",
+        "gf": 2,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1792774800,
+        "o": "Real Unión Club",
+        "gf": 1,
+        "ga": 4,
+        "dom": false
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795345200,
+        "o": "Racing de Ferrol",
+        "gf": 2,
+        "ga": 3,
+        "dom": true
+       },
+       {
+        "d": 1794670200,
+        "o": "Mérida AD",
+        "gf": 1,
+        "ga": 3,
+        "dom": true
+       },
+       {
+        "d": 1794065400,
+        "o": "Pontevedra",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1793547000,
+        "o": "Cultural Leonesa",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1793302200,
+        "o": "Gimnastica de Torrelavega",
+        "gf": 1,
+        "ga": 3,
+        "dom": false
+       }
+      ]
+     }
+    },
+    {
+     "tournament": "España. Primera División RFEF. Grupo 1",
      "home": "Zamora",
      "away": "Pontevedra",
      "start": 1795887900,
@@ -1684,9 +1804,8 @@
      "eid": 773759380,
      "tid": 2282697,
      "coupon": {
-      "1": "GN4B6",
-      "X": "HN4B6",
-      "2": "4N4B6"
+      "X": "Q2Z86",
+      "2": "U2Z86"
      },
      "markets": {
       "dc": {
@@ -1871,159 +1990,29 @@
      }
     },
     {
-     "tournament": "España. Primera División RFEF. Grupo 1",
-     "home": "FC Lugo",
-     "away": "UD Ourense",
-     "start": 1795887900,
-     "odds": {
-      "1": 1.44,
-      "X": 3.98,
-      "2": 6.23
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/9f01ba61547517b5fc13444e77d2d932.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/2393535.png",
-     "link": "https://1xlite-32085.pro/es/line/Football/2282697-Spain-Primera-Division-RFEF-Group-1/397041761-Lugo-UD-Ourense",
-     "eid": 773764669,
-     "tid": 2282697,
-     "coupon": {
-      "1": "MN4B6",
-      "X": "NN4B6",
-      "2": "QN4B6"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.053,
-       "12": 1.154,
-       "X2": 2.39
-      },
-      "ou25": {
-       "o": 1.72,
-       "u": 1.96
-      },
-      "btts": {
-       "y": 1.84,
-       "n": 1.846
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1755799200,
-        "h": "UD Ourense",
-        "a": "FC Lugo",
-        "s": [
-         0,
-         1
-        ],
-        "t": "Partidos amistosos de clubes",
-        "hh": false
-       }
-      ],
-      "f1": [
-       {
-        "d": 1795283100,
-        "o": "Pontevedra",
-        "gf": 2,
-        "ga": 0,
-        "dom": false
-       },
-       {
-        "d": 1794756600,
-        "o": "Mirandés",
-        "gf": 1,
-        "ga": 3,
-        "dom": true
-       },
-       {
-        "d": 1793988000,
-        "o": "CP Cacereno",
-        "gf": 1,
-        "ga": 0,
-        "dom": false
-       },
-       {
-        "d": 1793555100,
-        "o": "Mérida AD",
-        "gf": 2,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1792774800,
-        "o": "Real Unión Club",
-        "gf": 1,
-        "ga": 4,
-        "dom": false
-       }
-      ],
-      "f2": [
-       {
-        "d": 1795345200,
-        "o": "Racing de Ferrol",
-        "gf": 2,
-        "ga": 3,
-        "dom": true
-       },
-       {
-        "d": 1794670200,
-        "o": "Mérida AD",
-        "gf": 1,
-        "ga": 3,
-        "dom": true
-       },
-       {
-        "d": 1794065400,
-        "o": "Pontevedra",
-        "gf": 0,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1793547000,
-        "o": "Cultural Leonesa",
-        "gf": 1,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1793302200,
-        "o": "Gimnastica de Torrelavega",
-        "gf": 1,
-        "ga": 3,
-        "dom": false
-       }
-      ]
-     }
-    },
-    {
      "tournament": "España. La Liga",
      "home": "Real Madrid",
      "away": "Deportivo Alavés",
      "start": 1795896000,
      "odds": {
-      "1": 1.153,
-      "X": 9.6,
-      "2": 22.0
+      "1": 1.165,
+      "X": 9.1,
+      "2": 21.0
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/65e3e972954419765c3ce21698edf6cb.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/ac7cf1b559bb1e461f05ea5e9bd6d8b2.png",
      "link": "https://1xlite-32085.pro/es/line/Football/127733-Spain-La-Liga/388492940-Real-Madrid-Deportivo-Alaves",
      "eid": 769399611,
      "tid": 127733,
-     "coupon": {
-      "1": "SN4B6",
-      "X": "UN4B6",
-      "2": "8N4B6"
-     },
      "markets": {
       "dc": {
-       "1X": 1.007,
-       "12": 1.085,
-       "X2": 6.3
+       "1X": 1.011,
+       "12": 1.092,
+       "X2": 5.95
       },
       "ou25": {
-       "o": 1.336,
-       "u": 3.225
+       "o": 1.343,
+       "u": 3.19
       },
       "btts": {
        "y": 2.04,
@@ -2213,9 +2202,7 @@
      "eid": 773758070,
      "tid": 2282697,
      "coupon": {
-      "1": "2P4B6",
-      "X": "EP4B6",
-      "2": "JP4B6"
+      "X": "FEZ86"
      },
      "markets": {
       "dc": {
@@ -2339,8 +2326,8 @@
      "away": "Mérida AD",
      "start": 1795950000,
      "odds": {
-      "1": 1.87,
-      "X": 3.28,
+      "1": 1.85,
+      "X": 3.34,
       "2": 3.75
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/54bfd2a4297b5149856d827a6043fddc.png",
@@ -2349,23 +2336,23 @@
      "eid": 773756869,
      "tid": 2282697,
      "coupon": {
-      "1": "NP4B6",
-      "X": "RP4B6",
-      "2": "7P4B6"
+      "1": "9EZ86",
+      "X": "CFZ86",
+      "2": "FFZ86"
      },
      "markets": {
       "dc": {
        "1X": 1.184,
-       "12": 1.24,
-       "X2": 1.74
+       "12": 1.222,
+       "X2": 1.76
       },
       "ou25": {
-       "o": 1.89,
-       "u": 1.78
+       "o": 1.83,
+       "u": 1.84
       },
       "btts": {
-       "y": 1.76,
-       "n": 1.938
+       "y": 1.71,
+       "n": 2.001
       }
      },
      "stats": {
@@ -2507,9 +2494,9 @@
      "eid": 769330829,
      "tid": 127733,
      "coupon": {
-      "1": "1Q4B6",
-      "X": "CQ4B6",
-      "2": "EQ4B6"
+      "1": "MGZ86",
+      "X": "TGZ86",
+      "2": "ZGZ86"
      },
      "markets": {
       "dc": {
@@ -2709,9 +2696,9 @@
      "eid": 769331096,
      "tid": 127733,
      "coupon": {
-      "1": "JQ4B6",
-      "X": "KQ4B6",
-      "2": "MQ4B6"
+      "1": "CLZ86",
+      "X": "6LZ86",
+      "2": "TMZ86"
      },
      "markets": {
       "dc": {
@@ -2911,9 +2898,7 @@
      "eid": 773996900,
      "tid": 2282697,
      "coupon": {
-      "1": "QQ4B6",
-      "X": "TQ4B6",
-      "2": "ZQ4B6"
+      "2": "UNZ86"
      },
      "markets": {
       "dc": {
@@ -3024,9 +3009,7 @@
      "eid": 769330359,
      "tid": 127733,
      "coupon": {
-      "1": "DR4B6",
-      "X": "3R4B6",
-      "2": "JR4B6"
+      "X": "N6Z86"
      },
      "markets": {
       "dc": {
@@ -3226,9 +3209,9 @@
      "eid": 769332793,
      "tid": 127733,
      "coupon": {
-      "1": "LR4B6",
-      "X": "MR4B6",
-      "2": "NR4B6"
+      "1": "1SZ86",
+      "X": "GSZ86",
+      "2": "7SZ86"
      },
      "markets": {
       "dc": {
@@ -3428,9 +3411,9 @@
      "eid": 769399620,
      "tid": 127733,
      "coupon": {
-      "1": "TR4B6",
-      "X": "7R4B6",
-      "2": "XR4B6"
+      "1": "D7Z86",
+      "X": "S7Z86",
+      "2": "3UZ86"
      },
      "markets": {
       "dc": {
@@ -3636,9 +3619,9 @@
      "eid": 772795164,
      "tid": 1706694,
      "coupon": {
-      "1": "9T4B6",
-      "X": "B74B6",
-      "2": "274B6"
+      "1": "BD986",
+      "X": "GD986",
+      "2": "SD986"
      },
      "markets": {
       "dc": {

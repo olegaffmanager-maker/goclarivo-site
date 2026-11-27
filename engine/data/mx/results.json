@@ -1,67 +1,11 @@
 {
- "updated": "2026-11-27T01:59:49+00:00",
+ "updated": "2026-11-27T13:06:04+00:00",
  "backfilled": [
   2306111,
   1706694,
   125983
  ],
  "matches": [
-  {
-   "id": 664475455,
-   "tid": 2306111,
-   "tname": "México. Liga MX",
-   "home": "Atlas Guadalajara",
-   "away": "Leon",
-   "score": [
-    2,
-    0
-   ],
-   "detail": "2:0 (1:0,1:0)",
-   "start": 1761188400,
-   "group": "liga"
-  },
-  {
-   "id": 664475469,
-   "tid": 2306111,
-   "tname": "México. Liga MX",
-   "home": "FC Tijuana",
-   "away": "FC Toluca",
-   "score": [
-    0,
-    0
-   ],
-   "detail": "0:0 (0:0,0:0)",
-   "start": 1761188400,
-   "group": "liga"
-  },
-  {
-   "id": 664488612,
-   "tid": 2306111,
-   "tname": "México. Liga MX",
-   "home": "Atlas Guadalajara",
-   "away": "Leon",
-   "score": [
-    0,
-    0
-   ],
-   "detail": "0:0 (0:0)",
-   "start": 1761188400,
-   "group": "liga"
-  },
-  {
-   "id": 664477331,
-   "tid": 2306111,
-   "tname": "México. Liga MX",
-   "home": "Pumas UNAM",
-   "away": "Atletico San Luis",
-   "score": [
-    0,
-    1
-   ],
-   "detail": "0:1 (0:0,0:1)",
-   "start": 1761188700,
-   "group": "liga"
-  },
   {
    "id": 665039269,
    "tid": 2306111,
@@ -5436,6 +5380,34 @@
    ],
    "detail": "0:0 (0:0,0:0)",
    "start": 1795662600,
+   "group": "liga"
+  },
+  {
+   "id": 774452204,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Pachuca FC",
+   "away": "Guadalajara",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1795741200,
+   "group": "liga"
+  },
+  {
+   "id": 774471644,
+   "tid": 2306111,
+   "tname": "México. Liga MX",
+   "home": "Leon",
+   "away": "Cruz Azul",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:2,0:2)",
+   "start": 1795749000,
    "group": "liga"
   }
  ]

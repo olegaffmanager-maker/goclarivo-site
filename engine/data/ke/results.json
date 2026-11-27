@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T02:07:30+00:00",
+ "updated": "2026-11-27T13:13:21+00:00",
  "backfilled": [
   1706694,
   2905343,
@@ -8986,6 +8986,62 @@
    "group": "liga"
   },
   {
+   "id": 773742062,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kariobangi Sharks",
+   "away": "Fortune Sacco",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1795521600,
+   "group": "liga"
+  },
+  {
+   "id": 773740994,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "MOFA",
+   "away": "Nairobi City Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1795521600,
+   "group": "liga"
+  },
+  {
+   "id": 773570361,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "MOFA",
+   "away": "Nairobi City Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1795521600,
+   "group": "liga"
+  },
+  {
+   "id": 773741047,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Luanda Villa",
+   "away": "Equity",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:2,2:0)",
+   "start": 1795521600,
+   "group": "liga"
+  },
+  {
    "id": 773729486,
    "tid": 1174103,
    "tname": "Kenya. Premier League",
@@ -9067,6 +9123,48 @@
    ],
    "detail": "0:0 (0:0,0:0)",
    "start": 1795609800,
+   "group": "liga"
+  },
+  {
+   "id": 774296886,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Mara Sugar",
+   "away": "Kenya Police",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1795694400,
+   "group": "liga"
+  },
+  {
+   "id": 774296888,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Muranga Seal",
+   "away": "Kenya Commercial Bank SC",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:2,0:2)",
+   "start": 1795694400,
+   "group": "liga"
+  },
+  {
+   "id": 774347511,
+   "tid": 1174103,
+   "tname": "Kenya. Premier League",
+   "home": "Gor Mahia",
+   "away": "Mombasa United",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (3:0,0:0)",
+   "start": 1795708800,
    "group": "liga"
   }
  ]

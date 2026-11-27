@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T02:11:30+00:00",
+ "updated": "2026-11-27T13:16:39+00:00",
  "groups": [
   {
    "key": "liga",
@@ -11,9 +11,9 @@
      "away": "Chelsea",
      "start": 1795809600,
      "odds": {
-      "1": 2.553,
-      "X": 3.665,
-      "2": 2.849
+      "1": 2.407,
+      "X": 3.63,
+      "2": 3.08
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/449f7ee435140e62e75fb7268da87d8e.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/4d19a56f7c6e34c48f0f5e0f07bf9ac5.png",
@@ -21,23 +21,23 @@
      "eid": 774414529,
      "tid": 88637,
      "coupon": {
-      "1": "KBLB6",
-      "X": "MBLB6",
-      "2": "NBLB6"
+      "1": "LB3Y6",
+      "X": "7B3Y6",
+      "2": "DC3Y6"
      },
      "markets": {
       "dc": {
-       "1X": 1.482,
-       "12": 1.328,
-       "X2": 1.577
+       "1X": 1.426,
+       "12": 1.333,
+       "X2": 1.639
       },
       "ou25": {
-       "o": 1.913,
-       "u": 2.031
+       "o": 1.965,
+       "u": 1.975
       },
       "btts": {
-       "y": 1.65,
-       "n": 2.132
+       "y": 1.69,
+       "n": 2.066
       }
      },
      "stats": {
@@ -440,6 +440,439 @@
     },
     {
      "tournament": "England. Premier League",
+     "home": "Manchester United",
+     "away": "Brentford",
+     "start": 1795878000,
+     "odds": {
+      "1": 2.206,
+      "X": 4.005,
+      "2": 3.2
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/1996.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/d39e5e934e338e9802b4cbe851da4359.png",
+     "link": "https://1xlite-32085.pro/en/line/Football/88637-England-Premier-League/388054182-Manchester-United-Brentford",
+     "eid": 768907465,
+     "tid": 88637,
+     "coupon": {
+      "1": "QD3Y6",
+      "X": "TD3Y6",
+      "2": "XD3Y6"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.402,
+       "12": 1.289,
+       "X2": 1.747
+      },
+      "ou25": {
+       "o": 1.551,
+       "u": 2.439
+      },
+      "btts": {
+       "y": 1.46,
+       "n": 2.56
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1777316400,
+        "h": "Manchester United",
+        "a": "Brentford",
+        "s": [
+         2,
+         1
+        ],
+        "t": "England. Premier League",
+        "hh": true
+       },
+       {
+        "d": 1758972600,
+        "h": "Brentford",
+        "a": "Manchester United",
+        "s": [
+         3,
+         1
+        ],
+        "t": "England. Premier League",
+        "hh": false
+       },
+       {
+        "d": 1746363600,
+        "h": "Brentford",
+        "a": "Manchester United",
+        "s": [
+         4,
+         3
+        ],
+        "t": "England. Premier League",
+        "hh": false
+       },
+       {
+        "d": 1729346400,
+        "h": "Manchester United",
+        "a": "Brentford",
+        "s": [
+         2,
+         1
+        ],
+        "t": "England. Premier League",
+        "hh": true
+       },
+       {
+        "d": 1711828800,
+        "h": "Brentford",
+        "a": "Manchester United",
+        "s": [
+         1,
+         1
+        ],
+        "t": "England. Premier League",
+        "hh": false
+       },
+       {
+        "d": 1696687200,
+        "h": "Manchester United",
+        "a": "Brentford",
+        "s": [
+         2,
+         1
+        ],
+        "t": "England. Premier League",
+        "hh": true
+       },
+       {
+        "d": 1680721200,
+        "h": "Manchester United",
+        "a": "Brentford",
+        "s": [
+         1,
+         0
+        ],
+        "t": "England. Premier League",
+        "hh": true
+       },
+       {
+        "d": 1660408200,
+        "h": "Brentford",
+        "a": "Manchester United",
+        "s": [
+         4,
+         0
+        ],
+        "t": "England. Premier League",
+        "hh": false
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795636800,
+        "o": "Sporting Clube de Portugal",
+        "gf": 2,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1795365000,
+        "o": "Liverpool",
+        "gf": 0,
+        "ga": 4,
+        "dom": false
+       },
+       {
+        "d": 1794155400,
+        "o": "Aston Villa",
+        "gf": 4,
+        "ga": 4,
+        "dom": true
+       },
+       {
+        "d": 1793736000,
+        "o": "Roma",
+        "gf": 3,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1793449800,
+        "o": "Chelsea",
+        "gf": 0,
+        "ga": 2,
+        "dom": false
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795464000,
+        "o": "Everton",
+        "gf": 4,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1794146400,
+        "o": "Brighton & Hove Albion",
+        "gf": 0,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1793458800,
+        "o": "Nottingham Forest",
+        "gf": 2,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1793216700,
+        "o": "Sunderland",
+        "gf": 2,
+        "ga": 3,
+        "dom": false
+       },
+       {
+        "d": 1792936800,
+        "o": "Hull City",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       }
+      ]
+     },
+     "table": {
+      "title": "England. Premier League",
+      "group": "",
+      "rows": [
+       {
+        "pos": 1,
+        "team": "Arsenal",
+        "pj": 11,
+        "g": 9,
+        "p": 1,
+        "n": 1,
+        "bp": 17,
+        "bc": 7,
+        "pts": 28
+       },
+       {
+        "pos": 2,
+        "team": "Brighton & Hove Albion",
+        "pj": 11,
+        "g": 7,
+        "p": 3,
+        "n": 1,
+        "bp": 26,
+        "bc": 9,
+        "pts": 22
+       },
+       {
+        "pos": 3,
+        "team": "Manchester City",
+        "pj": 11,
+        "g": 7,
+        "p": 3,
+        "n": 1,
+        "bp": 22,
+        "bc": 14,
+        "pts": 22
+       },
+       {
+        "pos": 4,
+        "team": "Liverpool",
+        "pj": 11,
+        "g": 6,
+        "p": 2,
+        "n": 3,
+        "bp": 18,
+        "bc": 10,
+        "pts": 21
+       },
+       {
+        "pos": 5,
+        "team": "Bournemouth",
+        "pj": 11,
+        "g": 5,
+        "p": 3,
+        "n": 3,
+        "bp": 18,
+        "bc": 14,
+        "pts": 18
+       },
+       {
+        "pos": 6,
+        "team": "Brentford",
+        "pj": 11,
+        "g": 4,
+        "p": 2,
+        "n": 5,
+        "bp": 20,
+        "bc": 11,
+        "pts": 17
+       },
+       {
+        "pos": 7,
+        "team": "Leeds United",
+        "pj": 11,
+        "g": 4,
+        "p": 2,
+        "n": 5,
+        "bp": 14,
+        "bc": 9,
+        "pts": 17
+       },
+       {
+        "pos": 8,
+        "team": "Chelsea",
+        "pj": 11,
+        "g": 5,
+        "p": 5,
+        "n": 1,
+        "bp": 20,
+        "bc": 20,
+        "pts": 16
+       },
+       {
+        "pos": 9,
+        "team": "Everton",
+        "pj": 11,
+        "g": 4,
+        "p": 3,
+        "n": 4,
+        "bp": 12,
+        "bc": 14,
+        "pts": 16
+       },
+       {
+        "pos": 10,
+        "team": "Tottenham Hotspur",
+        "pj": 11,
+        "g": 4,
+        "p": 4,
+        "n": 3,
+        "bp": 12,
+        "bc": 11,
+        "pts": 15
+       },
+       {
+        "pos": 11,
+        "team": "Hull City",
+        "pj": 11,
+        "g": 3,
+        "p": 3,
+        "n": 5,
+        "bp": 13,
+        "bc": 11,
+        "pts": 14
+       },
+       {
+        "pos": 12,
+        "team": "Aston Villa",
+        "pj": 11,
+        "g": 3,
+        "p": 3,
+        "n": 5,
+        "bp": 14,
+        "bc": 17,
+        "pts": 14
+       },
+       {
+        "pos": 13,
+        "team": "Newcastle United",
+        "pj": 11,
+        "g": 3,
+        "p": 4,
+        "n": 4,
+        "bp": 15,
+        "bc": 18,
+        "pts": 13
+       },
+       {
+        "pos": 14,
+        "team": "Coventry City",
+        "pj": 11,
+        "g": 4,
+        "p": 7,
+        "n": 0,
+        "bp": 13,
+        "bc": 21,
+        "pts": 12
+       },
+       {
+        "pos": 15,
+        "team": "Fulham",
+        "pj": 11,
+        "g": 2,
+        "p": 4,
+        "n": 5,
+        "bp": 11,
+        "bc": 13,
+        "pts": 11
+       },
+       {
+        "pos": 16,
+        "team": "Ipswich Town",
+        "pj": 11,
+        "g": 3,
+        "p": 6,
+        "n": 2,
+        "bp": 15,
+        "bc": 22,
+        "pts": 11
+       },
+       {
+        "pos": 17,
+        "team": "Nottingham Forest",
+        "pj": 11,
+        "g": 2,
+        "p": 6,
+        "n": 3,
+        "bp": 9,
+        "bc": 15,
+        "pts": 9
+       },
+       {
+        "pos": 18,
+        "team": "Sunderland",
+        "pj": 11,
+        "g": 2,
+        "p": 6,
+        "n": 3,
+        "bp": 8,
+        "bc": 17,
+        "pts": 9
+       },
+       {
+        "pos": 19,
+        "team": "Manchester United",
+        "pj": 11,
+        "g": 1,
+        "p": 5,
+        "n": 5,
+        "bp": 14,
+        "bc": 23,
+        "pts": 8
+       },
+       {
+        "pos": 20,
+        "team": "Crystal Palace",
+        "pj": 11,
+        "g": 2,
+        "p": 8,
+        "n": 1,
+        "bp": 12,
+        "bc": 27,
+        "pts": 7
+       }
+      ],
+      "foot": [
+       "Promotion - Champions League (League stage)",
+       "Promotion - Europa League (League stage)",
+       "Relegation - Championship"
+      ]
+     }
+    },
+    {
+     "tournament": "England. Premier League",
      "home": "Leeds United",
      "away": "Coventry City",
      "start": 1795878000,
@@ -454,9 +887,9 @@
      "eid": 768915198,
      "tid": 88637,
      "coupon": {
-      "1": "ACLB6",
-      "X": "CCLB6",
-      "2": "ECLB6"
+      "1": "ME3Y6",
+      "X": "SE3Y6",
+      "2": "AF3Y6"
      },
      "markets": {
       "dc": {
@@ -873,446 +1306,13 @@
     },
     {
      "tournament": "England. Premier League",
-     "home": "Manchester United",
-     "away": "Brentford",
-     "start": 1795878000,
-     "odds": {
-      "1": 2.148,
-      "X": 4.005,
-      "2": 3.33
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/1996.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/d39e5e934e338e9802b4cbe851da4359.png",
-     "link": "https://1xlite-32085.pro/en/line/Football/88637-England-Premier-League/388054182-Manchester-United-Brentford",
-     "eid": 768907465,
-     "tid": 88637,
-     "coupon": {
-      "1": "GCLB6",
-      "X": "KCLB6",
-      "2": "MCLB6"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.379,
-       "12": 1.288,
-       "X2": 1.785
-      },
-      "ou25": {
-       "o": 1.558,
-       "u": 2.424
-      },
-      "btts": {
-       "y": 1.47,
-       "n": 2.529
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1777316400,
-        "h": "Manchester United",
-        "a": "Brentford",
-        "s": [
-         2,
-         1
-        ],
-        "t": "England. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1758972600,
-        "h": "Brentford",
-        "a": "Manchester United",
-        "s": [
-         3,
-         1
-        ],
-        "t": "England. Premier League",
-        "hh": false
-       },
-       {
-        "d": 1746363600,
-        "h": "Brentford",
-        "a": "Manchester United",
-        "s": [
-         4,
-         3
-        ],
-        "t": "England. Premier League",
-        "hh": false
-       },
-       {
-        "d": 1729346400,
-        "h": "Manchester United",
-        "a": "Brentford",
-        "s": [
-         2,
-         1
-        ],
-        "t": "England. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1711828800,
-        "h": "Brentford",
-        "a": "Manchester United",
-        "s": [
-         1,
-         1
-        ],
-        "t": "England. Premier League",
-        "hh": false
-       },
-       {
-        "d": 1696687200,
-        "h": "Manchester United",
-        "a": "Brentford",
-        "s": [
-         2,
-         1
-        ],
-        "t": "England. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1680721200,
-        "h": "Manchester United",
-        "a": "Brentford",
-        "s": [
-         1,
-         0
-        ],
-        "t": "England. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1660408200,
-        "h": "Brentford",
-        "a": "Manchester United",
-        "s": [
-         4,
-         0
-        ],
-        "t": "England. Premier League",
-        "hh": false
-       }
-      ],
-      "f1": [
-       {
-        "d": 1795636800,
-        "o": "Sporting Clube de Portugal",
-        "gf": 2,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1795365000,
-        "o": "Liverpool",
-        "gf": 0,
-        "ga": 4,
-        "dom": false
-       },
-       {
-        "d": 1794155400,
-        "o": "Aston Villa",
-        "gf": 4,
-        "ga": 4,
-        "dom": true
-       },
-       {
-        "d": 1793736000,
-        "o": "Roma",
-        "gf": 3,
-        "ga": 2,
-        "dom": true
-       },
-       {
-        "d": 1793449800,
-        "o": "Chelsea",
-        "gf": 0,
-        "ga": 2,
-        "dom": false
-       }
-      ],
-      "f2": [
-       {
-        "d": 1795464000,
-        "o": "Everton",
-        "gf": 4,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1794146400,
-        "o": "Brighton & Hove Albion",
-        "gf": 0,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1793458800,
-        "o": "Nottingham Forest",
-        "gf": 2,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1793216700,
-        "o": "Sunderland",
-        "gf": 2,
-        "ga": 3,
-        "dom": false
-       },
-       {
-        "d": 1792936800,
-        "o": "Hull City",
-        "gf": 1,
-        "ga": 1,
-        "dom": false
-       }
-      ]
-     },
-     "table": {
-      "title": "England. Premier League",
-      "group": "",
-      "rows": [
-       {
-        "pos": 1,
-        "team": "Arsenal",
-        "pj": 11,
-        "g": 9,
-        "p": 1,
-        "n": 1,
-        "bp": 17,
-        "bc": 7,
-        "pts": 28
-       },
-       {
-        "pos": 2,
-        "team": "Brighton & Hove Albion",
-        "pj": 11,
-        "g": 7,
-        "p": 3,
-        "n": 1,
-        "bp": 26,
-        "bc": 9,
-        "pts": 22
-       },
-       {
-        "pos": 3,
-        "team": "Manchester City",
-        "pj": 11,
-        "g": 7,
-        "p": 3,
-        "n": 1,
-        "bp": 22,
-        "bc": 14,
-        "pts": 22
-       },
-       {
-        "pos": 4,
-        "team": "Liverpool",
-        "pj": 11,
-        "g": 6,
-        "p": 2,
-        "n": 3,
-        "bp": 18,
-        "bc": 10,
-        "pts": 21
-       },
-       {
-        "pos": 5,
-        "team": "Bournemouth",
-        "pj": 11,
-        "g": 5,
-        "p": 3,
-        "n": 3,
-        "bp": 18,
-        "bc": 14,
-        "pts": 18
-       },
-       {
-        "pos": 6,
-        "team": "Brentford",
-        "pj": 11,
-        "g": 4,
-        "p": 2,
-        "n": 5,
-        "bp": 20,
-        "bc": 11,
-        "pts": 17
-       },
-       {
-        "pos": 7,
-        "team": "Leeds United",
-        "pj": 11,
-        "g": 4,
-        "p": 2,
-        "n": 5,
-        "bp": 14,
-        "bc": 9,
-        "pts": 17
-       },
-       {
-        "pos": 8,
-        "team": "Chelsea",
-        "pj": 11,
-        "g": 5,
-        "p": 5,
-        "n": 1,
-        "bp": 20,
-        "bc": 20,
-        "pts": 16
-       },
-       {
-        "pos": 9,
-        "team": "Everton",
-        "pj": 11,
-        "g": 4,
-        "p": 3,
-        "n": 4,
-        "bp": 12,
-        "bc": 14,
-        "pts": 16
-       },
-       {
-        "pos": 10,
-        "team": "Tottenham Hotspur",
-        "pj": 11,
-        "g": 4,
-        "p": 4,
-        "n": 3,
-        "bp": 12,
-        "bc": 11,
-        "pts": 15
-       },
-       {
-        "pos": 11,
-        "team": "Hull City",
-        "pj": 11,
-        "g": 3,
-        "p": 3,
-        "n": 5,
-        "bp": 13,
-        "bc": 11,
-        "pts": 14
-       },
-       {
-        "pos": 12,
-        "team": "Aston Villa",
-        "pj": 11,
-        "g": 3,
-        "p": 3,
-        "n": 5,
-        "bp": 14,
-        "bc": 17,
-        "pts": 14
-       },
-       {
-        "pos": 13,
-        "team": "Newcastle United",
-        "pj": 11,
-        "g": 3,
-        "p": 4,
-        "n": 4,
-        "bp": 15,
-        "bc": 18,
-        "pts": 13
-       },
-       {
-        "pos": 14,
-        "team": "Coventry City",
-        "pj": 11,
-        "g": 4,
-        "p": 7,
-        "n": 0,
-        "bp": 13,
-        "bc": 21,
-        "pts": 12
-       },
-       {
-        "pos": 15,
-        "team": "Fulham",
-        "pj": 11,
-        "g": 2,
-        "p": 4,
-        "n": 5,
-        "bp": 11,
-        "bc": 13,
-        "pts": 11
-       },
-       {
-        "pos": 16,
-        "team": "Ipswich Town",
-        "pj": 11,
-        "g": 3,
-        "p": 6,
-        "n": 2,
-        "bp": 15,
-        "bc": 22,
-        "pts": 11
-       },
-       {
-        "pos": 17,
-        "team": "Nottingham Forest",
-        "pj": 11,
-        "g": 2,
-        "p": 6,
-        "n": 3,
-        "bp": 9,
-        "bc": 15,
-        "pts": 9
-       },
-       {
-        "pos": 18,
-        "team": "Sunderland",
-        "pj": 11,
-        "g": 2,
-        "p": 6,
-        "n": 3,
-        "bp": 8,
-        "bc": 17,
-        "pts": 9
-       },
-       {
-        "pos": 19,
-        "team": "Manchester United",
-        "pj": 11,
-        "g": 1,
-        "p": 5,
-        "n": 5,
-        "bp": 14,
-        "bc": 23,
-        "pts": 8
-       },
-       {
-        "pos": 20,
-        "team": "Crystal Palace",
-        "pj": 11,
-        "g": 2,
-        "p": 8,
-        "n": 1,
-        "bp": 12,
-        "bc": 27,
-        "pts": 7
-       }
-      ],
-      "foot": [
-       "Promotion - Champions League (League stage)",
-       "Promotion - Europa League (League stage)",
-       "Relegation - Championship"
-      ]
-     }
-    },
-    {
-     "tournament": "England. Premier League",
      "home": "Ipswich Town",
      "away": "Aston Villa",
      "start": 1795887000,
      "odds": {
-      "1": 3.615,
-      "X": 4.085,
-      "2": 2.024
+      "1": 3.605,
+      "X": 4.11,
+      "2": 2.021
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/2050.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/1976.png",
@@ -1320,19 +1320,19 @@
      "eid": 768910071,
      "tid": 88637,
      "coupon": {
-      "1": "RCLB6",
-      "X": "TCLB6",
-      "2": "7CLB6"
+      "1": "PF3Y6",
+      "X": "TF3Y6",
+      "2": "9F3Y6"
      },
      "markets": {
       "dc": {
-       "1X": 1.881,
-       "12": 1.28,
-       "X2": 1.335
+       "1X": 1.884,
+       "12": 1.278,
+       "X2": 1.336
       },
       "ou25": {
-       "o": 1.537,
-       "u": 2.476
+       "o": 1.529,
+       "u": 2.497
       },
       "btts": {
        "y": 1.47,
@@ -1753,9 +1753,9 @@
      "eid": 768910068,
      "tid": 88637,
      "coupon": {
-      "1": "8CLB6",
-      "X": "YCLB6",
-      "2": "12LB6"
+      "1": "R33Y6",
+      "X": "933Y6",
+      "2": "FG3Y6"
      },
      "markets": {
       "dc": {
@@ -2172,446 +2172,13 @@
     },
     {
      "tournament": "England. Premier League",
-     "home": "Fulham",
-     "away": "Bournemouth",
-     "start": 1795961100,
-     "odds": {
-      "1": 2.764,
-      "X": 3.695,
-      "2": 2.61
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/1986.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/75a114bd51430104bf8ea357f7ce003e.png",
-     "link": "https://1xlite-32085.pro/en/line/Football/88637-England-Premier-League/388054192-Fulham-Bournemouth",
-     "eid": 768908936,
-     "tid": 88637,
-     "coupon": {
-      "1": "Q2LB6",
-      "X": "T2LB6",
-      "2": "V2LB6"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.556,
-       "12": 1.324,
-       "X2": 1.506
-      },
-      "ou25": {
-       "o": 1.845,
-       "u": 2.113
-      },
-      "btts": {
-       "y": 1.6,
-       "n": 2.22
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1778335200,
-        "h": "Fulham",
-        "a": "Bournemouth",
-        "s": [
-         0,
-         1
-        ],
-        "t": "England. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1759518000,
-        "h": "Bournemouth",
-        "a": "Fulham",
-        "s": [
-         3,
-         1
-        ],
-        "t": "England. Premier League",
-        "hh": false
-       },
-       {
-        "d": 1744646400,
-        "h": "Bournemouth",
-        "a": "Fulham",
-        "s": [
-         1,
-         0
-        ],
-        "t": "England. Premier League",
-        "hh": false
-       },
-       {
-        "d": 1735484400,
-        "h": "Fulham",
-        "a": "Bournemouth",
-        "s": [
-         2,
-         2
-        ],
-        "t": "England. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1707577200,
-        "h": "Fulham",
-        "a": "Bournemouth",
-        "s": [
-         3,
-         1
-        ],
-        "t": "England. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1703602800,
-        "h": "Bournemouth",
-        "a": "Fulham",
-        "s": [
-         3,
-         0
-        ],
-        "t": "England. Premier League",
-        "hh": false
-       },
-       {
-        "d": 1680357600,
-        "h": "Bournemouth",
-        "a": "Fulham",
-        "s": [
-         2,
-         1
-        ],
-        "t": "England. Premier League",
-        "hh": false
-       },
-       {
-        "d": 1665842400,
-        "h": "Fulham",
-        "a": "Bournemouth",
-        "s": [
-         2,
-         2
-        ],
-        "t": "England. Premier League",
-        "hh": true
-       }
-      ],
-      "f1": [
-       {
-        "d": 1795264200,
-        "o": "Manchester City",
-        "gf": 1,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1794063600,
-        "o": "Newcastle United",
-        "gf": 1,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1793476800,
-        "o": "Aston Villa",
-        "gf": 1,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1793216700,
-        "o": "Crystal Palace",
-        "gf": 0,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1792850400,
-        "o": "Coventry City",
-        "gf": 1,
-        "ga": 0,
-        "dom": false
-       }
-      ],
-      "f2": [
-       {
-        "d": 1795273200,
-        "o": "Nottingham Forest",
-        "gf": 2,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1794146400,
-        "o": "Ipswich Town",
-        "gf": 2,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1793900700,
-        "o": "AC Sparta Prague",
-        "gf": 3,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1793458800,
-        "o": "Leeds United",
-        "gf": 2,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1793216700,
-        "o": "Aston Villa",
-        "gf": 3,
-        "ga": 0,
-        "dom": true
-       }
-      ]
-     },
-     "table": {
-      "title": "England. Premier League",
-      "group": "",
-      "rows": [
-       {
-        "pos": 1,
-        "team": "Arsenal",
-        "pj": 11,
-        "g": 9,
-        "p": 1,
-        "n": 1,
-        "bp": 17,
-        "bc": 7,
-        "pts": 28
-       },
-       {
-        "pos": 2,
-        "team": "Brighton & Hove Albion",
-        "pj": 11,
-        "g": 7,
-        "p": 3,
-        "n": 1,
-        "bp": 26,
-        "bc": 9,
-        "pts": 22
-       },
-       {
-        "pos": 3,
-        "team": "Manchester City",
-        "pj": 11,
-        "g": 7,
-        "p": 3,
-        "n": 1,
-        "bp": 22,
-        "bc": 14,
-        "pts": 22
-       },
-       {
-        "pos": 4,
-        "team": "Liverpool",
-        "pj": 11,
-        "g": 6,
-        "p": 2,
-        "n": 3,
-        "bp": 18,
-        "bc": 10,
-        "pts": 21
-       },
-       {
-        "pos": 5,
-        "team": "Bournemouth",
-        "pj": 11,
-        "g": 5,
-        "p": 3,
-        "n": 3,
-        "bp": 18,
-        "bc": 14,
-        "pts": 18
-       },
-       {
-        "pos": 6,
-        "team": "Brentford",
-        "pj": 11,
-        "g": 4,
-        "p": 2,
-        "n": 5,
-        "bp": 20,
-        "bc": 11,
-        "pts": 17
-       },
-       {
-        "pos": 7,
-        "team": "Leeds United",
-        "pj": 11,
-        "g": 4,
-        "p": 2,
-        "n": 5,
-        "bp": 14,
-        "bc": 9,
-        "pts": 17
-       },
-       {
-        "pos": 8,
-        "team": "Chelsea",
-        "pj": 11,
-        "g": 5,
-        "p": 5,
-        "n": 1,
-        "bp": 20,
-        "bc": 20,
-        "pts": 16
-       },
-       {
-        "pos": 9,
-        "team": "Everton",
-        "pj": 11,
-        "g": 4,
-        "p": 3,
-        "n": 4,
-        "bp": 12,
-        "bc": 14,
-        "pts": 16
-       },
-       {
-        "pos": 10,
-        "team": "Tottenham Hotspur",
-        "pj": 11,
-        "g": 4,
-        "p": 4,
-        "n": 3,
-        "bp": 12,
-        "bc": 11,
-        "pts": 15
-       },
-       {
-        "pos": 11,
-        "team": "Hull City",
-        "pj": 11,
-        "g": 3,
-        "p": 3,
-        "n": 5,
-        "bp": 13,
-        "bc": 11,
-        "pts": 14
-       },
-       {
-        "pos": 12,
-        "team": "Aston Villa",
-        "pj": 11,
-        "g": 3,
-        "p": 3,
-        "n": 5,
-        "bp": 14,
-        "bc": 17,
-        "pts": 14
-       },
-       {
-        "pos": 13,
-        "team": "Newcastle United",
-        "pj": 11,
-        "g": 3,
-        "p": 4,
-        "n": 4,
-        "bp": 15,
-        "bc": 18,
-        "pts": 13
-       },
-       {
-        "pos": 14,
-        "team": "Coventry City",
-        "pj": 11,
-        "g": 4,
-        "p": 7,
-        "n": 0,
-        "bp": 13,
-        "bc": 21,
-        "pts": 12
-       },
-       {
-        "pos": 15,
-        "team": "Fulham",
-        "pj": 11,
-        "g": 2,
-        "p": 4,
-        "n": 5,
-        "bp": 11,
-        "bc": 13,
-        "pts": 11
-       },
-       {
-        "pos": 16,
-        "team": "Ipswich Town",
-        "pj": 11,
-        "g": 3,
-        "p": 6,
-        "n": 2,
-        "bp": 15,
-        "bc": 22,
-        "pts": 11
-       },
-       {
-        "pos": 17,
-        "team": "Nottingham Forest",
-        "pj": 11,
-        "g": 2,
-        "p": 6,
-        "n": 3,
-        "bp": 9,
-        "bc": 15,
-        "pts": 9
-       },
-       {
-        "pos": 18,
-        "team": "Sunderland",
-        "pj": 11,
-        "g": 2,
-        "p": 6,
-        "n": 3,
-        "bp": 8,
-        "bc": 17,
-        "pts": 9
-       },
-       {
-        "pos": 19,
-        "team": "Manchester United",
-        "pj": 11,
-        "g": 1,
-        "p": 5,
-        "n": 5,
-        "bp": 14,
-        "bc": 23,
-        "pts": 8
-       },
-       {
-        "pos": 20,
-        "team": "Crystal Palace",
-        "pj": 11,
-        "g": 2,
-        "p": 8,
-        "n": 1,
-        "bp": 12,
-        "bc": 27,
-        "pts": 7
-       }
-      ],
-      "foot": [
-       "Promotion - Champions League (League stage)",
-       "Promotion - Europa League (League stage)",
-       "Relegation - Championship"
-      ]
-     }
-    },
-    {
-     "tournament": "England. Premier League",
      "home": "Sunderland",
      "away": "Tottenham Hotspur",
      "start": 1795961100,
      "odds": {
-      "1": 3.655,
-      "X": 3.675,
-      "2": 2.127
+      "1": 3.865,
+      "X": 3.7,
+      "2": 2.056
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/2004.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/f43494e928135fba48f87940577011ef.png",
@@ -2619,23 +2186,23 @@
      "eid": 768905228,
      "tid": 88637,
      "coupon": {
-      "1": "1DLB6",
-      "X": "CDLB6",
-      "2": "EDLB6"
+      "1": "9H3Y6",
+      "X": "5J3Y6",
+      "2": "9J3Y6"
      },
      "markets": {
       "dc": {
-       "1X": 1.8,
-       "12": 1.326,
-       "X2": 1.329
+       "1X": 1.854,
+       "12": 1.324,
+       "X2": 1.304
       },
       "ou25": {
-       "o": 2.034,
-       "u": 1.91
+       "o": 2.05,
+       "u": 1.896
       },
       "btts": {
-       "y": 1.77,
-       "n": 1.961
+       "y": 1.78,
+       "n": 1.948
       }
      },
      "stats": {
@@ -3038,6 +2605,872 @@
     },
     {
      "tournament": "England. Premier League",
+     "home": "Brighton & Hove Albion",
+     "away": "Newcastle United",
+     "start": 1795961100,
+     "odds": {
+      "1": 1.592,
+      "X": 4.725,
+      "2": 5.7
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/2026.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/0bf42d98b2c9de5d475be0b765ddb81a.png",
+     "link": "https://1xlite-32085.pro/en/line/Football/88637-England-Premier-League/388054198-Brighton-&-Hove-Albion-Newcastle-United",
+     "eid": 768915194,
+     "tid": 88637,
+     "coupon": {
+      "1": "D53Y6",
+      "X": "M53Y6",
+      "2": "Y53Y6"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.176,
+       "12": 1.228,
+       "X2": 2.516
+      },
+      "ou25": {
+       "o": 1.537,
+       "u": 2.476
+      },
+      "btts": {
+       "y": 1.6,
+       "n": 2.22
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1777730400,
+        "h": "Newcastle United",
+        "a": "Brighton & Hove Albion",
+        "s": [
+         3,
+         1
+        ],
+        "t": "England. Premier League",
+        "hh": false
+       },
+       {
+        "d": 1760796000,
+        "h": "Brighton & Hove Albion",
+        "a": "Newcastle United",
+        "s": [
+         2,
+         1
+        ],
+        "t": "England. Premier League",
+        "hh": true
+       },
+       {
+        "d": 1746352800,
+        "h": "Brighton & Hove Albion",
+        "a": "Newcastle United",
+        "s": [
+         1,
+         1
+        ],
+        "t": "England. Premier League",
+        "hh": true
+       },
+       {
+        "d": 1740923100,
+        "h": "Newcastle United",
+        "a": "Brighton & Hove Albion",
+        "s": [
+         1,
+         2
+        ],
+        "t": "England. FA Cup",
+        "hh": false
+       },
+       {
+        "d": 1729346400,
+        "h": "Newcastle United",
+        "a": "Brighton & Hove Albion",
+        "s": [
+         0,
+         1
+        ],
+        "t": "England. Premier League",
+        "hh": false
+       },
+       {
+        "d": 1715436000,
+        "h": "Newcastle United",
+        "a": "Brighton & Hove Albion",
+        "s": [
+         1,
+         1
+        ],
+        "t": "England. Premier League",
+        "hh": false
+       },
+       {
+        "d": 1693672200,
+        "h": "Brighton & Hove Albion",
+        "a": "Newcastle United",
+        "s": [
+         3,
+         1
+        ],
+        "t": "England. Premier League",
+        "hh": true
+       },
+       {
+        "d": 1690587000,
+        "h": "Brighton & Hove Albion",
+        "a": "Newcastle United",
+        "s": [
+         1,
+         2
+        ],
+        "t": "Club Friendlies",
+        "hh": true
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795715100,
+        "o": "CS Universitatea Craiova",
+        "gf": 4,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1795356000,
+        "o": "Hull City",
+        "gf": 0,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1794146400,
+        "o": "Brentford",
+        "gf": 2,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1793908800,
+        "o": "Getafe",
+        "gf": 1,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1793458800,
+        "o": "Manchester City",
+        "gf": 1,
+        "ga": 0,
+        "dom": false
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795282200,
+        "o": "Arsenal",
+        "gf": 2,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1794063600,
+        "o": "Fulham",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1793649600,
+        "o": "Everton",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793303100,
+        "o": "Everton",
+        "gf": 1,
+        "ga": 3,
+        "dom": false
+       },
+       {
+        "d": 1792936800,
+        "o": "Crystal Palace",
+        "gf": 2,
+        "ga": 0,
+        "dom": false
+       }
+      ]
+     },
+     "table": {
+      "title": "England. Premier League",
+      "group": "",
+      "rows": [
+       {
+        "pos": 1,
+        "team": "Arsenal",
+        "pj": 11,
+        "g": 9,
+        "p": 1,
+        "n": 1,
+        "bp": 17,
+        "bc": 7,
+        "pts": 28
+       },
+       {
+        "pos": 2,
+        "team": "Brighton & Hove Albion",
+        "pj": 11,
+        "g": 7,
+        "p": 3,
+        "n": 1,
+        "bp": 26,
+        "bc": 9,
+        "pts": 22
+       },
+       {
+        "pos": 3,
+        "team": "Manchester City",
+        "pj": 11,
+        "g": 7,
+        "p": 3,
+        "n": 1,
+        "bp": 22,
+        "bc": 14,
+        "pts": 22
+       },
+       {
+        "pos": 4,
+        "team": "Liverpool",
+        "pj": 11,
+        "g": 6,
+        "p": 2,
+        "n": 3,
+        "bp": 18,
+        "bc": 10,
+        "pts": 21
+       },
+       {
+        "pos": 5,
+        "team": "Bournemouth",
+        "pj": 11,
+        "g": 5,
+        "p": 3,
+        "n": 3,
+        "bp": 18,
+        "bc": 14,
+        "pts": 18
+       },
+       {
+        "pos": 6,
+        "team": "Brentford",
+        "pj": 11,
+        "g": 4,
+        "p": 2,
+        "n": 5,
+        "bp": 20,
+        "bc": 11,
+        "pts": 17
+       },
+       {
+        "pos": 7,
+        "team": "Leeds United",
+        "pj": 11,
+        "g": 4,
+        "p": 2,
+        "n": 5,
+        "bp": 14,
+        "bc": 9,
+        "pts": 17
+       },
+       {
+        "pos": 8,
+        "team": "Chelsea",
+        "pj": 11,
+        "g": 5,
+        "p": 5,
+        "n": 1,
+        "bp": 20,
+        "bc": 20,
+        "pts": 16
+       },
+       {
+        "pos": 9,
+        "team": "Everton",
+        "pj": 11,
+        "g": 4,
+        "p": 3,
+        "n": 4,
+        "bp": 12,
+        "bc": 14,
+        "pts": 16
+       },
+       {
+        "pos": 10,
+        "team": "Tottenham Hotspur",
+        "pj": 11,
+        "g": 4,
+        "p": 4,
+        "n": 3,
+        "bp": 12,
+        "bc": 11,
+        "pts": 15
+       },
+       {
+        "pos": 11,
+        "team": "Hull City",
+        "pj": 11,
+        "g": 3,
+        "p": 3,
+        "n": 5,
+        "bp": 13,
+        "bc": 11,
+        "pts": 14
+       },
+       {
+        "pos": 12,
+        "team": "Aston Villa",
+        "pj": 11,
+        "g": 3,
+        "p": 3,
+        "n": 5,
+        "bp": 14,
+        "bc": 17,
+        "pts": 14
+       },
+       {
+        "pos": 13,
+        "team": "Newcastle United",
+        "pj": 11,
+        "g": 3,
+        "p": 4,
+        "n": 4,
+        "bp": 15,
+        "bc": 18,
+        "pts": 13
+       },
+       {
+        "pos": 14,
+        "team": "Coventry City",
+        "pj": 11,
+        "g": 4,
+        "p": 7,
+        "n": 0,
+        "bp": 13,
+        "bc": 21,
+        "pts": 12
+       },
+       {
+        "pos": 15,
+        "team": "Fulham",
+        "pj": 11,
+        "g": 2,
+        "p": 4,
+        "n": 5,
+        "bp": 11,
+        "bc": 13,
+        "pts": 11
+       },
+       {
+        "pos": 16,
+        "team": "Ipswich Town",
+        "pj": 11,
+        "g": 3,
+        "p": 6,
+        "n": 2,
+        "bp": 15,
+        "bc": 22,
+        "pts": 11
+       },
+       {
+        "pos": 17,
+        "team": "Nottingham Forest",
+        "pj": 11,
+        "g": 2,
+        "p": 6,
+        "n": 3,
+        "bp": 9,
+        "bc": 15,
+        "pts": 9
+       },
+       {
+        "pos": 18,
+        "team": "Sunderland",
+        "pj": 11,
+        "g": 2,
+        "p": 6,
+        "n": 3,
+        "bp": 8,
+        "bc": 17,
+        "pts": 9
+       },
+       {
+        "pos": 19,
+        "team": "Manchester United",
+        "pj": 11,
+        "g": 1,
+        "p": 5,
+        "n": 5,
+        "bp": 14,
+        "bc": 23,
+        "pts": 8
+       },
+       {
+        "pos": 20,
+        "team": "Crystal Palace",
+        "pj": 11,
+        "g": 2,
+        "p": 8,
+        "n": 1,
+        "bp": 12,
+        "bc": 27,
+        "pts": 7
+       }
+      ],
+      "foot": [
+       "Promotion - Champions League (League stage)",
+       "Promotion - Europa League (League stage)",
+       "Relegation - Championship"
+      ]
+     }
+    },
+    {
+     "tournament": "England. Premier League",
+     "home": "Fulham",
+     "away": "Bournemouth",
+     "start": 1795961100,
+     "odds": {
+      "1": 2.764,
+      "X": 3.695,
+      "2": 2.61
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/1986.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/75a114bd51430104bf8ea357f7ce003e.png",
+     "link": "https://1xlite-32085.pro/en/line/Football/88637-England-Premier-League/388054192-Fulham-Bournemouth",
+     "eid": 768908936,
+     "tid": 88637,
+     "coupon": {
+      "1": "5P3Y6",
+      "X": "VP3Y6",
+      "2": "BQ3Y6"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.556,
+       "12": 1.324,
+       "X2": 1.506
+      },
+      "ou25": {
+       "o": 1.845,
+       "u": 2.113
+      },
+      "btts": {
+       "y": 1.6,
+       "n": 2.22
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1778335200,
+        "h": "Fulham",
+        "a": "Bournemouth",
+        "s": [
+         0,
+         1
+        ],
+        "t": "England. Premier League",
+        "hh": true
+       },
+       {
+        "d": 1759518000,
+        "h": "Bournemouth",
+        "a": "Fulham",
+        "s": [
+         3,
+         1
+        ],
+        "t": "England. Premier League",
+        "hh": false
+       },
+       {
+        "d": 1744646400,
+        "h": "Bournemouth",
+        "a": "Fulham",
+        "s": [
+         1,
+         0
+        ],
+        "t": "England. Premier League",
+        "hh": false
+       },
+       {
+        "d": 1735484400,
+        "h": "Fulham",
+        "a": "Bournemouth",
+        "s": [
+         2,
+         2
+        ],
+        "t": "England. Premier League",
+        "hh": true
+       },
+       {
+        "d": 1707577200,
+        "h": "Fulham",
+        "a": "Bournemouth",
+        "s": [
+         3,
+         1
+        ],
+        "t": "England. Premier League",
+        "hh": true
+       },
+       {
+        "d": 1703602800,
+        "h": "Bournemouth",
+        "a": "Fulham",
+        "s": [
+         3,
+         0
+        ],
+        "t": "England. Premier League",
+        "hh": false
+       },
+       {
+        "d": 1680357600,
+        "h": "Bournemouth",
+        "a": "Fulham",
+        "s": [
+         2,
+         1
+        ],
+        "t": "England. Premier League",
+        "hh": false
+       },
+       {
+        "d": 1665842400,
+        "h": "Fulham",
+        "a": "Bournemouth",
+        "s": [
+         2,
+         2
+        ],
+        "t": "England. Premier League",
+        "hh": true
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795264200,
+        "o": "Manchester City",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1794063600,
+        "o": "Newcastle United",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793476800,
+        "o": "Aston Villa",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1793216700,
+        "o": "Crystal Palace",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1792850400,
+        "o": "Coventry City",
+        "gf": 1,
+        "ga": 0,
+        "dom": false
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795715100,
+        "o": "Celta",
+        "gf": 2,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1795273200,
+        "o": "Nottingham Forest",
+        "gf": 2,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1794146400,
+        "o": "Ipswich Town",
+        "gf": 2,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1793900700,
+        "o": "AC Sparta Prague",
+        "gf": 3,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1793458800,
+        "o": "Leeds United",
+        "gf": 2,
+        "ga": 0,
+        "dom": true
+       }
+      ]
+     },
+     "table": {
+      "title": "England. Premier League",
+      "group": "",
+      "rows": [
+       {
+        "pos": 1,
+        "team": "Arsenal",
+        "pj": 11,
+        "g": 9,
+        "p": 1,
+        "n": 1,
+        "bp": 17,
+        "bc": 7,
+        "pts": 28
+       },
+       {
+        "pos": 2,
+        "team": "Brighton & Hove Albion",
+        "pj": 11,
+        "g": 7,
+        "p": 3,
+        "n": 1,
+        "bp": 26,
+        "bc": 9,
+        "pts": 22
+       },
+       {
+        "pos": 3,
+        "team": "Manchester City",
+        "pj": 11,
+        "g": 7,
+        "p": 3,
+        "n": 1,
+        "bp": 22,
+        "bc": 14,
+        "pts": 22
+       },
+       {
+        "pos": 4,
+        "team": "Liverpool",
+        "pj": 11,
+        "g": 6,
+        "p": 2,
+        "n": 3,
+        "bp": 18,
+        "bc": 10,
+        "pts": 21
+       },
+       {
+        "pos": 5,
+        "team": "Bournemouth",
+        "pj": 11,
+        "g": 5,
+        "p": 3,
+        "n": 3,
+        "bp": 18,
+        "bc": 14,
+        "pts": 18
+       },
+       {
+        "pos": 6,
+        "team": "Brentford",
+        "pj": 11,
+        "g": 4,
+        "p": 2,
+        "n": 5,
+        "bp": 20,
+        "bc": 11,
+        "pts": 17
+       },
+       {
+        "pos": 7,
+        "team": "Leeds United",
+        "pj": 11,
+        "g": 4,
+        "p": 2,
+        "n": 5,
+        "bp": 14,
+        "bc": 9,
+        "pts": 17
+       },
+       {
+        "pos": 8,
+        "team": "Chelsea",
+        "pj": 11,
+        "g": 5,
+        "p": 5,
+        "n": 1,
+        "bp": 20,
+        "bc": 20,
+        "pts": 16
+       },
+       {
+        "pos": 9,
+        "team": "Everton",
+        "pj": 11,
+        "g": 4,
+        "p": 3,
+        "n": 4,
+        "bp": 12,
+        "bc": 14,
+        "pts": 16
+       },
+       {
+        "pos": 10,
+        "team": "Tottenham Hotspur",
+        "pj": 11,
+        "g": 4,
+        "p": 4,
+        "n": 3,
+        "bp": 12,
+        "bc": 11,
+        "pts": 15
+       },
+       {
+        "pos": 11,
+        "team": "Hull City",
+        "pj": 11,
+        "g": 3,
+        "p": 3,
+        "n": 5,
+        "bp": 13,
+        "bc": 11,
+        "pts": 14
+       },
+       {
+        "pos": 12,
+        "team": "Aston Villa",
+        "pj": 11,
+        "g": 3,
+        "p": 3,
+        "n": 5,
+        "bp": 14,
+        "bc": 17,
+        "pts": 14
+       },
+       {
+        "pos": 13,
+        "team": "Newcastle United",
+        "pj": 11,
+        "g": 3,
+        "p": 4,
+        "n": 4,
+        "bp": 15,
+        "bc": 18,
+        "pts": 13
+       },
+       {
+        "pos": 14,
+        "team": "Coventry City",
+        "pj": 11,
+        "g": 4,
+        "p": 7,
+        "n": 0,
+        "bp": 13,
+        "bc": 21,
+        "pts": 12
+       },
+       {
+        "pos": 15,
+        "team": "Fulham",
+        "pj": 11,
+        "g": 2,
+        "p": 4,
+        "n": 5,
+        "bp": 11,
+        "bc": 13,
+        "pts": 11
+       },
+       {
+        "pos": 16,
+        "team": "Ipswich Town",
+        "pj": 11,
+        "g": 3,
+        "p": 6,
+        "n": 2,
+        "bp": 15,
+        "bc": 22,
+        "pts": 11
+       },
+       {
+        "pos": 17,
+        "team": "Nottingham Forest",
+        "pj": 11,
+        "g": 2,
+        "p": 6,
+        "n": 3,
+        "bp": 9,
+        "bc": 15,
+        "pts": 9
+       },
+       {
+        "pos": 18,
+        "team": "Sunderland",
+        "pj": 11,
+        "g": 2,
+        "p": 6,
+        "n": 3,
+        "bp": 8,
+        "bc": 17,
+        "pts": 9
+       },
+       {
+        "pos": 19,
+        "team": "Manchester United",
+        "pj": 11,
+        "g": 1,
+        "p": 5,
+        "n": 5,
+        "bp": 14,
+        "bc": 23,
+        "pts": 8
+       },
+       {
+        "pos": 20,
+        "team": "Crystal Palace",
+        "pj": 11,
+        "g": 2,
+        "p": 8,
+        "n": 1,
+        "bp": 12,
+        "bc": 27,
+        "pts": 7
+       }
+      ],
+      "foot": [
+       "Promotion - Champions League (League stage)",
+       "Promotion - Europa League (League stage)",
+       "Relegation - Championship"
+      ]
+     }
+    },
+    {
+     "tournament": "England. Premier League",
      "home": "Crystal Palace",
      "away": "Hull City",
      "start": 1795961100,
@@ -3052,9 +3485,9 @@
      "eid": 768904631,
      "tid": 88637,
      "coupon": {
-      "1": "3DLB6",
-      "X": "HDLB6",
-      "2": "KDLB6"
+      "1": "C63Y6",
+      "X": "LR3Y6",
+      "2": "9R3Y6"
      },
      "markets": {
       "dc": {
@@ -3471,439 +3904,6 @@
     },
     {
      "tournament": "England. Premier League",
-     "home": "Brighton & Hove Albion",
-     "away": "Newcastle United",
-     "start": 1795961100,
-     "odds": {
-      "1": 1.592,
-      "X": 4.725,
-      "2": 5.7
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/2026.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/0bf42d98b2c9de5d475be0b765ddb81a.png",
-     "link": "https://1xlite-32085.pro/en/line/Football/88637-England-Premier-League/388054198-Brighton-&-Hove-Albion-Newcastle-United",
-     "eid": 768915194,
-     "tid": 88637,
-     "coupon": {
-      "1": "5DLB6",
-      "X": "PDLB6",
-      "2": "RDLB6"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.176,
-       "12": 1.228,
-       "X2": 2.516
-      },
-      "ou25": {
-       "o": 1.537,
-       "u": 2.476
-      },
-      "btts": {
-       "y": 1.6,
-       "n": 2.22
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1777730400,
-        "h": "Newcastle United",
-        "a": "Brighton & Hove Albion",
-        "s": [
-         3,
-         1
-        ],
-        "t": "England. Premier League",
-        "hh": false
-       },
-       {
-        "d": 1760796000,
-        "h": "Brighton & Hove Albion",
-        "a": "Newcastle United",
-        "s": [
-         2,
-         1
-        ],
-        "t": "England. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1746352800,
-        "h": "Brighton & Hove Albion",
-        "a": "Newcastle United",
-        "s": [
-         1,
-         1
-        ],
-        "t": "England. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1740923100,
-        "h": "Newcastle United",
-        "a": "Brighton & Hove Albion",
-        "s": [
-         1,
-         2
-        ],
-        "t": "England. FA Cup",
-        "hh": false
-       },
-       {
-        "d": 1729346400,
-        "h": "Newcastle United",
-        "a": "Brighton & Hove Albion",
-        "s": [
-         0,
-         1
-        ],
-        "t": "England. Premier League",
-        "hh": false
-       },
-       {
-        "d": 1715436000,
-        "h": "Newcastle United",
-        "a": "Brighton & Hove Albion",
-        "s": [
-         1,
-         1
-        ],
-        "t": "England. Premier League",
-        "hh": false
-       },
-       {
-        "d": 1693672200,
-        "h": "Brighton & Hove Albion",
-        "a": "Newcastle United",
-        "s": [
-         3,
-         1
-        ],
-        "t": "England. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1690587000,
-        "h": "Brighton & Hove Albion",
-        "a": "Newcastle United",
-        "s": [
-         1,
-         2
-        ],
-        "t": "Club Friendlies",
-        "hh": true
-       }
-      ],
-      "f1": [
-       {
-        "d": 1795356000,
-        "o": "Hull City",
-        "gf": 0,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1794146400,
-        "o": "Brentford",
-        "gf": 2,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1793908800,
-        "o": "Getafe",
-        "gf": 1,
-        "ga": 0,
-        "dom": false
-       },
-       {
-        "d": 1793458800,
-        "o": "Manchester City",
-        "gf": 1,
-        "ga": 0,
-        "dom": false
-       },
-       {
-        "d": 1793215800,
-        "o": "Manchester City",
-        "gf": 2,
-        "ga": 3,
-        "dom": false
-       }
-      ],
-      "f2": [
-       {
-        "d": 1795282200,
-        "o": "Arsenal",
-        "gf": 2,
-        "ga": 2,
-        "dom": true
-       },
-       {
-        "d": 1794063600,
-        "o": "Fulham",
-        "gf": 1,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1793649600,
-        "o": "Everton",
-        "gf": 0,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1793303100,
-        "o": "Everton",
-        "gf": 1,
-        "ga": 3,
-        "dom": false
-       },
-       {
-        "d": 1792936800,
-        "o": "Crystal Palace",
-        "gf": 2,
-        "ga": 0,
-        "dom": false
-       }
-      ]
-     },
-     "table": {
-      "title": "England. Premier League",
-      "group": "",
-      "rows": [
-       {
-        "pos": 1,
-        "team": "Arsenal",
-        "pj": 11,
-        "g": 9,
-        "p": 1,
-        "n": 1,
-        "bp": 17,
-        "bc": 7,
-        "pts": 28
-       },
-       {
-        "pos": 2,
-        "team": "Brighton & Hove Albion",
-        "pj": 11,
-        "g": 7,
-        "p": 3,
-        "n": 1,
-        "bp": 26,
-        "bc": 9,
-        "pts": 22
-       },
-       {
-        "pos": 3,
-        "team": "Manchester City",
-        "pj": 11,
-        "g": 7,
-        "p": 3,
-        "n": 1,
-        "bp": 22,
-        "bc": 14,
-        "pts": 22
-       },
-       {
-        "pos": 4,
-        "team": "Liverpool",
-        "pj": 11,
-        "g": 6,
-        "p": 2,
-        "n": 3,
-        "bp": 18,
-        "bc": 10,
-        "pts": 21
-       },
-       {
-        "pos": 5,
-        "team": "Bournemouth",
-        "pj": 11,
-        "g": 5,
-        "p": 3,
-        "n": 3,
-        "bp": 18,
-        "bc": 14,
-        "pts": 18
-       },
-       {
-        "pos": 6,
-        "team": "Brentford",
-        "pj": 11,
-        "g": 4,
-        "p": 2,
-        "n": 5,
-        "bp": 20,
-        "bc": 11,
-        "pts": 17
-       },
-       {
-        "pos": 7,
-        "team": "Leeds United",
-        "pj": 11,
-        "g": 4,
-        "p": 2,
-        "n": 5,
-        "bp": 14,
-        "bc": 9,
-        "pts": 17
-       },
-       {
-        "pos": 8,
-        "team": "Chelsea",
-        "pj": 11,
-        "g": 5,
-        "p": 5,
-        "n": 1,
-        "bp": 20,
-        "bc": 20,
-        "pts": 16
-       },
-       {
-        "pos": 9,
-        "team": "Everton",
-        "pj": 11,
-        "g": 4,
-        "p": 3,
-        "n": 4,
-        "bp": 12,
-        "bc": 14,
-        "pts": 16
-       },
-       {
-        "pos": 10,
-        "team": "Tottenham Hotspur",
-        "pj": 11,
-        "g": 4,
-        "p": 4,
-        "n": 3,
-        "bp": 12,
-        "bc": 11,
-        "pts": 15
-       },
-       {
-        "pos": 11,
-        "team": "Hull City",
-        "pj": 11,
-        "g": 3,
-        "p": 3,
-        "n": 5,
-        "bp": 13,
-        "bc": 11,
-        "pts": 14
-       },
-       {
-        "pos": 12,
-        "team": "Aston Villa",
-        "pj": 11,
-        "g": 3,
-        "p": 3,
-        "n": 5,
-        "bp": 14,
-        "bc": 17,
-        "pts": 14
-       },
-       {
-        "pos": 13,
-        "team": "Newcastle United",
-        "pj": 11,
-        "g": 3,
-        "p": 4,
-        "n": 4,
-        "bp": 15,
-        "bc": 18,
-        "pts": 13
-       },
-       {
-        "pos": 14,
-        "team": "Coventry City",
-        "pj": 11,
-        "g": 4,
-        "p": 7,
-        "n": 0,
-        "bp": 13,
-        "bc": 21,
-        "pts": 12
-       },
-       {
-        "pos": 15,
-        "team": "Fulham",
-        "pj": 11,
-        "g": 2,
-        "p": 4,
-        "n": 5,
-        "bp": 11,
-        "bc": 13,
-        "pts": 11
-       },
-       {
-        "pos": 16,
-        "team": "Ipswich Town",
-        "pj": 11,
-        "g": 3,
-        "p": 6,
-        "n": 2,
-        "bp": 15,
-        "bc": 22,
-        "pts": 11
-       },
-       {
-        "pos": 17,
-        "team": "Nottingham Forest",
-        "pj": 11,
-        "g": 2,
-        "p": 6,
-        "n": 3,
-        "bp": 9,
-        "bc": 15,
-        "pts": 9
-       },
-       {
-        "pos": 18,
-        "team": "Sunderland",
-        "pj": 11,
-        "g": 2,
-        "p": 6,
-        "n": 3,
-        "bp": 8,
-        "bc": 17,
-        "pts": 9
-       },
-       {
-        "pos": 19,
-        "team": "Manchester United",
-        "pj": 11,
-        "g": 1,
-        "p": 5,
-        "n": 5,
-        "bp": 14,
-        "bc": 23,
-        "pts": 8
-       },
-       {
-        "pos": 20,
-        "team": "Crystal Palace",
-        "pj": 11,
-        "g": 2,
-        "p": 8,
-        "n": 1,
-        "bp": 12,
-        "bc": 27,
-        "pts": 7
-       }
-      ],
-      "foot": [
-       "Promotion - Champions League (League stage)",
-       "Promotion - Europa League (League stage)",
-       "Relegation - Championship"
-      ]
-     }
-    },
-    {
-     "tournament": "England. Premier League",
      "home": "Arsenal",
      "away": "Manchester City",
      "start": 1795969800,
@@ -3918,9 +3918,9 @@
      "eid": 774414523,
      "tid": 88637,
      "coupon": {
-      "1": "8DLB6",
-      "X": "9DLB6",
-      "2": "BELB6"
+      "1": "ET3Y6",
+      "X": "NT3Y6",
+      "2": "RT3Y6"
      },
      "markets": {
       "dc": {
@@ -4351,9 +4351,9 @@
      "eid": 773078017,
      "tid": 88637,
      "coupon": {
-      "1": "KELB6",
-      "X": "MELB6",
-      "2": "PELB6"
+      "1": "JV3Y6",
+      "X": "P83Y6",
+      "2": "AY3Y6"
      },
      "markets": {
       "dc": {
@@ -4770,439 +4770,6 @@
     },
     {
      "tournament": "England. Premier League",
-     "home": "Manchester City",
-     "away": "Leeds United",
-     "start": 1796239800,
-     "odds": {
-      "1": 1.604,
-      "X": 4.52,
-      "2": 5.86
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/57060f6368da70fbdfff37cb4b0280a5.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/8dafff7a4bc7ae83eb47335fae1bd0e9.png",
-     "link": "https://1xlite-32085.pro/en/line/Football/88637-England-Premier-League/396582852-Manchester-City-Leeds-United",
-     "eid": 773078003,
-     "tid": 88637,
-     "coupon": {
-      "1": "LFLB6",
-      "X": "NFLB6",
-      "2": "QFLB6"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.17,
-       "12": 1.243,
-       "X2": 2.487
-      },
-      "ou25": {
-       "o": 1.67,
-       "u": 2.402
-      },
-      "btts": {
-       "y": 1.666,
-       "n": 2.106
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1772299800,
-        "h": "Leeds United",
-        "a": "Manchester City",
-        "s": [
-         0,
-         1
-        ],
-        "t": "England. Premier League",
-        "hh": false
-       },
-       {
-        "d": 1764428400,
-        "h": "Manchester City",
-        "a": "Leeds United",
-        "s": [
-         3,
-         2
-        ],
-        "t": "England. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1683381600,
-        "h": "Manchester City",
-        "a": "Leeds United",
-        "s": [
-         2,
-         1
-        ],
-        "t": "England. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1672257600,
-        "h": "Leeds United",
-        "a": "Manchester City",
-        "s": [
-         1,
-         3
-        ],
-        "t": "England. Premier League",
-        "hh": false
-       },
-       {
-        "d": 1651336200,
-        "h": "Leeds United",
-        "a": "Manchester City",
-        "s": [
-         0,
-         4
-        ],
-        "t": "England. Premier League",
-        "hh": false
-       },
-       {
-        "d": 1639512000,
-        "h": "Manchester City",
-        "a": "Leeds United",
-        "s": [
-         7,
-         0
-        ],
-        "t": "England. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1618054200,
-        "h": "Manchester City",
-        "a": "Leeds United",
-        "s": [
-         1,
-         2
-        ],
-        "t": "England. Premier League",
-        "hh": true
-       },
-       {
-        "d": 1601742600,
-        "h": "Leeds United",
-        "a": "Manchester City",
-        "s": [
-         1,
-         1
-        ],
-        "t": "England. Premier League",
-        "hh": false
-       }
-      ],
-      "f1": [
-       {
-        "d": 1795550400,
-        "o": "Napoli",
-        "gf": 2,
-        "ga": 2,
-        "dom": true
-       },
-       {
-        "d": 1795264200,
-        "o": "Fulham",
-        "gf": 1,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1794072600,
-        "o": "Nottingham Forest",
-        "gf": 1,
-        "ga": 3,
-        "dom": false
-       },
-       {
-        "d": 1793822400,
-        "o": "RasenBallsport Leipzig",
-        "gf": 3,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1793458800,
-        "o": "Brighton & Hove Albion",
-        "gf": 0,
-        "ga": 1,
-        "dom": true
-       }
-      ],
-      "f2": [
-       {
-        "d": 1795273200,
-        "o": "Chelsea",
-        "gf": 4,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1794054600,
-        "o": "Tottenham Hotspur",
-        "gf": 1,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1793458800,
-        "o": "Bournemouth",
-        "gf": 0,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1792945800,
-        "o": "Sunderland",
-        "gf": 0,
-        "ga": 0,
-        "dom": false
-       },
-       {
-        "d": 1792328400,
-        "o": "Manchester United",
-        "gf": 1,
-        "ga": 1,
-        "dom": true
-       }
-      ]
-     },
-     "table": {
-      "title": "England. Premier League",
-      "group": "",
-      "rows": [
-       {
-        "pos": 1,
-        "team": "Arsenal",
-        "pj": 11,
-        "g": 9,
-        "p": 1,
-        "n": 1,
-        "bp": 17,
-        "bc": 7,
-        "pts": 28
-       },
-       {
-        "pos": 2,
-        "team": "Brighton & Hove Albion",
-        "pj": 11,
-        "g": 7,
-        "p": 3,
-        "n": 1,
-        "bp": 26,
-        "bc": 9,
-        "pts": 22
-       },
-       {
-        "pos": 3,
-        "team": "Manchester City",
-        "pj": 11,
-        "g": 7,
-        "p": 3,
-        "n": 1,
-        "bp": 22,
-        "bc": 14,
-        "pts": 22
-       },
-       {
-        "pos": 4,
-        "team": "Liverpool",
-        "pj": 11,
-        "g": 6,
-        "p": 2,
-        "n": 3,
-        "bp": 18,
-        "bc": 10,
-        "pts": 21
-       },
-       {
-        "pos": 5,
-        "team": "Bournemouth",
-        "pj": 11,
-        "g": 5,
-        "p": 3,
-        "n": 3,
-        "bp": 18,
-        "bc": 14,
-        "pts": 18
-       },
-       {
-        "pos": 6,
-        "team": "Brentford",
-        "pj": 11,
-        "g": 4,
-        "p": 2,
-        "n": 5,
-        "bp": 20,
-        "bc": 11,
-        "pts": 17
-       },
-       {
-        "pos": 7,
-        "team": "Leeds United",
-        "pj": 11,
-        "g": 4,
-        "p": 2,
-        "n": 5,
-        "bp": 14,
-        "bc": 9,
-        "pts": 17
-       },
-       {
-        "pos": 8,
-        "team": "Chelsea",
-        "pj": 11,
-        "g": 5,
-        "p": 5,
-        "n": 1,
-        "bp": 20,
-        "bc": 20,
-        "pts": 16
-       },
-       {
-        "pos": 9,
-        "team": "Everton",
-        "pj": 11,
-        "g": 4,
-        "p": 3,
-        "n": 4,
-        "bp": 12,
-        "bc": 14,
-        "pts": 16
-       },
-       {
-        "pos": 10,
-        "team": "Tottenham Hotspur",
-        "pj": 11,
-        "g": 4,
-        "p": 4,
-        "n": 3,
-        "bp": 12,
-        "bc": 11,
-        "pts": 15
-       },
-       {
-        "pos": 11,
-        "team": "Hull City",
-        "pj": 11,
-        "g": 3,
-        "p": 3,
-        "n": 5,
-        "bp": 13,
-        "bc": 11,
-        "pts": 14
-       },
-       {
-        "pos": 12,
-        "team": "Aston Villa",
-        "pj": 11,
-        "g": 3,
-        "p": 3,
-        "n": 5,
-        "bp": 14,
-        "bc": 17,
-        "pts": 14
-       },
-       {
-        "pos": 13,
-        "team": "Newcastle United",
-        "pj": 11,
-        "g": 3,
-        "p": 4,
-        "n": 4,
-        "bp": 15,
-        "bc": 18,
-        "pts": 13
-       },
-       {
-        "pos": 14,
-        "team": "Coventry City",
-        "pj": 11,
-        "g": 4,
-        "p": 7,
-        "n": 0,
-        "bp": 13,
-        "bc": 21,
-        "pts": 12
-       },
-       {
-        "pos": 15,
-        "team": "Fulham",
-        "pj": 11,
-        "g": 2,
-        "p": 4,
-        "n": 5,
-        "bp": 11,
-        "bc": 13,
-        "pts": 11
-       },
-       {
-        "pos": 16,
-        "team": "Ipswich Town",
-        "pj": 11,
-        "g": 3,
-        "p": 6,
-        "n": 2,
-        "bp": 15,
-        "bc": 22,
-        "pts": 11
-       },
-       {
-        "pos": 17,
-        "team": "Nottingham Forest",
-        "pj": 11,
-        "g": 2,
-        "p": 6,
-        "n": 3,
-        "bp": 9,
-        "bc": 15,
-        "pts": 9
-       },
-       {
-        "pos": 18,
-        "team": "Sunderland",
-        "pj": 11,
-        "g": 2,
-        "p": 6,
-        "n": 3,
-        "bp": 8,
-        "bc": 17,
-        "pts": 9
-       },
-       {
-        "pos": 19,
-        "team": "Manchester United",
-        "pj": 11,
-        "g": 1,
-        "p": 5,
-        "n": 5,
-        "bp": 14,
-        "bc": 23,
-        "pts": 8
-       },
-       {
-        "pos": 20,
-        "team": "Crystal Palace",
-        "pj": 11,
-        "g": 2,
-        "p": 8,
-        "n": 1,
-        "bp": 12,
-        "bc": 27,
-        "pts": 7
-       }
-      ],
-      "foot": [
-       "Promotion - Champions League (League stage)",
-       "Promotion - Europa League (League stage)",
-       "Relegation - Championship"
-      ]
-     }
-    },
-    {
-     "tournament": "England. Premier League",
      "home": "Chelsea",
      "away": "Crystal Palace",
      "start": 1796239800,
@@ -5217,9 +4784,9 @@
      "eid": 773077487,
      "tid": 88637,
      "coupon": {
-      "1": "XFLB6",
-      "X": "YFLB6",
-      "2": "9FLB6"
+      "1": "YBGY6",
+      "X": "DCGY6",
+      "2": "6CGY6"
      },
      "markets": {
       "dc": {
@@ -5636,6 +5203,438 @@
     },
     {
      "tournament": "England. Premier League",
+     "home": "Manchester City",
+     "away": "Leeds United",
+     "start": 1796239800,
+     "odds": {
+      "1": 1.604,
+      "X": 4.52,
+      "2": 5.86
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/57060f6368da70fbdfff37cb4b0280a5.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/8dafff7a4bc7ae83eb47335fae1bd0e9.png",
+     "link": "https://1xlite-32085.pro/en/line/Football/88637-England-Premier-League/396582852-Manchester-City-Leeds-United",
+     "eid": 773078003,
+     "tid": 88637,
+     "coupon": {
+      "1": "7DGY6",
+      "2": "BFGY6"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.17,
+       "12": 1.243,
+       "X2": 2.487
+      },
+      "ou25": {
+       "o": 1.67,
+       "u": 2.402
+      },
+      "btts": {
+       "y": 1.666,
+       "n": 2.106
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1772299800,
+        "h": "Leeds United",
+        "a": "Manchester City",
+        "s": [
+         0,
+         1
+        ],
+        "t": "England. Premier League",
+        "hh": false
+       },
+       {
+        "d": 1764428400,
+        "h": "Manchester City",
+        "a": "Leeds United",
+        "s": [
+         3,
+         2
+        ],
+        "t": "England. Premier League",
+        "hh": true
+       },
+       {
+        "d": 1683381600,
+        "h": "Manchester City",
+        "a": "Leeds United",
+        "s": [
+         2,
+         1
+        ],
+        "t": "England. Premier League",
+        "hh": true
+       },
+       {
+        "d": 1672257600,
+        "h": "Leeds United",
+        "a": "Manchester City",
+        "s": [
+         1,
+         3
+        ],
+        "t": "England. Premier League",
+        "hh": false
+       },
+       {
+        "d": 1651336200,
+        "h": "Leeds United",
+        "a": "Manchester City",
+        "s": [
+         0,
+         4
+        ],
+        "t": "England. Premier League",
+        "hh": false
+       },
+       {
+        "d": 1639512000,
+        "h": "Manchester City",
+        "a": "Leeds United",
+        "s": [
+         7,
+         0
+        ],
+        "t": "England. Premier League",
+        "hh": true
+       },
+       {
+        "d": 1618054200,
+        "h": "Manchester City",
+        "a": "Leeds United",
+        "s": [
+         1,
+         2
+        ],
+        "t": "England. Premier League",
+        "hh": true
+       },
+       {
+        "d": 1601742600,
+        "h": "Leeds United",
+        "a": "Manchester City",
+        "s": [
+         1,
+         1
+        ],
+        "t": "England. Premier League",
+        "hh": false
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795550400,
+        "o": "Napoli",
+        "gf": 2,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1795264200,
+        "o": "Fulham",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1794072600,
+        "o": "Nottingham Forest",
+        "gf": 1,
+        "ga": 3,
+        "dom": false
+       },
+       {
+        "d": 1793822400,
+        "o": "RasenBallsport Leipzig",
+        "gf": 3,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1793458800,
+        "o": "Brighton & Hove Albion",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795273200,
+        "o": "Chelsea",
+        "gf": 4,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1794054600,
+        "o": "Tottenham Hotspur",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1793458800,
+        "o": "Bournemouth",
+        "gf": 0,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1792945800,
+        "o": "Sunderland",
+        "gf": 0,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1792328400,
+        "o": "Manchester United",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       }
+      ]
+     },
+     "table": {
+      "title": "England. Premier League",
+      "group": "",
+      "rows": [
+       {
+        "pos": 1,
+        "team": "Arsenal",
+        "pj": 11,
+        "g": 9,
+        "p": 1,
+        "n": 1,
+        "bp": 17,
+        "bc": 7,
+        "pts": 28
+       },
+       {
+        "pos": 2,
+        "team": "Brighton & Hove Albion",
+        "pj": 11,
+        "g": 7,
+        "p": 3,
+        "n": 1,
+        "bp": 26,
+        "bc": 9,
+        "pts": 22
+       },
+       {
+        "pos": 3,
+        "team": "Manchester City",
+        "pj": 11,
+        "g": 7,
+        "p": 3,
+        "n": 1,
+        "bp": 22,
+        "bc": 14,
+        "pts": 22
+       },
+       {
+        "pos": 4,
+        "team": "Liverpool",
+        "pj": 11,
+        "g": 6,
+        "p": 2,
+        "n": 3,
+        "bp": 18,
+        "bc": 10,
+        "pts": 21
+       },
+       {
+        "pos": 5,
+        "team": "Bournemouth",
+        "pj": 11,
+        "g": 5,
+        "p": 3,
+        "n": 3,
+        "bp": 18,
+        "bc": 14,
+        "pts": 18
+       },
+       {
+        "pos": 6,
+        "team": "Brentford",
+        "pj": 11,
+        "g": 4,
+        "p": 2,
+        "n": 5,
+        "bp": 20,
+        "bc": 11,
+        "pts": 17
+       },
+       {
+        "pos": 7,
+        "team": "Leeds United",
+        "pj": 11,
+        "g": 4,
+        "p": 2,
+        "n": 5,
+        "bp": 14,
+        "bc": 9,
+        "pts": 17
+       },
+       {
+        "pos": 8,
+        "team": "Chelsea",
+        "pj": 11,
+        "g": 5,
+        "p": 5,
+        "n": 1,
+        "bp": 20,
+        "bc": 20,
+        "pts": 16
+       },
+       {
+        "pos": 9,
+        "team": "Everton",
+        "pj": 11,
+        "g": 4,
+        "p": 3,
+        "n": 4,
+        "bp": 12,
+        "bc": 14,
+        "pts": 16
+       },
+       {
+        "pos": 10,
+        "team": "Tottenham Hotspur",
+        "pj": 11,
+        "g": 4,
+        "p": 4,
+        "n": 3,
+        "bp": 12,
+        "bc": 11,
+        "pts": 15
+       },
+       {
+        "pos": 11,
+        "team": "Hull City",
+        "pj": 11,
+        "g": 3,
+        "p": 3,
+        "n": 5,
+        "bp": 13,
+        "bc": 11,
+        "pts": 14
+       },
+       {
+        "pos": 12,
+        "team": "Aston Villa",
+        "pj": 11,
+        "g": 3,
+        "p": 3,
+        "n": 5,
+        "bp": 14,
+        "bc": 17,
+        "pts": 14
+       },
+       {
+        "pos": 13,
+        "team": "Newcastle United",
+        "pj": 11,
+        "g": 3,
+        "p": 4,
+        "n": 4,
+        "bp": 15,
+        "bc": 18,
+        "pts": 13
+       },
+       {
+        "pos": 14,
+        "team": "Coventry City",
+        "pj": 11,
+        "g": 4,
+        "p": 7,
+        "n": 0,
+        "bp": 13,
+        "bc": 21,
+        "pts": 12
+       },
+       {
+        "pos": 15,
+        "team": "Fulham",
+        "pj": 11,
+        "g": 2,
+        "p": 4,
+        "n": 5,
+        "bp": 11,
+        "bc": 13,
+        "pts": 11
+       },
+       {
+        "pos": 16,
+        "team": "Ipswich Town",
+        "pj": 11,
+        "g": 3,
+        "p": 6,
+        "n": 2,
+        "bp": 15,
+        "bc": 22,
+        "pts": 11
+       },
+       {
+        "pos": 17,
+        "team": "Nottingham Forest",
+        "pj": 11,
+        "g": 2,
+        "p": 6,
+        "n": 3,
+        "bp": 9,
+        "bc": 15,
+        "pts": 9
+       },
+       {
+        "pos": 18,
+        "team": "Sunderland",
+        "pj": 11,
+        "g": 2,
+        "p": 6,
+        "n": 3,
+        "bp": 8,
+        "bc": 17,
+        "pts": 9
+       },
+       {
+        "pos": 19,
+        "team": "Manchester United",
+        "pj": 11,
+        "g": 1,
+        "p": 5,
+        "n": 5,
+        "bp": 14,
+        "bc": 23,
+        "pts": 8
+       },
+       {
+        "pos": 20,
+        "team": "Crystal Palace",
+        "pj": 11,
+        "g": 2,
+        "p": 8,
+        "n": 1,
+        "bp": 12,
+        "bc": 27,
+        "pts": 7
+       }
+      ],
+      "foot": [
+       "Promotion - Champions League (League stage)",
+       "Promotion - Europa League (League stage)",
+       "Relegation - Championship"
+      ]
+     }
+    },
+    {
+     "tournament": "England. Premier League",
      "home": "Liverpool",
      "away": "Sunderland",
      "start": 1796239800,
@@ -5650,9 +5649,8 @@
      "eid": 773069822,
      "tid": 88637,
      "coupon": {
-      "1": "D3LB6",
-      "X": "F3LB6",
-      "2": "G3LB6"
+      "1": "N3GY6",
+      "X": "Z3GY6"
      },
      "markets": {
       "dc": {
@@ -6083,9 +6081,8 @@
      "eid": 773057939,
      "tid": 88637,
      "coupon": {
-      "1": "K3LB6",
-      "X": "Q3LB6",
-      "2": "T3LB6"
+      "1": "ZHGY6",
+      "X": "GJGY6"
      },
      "markets": {
       "dc": {
@@ -6516,9 +6513,8 @@
      "eid": 773078013,
      "tid": 88637,
      "coupon": {
-      "1": "X3LB6",
-      "X": "BGLB6",
-      "2": "LGLB6"
+      "1": "ZLGY6",
+      "2": "15GY6"
      },
      "markets": {
       "dc": {
@@ -6949,9 +6945,7 @@
      "eid": 773078007,
      "tid": 88637,
      "coupon": {
-      "1": "TGLB6",
-      "X": "DHLB6",
-      "2": "3HLB6"
+      "1": "5NGY6"
      },
      "markets": {
       "dc": {
@@ -7382,9 +7376,7 @@
      "eid": 773077490,
      "tid": 88637,
      "coupon": {
-      "1": "9HLB6",
-      "X": "CJLB6",
-      "2": "FJLB6"
+      "1": "BQGY6"
      },
      "markets": {
       "dc": {
@@ -7815,9 +7807,9 @@
      "eid": 773078010,
      "tid": 88637,
      "coupon": {
-      "1": "MJLB6",
-      "X": "NJLB6",
-      "2": "6JLB6"
+      "1": "4RGY6",
+      "X": "PRGY6",
+      "2": "VRGY6"
      },
      "markets": {
       "dc": {
@@ -8248,9 +8240,9 @@
      "eid": 773057942,
      "tid": 88637,
      "coupon": {
-      "1": "8JLB6",
-      "X": "YJLB6",
-      "2": "B4LB6"
+      "1": "NSGY6",
+      "X": "XSGY6",
+      "2": "9SGY6"
      },
      "markets": {
       "dc": {

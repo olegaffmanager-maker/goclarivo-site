@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T02:05:14+00:00",
+ "updated": "2026-11-27T13:10:08+00:00",
  "groups": [
   {
    "key": "liga",
@@ -11,9 +11,9 @@
      "away": "Club Rubio Nu",
      "start": 1795811400,
      "odds": {
-      "1": 1.672,
-      "X": 3.7,
-      "2": 4.965
+      "1": 1.642,
+      "X": 3.89,
+      "2": 4.915
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/13869.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/1de3bb5d2e1e2872bc2e3373dffb5a16.png",
@@ -21,23 +21,22 @@
      "eid": 773650667,
      "tid": 55479,
      "coupon": {
-      "1": "D24B6",
-      "X": "E24B6",
-      "2": "324B6"
+      "X": "TDX86",
+      "2": "EEX86"
      },
      "markets": {
       "dc": {
-       "1X": 1.144,
-       "12": 1.242,
-       "X2": 2.095
+       "1X": 1.147,
+       "12": 1.222,
+       "X2": 2.145
       },
       "ou25": {
-       "o": 1.992,
-       "u": 1.762
+       "o": 1.815,
+       "u": 1.928
       },
       "btts": {
-       "y": 1.92,
-       "n": 1.774
+       "y": 1.8,
+       "n": 1.888
       }
      },
      "stats": {
@@ -213,33 +212,28 @@
      "away": "Club Olimpia",
      "start": 1795820400,
      "odds": {
-      "1": 4.33,
-      "X": 4.225,
-      "2": 1.66
+      "1": 4.44,
+      "X": 4.125,
+      "2": 1.661
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/65ea19b1e953a546421a581d06629619.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/e3650f3cc0c84333b4ee1a24c5c7ebf3.png",
      "link": "https://1xlite-32085.pro/es/line/Football/55479-Paraguay-Primera-Division/397001077-Sportivo-Luqueno-Club-Olimpia",
      "eid": 773650649,
      "tid": 55479,
-     "coupon": {
-      "1": "524B6",
-      "X": "624B6",
-      "2": "T24B6"
-     },
      "markets": {
       "dc": {
-       "1X": 2.114,
-       "12": 1.192,
-       "X2": 1.184
+       "1X": 2.113,
+       "12": 1.2,
+       "X2": 1.176
       },
       "ou25": {
        "o": 1.684,
        "u": 2.102
       },
       "btts": {
-       "y": 1.666,
-       "n": 2.063
+       "y": 1.67,
+       "n": 2.053
       }
      },
      "stats": {
@@ -424,11 +418,6 @@
      "link": "https://1xlite-32085.pro/es/line/Football/55479-Paraguay-Primera-Division/397000943-Sportivo-Trinidense-Recoleta",
      "eid": 773650658,
      "tid": 55479,
-     "coupon": {
-      "1": "X24B6",
-      "X": "Y24B6",
-      "2": "Z24B6"
-     },
      "markets": {
       "dc": {
        "1X": 1.09,
@@ -616,9 +605,9 @@
      "eid": 773650664,
      "tid": 55479,
      "coupon": {
-      "1": "AD4B6",
-      "X": "CD4B6",
-      "2": "2D4B6"
+      "1": "94X86",
+      "X": "EKX86",
+      "2": "LKX86"
      },
      "markets": {
       "dc": {
@@ -818,9 +807,8 @@
      "eid": 773650652,
      "tid": 55479,
      "coupon": {
-      "1": "TD4B6",
-      "X": "VD4B6",
-      "2": "8D4B6"
+      "1": "JLX86",
+      "2": "KMX86"
      },
      "markets": {
       "dc": {
@@ -1020,9 +1008,9 @@
      "eid": 773650655,
      "tid": 55479,
      "coupon": {
-      "1": "YD4B6",
-      "X": "1E4B6",
-      "2": "BE4B6"
+      "1": "E5X86",
+      "X": "55X86",
+      "2": "P5X86"
      },
      "markets": {
       "dc": {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T02:04:37+00:00",
+ "updated": "2026-11-27T13:09:34+00:00",
  "groups": [
   {
    "key": "liga",
@@ -21,9 +21,9 @@
      "eid": 773575070,
      "tid": 2869549,
      "coupon": {
-      "1": "HYJB6",
-      "X": "JYJB6",
-      "2": "4YJB6"
+      "1": "62U86",
+      "X": "V2U86",
+      "2": "EDU86"
      },
      "markets": {
       "dc": {
@@ -158,33 +158,28 @@
      "away": "Real Oruro",
      "start": 1795820400,
      "odds": {
-      "1": 1.5,
-      "X": 4.1,
-      "2": 5.1
+      "1": 1.51,
+      "X": 4.05,
+      "2": 5.09
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/1969529.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/7c17b3695b3ccfde40756fda2f98d68f.png",
      "link": "https://1xlite-32085.pro/es/line/Football/2869549-Bolivia-Primera-Division/397207802-Independiente-Petrolero-Real-Oruro",
      "eid": 774042960,
      "tid": 2869549,
-     "coupon": {
-      "1": "JZJB6",
-      "X": "LZJB6",
-      "2": "5ZJB6"
-     },
      "markets": {
       "dc": {
        "1X": 1.095,
-       "12": 1.145,
-       "X2": 2.24
+       "12": 1.149,
+       "X2": 2.22
       },
       "ou25": {
-       "o": 1.363,
-       "u": 2.69
+       "o": 1.38,
+       "u": 2.625
       },
       "btts": {
-       "y": 1.45,
-       "n": 2.529
+       "y": 1.46,
+       "n": 2.498
       }
      },
      "stats": {
@@ -314,11 +309,6 @@
      "link": "https://1xlite-32085.pro/es/line/Football/2869549-Bolivia-Primera-Division/397212816-Gualberto-Villarroel-Club-Bamin-Real-Potosi",
      "eid": 774049271,
      "tid": 2869549,
-     "coupon": {
-      "1": "VZJB6",
-      "X": "ZZJB6",
-      "2": "19JB6"
-     },
      "markets": {
       "dc": {
        "1X": 1.57,
@@ -517,9 +507,9 @@
      "eid": 774048569,
      "tid": 2869549,
      "coupon": {
-      "1": "E9JB6",
-      "X": "39JB6",
-      "2": "H9JB6"
+      "1": "XUU86",
+      "X": "PVU86",
+      "2": "2XU86"
      },
      "markets": {
       "dc": {
@@ -709,9 +699,9 @@
      "away": "Oriente Petrolero",
      "start": 1795908600,
      "odds": {
-      "1": 1.175,
-      "X": 5.8,
-      "2": 12.2
+      "1": 1.202,
+      "X": 5.85,
+      "2": 9.75
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/51069.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/e83eb7945efc5ca5fe3e1149b1937f16.png",
@@ -719,18 +709,23 @@
      "eid": 773576273,
      "tid": 2869549,
      "coupon": {
-      "1": "49JB6",
-      "X": "L9JB6",
-      "2": "59JB6"
+      "1": "78U86",
+      "X": "CYU86",
+      "2": "LYU86"
      },
      "markets": {
+      "dc": {
+       "1X": 1.027,
+       "12": 1.057,
+       "X2": 3.6
+      },
       "ou25": {
-       "o": 1.37,
-       "u": 2.66
+       "o": 1.32,
+       "u": 2.875
       },
       "btts": {
-       "y": 1.84,
-       "n": 1.846
+       "y": 1.68,
+       "n": 2.042
       }
      },
      "stats": {
@@ -906,9 +901,9 @@
      "away": "The Strongest",
      "start": 1795978800,
      "odds": {
-      "1": 2.22,
+      "1": 2.2,
       "X": 3.54,
-      "2": 2.68
+      "2": 2.71
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/3627130b52ed702e9806721c019e5b99.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/73b839892f4452faeda2816428eae7ea.png",
@@ -916,15 +911,15 @@
      "eid": 773576276,
      "tid": 2869549,
      "coupon": {
-      "1": "69JB6",
-      "X": "R9JB6",
-      "2": "79JB6"
+      "1": "6ZU86",
+      "X": "G9U86",
+      "2": "89U86"
      },
      "markets": {
       "dc": {
        "1X": 1.36,
        "12": 1.198,
-       "X2": 1.51
+       "X2": 1.52
       },
       "ou25": {
        "o": 1.45,
@@ -1118,9 +1113,9 @@
      "eid": 773577543,
      "tid": 2869549,
      "coupon": {
-      "1": "X9JB6",
-      "X": "Z9JB6",
-      "2": "99JB6"
+      "1": "91V86",
+      "X": "DAV86",
+      "2": "JAV86"
      },
      "markets": {
       "dc": {
@@ -1320,9 +1315,7 @@
      "eid": 773577546,
      "tid": 2869549,
      "coupon": {
-      "1": "214B6",
-      "X": "E14B6",
-      "2": "F14B6"
+      "1": "BBV86"
      },
      "markets": {
       "dc": {

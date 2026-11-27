@@ -1,51 +1,54 @@
-DEBUG tour 88637: inglaterra. premier league
-DEBUG tour 127733: españa. la liga
-DEBUG tour 142091: copa libertadores
+DEBUG tour 34711: inglaterra. northern premier league
 DEBUG tour 13721: gales. premier league
 DEBUG tour 105759: inglaterra. championship
-DEBUG tour 129545: bangladesh. premier league
-DEBUG tour 40311: polonia. championship liga 2
-DEBUG tour 1351549: tailandia. thai premier league
-DEBUG tour 2903318: singapur. premier league
-DEBUG tour 1015483: belarús. premier league
-DEBUG tour 104553: azerbaiyán. premier league
 DEBUG tour 225733: rusia. premier league
-DEBUG tour 310027: irlanda del norte. nifl championship
-DEBUG tour 2008579: gales. championship. norte
-DEBUG tour 40053: armenia. premier league
-DEBUG tour 281713: escocia. championship
-DEBUG tour 995727: maldivas. premier league
-DEBUG tour 1800476: inglaterra. southern premier league
+DEBUG tour 40311: polonia. championship liga 2
+DEBUG tour 127733: españa. la liga
+DEBUG tour 1015483: belarús. premier league
+DEBUG tour 88637: inglaterra. premier league
+DEBUG tour 2794675: bermuda. premier league
 DEBUG tour 41199: israel. premier league
 DEBUG tour 29949: ucrania. premier league
-DEBUG tour 34711: inglaterra. northern premier league
-DEBUG tour 2008568: gales. championship. sur
-DEBUG tour 108683: bosnia-herzegovina. premier league
-DEBUG tour 1800014: inglaterra. southern premier league. central
-DEBUG tour 2331806: seychelles. seychelles championship
 DEBUG tour 11463: irlanda del norte. premier league
-DEBUG tour 31103: malta. premier league
-DEBUG tour 1750147: lao premier league
-DEBUG tour 13741: siria. premier league
-DEBUG tour 32527: jordan. premier league
-DEBUG tour 196313: botsuana. premier league
-DEBUG tour 58655: bahrein. premier league
-DEBUG tour 38317: áfrica. caf champions league
-DEBUG tour 1299397: inglaterra.premier league 2
-DEBUG tour 2794675: bermuda. premier league
+DEBUG tour 104553: azerbaiyán. premier league
+DEBUG tour 108683: bosnia-herzegovina. premier league
+DEBUG tour 1351549: tailandia. thai premier league
 DEBUG tour 831037: sierra leona. premier league
-DEBUG tour 611201: nigeria. premier league
-DEBUG tour 2908998: líbano. premier league
+DEBUG tour 142091: copa libertadores
+DEBUG tour 2008568: gales. championship. sur
+DEBUG tour 281713: escocia. championship
+DEBUG tour 32527: jordan. premier league
+DEBUG tour 1174103: kenia. premier league
+DEBUG tour 310027: irlanda del norte. nifl championship
+DEBUG tour 58655: bahrein. premier league
+DEBUG tour 129545: bangladesh. premier league
+DEBUG tour 1299397: inglaterra.premier league 2
 DEBUG tour 590333: etiopía. premier league
+DEBUG tour 16655: hong kong. premier league
+DEBUG tour 38317: áfrica. caf champions league
+DEBUG tour 2903305: indonesia. championship
+DEBUG tour 1800476: inglaterra. southern premier league
+DEBUG tour 40053: armenia. premier league
+DEBUG tour 2008579: gales. championship. norte
+DEBUG tour 2765014: hong kong. premier league sub-22
+DEBUG tour 262581: inglaterra. northern premier league
+DEBUG tour 31103: malta. premier league
+DEBUG tour 1345047: líbano. championship. segunda división
+DEBUG tour 2903318: singapur. premier league
+DEBUG tour 196313: botsuana. premier league
+DEBUG tour 611201: nigeria. premier league
+DEBUG tour 2331806: seychelles. seychelles championship
+DEBUG tour 13741: siria. premier league
+DEBUG tour 1750147: lao premier league
+DEBUG tour 1800014: inglaterra. southern premier league. central
+DEBUG tour 2341854: egipto. copa de la liga
 DEBUG tour 2809690: inglaterra. premier league. equipo vs jugador
 DEBUG tour 218103: uefa champions league. ganador
 DEBUG tour 2809583: españa. la liga. equipo vs jugador
-DEBUG tour 2341854: egipto. copa de la liga
-DEBUG tour 2765014: hong kong. premier league sub-22
 DEBUG tour 2492160: arabia saudita. premier league. mujeres
 DEBUG tour 2845143: chad. premier league
 copa-libertadores: Copa Libertadores
-sharecoupon error: /datafeed/directories/api/v1/sharecoupon: HTTP 400 "LiveBetService returned 200"
+sharecoupon sample: https://1xlite-32085.pro/es?coupon-code=2MK86
 copa-libertadores: 1 tournaments, 1 matches
 copa-sudamericana: 
 copa-sudamericana: 0 tournaments, 0 matches
