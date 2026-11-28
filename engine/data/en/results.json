@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T08:38:54+00:00",
+ "updated": "2026-11-28T18:05:01+00:00",
  "backfilled": [
   88637
  ],
@@ -5756,6 +5756,34 @@
    ],
    "detail": "3:2 (1:0,2:2)",
    "start": 1795809600,
+   "group": "liga"
+  },
+  {
+   "id": 774924722,
+   "tid": 88637,
+   "tname": "England. Premier League",
+   "home": "Leeds United",
+   "away": "Coventry City",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1795878000,
+   "group": "liga"
+  },
+  {
+   "id": 774924855,
+   "tid": 88637,
+   "tname": "England. Premier League",
+   "home": "Manchester United",
+   "away": "Brentford",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:2,0:2)",
+   "start": 1795878000,
    "group": "liga"
   }
  ]

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T08:29:06+00:00",
+ "updated": "2026-11-28T17:53:55+00:00",
  "groups": [
   {
    "key": "liga",
@@ -11,9 +11,9 @@
      "away": "Club Universitario de Deportes",
      "start": 1795982400,
      "odds": {
-      "1": 1.81,
-      "X": 3.5,
-      "2": 4.155
+      "1": 1.74,
+      "X": 3.62,
+      "2": 4.395
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/181f4ec0d7f6b90c01644d6768833e3a.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/a78c80080be9952d106dc9f70e375f8a.png",
@@ -21,21 +21,22 @@
      "eid": 773862170,
      "tid": 2892390,
      "coupon": {
-      "X": "FGLSS"
+      "1": "T87B7",
+      "X": "987B7"
      },
      "markets": {
       "dc": {
-       "1X": 1.184,
-       "12": 1.26,
-       "X2": 1.9
+       "1X": 1.165,
+       "12": 1.24,
+       "X2": 1.99
       },
       "ou25": {
-       "o": 1.71,
-       "u": 2.05
+       "o": 1.72,
+       "u": 2.03
       },
       "btts": {
-       "y": 1.64,
-       "n": 2.13
+       "y": 1.666,
+       "n": 2.08
       }
      },
      "stats": {
@@ -227,9 +228,9 @@
      "eid": 773542009,
      "tid": 125983,
      "coupon": {
-      "1": "TXLSS",
-      "X": "YXLSS",
-      "2": "E8LSS"
+      "1": "YFUB7",
+      "X": "J3UB7",
+      "2": "R3UB7"
      },
      "markets": {
       "dc": {

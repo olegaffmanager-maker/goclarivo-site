@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T08:30:28+00:00",
+ "updated": "2026-11-28T17:56:17+00:00",
  "groups": [
   {
    "key": "liga",
@@ -11,9 +11,9 @@
      "away": "Club Real Potosí",
      "start": 1795892400,
      "odds": {
-      "1": 3.015,
-      "X": 3.62,
-      "2": 2.01
+      "1": 4.645,
+      "X": 3.72,
+      "2": 1.61
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/01120978e61d687168fea2f4a17c35f3.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/36429.png",
@@ -21,23 +21,21 @@
      "eid": 774049271,
      "tid": 2869549,
      "coupon": {
-      "1": "GV5SS",
-      "X": "6V5SS",
-      "2": "XV5SS"
+      "X": "1S8B7"
      },
      "markets": {
       "dc": {
-       "1X": 1.63,
-       "12": 1.189,
-       "X2": 1.285
+       "1X": 2.05,
+       "12": 1.178,
+       "X2": 1.114
       },
       "ou25": {
-       "o": 1.69,
-       "u": 2.01
+       "o": 1.56,
+       "u": 2.22
       },
       "btts": {
-       "y": 1.6,
-       "n": 2.176
+       "y": 1.57,
+       "n": 2.229
       }
      },
      "stats": {
@@ -213,9 +211,9 @@
      "away": "Universitario de Vinto",
      "start": 1795900500,
      "odds": {
-      "1": 1.59,
-      "X": 4.05,
-      "2": 4.335
+      "1": 1.58,
+      "X": 4.1,
+      "2": 4.38
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/12dc2acb4625a7cdbfecc6d30af62ce5.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/089b36cb795ece824e5eb5b82b8109c6.png",
@@ -223,23 +221,22 @@
      "eid": 774048569,
      "tid": 2869549,
      "coupon": {
-      "1": "YX5SS",
-      "X": "E85SS",
-      "2": "L85SS"
+      "1": "7S8B7",
+      "X": "ZS8B7"
      },
      "markets": {
       "dc": {
-       "1X": 1.134,
-       "12": 1.149,
-       "X2": 2.08
+       "1X": 1.13,
+       "12": 1.145,
+       "X2": 2.1
       },
       "ou25": {
-       "o": 1.363,
-       "u": 2.69
+       "o": 1.35,
+       "u": 2.74
       },
       "btts": {
-       "y": 1.43,
-       "n": 2.592
+       "y": 1.42,
+       "n": 2.624
       }
      },
      "stats": {
@@ -415,33 +412,23 @@
      "away": "Oriente Petrolero",
      "start": 1795908600,
      "odds": {
-      "1": 1.037,
-      "X": 9.2,
-      "2": 22.0
+      "1": 1.062,
+      "X": 12.0,
+      "2": 23.0
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/51069.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/e83eb7945efc5ca5fe3e1149b1937f16.png",
      "link": "https://1xlite-32085.pro/es/line/Football/2869549-Bolivia-Primera-Division/396919464-Nacional-Potosi-Oriente-Petrolero",
      "eid": 773576273,
      "tid": 2869549,
-     "coupon": {
-      "1": "Y85SS",
-      "X": "2Y5SS",
-      "2": "GY5SS"
-     },
      "markets": {
-      "dc": {
-       "1X": 1.01,
-       "12": 1.02,
-       "X2": 6.55
-      },
       "ou25": {
-       "o": 1.08,
-       "u": 7.6
+       "o": 1.039,
+       "u": 11.6
       },
       "btts": {
-       "y": 1.55,
-       "n": 2.27
+       "y": 2.34,
+       "n": 1.518
       }
      },
      "stats": {
@@ -627,9 +614,8 @@
      "eid": 773576276,
      "tid": 2869549,
      "coupon": {
-      "1": "8Y5SS",
-      "X": "FZ5SS",
-      "2": "RZ5SS"
+      "1": "MU8B7",
+      "X": "RU8B7"
      },
      "markets": {
       "dc": {
@@ -829,9 +815,9 @@
      "eid": 773577543,
      "tid": 2869549,
      "coupon": {
-      "1": "RANSS",
-      "X": "2BNSS",
-      "2": "5BNSS"
+      "1": "GV8B7",
+      "X": "MV8B7",
+      "2": "QV8B7"
      },
      "markets": {
       "dc": {
@@ -1030,11 +1016,6 @@
      "link": "https://1xlite-32085.pro/es/line/Football/2869549-Bolivia-Primera-Division/396919751-Club-Blooming-San-Antonio-Bulo-Bulo",
      "eid": 773577546,
      "tid": 2869549,
-     "coupon": {
-      "1": "F2NSS",
-      "X": "N2NSS",
-      "2": "R2NSS"
-     },
      "markets": {
       "dc": {
        "1X": 1.077,

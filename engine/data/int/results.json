@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T08:26:46+00:00",
+ "updated": "2026-11-28T17:49:03+00:00",
  "backfilled": [
   142091,
   118587,
@@ -8211,6 +8211,62 @@
    "detail": "3:2 (1:0,2:2)",
    "start": 1795809600,
    "group": "premier-league"
+  },
+  {
+   "id": 774889301,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Real Betis",
+   "away": "Rayo Vallecano",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1795870800,
+   "group": "laliga"
+  },
+  {
+   "id": 774924722,
+   "tid": 88637,
+   "tname": "Inglaterra. Premier League",
+   "home": "Leeds United",
+   "away": "Coventry City",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1795878000,
+   "group": "premier-league"
+  },
+  {
+   "id": 774924855,
+   "tid": 88637,
+   "tname": "Inglaterra. Premier League",
+   "home": "Manchester United",
+   "away": "Brentford",
+   "score": [
+    0,
+    4
+   ],
+   "detail": "0:4 (0:2,0:2)",
+   "start": 1795878000,
+   "group": "premier-league"
+  },
+  {
+   "id": 774932310,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Málaga",
+   "away": "Athletic Club",
+   "score": [
+    3,
+    4
+   ],
+   "detail": "3:4 (1:4,2:0)",
+   "start": 1795878900,
+   "group": "laliga"
   }
  ]
 }

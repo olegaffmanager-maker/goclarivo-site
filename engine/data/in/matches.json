@@ -1,366 +1,10 @@
 {
- "updated": "2026-11-28T08:38:01+00:00",
+ "updated": "2026-11-28T18:04:15+00:00",
  "groups": [
   {
    "key": "liga",
    "name": "Indian Super League",
    "matches": [
-    {
-     "tournament": "India. Super League",
-     "home": "Chennaiyin",
-     "away": "Mumbai City",
-     "start": 1795874400,
-     "odds": {
-      "1": 1.99,
-      "X": 3.4,
-      "2": 3.235
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/117445.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/9fef2f745d6024fa111783769ae66ef5.png",
-     "link": "https://1xlite-32085.pro/en/line/Football/1122087-India-Super-League/396861809-Chennaiyin-Mumbai-City",
-     "eid": 773477932,
-     "tid": 1122087,
-     "coupon": {
-      "1": "YJ1TS",
-      "X": "A41TS",
-      "2": "J41TS"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.25,
-       "12": 1.22,
-       "X2": 1.64
-      },
-      "ou25": {
-       "o": 1.65,
-       "u": 2.06
-      },
-      "btts": {
-       "y": 1.56,
-       "n": 2.25
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1771509600,
-        "h": "Mumbai City",
-        "a": "Chennaiyin",
-        "s": [
-         1,
-         0
-        ],
-        "t": "India. Super League",
-        "hh": false
-       },
-       {
-        "d": 1745418600,
-        "h": "Mumbai City",
-        "a": "Chennaiyin",
-        "s": [
-         4,
-         0
-        ],
-        "t": "India. Super Cup",
-        "hh": false
-       },
-       {
-        "d": 1734780600,
-        "h": "Mumbai City",
-        "a": "Chennaiyin",
-        "s": [
-         1,
-         0
-        ],
-        "t": "India. Super League",
-        "hh": false
-       },
-       {
-        "d": 1731151800,
-        "h": "Chennaiyin",
-        "a": "Mumbai City",
-        "s": [
-         1,
-         1
-        ],
-        "t": "India. Super League",
-        "hh": true
-       },
-       {
-        "d": 1708696800,
-        "h": "Chennaiyin",
-        "a": "Mumbai City",
-        "s": [
-         0,
-         2
-        ],
-        "t": "India. Super League",
-        "hh": true
-       },
-       {
-        "d": 1705845600,
-        "h": "Mumbai City",
-        "a": "Chennaiyin",
-        "s": [
-         1,
-         0
-        ],
-        "t": "India. Super Cup",
-        "hh": false
-       },
-       {
-        "d": 1703773800,
-        "h": "Mumbai City",
-        "a": "Chennaiyin",
-        "s": [
-         3,
-         0
-        ],
-        "t": "India. Super League",
-        "hh": false
-       },
-       {
-        "d": 1681916400,
-        "h": "Mumbai City",
-        "a": "Chennaiyin",
-        "s": [
-         1,
-         0
-        ],
-        "t": "India. Super Cup",
-        "hh": false
-       }
-      ],
-      "f1": [
-       {
-        "d": 1795260600,
-        "o": "Punjab FC",
-        "gf": 1,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1794060000,
-        "o": "East Bengal",
-        "gf": 5,
-        "ga": 3,
-        "dom": true
-       },
-       {
-        "d": 1793446200,
-        "o": "Kerala Blasters",
-        "gf": 0,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1793023200,
-        "o": "Mohun Bagan Super Giant",
-        "gf": 0,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1792245600,
-        "o": "Bengaluru",
-        "gf": 0,
-        "ga": 2,
-        "dom": false
-       }
-      ],
-      "f2": [
-       {
-        "d": 1795183200,
-        "o": "Bengaluru",
-        "gf": 0,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1793532600,
-        "o": "Sporting Delhi",
-        "gf": 2,
-        "ga": 3,
-        "dom": true
-       },
-       {
-        "d": 1792936800,
-        "o": "Kerala Blasters",
-        "gf": 0,
-        "ga": 0,
-        "dom": false
-       },
-       {
-        "d": 1792418400,
-        "o": "Punjab FC",
-        "gf": 1,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1791727200,
-        "o": "Churchill Brothers",
-        "gf": 1,
-        "ga": 2,
-        "dom": false
-       }
-      ]
-     },
-     "table": {
-      "title": "India. Super League",
-      "group": "",
-      "rows": [
-       {
-        "pos": 1,
-        "team": "Mohun Bagan Super Giant",
-        "pj": 6,
-        "g": 5,
-        "p": 1,
-        "n": 0,
-        "bp": 10,
-        "bc": 6,
-        "pts": 15
-       },
-       {
-        "pos": 2,
-        "team": "Bengaluru",
-        "pj": 5,
-        "g": 4,
-        "p": 0,
-        "n": 1,
-        "bp": 10,
-        "bc": 4,
-        "pts": 13
-       },
-       {
-        "pos": 3,
-        "team": "North East United",
-        "pj": 7,
-        "g": 3,
-        "p": 1,
-        "n": 3,
-        "bp": 9,
-        "bc": 4,
-        "pts": 12
-       },
-       {
-        "pos": 4,
-        "team": "Sporting Delhi",
-        "pj": 7,
-        "g": 2,
-        "p": 2,
-        "n": 3,
-        "bp": 13,
-        "bc": 11,
-        "pts": 9
-       },
-       {
-        "pos": 5,
-        "team": "Punjab FC",
-        "pj": 5,
-        "g": 2,
-        "p": 1,
-        "n": 2,
-        "bp": 8,
-        "bc": 7,
-        "pts": 8
-       },
-       {
-        "pos": 6,
-        "team": "Goa",
-        "pj": 5,
-        "g": 2,
-        "p": 1,
-        "n": 2,
-        "bp": 6,
-        "bc": 5,
-        "pts": 8
-       },
-       {
-        "pos": 7,
-        "team": "East Bengal",
-        "pj": 4,
-        "g": 2,
-        "p": 1,
-        "n": 1,
-        "bp": 14,
-        "bc": 8,
-        "pts": 7
-       },
-       {
-        "pos": 8,
-        "team": "Chennaiyin",
-        "pj": 6,
-        "g": 1,
-        "p": 2,
-        "n": 3,
-        "bp": 7,
-        "bc": 8,
-        "pts": 6
-       },
-       {
-        "pos": 9,
-        "team": "Churchill Brothers",
-        "pj": 6,
-        "g": 2,
-        "p": 4,
-        "n": 0,
-        "bp": 6,
-        "bc": 12,
-        "pts": 6
-       },
-       {
-        "pos": 10,
-        "team": "Kerala Blasters",
-        "pj": 4,
-        "g": 1,
-        "p": 1,
-        "n": 2,
-        "bp": 3,
-        "bc": 4,
-        "pts": 5
-       },
-       {
-        "pos": 11,
-        "team": "Odisha",
-        "pj": 4,
-        "g": 0,
-        "p": 2,
-        "n": 2,
-        "bp": 4,
-        "bc": 6,
-        "pts": 2
-       },
-       {
-        "pos": 12,
-        "team": "Mumbai City",
-        "pj": 5,
-        "g": 0,
-        "p": 3,
-        "n": 2,
-        "bp": 4,
-        "bc": 8,
-        "pts": 2
-       },
-       {
-        "pos": 13,
-        "team": "Inter Kashi",
-        "pj": 6,
-        "g": 0,
-        "p": 5,
-        "n": 1,
-        "bp": 3,
-        "bc": 14,
-        "pts": 1
-       }
-      ],
-      "foot": [
-       "Promotion - Superleague (Play-off: Round of 4)",
-       "Promotion - Superleague (Play-off: Round of 8)",
-       "Relegation"
-      ]
-     }
-    },
     {
      "tournament": "India. Super League",
      "home": "Goa",
@@ -377,9 +21,9 @@
      "eid": 773203073,
      "tid": 1122087,
      "coupon": {
-      "1": "BK1TS",
-      "X": "FK1TS",
-      "2": "4K1TS"
+      "1": "PGHC7",
+      "X": "ZGHC7",
+      "2": "CHHC7"
      },
      "markets": {
       "dc": {
@@ -733,9 +377,9 @@
      "eid": 774788966,
      "tid": 253537,
      "coupon": {
-      "1": "ZK1TS",
-      "X": "DL1TS",
-      "2": "LL1TS"
+      "1": "54HC7",
+      "X": "Y4HC7",
+      "2": "LKHC7"
      },
      "markets": {
       "dc": {
@@ -769,9 +413,9 @@
      "eid": 773245730,
      "tid": 1122087,
      "coupon": {
-      "1": "SL1TS",
-      "X": "9L1TS",
-      "2": "FM1TS"
+      "1": "NKHC7",
+      "X": "7KHC7",
+      "2": "YKHC7"
      },
      "markets": {
       "dc": {
@@ -1125,9 +769,9 @@
      "eid": 773779365,
      "tid": 1122087,
      "coupon": {
-      "1": "9M1TS",
-      "X": "E51TS",
-      "2": "G51TS"
+      "1": "FMHC7",
+      "X": "PMHC7",
+      "2": "A5HC7"
      },
      "markets": {
       "dc": {
@@ -1448,9 +1092,9 @@
      "eid": 774159664,
      "tid": 330475,
      "coupon": {
-      "1": "VQ1TS",
-      "X": "461TS",
-      "2": "Z61TS"
+      "1": "CNHC7",
+      "X": "QNHC7",
+      "2": "VNHC7"
      },
      "markets": {
       "dc": {

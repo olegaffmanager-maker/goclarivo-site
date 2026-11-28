@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T08:38:01+00:00",
+ "updated": "2026-11-28T18:04:15+00:00",
  "backfilled": [
   2783103,
   1122087,
@@ -14,20 +14,6 @@
   2474293
  ],
  "matches": [
-  {
-   "id": 664842452,
-   "tid": 330475,
-   "tname": "India. Bangalore. Super Division",
-   "home": "Agniputhra",
-   "away": "United Stars Bangalore",
-   "score": [
-    3,
-    0
-   ],
-   "detail": "3:0 (1:0,2:0)",
-   "start": 1761301800,
-   "group": "liga"
-  },
   {
    "id": 665721313,
    "tid": 330475,
@@ -8821,6 +8807,20 @@
    "group": "liga"
   },
   {
+   "id": 774769364,
+   "tid": 330475,
+   "tname": "India. Bangalore. Super Division",
+   "home": "Kodagu",
+   "away": "Bengaluru II",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:0,2:2)",
+   "start": 1795836600,
+   "group": "liga"
+  },
+  {
    "id": 774798755,
    "tid": 330475,
    "tname": "India. Bangalore. Super Division",
@@ -8832,6 +8832,20 @@
    ],
    "detail": "1:0 (0:0,1:0)",
    "start": 1795845600,
+   "group": "liga"
+  },
+  {
+   "id": 774908659,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Chennaiyin",
+   "away": "Mumbai City",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1795874400,
    "group": "liga"
   }
  ]

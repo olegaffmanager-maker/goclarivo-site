@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T08:36:52+00:00",
+ "updated": "2026-11-28T18:02:15+00:00",
  "backfilled": [
   1706694,
   2905343,
@@ -4222,6 +4222,48 @@
    ],
    "detail": "2:2 (0:2,2:0)",
    "start": 1795698000,
+   "group": "liga"
+  },
+  {
+   "id": 774891652,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Nkana",
+   "away": "Trident",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1795870800,
+   "group": "liga"
+  },
+  {
+   "id": 774891650,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "Roan United",
+   "away": "Nkwazi",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1795870800,
+   "group": "liga"
+  },
+  {
+   "id": 774891660,
+   "tid": 327197,
+   "tname": "Zambia. Super League",
+   "home": "MUZA",
+   "away": "Napsa Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1795870800,
    "group": "liga"
   }
  ]

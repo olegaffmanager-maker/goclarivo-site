@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T08:35:17+00:00",
+ "updated": "2026-11-28T17:59:36+00:00",
  "backfilled": [
   1706694,
   2905343,
@@ -10,20 +10,6 @@
   27371
  ],
  "matches": [
-  {
-   "id": 664905361,
-   "tid": 27371,
-   "tname": "Ghana. Premier League",
-   "home": "Heart of Lions",
-   "away": "Basake Holy Stars",
-   "score": [
-    3,
-    0
-   ],
-   "detail": "3:0 (2:0,1:0)",
-   "start": 1761318000,
-   "group": "liga"
-  },
   {
    "id": 665236183,
    "tid": 27371,

@@ -1,74 +1,59 @@
-DEBUG tour 2903305: indonesia. championship
-DEBUG tour 181251: myanmar. premier league
-DEBUG tour 1351549: tailandia. thai premier league
-DEBUG tour 38317: áfrica. caf champions league
-DEBUG tour 16655: hong kong. premier league
-DEBUG tour 105759: inglaterra. championship
-DEBUG tour 225733: rusia. premier league
-DEBUG tour 1174103: kenia. premier league
-DEBUG tour 1015483: belarús. premier league
-DEBUG tour 11463: irlanda del norte. premier league
-DEBUG tour 34711: inglaterra. northern premier league
-DEBUG tour 310027: irlanda del norte. nifl championship
-DEBUG tour 32527: jordan. premier league
-DEBUG tour 142091: copa libertadores
 DEBUG tour 127733: españa. la liga
-DEBUG tour 214107: senegal. premier league
-DEBUG tour 2331806: seychelles. seychelles championship
-DEBUG tour 262581: inglaterra. northern premier league
-DEBUG tour 88637: inglaterra. premier league
-DEBUG tour 2922491: argentina. primera b nacional
-DEBUG tour 31103: malta. premier league
-DEBUG tour 129545: bangladesh. premier league
-DEBUG tour 104553: azerbaiyán. premier league
 DEBUG tour 41199: israel. premier league
-DEBUG tour 1800476: inglaterra. southern premier league
-DEBUG tour 1460999: taiwán. premier league
-DEBUG tour 29949: ucrania. premier league
-DEBUG tour 40311: polonia. championship liga 2
-DEBUG tour 611201: nigeria. premier league
-DEBUG tour 2908998: líbano. premier league
-DEBUG tour 13721: gales. premier league
-DEBUG tour 3027758: argentina. primera división sub-20
-DEBUG tour 995727: maldivas. premier league
-DEBUG tour 2794675: bermuda. premier league
-DEBUG tour 1299397: inglaterra.premier league 2
-DEBUG tour 281713: escocia. championship
-DEBUG tour 108683: bosnia-herzegovina. premier league
-DEBUG tour 2903318: singapur. premier league
-DEBUG tour 119599: argentina. liga profesional
-DEBUG tour 40053: armenia. premier league
-DEBUG tour 2765014: hong kong. premier league sub-22
-DEBUG tour 1345047: líbano. championship. segunda división
-DEBUG tour 13741: siria. premier league
-DEBUG tour 58655: bahrein. premier league
-DEBUG tour 1750147: lao premier league
-DEBUG tour 1800014: inglaterra. southern premier league. central
-DEBUG tour 2008568: gales. championship. sur
-DEBUG tour 2185017: níger. championship
-DEBUG tour 831037: sierra leona. premier league
-DEBUG tour 196313: botsuana. premier league
-DEBUG tour 2845143: chad. premier league
-DEBUG tour 955407: argentina. primera b metropolitana
-DEBUG tour 14003: kuwait. premier league
-DEBUG tour 1156373: uganda. premier league
-DEBUG tour 1106309: rusia. premier league. las apuestas especiales
-DEBUG tour 1564195: españa. la liga. apuestas especiales
-DEBUG tour 27371: ghana. premier league
-DEBUG tour 220557: campeonato de argentina. mujeres
-DEBUG tour 590333: etiopía. premier league
-DEBUG tour 1557095: inglaterra. premier league. apuestas especiales
-DEBUG tour 329719: argentina. primera c metropolitana
-DEBUG tour 2809690: inglaterra. premier league. equipo vs jugador
-DEBUG tour 119577: argentina. copa argentina
-DEBUG tour 2809583: españa. la liga. equipo vs jugador
 DEBUG tour 2341854: egipto. copa de la liga
+DEBUG tour 142091: copa libertadores
+DEBUG tour 1460999: taiwán. premier league
+DEBUG tour 88637: inglaterra. premier league
+DEBUG tour 104553: azerbaiyán. premier league
+DEBUG tour 2903318: singapur. premier league
+DEBUG tour 955407: argentina. primera b metropolitana
+DEBUG tour 11463: irlanda del norte. premier league
+DEBUG tour 14003: kuwait. premier league
+DEBUG tour 105759: inglaterra. championship
+DEBUG tour 2794675: bermuda. premier league
+DEBUG tour 2903305: indonesia. championship
+DEBUG tour 38317: áfrica. caf champions league
+DEBUG tour 969945: argentina. torneo federal a
+DEBUG tour 40053: armenia. premier league
+DEBUG tour 2908998: líbano. premier league
+DEBUG tour 119599: argentina. liga profesional
+DEBUG tour 281713: escocia. championship
+DEBUG tour 1345047: líbano. championship. segunda división
+DEBUG tour 611201: nigeria. premier league
+DEBUG tour 225733: rusia. premier league
+DEBUG tour 995727: maldivas. premier league
+DEBUG tour 58655: bahrein. premier league
+DEBUG tour 119577: argentina. copa argentina
+DEBUG tour 2922491: argentina. primera b nacional
+DEBUG tour 181251: myanmar. premier league
+DEBUG tour 108683: bosnia-herzegovina. premier league
+DEBUG tour 29949: ucrania. premier league
+DEBUG tour 118745: jamaica. premier league
+DEBUG tour 1351549: tailandia. thai premier league
+DEBUG tour 925397: gales. premier league. mujeres
+DEBUG tour 1174103: kenia. premier league
+DEBUG tour 2845143: chad. premier league
+DEBUG tour 329719: argentina. primera c metropolitana
+DEBUG tour 1015483: belarús. premier league
+DEBUG tour 16655: hong kong. premier league
+DEBUG tour 40311: polonia. championship liga 2
+DEBUG tour 1750147: lao premier league
+DEBUG tour 2765014: hong kong. premier league sub-22
+DEBUG tour 31103: malta. premier league
+DEBUG tour 1767519: argentina. torneo regional federal
+DEBUG tour 590333: etiopía. premier league
+DEBUG tour 831037: sierra leona. premier league
+DEBUG tour 1299397: inglaterra.premier league 2
+DEBUG tour 196313: botsuana. premier league
+DEBUG tour 1800014: inglaterra. southern premier league. central
+DEBUG tour 2809583: españa. la liga. equipo vs jugador
 DEBUG tour 835713: argentina. ganador
+DEBUG tour 2809690: inglaterra. premier league. equipo vs jugador
 DEBUG tour 218103: uefa champions league. ganador
 DEBUG tour 2492160: arabia saudita. premier league. mujeres
 liga: Argentina. Liga Profesional
-sharecoupon sample: https://1xlite-32085.pro/es?coupon-code=3BJSS
+sharecoupon sample: https://1xlite-32085.pro/es?coupon-code=EFNB7
 liga: 1 tournaments, 4 matches
-seleccion: UEFA Nations League | Clasificación de UEFA para la Copa Mundial de Fútbol. Mujeres | Clasificación para la Copa Mundial 2027. Europa. Mujeres | Partidos amistosos. Selecciones
+seleccion: UEFA Nations League | Clasificación para la Copa Mundial 2027. Europa. Mujeres | Clasificación de UEFA para la Copa Mundial de Fútbol. Mujeres | Partidos amistosos. Selecciones
 seleccion: 4 tournaments, 0 matches
 results: 1 fetched, 606 stored

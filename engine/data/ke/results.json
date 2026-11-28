@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T08:36:15+00:00",
+ "updated": "2026-11-28T18:01:49+00:00",
  "backfilled": [
   1706694,
   2905343,
@@ -11,20 +11,6 @@
   2474293
  ],
  "matches": [
-  {
-   "id": 664849730,
-   "tid": 1174103,
-   "tname": "Kenya. Premier League",
-   "home": "Mara Sugar",
-   "away": "Bidco United",
-   "score": [
-    0,
-    0
-   ],
-   "detail": "0:0 (0:0,0:0)",
-   "start": 1761303600,
-   "group": "liga"
-  },
   {
    "id": 665155826,
    "tid": 1174103,
@@ -9165,6 +9151,34 @@
    ],
    "detail": "3:0 (3:0,0:0)",
    "start": 1795708800,
+   "group": "liga"
+  },
+  {
+   "id": 774873915,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Fortune Sacco",
+   "away": "Nzoia Sugar",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1795867200,
+   "group": "liga"
+  },
+  {
+   "id": 774874369,
+   "tid": 1786993,
+   "tname": "Kenya. Super League",
+   "home": "Kiminini Combined",
+   "away": "Luanda Villa",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1795867200,
    "group": "liga"
   }
  ]
