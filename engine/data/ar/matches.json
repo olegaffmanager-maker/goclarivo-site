@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T23:47:34+00:00",
+ "updated": "2026-11-28T08:27:22+00:00",
  "groups": [
   {
    "key": "liga",
@@ -21,9 +21,9 @@
      "eid": 774492183,
      "tid": 119599,
      "coupon": {
-      "1": "ZH4AS",
-      "X": "DJ4AS",
-      "2": "HJ4AS"
+      "1": "3BJSS",
+      "X": "KBJSS",
+      "2": "NBJSS"
      },
      "markets": {
       "dc": {
@@ -223,9 +223,9 @@
      "eid": 774491859,
      "tid": 119599,
      "coupon": {
-      "1": "244AS",
-      "X": "L44AS",
-      "2": "Y44AS"
+      "1": "BCJSS",
+      "X": "HCJSS",
+      "2": "5CJSS"
      },
      "markets": {
       "dc": {
@@ -425,9 +425,9 @@
      "eid": 774492195,
      "tid": 119599,
      "coupon": {
-      "1": "TK4AS",
-      "X": "EL4AS",
-      "2": "6L4AS"
+      "1": "C2JSS",
+      "X": "G2JSS",
+      "2": "S2JSS"
      },
      "markets": {
       "dc": {
@@ -627,9 +627,9 @@
      "eid": 774492189,
      "tid": 119599,
      "coupon": {
-      "1": "5M4AS",
-      "X": "UM4AS",
-      "2": "D54AS"
+      "1": "4DJSS",
+      "X": "5DJSS",
+      "2": "XDJSS"
      },
      "markets": {
       "dc": {

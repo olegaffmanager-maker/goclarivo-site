@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T23:56:22+00:00",
+ "updated": "2026-11-28T08:29:48+00:00",
  "groups": [
   {
    "key": "liga",
@@ -21,9 +21,9 @@
      "eid": 774182209,
      "tid": 276999,
      "coupon": {
-      "1": "LDTAS",
-      "X": "SDTAS",
-      "2": "1ETAS"
+      "1": "55MSS",
+      "X": "ENMSS",
+      "2": "8NMSS"
      },
      "markets": {
       "dc": {
@@ -213,9 +213,9 @@
      "away": "LDU Quito",
      "start": 1795892400,
      "odds": {
-      "1": 3.265,
-      "X": 3.345,
-      "2": 2.153
+      "1": 3.47,
+      "X": 3.405,
+      "2": 2.049
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/02b84a457d39fda9f75da1a3154d4b2b.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/80bc59fa00517165321a0838c775f4d1.png",
@@ -223,23 +223,22 @@
      "eid": 773360407,
      "tid": 276999,
      "coupon": {
-      "1": "T3TAS",
-      "X": "Z3TAS",
-      "2": "FGTAS"
+      "1": "16MSS",
+      "X": "J6MSS"
      },
      "markets": {
       "dc": {
-       "1X": 1.637,
-       "12": 1.288,
-       "X2": 1.3
+       "1X": 1.703,
+       "12": 1.279,
+       "X2": 1.27
       },
       "ou25": {
-       "o": 1.928,
-       "u": 1.815
+       "o": 1.917,
+       "u": 1.825
       },
       "btts": {
-       "y": 1.727,
-       "n": 1.98
+       "y": 1.74,
+       "n": 1.96
       }
      },
      "stats": {
@@ -425,9 +424,9 @@
      "eid": 774182206,
      "tid": 276999,
      "coupon": {
-      "1": "CJTAS",
-      "X": "4JTAS",
-      "2": "LJTAS"
+      "1": "ASMSS",
+      "X": "MSMSS",
+      "2": "TSMSS"
      },
      "markets": {
       "dc": {
@@ -617,9 +616,9 @@
      "away": "Técnico Universitario",
      "start": 1796070600,
      "odds": {
-      "1": 2.405,
-      "X": 3.395,
-      "2": 2.782
+      "1": 2.312,
+      "X": 3.365,
+      "2": 2.94
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/9019cdf68a0451d2d6638a5441822864.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/103979.png",
@@ -627,19 +626,19 @@
      "eid": 773464074,
      "tid": 276999,
      "coupon": {
-      "1": "YJTAS",
-      "X": "A4TAS",
-      "2": "F4TAS"
+      "1": "VTMSS",
+      "X": "A7MSS",
+      "2": "K7MSS"
      },
      "markets": {
       "dc": {
-       "1X": 1.397,
-       "12": 1.28,
-       "X2": 1.516
+       "1X": 1.36,
+       "12": 1.285,
+       "X2": 1.556
       },
       "ou25": {
-       "o": 2.0,
-       "u": 1.755
+       "o": 1.992,
+       "u": 1.762
       },
       "btts": {
        "y": 1.76,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T23:49:40+00:00",
+ "updated": "2026-11-28T08:27:52+00:00",
  "groups": [
   {
    "key": "liga",
@@ -21,9 +21,9 @@
      "eid": 774349795,
      "tid": 2306111,
      "coupon": {
-      "1": "6YLAS",
-      "X": "7YLAS",
-      "2": "AZLAS"
+      "1": "324SS",
+      "X": "524SS",
+      "2": "824SS"
      },
      "markets": {
       "dc": {
@@ -223,9 +223,9 @@
      "eid": 774504448,
      "tid": 2306111,
      "coupon": {
-      "1": "E1MAS",
-      "X": "41MAS",
-      "2": "U1MAS"
+      "1": "6D4SS",
+      "X": "AE4SS",
+      "2": "LE4SS"
      },
      "markets": {
       "dc": {
@@ -415,9 +415,9 @@
      "away": "Pachuca FC",
      "start": 1796000820,
      "odds": {
-      "1": 1.67,
-      "X": 3.84,
-      "2": 4.54
+      "1": 1.63,
+      "X": 3.9,
+      "2": 4.78
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/8e41fcba66e9b6b895099f8668af25d0.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/b8e48789f41d6ff23731f424715e5ddc.png",
@@ -425,23 +425,23 @@
      "eid": 774504454,
      "tid": 2306111,
      "coupon": {
-      "1": "TAMAS",
-      "X": "YAMAS",
-      "2": "JBMAS"
+      "1": "XE4SS",
+      "X": "BF4SS",
+      "2": "3F4SS"
      },
      "markets": {
       "dc": {
-       "1X": 1.155,
-       "12": 1.22,
-       "X2": 2.09
+       "1X": 1.14,
+       "12": 1.21,
+       "X2": 2.16
       },
       "ou25": {
        "o": 1.63,
        "u": 2.17
       },
       "btts": {
-       "y": 1.62,
-       "n": 2.162
+       "y": 1.65,
+       "n": 2.11
       }
      },
      "stats": {
@@ -617,9 +617,9 @@
      "away": "Leon",
      "start": 1796007600,
      "odds": {
-      "1": 1.78,
-      "X": 3.68,
-      "2": 4.055
+      "1": 1.84,
+      "X": 3.75,
+      "2": 3.71
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/cbfdb11c01ff057254ee21a7d27d1016.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/02895b7d0c0b1e4d4bfb7cef872763e0.png",
@@ -627,23 +627,23 @@
      "eid": 774600524,
      "tid": 2306111,
      "coupon": {
-      "1": "FCMAS",
-      "X": "LCMAS",
-      "2": "QCMAS"
+      "1": "TF4SS",
+      "X": "134SS",
+      "2": "334SS"
      },
      "markets": {
       "dc": {
-       "1X": 1.193,
-       "12": 1.23,
-       "X2": 1.94
+       "1X": 1.23,
+       "12": 1.222,
+       "X2": 1.87
       },
       "ou25": {
        "o": 1.59,
        "u": 2.25
       },
       "btts": {
-       "y": 1.55,
-       "n": 2.297
+       "y": 1.533,
+       "n": 2.337
       }
      },
      "stats": {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T00:00:44+00:00",
+ "updated": "2026-11-28T08:31:03+00:00",
  "backfilled": [
   55479,
   1706694,
@@ -4220,6 +4220,20 @@
    ],
    "detail": "3:1 (1:1,2:0)",
    "start": 1795811400,
+   "group": "liga"
+  },
+  {
+   "id": 774725240,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Sportivo Luqueño",
+   "away": "Club Olimpia",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1795820400,
    "group": "liga"
   }
  ]

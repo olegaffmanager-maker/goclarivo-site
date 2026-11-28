@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T00:06:17+00:00",
+ "updated": "2026-11-28T08:36:15+00:00",
  "groups": [
   {
    "key": "liga",
@@ -7,279 +7,13 @@
    "matches": [
     {
      "tournament": "Kenya. Super League",
-     "home": "Kiminini Combined",
-     "away": "Luanda Villa",
-     "start": 1795867200,
-     "odds": {
-      "1": 2.76,
-      "X": 2.79,
-      "2": 2.49
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/0ac1bd32ac0f9355707c7999821be2ee.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/44fbb2f334170fc774e7e95d05503e18.png",
-     "link": "https://1xlite-32085.pro/en/line/Football/1786993-Kenya-Super-League/397492443-Kiminini-Combined-Luanda-Villa",
-     "eid": 774537292,
-     "tid": 1786993,
-     "coupon": {
-      "1": "JXSBS",
-      "X": "PXSBS",
-      "2": "YXSBS"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.39,
-       "12": 1.32,
-       "X2": 1.32
-      },
-      "ou25": {
-       "o": 2.625,
-       "u": 1.38
-      },
-      "btts": {
-       "y": 2.16,
-       "n": 1.593
-      }
-     },
-     "table": {
-      "title": "Kenya. Super League",
-      "group": "",
-      "rows": [
-       {
-        "pos": 1,
-        "team": "Nzoia Sugar",
-        "pj": 1,
-        "g": 1,
-        "p": 0,
-        "n": 0,
-        "bp": 3,
-        "bc": 0,
-        "pts": 3
-       },
-       {
-        "pos": 2,
-        "team": "MOFA",
-        "pj": 1,
-        "g": 1,
-        "p": 0,
-        "n": 0,
-        "bp": 3,
-        "bc": 0,
-        "pts": 3
-       },
-       {
-        "pos": 3,
-        "team": "BB Bread",
-        "pj": 1,
-        "g": 1,
-        "p": 0,
-        "n": 0,
-        "bp": 3,
-        "bc": 0,
-        "pts": 3
-       },
-       {
-        "pos": 4,
-        "team": "Sofapaka",
-        "pj": 1,
-        "g": 1,
-        "p": 0,
-        "n": 0,
-        "bp": 1,
-        "bc": 0,
-        "pts": 3
-       },
-       {
-        "pos": 5,
-        "team": "Kariobangi Sharks",
-        "pj": 1,
-        "g": 1,
-        "p": 0,
-        "n": 0,
-        "bp": 1,
-        "bc": 0,
-        "pts": 3
-       },
-       {
-        "pos": 6,
-        "team": "Kibera Black Stars",
-        "pj": 1,
-        "g": 1,
-        "p": 0,
-        "n": 0,
-        "bp": 1,
-        "bc": 0,
-        "pts": 3
-       },
-       {
-        "pos": 7,
-        "team": "Soy United",
-        "pj": 1,
-        "g": 1,
-        "p": 0,
-        "n": 0,
-        "bp": 1,
-        "bc": 0,
-        "pts": 3
-       },
-       {
-        "pos": 8,
-        "team": "Kabati Youth",
-        "pj": 1,
-        "g": 1,
-        "p": 0,
-        "n": 0,
-        "bp": 1,
-        "bc": 0,
-        "pts": 3
-       },
-       {
-        "pos": 9,
-        "team": "Talanta",
-        "pj": 1,
-        "g": 0,
-        "p": 0,
-        "n": 1,
-        "bp": 2,
-        "bc": 2,
-        "pts": 1
-       },
-       {
-        "pos": 10,
-        "team": "Equity",
-        "pj": 1,
-        "g": 0,
-        "p": 0,
-        "n": 1,
-        "bp": 2,
-        "bc": 2,
-        "pts": 1
-       },
-       {
-        "pos": 11,
-        "team": "Luanda Villa",
-        "pj": 1,
-        "g": 0,
-        "p": 0,
-        "n": 1,
-        "bp": 2,
-        "bc": 2,
-        "pts": 1
-       },
-       {
-        "pos": 12,
-        "team": "Kibera",
-        "pj": 1,
-        "g": 0,
-        "p": 0,
-        "n": 1,
-        "bp": 2,
-        "bc": 2,
-        "pts": 1
-       },
-       {
-        "pos": 13,
-        "team": "Naivas",
-        "pj": 1,
-        "g": 0,
-        "p": 1,
-        "n": 0,
-        "bp": 0,
-        "bc": 1,
-        "pts": 0
-       },
-       {
-        "pos": 14,
-        "team": "Kisumu All Stars",
-        "pj": 1,
-        "g": 0,
-        "p": 1,
-        "n": 0,
-        "bp": 0,
-        "bc": 1,
-        "pts": 0
-       },
-       {
-        "pos": 15,
-        "team": "Fortune Sacco",
-        "pj": 1,
-        "g": 0,
-        "p": 1,
-        "n": 0,
-        "bp": 0,
-        "bc": 1,
-        "pts": 0
-       },
-       {
-        "pos": 16,
-        "team": "Gucha Stars",
-        "pj": 1,
-        "g": 0,
-        "p": 1,
-        "n": 0,
-        "bp": 0,
-        "bc": 1,
-        "pts": 0
-       },
-       {
-        "pos": 17,
-        "team": "Kiminini Combined",
-        "pj": 1,
-        "g": 0,
-        "p": 1,
-        "n": 0,
-        "bp": 0,
-        "bc": 1,
-        "pts": 0
-       },
-       {
-        "pos": 18,
-        "team": "Nairobi City Stars",
-        "pj": 1,
-        "g": 0,
-        "p": 1,
-        "n": 0,
-        "bp": 0,
-        "bc": 3,
-        "pts": 0
-       },
-       {
-        "pos": 19,
-        "team": "Mfalme",
-        "pj": 1,
-        "g": 0,
-        "p": 1,
-        "n": 0,
-        "bp": 0,
-        "bc": 3,
-        "pts": 0
-       },
-       {
-        "pos": 20,
-        "team": "Spitfire",
-        "pj": 1,
-        "g": 0,
-        "p": 1,
-        "n": 0,
-        "bp": 0,
-        "bc": 3,
-        "pts": 0
-       }
-      ],
-      "foot": [
-       "Promotion - Premier League",
-       "Relegation"
-      ]
-     }
-    },
-    {
-     "tournament": "Kenya. Super League",
      "home": "Fortune Sacco",
      "away": "Nzoia Sugar",
      "start": 1795867200,
      "odds": {
-      "1": 1.71,
-      "X": 3.22,
-      "2": 4.685
+      "1": 1.67,
+      "X": 3.2,
+      "2": 5.05
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/7654b4e8667035cd4e5c957a77d73956.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/fbe828dbb0a1f90f55756e98b5202e84.png",
@@ -287,23 +21,23 @@
      "eid": 774662583,
      "tid": 1786993,
      "coupon": {
-      "1": "CYSBS",
-      "X": "3YSBS",
-      "2": "RYSBS"
+      "1": "N58SS",
+      "X": "Z58SS",
+      "2": "AN8SS"
      },
      "markets": {
       "dc": {
-       "1X": 1.109,
+       "1X": 1.09,
        "12": 1.24,
-       "X2": 1.89
+       "X2": 1.95
       },
       "ou25": {
-       "o": 2.44,
-       "u": 1.47
+       "o": 2.28,
+       "u": 1.533
       },
       "btts": {
-       "y": 2.2,
-       "n": 1.572
+       "y": 2.13,
+       "n": 1.613
       }
      },
      "stats": {
@@ -660,10 +394,598 @@
      }
     },
     {
+     "tournament": "Kenya. Super League",
+     "home": "Kiminini Combined",
+     "away": "Luanda Villa",
+     "start": 1795867200,
+     "odds": {
+      "1": 2.76,
+      "X": 2.79,
+      "2": 2.49
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/0ac1bd32ac0f9355707c7999821be2ee.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/44fbb2f334170fc774e7e95d05503e18.png",
+     "link": "https://1xlite-32085.pro/en/line/Football/1786993-Kenya-Super-League/397492443-Kiminini-Combined-Luanda-Villa",
+     "eid": 774537292,
+     "tid": 1786993,
+     "coupon": {
+      "1": "CQ8SS",
+      "X": "GQ8SS",
+      "2": "SQ8SS"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.39,
+       "12": 1.32,
+       "X2": 1.32
+      },
+      "ou25": {
+       "o": 2.625,
+       "u": 1.38
+      },
+      "btts": {
+       "y": 2.16,
+       "n": 1.593
+      }
+     },
+     "table": {
+      "title": "Kenya. Super League",
+      "group": "",
+      "rows": [
+       {
+        "pos": 1,
+        "team": "Nzoia Sugar",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 3,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 2,
+        "team": "MOFA",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 3,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 3,
+        "team": "BB Bread",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 3,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 4,
+        "team": "Sofapaka",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 5,
+        "team": "Kariobangi Sharks",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 6,
+        "team": "Kibera Black Stars",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 7,
+        "team": "Soy United",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 8,
+        "team": "Kabati Youth",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 9,
+        "team": "Talanta",
+        "pj": 1,
+        "g": 0,
+        "p": 0,
+        "n": 1,
+        "bp": 2,
+        "bc": 2,
+        "pts": 1
+       },
+       {
+        "pos": 10,
+        "team": "Equity",
+        "pj": 1,
+        "g": 0,
+        "p": 0,
+        "n": 1,
+        "bp": 2,
+        "bc": 2,
+        "pts": 1
+       },
+       {
+        "pos": 11,
+        "team": "Luanda Villa",
+        "pj": 1,
+        "g": 0,
+        "p": 0,
+        "n": 1,
+        "bp": 2,
+        "bc": 2,
+        "pts": 1
+       },
+       {
+        "pos": 12,
+        "team": "Kibera",
+        "pj": 1,
+        "g": 0,
+        "p": 0,
+        "n": 1,
+        "bp": 2,
+        "bc": 2,
+        "pts": 1
+       },
+       {
+        "pos": 13,
+        "team": "Naivas",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 14,
+        "team": "Kisumu All Stars",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 15,
+        "team": "Fortune Sacco",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 16,
+        "team": "Gucha Stars",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 17,
+        "team": "Kiminini Combined",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 18,
+        "team": "Nairobi City Stars",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 3,
+        "pts": 0
+       },
+       {
+        "pos": 19,
+        "team": "Mfalme",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 3,
+        "pts": 0
+       },
+       {
+        "pos": 20,
+        "team": "Spitfire",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 3,
+        "pts": 0
+       }
+      ],
+      "foot": [
+       "Promotion - Premier League",
+       "Relegation"
+      ]
+     }
+    },
+    {
+     "tournament": "Kenya. Super League",
+     "home": "Kibera",
+     "away": "Soy United",
+     "start": 1795946400,
+     "odds": {
+      "1": 2.43,
+      "X": 2.82,
+      "2": 2.81
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/fa1b1ae30a0851e3c71bc1c40695c463.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/085e6d0087285e0e6403fbbcdfe5a269.png",
+     "link": "https://1xlite-32085.pro/en/line/Football/1786993-Kenya-Super-League/397646645-Kibera-Soy-United",
+     "eid": 774788023,
+     "tid": 1786993,
+     "coupon": {
+      "1": "F68SS",
+      "X": "468SS",
+      "2": "P68SS"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.31,
+       "12": 1.31,
+       "X2": 1.41
+      },
+      "ou25": {
+       "o": 2.52,
+       "u": 1.41
+      },
+      "btts": {
+       "y": 2.09,
+       "n": 1.634
+      }
+     },
+     "stats": {
+      "h2h": [],
+      "f1": [
+       {
+        "d": 1795428000,
+        "o": "Talanta",
+        "gf": 2,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1744547400,
+        "o": "Muranga Seal",
+        "gf": 1,
+        "ga": 5,
+        "dom": false
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795521600,
+        "o": "Kiminini Combined",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1781348400,
+        "o": "Luanda Villa",
+        "gf": 1,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1780833600,
+        "o": "MOFA",
+        "gf": 0,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1780315200,
+        "o": "Equity",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1779969600,
+        "o": "Kisumu All Stars",
+        "gf": 0,
+        "ga": 0,
+        "dom": true
+       }
+      ]
+     },
+     "table": {
+      "title": "Kenya. Super League",
+      "group": "",
+      "rows": [
+       {
+        "pos": 1,
+        "team": "Nzoia Sugar",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 3,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 2,
+        "team": "MOFA",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 3,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 3,
+        "team": "BB Bread",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 3,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 4,
+        "team": "Sofapaka",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 5,
+        "team": "Kariobangi Sharks",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 6,
+        "team": "Kibera Black Stars",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 7,
+        "team": "Soy United",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 8,
+        "team": "Kabati Youth",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 9,
+        "team": "Talanta",
+        "pj": 1,
+        "g": 0,
+        "p": 0,
+        "n": 1,
+        "bp": 2,
+        "bc": 2,
+        "pts": 1
+       },
+       {
+        "pos": 10,
+        "team": "Equity",
+        "pj": 1,
+        "g": 0,
+        "p": 0,
+        "n": 1,
+        "bp": 2,
+        "bc": 2,
+        "pts": 1
+       },
+       {
+        "pos": 11,
+        "team": "Luanda Villa",
+        "pj": 1,
+        "g": 0,
+        "p": 0,
+        "n": 1,
+        "bp": 2,
+        "bc": 2,
+        "pts": 1
+       },
+       {
+        "pos": 12,
+        "team": "Kibera",
+        "pj": 1,
+        "g": 0,
+        "p": 0,
+        "n": 1,
+        "bp": 2,
+        "bc": 2,
+        "pts": 1
+       },
+       {
+        "pos": 13,
+        "team": "Naivas",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 14,
+        "team": "Kisumu All Stars",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 15,
+        "team": "Fortune Sacco",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 16,
+        "team": "Gucha Stars",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 17,
+        "team": "Kiminini Combined",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 18,
+        "team": "Nairobi City Stars",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 3,
+        "pts": 0
+       },
+       {
+        "pos": 19,
+        "team": "Mfalme",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 3,
+        "pts": 0
+       },
+       {
+        "pos": 20,
+        "team": "Spitfire",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 3,
+        "pts": 0
+       }
+      ],
+      "foot": [
+       "Promotion - Premier League",
+       "Relegation"
+      ]
+     }
+    },
+    {
      "tournament": "Kenya. Premier League",
      "home": "Shabana",
      "away": "Ulinzi Stars",
-     "start": 1795953600,
+     "start": 1795948200,
      "odds": {
       "1": 2.07,
       "X": 2.92,
@@ -675,9 +997,9 @@
      "eid": 774513024,
      "tid": 1174103,
      "coupon": {
-      "1": "HZSBS",
-      "X": "7ZSBS",
-      "2": "9ZSBS"
+      "1": "DR8SS",
+      "X": "4R8SS",
+      "2": "6R8SS"
      },
      "markets": {
       "dc": {
@@ -1049,361 +1371,6 @@
     },
     {
      "tournament": "Kenya. Premier League",
-     "home": "Posta Rangers",
-     "away": "Nairobi United",
-     "start": 1795953600,
-     "odds": {
-      "1": 3.52,
-      "X": 2.91,
-      "2": 2.08
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/302823.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/361023ec8d1f6da5d8a17974ec4c2347.png",
-     "link": "https://1xlite-32085.pro/en/line/Football/1174103-Kenya-Premier-League/397491348-Posta-Rangers-Nairobi-United",
-     "eid": 774508764,
-     "tid": 1174103,
-     "coupon": {
-      "1": "D1TBS",
-      "X": "L1TBS",
-      "2": "61TBS"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.58,
-       "12": 1.29,
-       "X2": 1.21
-      },
-      "ou25": {
-       "o": 2.44,
-       "u": 1.47
-      },
-      "btts": {
-       "y": 2.06,
-       "n": 1.654
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1778929200,
-        "h": "Nairobi United",
-        "a": "Posta Rangers",
-        "s": [
-         2,
-         2
-        ],
-        "t": "Kenya. Premier League",
-        "hh": false
-       },
-       {
-        "d": 1775997000,
-        "h": "Posta Rangers",
-        "a": "Nairobi United",
-        "s": [
-         0,
-         2
-        ],
-        "t": "Kenya Cup",
-        "hh": true
-       },
-       {
-        "d": 1765198800,
-        "h": "Posta Rangers",
-        "a": "Nairobi United",
-        "s": [
-         2,
-         0
-        ],
-        "t": "Kenya. Premier League",
-        "hh": true
-       }
-      ],
-      "f1": [
-       {
-        "d": 1795608000,
-        "o": "Tusker",
-        "gf": 1,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1795350600,
-        "o": "Gor Mahia",
-        "gf": 1,
-        "ga": 2,
-        "dom": true
-       },
-       {
-        "d": 1794739500,
-        "o": "Kenya Police",
-        "gf": 1,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1794139200,
-        "o": "Mathare United",
-        "gf": 2,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1793617200,
-        "o": "3K",
-        "gf": 1,
-        "ga": 2,
-        "dom": true
-       }
-      ],
-      "f2": [
-       {
-        "d": 1795608000,
-        "o": "3K",
-        "gf": 2,
-        "ga": 0,
-        "dom": false
-       },
-       {
-        "d": 1794143700,
-        "o": "Gor Mahia",
-        "gf": 1,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1793534400,
-        "o": "Bandari Kenya",
-        "gf": 1,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1793188800,
-        "o": "Muranga Seal",
-        "gf": 2,
-        "ga": 3,
-        "dom": false
-       },
-       {
-        "d": 1792929600,
-        "o": "APS Bomet",
-        "gf": 1,
-        "ga": 1,
-        "dom": true
-       }
-      ]
-     },
-     "table": {
-      "title": "Kenya. Premier League",
-      "group": "",
-      "rows": [
-       {
-        "pos": 1,
-        "team": "Kenya Commercial Bank SC",
-        "pj": 9,
-        "g": 6,
-        "p": 1,
-        "n": 2,
-        "bp": 14,
-        "bc": 5,
-        "pts": 20
-       },
-       {
-        "pos": 2,
-        "team": "Gor Mahia",
-        "pj": 8,
-        "g": 6,
-        "p": 1,
-        "n": 1,
-        "bp": 14,
-        "bc": 6,
-        "pts": 19
-       },
-       {
-        "pos": 3,
-        "team": "AFC Leopards",
-        "pj": 9,
-        "g": 4,
-        "p": 0,
-        "n": 5,
-        "bp": 6,
-        "bc": 1,
-        "pts": 17
-       },
-       {
-        "pos": 4,
-        "team": "APS Bomet",
-        "pj": 9,
-        "g": 3,
-        "p": 2,
-        "n": 4,
-        "bp": 8,
-        "bc": 5,
-        "pts": 13
-       },
-       {
-        "pos": 5,
-        "team": "Kenya Police",
-        "pj": 9,
-        "g": 3,
-        "p": 2,
-        "n": 4,
-        "bp": 9,
-        "bc": 8,
-        "pts": 13
-       },
-       {
-        "pos": 6,
-        "team": "Mara Sugar",
-        "pj": 8,
-        "g": 3,
-        "p": 1,
-        "n": 4,
-        "bp": 8,
-        "bc": 7,
-        "pts": 13
-       },
-       {
-        "pos": 7,
-        "team": "Muranga Seal",
-        "pj": 9,
-        "g": 3,
-        "p": 4,
-        "n": 2,
-        "bp": 16,
-        "bc": 17,
-        "pts": 11
-       },
-       {
-        "pos": 8,
-        "team": "Kakamega Homeboyz",
-        "pj": 8,
-        "g": 2,
-        "p": 2,
-        "n": 4,
-        "bp": 8,
-        "bc": 9,
-        "pts": 10
-       },
-       {
-        "pos": 9,
-        "team": "Bandari Kenya",
-        "pj": 9,
-        "g": 2,
-        "p": 3,
-        "n": 4,
-        "bp": 5,
-        "bc": 7,
-        "pts": 10
-       },
-       {
-        "pos": 10,
-        "team": "Tusker",
-        "pj": 5,
-        "g": 3,
-        "p": 2,
-        "n": 0,
-        "bp": 8,
-        "bc": 5,
-        "pts": 9
-       },
-       {
-        "pos": 11,
-        "team": "Shabana",
-        "pj": 8,
-        "g": 2,
-        "p": 3,
-        "n": 3,
-        "bp": 7,
-        "bc": 8,
-        "pts": 9
-       },
-       {
-        "pos": 12,
-        "team": "Mathare United",
-        "pj": 9,
-        "g": 2,
-        "p": 4,
-        "n": 3,
-        "bp": 7,
-        "bc": 9,
-        "pts": 9
-       },
-       {
-        "pos": 13,
-        "team": "Ulinzi Stars",
-        "pj": 9,
-        "g": 1,
-        "p": 2,
-        "n": 6,
-        "bp": 7,
-        "bc": 9,
-        "pts": 9
-       },
-       {
-        "pos": 14,
-        "team": "3K",
-        "pj": 8,
-        "g": 2,
-        "p": 3,
-        "n": 3,
-        "bp": 7,
-        "bc": 11,
-        "pts": 9
-       },
-       {
-        "pos": 15,
-        "team": "Nairobi United",
-        "pj": 7,
-        "g": 1,
-        "p": 1,
-        "n": 5,
-        "bp": 9,
-        "bc": 8,
-        "pts": 8
-       },
-       {
-        "pos": 16,
-        "team": "Migori Youth",
-        "pj": 8,
-        "g": 1,
-        "p": 2,
-        "n": 5,
-        "bp": 6,
-        "bc": 6,
-        "pts": 8
-       },
-       {
-        "pos": 17,
-        "team": "Posta Rangers",
-        "pj": 9,
-        "g": 2,
-        "p": 6,
-        "n": 1,
-        "bp": 8,
-        "bc": 15,
-        "pts": 7
-       },
-       {
-        "pos": 18,
-        "team": "Mombasa United",
-        "pj": 9,
-        "g": 0,
-        "p": 7,
-        "n": 2,
-        "bp": 5,
-        "bc": 16,
-        "pts": 2
-       }
-      ],
-      "foot": [
-       "Promotion - Champions League (Qualification)",
-       "Relegation - Superliga"
-      ]
-     }
-    },
-    {
-     "tournament": "Kenya. Premier League",
      "home": "Kenya Commercial Bank SC",
      "away": "Bandari Kenya",
      "start": 1795953600,
@@ -1418,9 +1385,9 @@
      "eid": 774508761,
      "tid": 1174103,
      "coupon": {
-      "1": "JATBS",
-      "X": "6ATBS",
-      "2": "ABTBS"
+      "1": "5T8SS",
+      "X": "A78SS",
+      "2": "578SS"
      },
      "markets": {
       "dc": {
@@ -1814,9 +1781,1073 @@
     },
     {
      "tournament": "Kenya. Premier League",
+     "home": "Posta Rangers",
+     "away": "Nairobi United",
+     "start": 1795953600,
+     "odds": {
+      "1": 3.52,
+      "X": 2.91,
+      "2": 2.08
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/302823.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/361023ec8d1f6da5d8a17974ec4c2347.png",
+     "link": "https://1xlite-32085.pro/en/line/Football/1174103-Kenya-Premier-League/397491348-Posta-Rangers-Nairobi-United",
+     "eid": 774508764,
+     "tid": 1174103,
+     "coupon": {
+      "1": "UU8SS",
+      "X": "AV8SS",
+      "2": "JV8SS"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.58,
+       "12": 1.29,
+       "X2": 1.21
+      },
+      "ou25": {
+       "o": 2.44,
+       "u": 1.47
+      },
+      "btts": {
+       "y": 2.06,
+       "n": 1.654
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1778929200,
+        "h": "Nairobi United",
+        "a": "Posta Rangers",
+        "s": [
+         2,
+         2
+        ],
+        "t": "Kenya. Premier League",
+        "hh": false
+       },
+       {
+        "d": 1775997000,
+        "h": "Posta Rangers",
+        "a": "Nairobi United",
+        "s": [
+         0,
+         2
+        ],
+        "t": "Kenya Cup",
+        "hh": true
+       },
+       {
+        "d": 1765198800,
+        "h": "Posta Rangers",
+        "a": "Nairobi United",
+        "s": [
+         2,
+         0
+        ],
+        "t": "Kenya. Premier League",
+        "hh": true
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795608000,
+        "o": "Tusker",
+        "gf": 1,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1795350600,
+        "o": "Gor Mahia",
+        "gf": 1,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1794739500,
+        "o": "Kenya Police",
+        "gf": 1,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1794139200,
+        "o": "Mathare United",
+        "gf": 2,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1793617200,
+        "o": "3K",
+        "gf": 1,
+        "ga": 2,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795608000,
+        "o": "3K",
+        "gf": 2,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1794143700,
+        "o": "Gor Mahia",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1793534400,
+        "o": "Bandari Kenya",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793188800,
+        "o": "Muranga Seal",
+        "gf": 2,
+        "ga": 3,
+        "dom": false
+       },
+       {
+        "d": 1792929600,
+        "o": "APS Bomet",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       }
+      ]
+     },
+     "table": {
+      "title": "Kenya. Premier League",
+      "group": "",
+      "rows": [
+       {
+        "pos": 1,
+        "team": "Kenya Commercial Bank SC",
+        "pj": 9,
+        "g": 6,
+        "p": 1,
+        "n": 2,
+        "bp": 14,
+        "bc": 5,
+        "pts": 20
+       },
+       {
+        "pos": 2,
+        "team": "Gor Mahia",
+        "pj": 8,
+        "g": 6,
+        "p": 1,
+        "n": 1,
+        "bp": 14,
+        "bc": 6,
+        "pts": 19
+       },
+       {
+        "pos": 3,
+        "team": "AFC Leopards",
+        "pj": 9,
+        "g": 4,
+        "p": 0,
+        "n": 5,
+        "bp": 6,
+        "bc": 1,
+        "pts": 17
+       },
+       {
+        "pos": 4,
+        "team": "APS Bomet",
+        "pj": 9,
+        "g": 3,
+        "p": 2,
+        "n": 4,
+        "bp": 8,
+        "bc": 5,
+        "pts": 13
+       },
+       {
+        "pos": 5,
+        "team": "Kenya Police",
+        "pj": 9,
+        "g": 3,
+        "p": 2,
+        "n": 4,
+        "bp": 9,
+        "bc": 8,
+        "pts": 13
+       },
+       {
+        "pos": 6,
+        "team": "Mara Sugar",
+        "pj": 8,
+        "g": 3,
+        "p": 1,
+        "n": 4,
+        "bp": 8,
+        "bc": 7,
+        "pts": 13
+       },
+       {
+        "pos": 7,
+        "team": "Muranga Seal",
+        "pj": 9,
+        "g": 3,
+        "p": 4,
+        "n": 2,
+        "bp": 16,
+        "bc": 17,
+        "pts": 11
+       },
+       {
+        "pos": 8,
+        "team": "Kakamega Homeboyz",
+        "pj": 8,
+        "g": 2,
+        "p": 2,
+        "n": 4,
+        "bp": 8,
+        "bc": 9,
+        "pts": 10
+       },
+       {
+        "pos": 9,
+        "team": "Bandari Kenya",
+        "pj": 9,
+        "g": 2,
+        "p": 3,
+        "n": 4,
+        "bp": 5,
+        "bc": 7,
+        "pts": 10
+       },
+       {
+        "pos": 10,
+        "team": "Tusker",
+        "pj": 5,
+        "g": 3,
+        "p": 2,
+        "n": 0,
+        "bp": 8,
+        "bc": 5,
+        "pts": 9
+       },
+       {
+        "pos": 11,
+        "team": "Shabana",
+        "pj": 8,
+        "g": 2,
+        "p": 3,
+        "n": 3,
+        "bp": 7,
+        "bc": 8,
+        "pts": 9
+       },
+       {
+        "pos": 12,
+        "team": "Mathare United",
+        "pj": 9,
+        "g": 2,
+        "p": 4,
+        "n": 3,
+        "bp": 7,
+        "bc": 9,
+        "pts": 9
+       },
+       {
+        "pos": 13,
+        "team": "Ulinzi Stars",
+        "pj": 9,
+        "g": 1,
+        "p": 2,
+        "n": 6,
+        "bp": 7,
+        "bc": 9,
+        "pts": 9
+       },
+       {
+        "pos": 14,
+        "team": "3K",
+        "pj": 8,
+        "g": 2,
+        "p": 3,
+        "n": 3,
+        "bp": 7,
+        "bc": 11,
+        "pts": 9
+       },
+       {
+        "pos": 15,
+        "team": "Nairobi United",
+        "pj": 7,
+        "g": 1,
+        "p": 1,
+        "n": 5,
+        "bp": 9,
+        "bc": 8,
+        "pts": 8
+       },
+       {
+        "pos": 16,
+        "team": "Migori Youth",
+        "pj": 8,
+        "g": 1,
+        "p": 2,
+        "n": 5,
+        "bp": 6,
+        "bc": 6,
+        "pts": 8
+       },
+       {
+        "pos": 17,
+        "team": "Posta Rangers",
+        "pj": 9,
+        "g": 2,
+        "p": 6,
+        "n": 1,
+        "bp": 8,
+        "bc": 15,
+        "pts": 7
+       },
+       {
+        "pos": 18,
+        "team": "Mombasa United",
+        "pj": 9,
+        "g": 0,
+        "p": 7,
+        "n": 2,
+        "bp": 5,
+        "bc": 16,
+        "pts": 2
+       }
+      ],
+      "foot": [
+       "Promotion - Champions League (Qualification)",
+       "Relegation - Superliga"
+      ]
+     }
+    },
+    {
+     "tournament": "Kenya. Super League",
+     "home": "Equity",
+     "away": "MOFA",
+     "start": 1795953600,
+     "odds": {
+      "1": 2.05,
+      "X": 3.125,
+      "2": 3.33
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/684e2d94f2650e2ec4fe3eccbd77cf71.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/5c999cd210b412ba2b2547601024b25e.png",
+     "link": "https://1xlite-32085.pro/en/line/Football/1786993-Kenya-Super-League/397646647-Equity-MOFA",
+     "eid": 774780869,
+     "tid": 1786993,
+     "coupon": {
+      "1": "NX8SS",
+      "X": "B88SS",
+      "2": "Q88SS"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.24,
+       "12": 1.25,
+       "X2": 1.6
+      },
+      "ou25": {
+       "o": 2.33,
+       "u": 1.51
+      },
+      "btts": {
+       "y": 2.01,
+       "n": 1.69
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1776513600,
+        "h": "Equity",
+        "a": "MOFA",
+        "s": [
+         0,
+         0
+        ],
+        "t": "Kenya. Super League",
+        "hh": true
+       },
+       {
+        "d": 1768136400,
+        "h": "MOFA",
+        "a": "Equity",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Kenya. Super League",
+        "hh": false
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795521600,
+        "o": "Luanda Villa",
+        "gf": 2,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1781348400,
+        "o": "Mwatate United",
+        "gf": 2,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1780833600,
+        "o": "Migori Youth",
+        "gf": 1,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1780315200,
+        "o": "Soy United",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1779883200,
+        "o": "Fortune Sacco",
+        "gf": 4,
+        "ga": 0,
+        "dom": false
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795521600,
+        "o": "Nairobi City Stars",
+        "gf": 3,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1781348400,
+        "o": "Kabati Youth",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1780833600,
+        "o": "Soy United",
+        "gf": 0,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1780315200,
+        "o": "Kibera Black Stars",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1779969600,
+        "o": "Darajani Gogo",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       }
+      ]
+     },
+     "table": {
+      "title": "Kenya. Super League",
+      "group": "",
+      "rows": [
+       {
+        "pos": 1,
+        "team": "Nzoia Sugar",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 3,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 2,
+        "team": "MOFA",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 3,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 3,
+        "team": "BB Bread",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 3,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 4,
+        "team": "Sofapaka",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 5,
+        "team": "Kariobangi Sharks",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 6,
+        "team": "Kibera Black Stars",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 7,
+        "team": "Soy United",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 8,
+        "team": "Kabati Youth",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 9,
+        "team": "Talanta",
+        "pj": 1,
+        "g": 0,
+        "p": 0,
+        "n": 1,
+        "bp": 2,
+        "bc": 2,
+        "pts": 1
+       },
+       {
+        "pos": 10,
+        "team": "Equity",
+        "pj": 1,
+        "g": 0,
+        "p": 0,
+        "n": 1,
+        "bp": 2,
+        "bc": 2,
+        "pts": 1
+       },
+       {
+        "pos": 11,
+        "team": "Luanda Villa",
+        "pj": 1,
+        "g": 0,
+        "p": 0,
+        "n": 1,
+        "bp": 2,
+        "bc": 2,
+        "pts": 1
+       },
+       {
+        "pos": 12,
+        "team": "Kibera",
+        "pj": 1,
+        "g": 0,
+        "p": 0,
+        "n": 1,
+        "bp": 2,
+        "bc": 2,
+        "pts": 1
+       },
+       {
+        "pos": 13,
+        "team": "Naivas",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 14,
+        "team": "Kisumu All Stars",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 15,
+        "team": "Fortune Sacco",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 16,
+        "team": "Gucha Stars",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 17,
+        "team": "Kiminini Combined",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 18,
+        "team": "Nairobi City Stars",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 3,
+        "pts": 0
+       },
+       {
+        "pos": 19,
+        "team": "Mfalme",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 3,
+        "pts": 0
+       },
+       {
+        "pos": 20,
+        "team": "Spitfire",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 3,
+        "pts": 0
+       }
+      ],
+      "foot": [
+       "Promotion - Premier League",
+       "Relegation"
+      ]
+     }
+    },
+    {
+     "tournament": "Kenya. Super League",
+     "home": "Sofapaka",
+     "away": "Kibera Black Stars",
+     "start": 1795953600,
+     "odds": {
+      "1": 1.84,
+      "X": 3.125,
+      "2": 4.065
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/5f1729ceaa0d7c88586f7699c1bd3175.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/4050e17cbea376ee6d600142067e1ff3.png",
+     "link": "https://1xlite-32085.pro/en/line/Football/1786993-Kenya-Super-League/397646646-Sofapaka-Kibera-Black-Stars",
+     "eid": 774780866,
+     "tid": 1786993,
+     "coupon": {
+      "1": "YY8SS",
+      "X": "4Z8SS",
+      "2": "RZ8SS"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.152,
+       "12": 1.25,
+       "X2": 1.75
+      },
+      "ou25": {
+       "o": 2.31,
+       "u": 1.52
+      },
+      "btts": {
+       "y": 2.06,
+       "n": 1.654
+      }
+     },
+     "stats": {
+      "h2h": [],
+      "f1": [
+       {
+        "d": 1795435200,
+        "o": "Gucha Stars",
+        "gf": 1,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1780228800,
+        "o": "Kariobangi Sharks",
+        "gf": 0,
+        "ga": 6,
+        "dom": false
+       },
+       {
+        "d": 1779883200,
+        "o": "Kenya Commercial Bank SC",
+        "gf": 1,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1779620400,
+        "o": "Shabana",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1778500800,
+        "o": "Posta Rangers",
+        "gf": 0,
+        "ga": 3,
+        "dom": false
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795435200,
+        "o": "Naivas",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1781348400,
+        "o": "Nzoia Sugar",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1780833600,
+        "o": "Mully Children's Family",
+        "gf": 1,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1780315200,
+        "o": "MOFA",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1779883200,
+        "o": "Nairobi City Stars",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       }
+      ]
+     },
+     "table": {
+      "title": "Kenya. Super League",
+      "group": "",
+      "rows": [
+       {
+        "pos": 1,
+        "team": "Nzoia Sugar",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 3,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 2,
+        "team": "MOFA",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 3,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 3,
+        "team": "BB Bread",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 3,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 4,
+        "team": "Sofapaka",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 5,
+        "team": "Kariobangi Sharks",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 6,
+        "team": "Kibera Black Stars",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 7,
+        "team": "Soy United",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 8,
+        "team": "Kabati Youth",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 9,
+        "team": "Talanta",
+        "pj": 1,
+        "g": 0,
+        "p": 0,
+        "n": 1,
+        "bp": 2,
+        "bc": 2,
+        "pts": 1
+       },
+       {
+        "pos": 10,
+        "team": "Equity",
+        "pj": 1,
+        "g": 0,
+        "p": 0,
+        "n": 1,
+        "bp": 2,
+        "bc": 2,
+        "pts": 1
+       },
+       {
+        "pos": 11,
+        "team": "Luanda Villa",
+        "pj": 1,
+        "g": 0,
+        "p": 0,
+        "n": 1,
+        "bp": 2,
+        "bc": 2,
+        "pts": 1
+       },
+       {
+        "pos": 12,
+        "team": "Kibera",
+        "pj": 1,
+        "g": 0,
+        "p": 0,
+        "n": 1,
+        "bp": 2,
+        "bc": 2,
+        "pts": 1
+       },
+       {
+        "pos": 13,
+        "team": "Naivas",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 14,
+        "team": "Kisumu All Stars",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 15,
+        "team": "Fortune Sacco",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 16,
+        "team": "Gucha Stars",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 17,
+        "team": "Kiminini Combined",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 18,
+        "team": "Nairobi City Stars",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 3,
+        "pts": 0
+       },
+       {
+        "pos": 19,
+        "team": "Mfalme",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 3,
+        "pts": 0
+       },
+       {
+        "pos": 20,
+        "team": "Spitfire",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 3,
+        "pts": 0
+       }
+      ],
+      "foot": [
+       "Promotion - Premier League",
+       "Relegation"
+      ]
+     }
+    },
+    {
+     "tournament": "Kenya. Premier League",
      "home": "AFC Leopards",
      "away": "Tusker",
-     "start": 1795958100,
+     "start": 1795955400,
      "odds": {
       "1": 2.25,
       "X": 2.77,
@@ -1828,9 +2859,9 @@
      "eid": 774513021,
      "tid": 1174103,
      "coupon": {
-      "1": "QBTBS",
-      "X": "SBTBS",
-      "2": "UBTBS"
+      "1": "F1YSS",
+      "X": "X1YSS",
+      "2": "HAYSS"
      },
      "markets": {
       "dc": {
@@ -2238,9 +3269,9 @@
      "eid": 774713405,
      "tid": 1786993,
      "coupon": {
-      "1": "ECTBS",
-      "X": "JCTBS",
-      "2": "4CTBS"
+      "1": "2CYSS",
+      "X": "JCYSS",
+      "2": "5CYSS"
      },
      "markets": {
       "dc": {
@@ -2255,6 +3286,268 @@
       "btts": {
        "y": 2.01,
        "n": 1.685
+      }
+     },
+     "table": {
+      "title": "Kenya. Super League",
+      "group": "",
+      "rows": [
+       {
+        "pos": 1,
+        "team": "Nzoia Sugar",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 3,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 2,
+        "team": "MOFA",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 3,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 3,
+        "team": "BB Bread",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 3,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 4,
+        "team": "Sofapaka",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 5,
+        "team": "Kariobangi Sharks",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 6,
+        "team": "Kibera Black Stars",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 7,
+        "team": "Soy United",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 8,
+        "team": "Kabati Youth",
+        "pj": 1,
+        "g": 1,
+        "p": 0,
+        "n": 0,
+        "bp": 1,
+        "bc": 0,
+        "pts": 3
+       },
+       {
+        "pos": 9,
+        "team": "Talanta",
+        "pj": 1,
+        "g": 0,
+        "p": 0,
+        "n": 1,
+        "bp": 2,
+        "bc": 2,
+        "pts": 1
+       },
+       {
+        "pos": 10,
+        "team": "Equity",
+        "pj": 1,
+        "g": 0,
+        "p": 0,
+        "n": 1,
+        "bp": 2,
+        "bc": 2,
+        "pts": 1
+       },
+       {
+        "pos": 11,
+        "team": "Luanda Villa",
+        "pj": 1,
+        "g": 0,
+        "p": 0,
+        "n": 1,
+        "bp": 2,
+        "bc": 2,
+        "pts": 1
+       },
+       {
+        "pos": 12,
+        "team": "Kibera",
+        "pj": 1,
+        "g": 0,
+        "p": 0,
+        "n": 1,
+        "bp": 2,
+        "bc": 2,
+        "pts": 1
+       },
+       {
+        "pos": 13,
+        "team": "Naivas",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 14,
+        "team": "Kisumu All Stars",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 15,
+        "team": "Fortune Sacco",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 16,
+        "team": "Gucha Stars",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 17,
+        "team": "Kiminini Combined",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 1,
+        "pts": 0
+       },
+       {
+        "pos": 18,
+        "team": "Nairobi City Stars",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 3,
+        "pts": 0
+       },
+       {
+        "pos": 19,
+        "team": "Mfalme",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 3,
+        "pts": 0
+       },
+       {
+        "pos": 20,
+        "team": "Spitfire",
+        "pj": 1,
+        "g": 0,
+        "p": 1,
+        "n": 0,
+        "bp": 0,
+        "bc": 3,
+        "pts": 0
+       }
+      ],
+      "foot": [
+       "Promotion - Premier League",
+       "Relegation"
+      ]
+     }
+    },
+    {
+     "tournament": "Kenya. Super League",
+     "home": "Naivas",
+     "away": "BB Bread",
+     "start": 1796040000,
+     "odds": {
+      "1": 1.84,
+      "X": 3.0,
+      "2": 4.665
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/200189296ddb7830cff782be7d050d13.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/03cac4f309847517efa0c262ac3278d3.png",
+     "link": "https://1xlite-32085.pro/en/line/Football/1786993-Kenya-Super-League/397662381-Naivas-BB-Bread",
+     "eid": 774804338,
+     "tid": 1786993,
+     "coupon": {
+      "1": "32YSS",
+      "X": "N2YSS",
+      "2": "72YSS"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.16,
+       "12": 1.34,
+       "X2": 1.88
+      },
+      "ou25": {
+       "o": 2.7,
+       "u": 1.4
       }
      },
      "table": {

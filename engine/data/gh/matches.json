@@ -1,0 +1,382 @@
+{
+ "updated": "2026-11-28T08:35:17+00:00",
+ "groups": [
+  {
+   "key": "liga",
+   "name": "Ghana Premier League",
+   "matches": [
+    {
+     "tournament": "Ghana. Premier League",
+     "home": "Heart of Lions",
+     "away": "Vision",
+     "start": 1795964400,
+     "odds": {
+      "1": 1.62,
+      "X": 3.3,
+      "2": 5.3
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/67c477891bc73dc9f5b913c2f6f423cd.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/80a7ff982538be52716bb52375be7b62.png",
+     "link": "https://1xlite-32085.pro/en/line/Football/27371-Ghana-Premier-League/397642036-Heart-of-Lions-Vision",
+     "eid": 774771595,
+     "tid": 27371,
+     "coupon": {
+      "1": "NYSSS",
+      "X": "TYSSS",
+      "2": "ZYSSS"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.079,
+       "12": 1.222,
+       "X2": 2.02
+      },
+      "ou25": {
+       "o": 2.33,
+       "u": 1.51
+      },
+      "btts": {
+       "y": 2.22,
+       "n": 1.562
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1775401200,
+        "h": "Heart of Lions",
+        "a": "Vision",
+        "s": [
+         2,
+         0
+        ],
+        "t": "Ghana. Premier League",
+        "hh": true
+       },
+       {
+        "d": 1763910000,
+        "h": "Vision",
+        "a": "Heart of Lions",
+        "s": [
+         2,
+         2
+        ],
+        "t": "Ghana. Premier League",
+        "hh": false
+       },
+       {
+        "d": 1741532400,
+        "h": "Vision",
+        "a": "Heart of Lions",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Ghana. Premier League",
+        "hh": false
+       },
+       {
+        "d": 1728745200,
+        "h": "Heart of Lions",
+        "a": "Vision",
+        "s": [
+         0,
+         0
+        ],
+        "t": "Ghana. Premier League",
+        "hh": true
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795359600,
+        "o": "Port City Tema",
+        "gf": 0,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1794668400,
+        "o": "Dreams",
+        "gf": 1,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1794150000,
+        "o": "Accra Hearts of Oak",
+        "gf": 0,
+        "ga": 3,
+        "dom": false
+       },
+       {
+        "d": 1793545200,
+        "o": "Bechem United",
+        "gf": 2,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1792940400,
+        "o": "Bibiani Gold Stars",
+        "gf": 1,
+        "ga": 2,
+        "dom": false
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795273200,
+        "o": "Debibi United",
+        "gf": 2,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1794754800,
+        "o": "Basake Holy Stars",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1793977200,
+        "o": "Karela",
+        "gf": 0,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1793458800,
+        "o": "Port City Tema",
+        "gf": 0,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1792940400,
+        "o": "Dreams",
+        "gf": 3,
+        "ga": 1,
+        "dom": false
+       }
+      ]
+     },
+     "table": {
+      "title": "Ghana. Premier League",
+      "group": "",
+      "rows": [
+       {
+        "pos": 1,
+        "team": "Medeama",
+        "pj": 12,
+        "g": 8,
+        "p": 1,
+        "n": 3,
+        "bp": 20,
+        "bc": 9,
+        "pts": 27
+       },
+       {
+        "pos": 2,
+        "team": "Bechem United",
+        "pj": 12,
+        "g": 7,
+        "p": 4,
+        "n": 1,
+        "bp": 16,
+        "bc": 12,
+        "pts": 22
+       },
+       {
+        "pos": 3,
+        "team": "Accra Hearts of Oak",
+        "pj": 12,
+        "g": 6,
+        "p": 2,
+        "n": 4,
+        "bp": 14,
+        "bc": 5,
+        "pts": 22
+       },
+       {
+        "pos": 4,
+        "team": "Port City Tema",
+        "pj": 12,
+        "g": 6,
+        "p": 2,
+        "n": 4,
+        "bp": 15,
+        "bc": 8,
+        "pts": 22
+       },
+       {
+        "pos": 5,
+        "team": "Samartex",
+        "pj": 12,
+        "g": 5,
+        "p": 3,
+        "n": 4,
+        "bp": 11,
+        "bc": 9,
+        "pts": 19
+       },
+       {
+        "pos": 6,
+        "team": "Aduana",
+        "pj": 12,
+        "g": 5,
+        "p": 4,
+        "n": 3,
+        "bp": 11,
+        "bc": 8,
+        "pts": 18
+       },
+       {
+        "pos": 7,
+        "team": "Berekum Chelsea",
+        "pj": 12,
+        "g": 5,
+        "p": 4,
+        "n": 3,
+        "bp": 14,
+        "bc": 13,
+        "pts": 18
+       },
+       {
+        "pos": 8,
+        "team": "Ashantigold 04",
+        "pj": 12,
+        "g": 5,
+        "p": 4,
+        "n": 3,
+        "bp": 13,
+        "bc": 12,
+        "pts": 18
+       },
+       {
+        "pos": 9,
+        "team": "Basake Holy Stars",
+        "pj": 12,
+        "g": 5,
+        "p": 6,
+        "n": 1,
+        "bp": 6,
+        "bc": 10,
+        "pts": 16
+       },
+       {
+        "pos": 10,
+        "team": "Swedru All Blacks",
+        "pj": 12,
+        "g": 4,
+        "p": 4,
+        "n": 4,
+        "bp": 9,
+        "bc": 8,
+        "pts": 16
+       },
+       {
+        "pos": 11,
+        "team": "Vision",
+        "pj": 12,
+        "g": 3,
+        "p": 4,
+        "n": 5,
+        "bp": 13,
+        "bc": 13,
+        "pts": 14
+       },
+       {
+        "pos": 12,
+        "team": "Asante Kotoko",
+        "pj": 12,
+        "g": 3,
+        "p": 4,
+        "n": 5,
+        "bp": 11,
+        "bc": 13,
+        "pts": 14
+       },
+       {
+        "pos": 13,
+        "team": "Bibiani Gold Stars",
+        "pj": 12,
+        "g": 3,
+        "p": 5,
+        "n": 4,
+        "bp": 8,
+        "bc": 10,
+        "pts": 13
+       },
+       {
+        "pos": 14,
+        "team": "Dreams",
+        "pj": 12,
+        "g": 3,
+        "p": 5,
+        "n": 4,
+        "bp": 13,
+        "bc": 16,
+        "pts": 13
+       },
+       {
+        "pos": 15,
+        "team": "Karela",
+        "pj": 12,
+        "g": 3,
+        "p": 6,
+        "n": 3,
+        "bp": 8,
+        "bc": 12,
+        "pts": 12
+       },
+       {
+        "pos": 16,
+        "team": "Heart of Lions",
+        "pj": 12,
+        "g": 3,
+        "p": 6,
+        "n": 3,
+        "bp": 11,
+        "bc": 18,
+        "pts": 12
+       },
+       {
+        "pos": 17,
+        "team": "Debibi United",
+        "pj": 12,
+        "g": 3,
+        "p": 7,
+        "n": 2,
+        "bp": 11,
+        "bc": 18,
+        "pts": 11
+       },
+       {
+        "pos": 18,
+        "team": "Young Apostles",
+        "pj": 12,
+        "g": 2,
+        "p": 8,
+        "n": 2,
+        "bp": 7,
+        "bc": 17,
+        "pts": 8
+       }
+      ],
+      "foot": [
+       "Promotion - Champions League (Qualification)",
+       "Relegation"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "key": "seleccion",
+   "name": "Selección",
+   "matches": []
+  }
+ ]
+}

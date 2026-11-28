@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T00:00:44+00:00",
+ "updated": "2026-11-28T08:31:03+00:00",
  "groups": [
   {
    "key": "liga",
@@ -11,9 +11,9 @@
      "away": "Recoleta",
      "start": 1795906800,
      "odds": {
-      "1": 1.527,
-      "X": 3.89,
-      "2": 6.33
+      "1": 1.485,
+      "X": 4.015,
+      "2": 6.79
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/9031de2b12369d64676efc58cb4993c1.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/8a15a9a99e322f46e5c6cdd376f33d7d.png",
@@ -21,23 +21,23 @@
      "eid": 773650658,
      "tid": 55479,
      "coupon": {
-      "1": "BPLBS",
-      "X": "CPLBS",
-      "2": "FPLBS"
+      "1": "FCPSS",
+      "X": "LCPSS",
+      "2": "TCPSS"
      },
      "markets": {
       "dc": {
-       "1X": 1.09,
-       "12": 1.222,
-       "X2": 2.377
+       "1X": 1.077,
+       "12": 1.21,
+       "X2": 2.488
       },
       "ou25": {
-       "o": 1.62,
-       "u": 2.211
+       "o": 1.613,
+       "u": 2.225
       },
       "btts": {
-       "y": 1.69,
-       "n": 2.031
+       "y": 1.72,
+       "n": 1.983
       }
      },
      "stats": {
@@ -212,9 +212,9 @@
      "eid": 773650664,
      "tid": 55479,
      "coupon": {
-      "1": "LRLBS",
-      "X": "HSLBS",
-      "2": "DTLBS"
+      "1": "DDPSS",
+      "X": "JDPSS",
+      "2": "RDPSS"
      },
      "markets": {
       "dc": {
@@ -404,9 +404,9 @@
      "away": "2 de Mayo",
      "start": 1795993200,
      "odds": {
-      "1": 1.674,
-      "X": 3.385,
-      "2": 5.64
+      "1": 1.63,
+      "X": 3.465,
+      "2": 5.95
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/4a5a8d6e5e87b7ce7adb4182cd7ddcb7.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/79a8f83e40956c2cc1459512950f9b70.png",
@@ -414,19 +414,19 @@
      "eid": 773650652,
      "tid": 55479,
      "coupon": {
-      "1": "9TLBS",
-      "X": "B7LBS",
-      "2": "F7LBS"
+      "1": "BEPSS",
+      "X": "EEPSS",
+      "2": "KEPSS"
      },
      "markets": {
       "dc": {
-       "1X": 1.113,
-       "12": 1.282,
-       "X2": 2.093
+       "1X": 1.102,
+       "12": 1.27,
+       "X2": 2.165
       },
       "ou25": {
-       "o": 1.792,
-       "u": 1.955
+       "o": 1.762,
+       "u": 1.992
       },
       "btts": {
        "y": 1.75,
@@ -616,9 +616,9 @@
      "eid": 773650655,
      "tid": 55479,
      "coupon": {
-      "1": "67LBS",
-      "X": "V7LBS",
-      "2": "Z7LBS"
+      "1": "HFPSS",
+      "X": "LFPSS",
+      "2": "7FPSS"
      },
      "markets": {
       "dc": {

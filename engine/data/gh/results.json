@@ -1,14 +1,3529 @@
 {
- "updated": "2026-11-28T00:04:12+00:00",
+ "updated": "2026-11-28T08:35:17+00:00",
  "backfilled": [
   1706694,
   2905343,
   125983,
   2479360,
   2474293,
-  2475890
+  2475890,
+  27371
  ],
  "matches": [
+  {
+   "id": 664905361,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Heart of Lions",
+   "away": "Basake Holy Stars",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1761318000,
+   "group": "liga"
+  },
+  {
+   "id": 665236183,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Aduana",
+   "away": "Dreams",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1761404400,
+   "group": "liga"
+  },
+  {
+   "id": 665554068,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Karela",
+   "away": "Bechem United",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1761490800,
+   "group": "liga"
+  },
+  {
+   "id": 665554331,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Nations",
+   "away": "Eleven Wonders",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:1,1:1)",
+   "start": 1761490800,
+   "group": "liga"
+  },
+  {
+   "id": 665554039,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Accra Hearts of Oak",
+   "away": "Bibiani Gold Stars",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1761490800,
+   "group": "liga"
+  },
+  {
+   "id": 665554135,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Medeama",
+   "away": "Swedru All Blacks",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1761490800,
+   "group": "liga"
+  },
+  {
+   "id": 665426300,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Young Apostles",
+   "away": "Berekum Chelsea",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1761490800,
+   "group": "liga"
+  },
+  {
+   "id": 665426303,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Samartex",
+   "away": "Hohoe United",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1761490800,
+   "group": "liga"
+  },
+  {
+   "id": 666948004,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bechem United",
+   "away": "Nations",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1761923700,
+   "group": "liga"
+  },
+  {
+   "id": 667264460,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Hohoe United",
+   "away": "Medeama",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1762011000,
+   "group": "liga"
+  },
+  {
+   "id": 667574179,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Dreams",
+   "away": "Samartex",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1762095600,
+   "group": "liga"
+  },
+  {
+   "id": 667574159,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Basake Holy Stars",
+   "away": "Accra Hearts of Oak",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1762095600,
+   "group": "liga"
+  },
+  {
+   "id": 667573472,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Swedru All Blacks",
+   "away": "Heart of Lions",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1762095600,
+   "group": "liga"
+  },
+  {
+   "id": 667449261,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Berekum Chelsea",
+   "away": "Vision",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1762095600,
+   "group": "liga"
+  },
+  {
+   "id": 667451231,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bibiani Gold Stars",
+   "away": "Young Apostles",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1762095600,
+   "group": "liga"
+  },
+  {
+   "id": 667520321,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Eleven Wonders",
+   "away": "Aduana",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1762095600,
+   "group": "liga"
+  },
+  {
+   "id": 667586941,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Asante Kotoko",
+   "away": "Karela",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (3:1,1:1)",
+   "start": 1762097400,
+   "group": "liga"
+  },
+  {
+   "id": 668922739,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Nations",
+   "away": "Hohoe United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1762529400,
+   "group": "liga"
+  },
+  {
+   "id": 669230248,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Vision",
+   "away": "Eleven Wonders",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1762614000,
+   "group": "liga"
+  },
+  {
+   "id": 669244028,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Aduana",
+   "away": "Medeama",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762614000,
+   "group": "liga"
+  },
+  {
+   "id": 669550221,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Heart of Lions",
+   "away": "Berekum Chelsea",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1762700400,
+   "group": "liga"
+  },
+  {
+   "id": 669550325,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Young Apostles",
+   "away": "Bechem United",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:1,2:1)",
+   "start": 1762700400,
+   "group": "liga"
+  },
+  {
+   "id": 669549970,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Basake Holy Stars",
+   "away": "Bibiani Gold Stars",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1762700400,
+   "group": "liga"
+  },
+  {
+   "id": 669550265,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Karela",
+   "away": "Dreams",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1762700400,
+   "group": "liga"
+  },
+  {
+   "id": 669412923,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Samartex",
+   "away": "Swedru All Blacks",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1762700400,
+   "group": "liga"
+  },
+  {
+   "id": 669568280,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Accra Hearts of Oak",
+   "away": "Asante Kotoko",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1762704000,
+   "group": "liga"
+  },
+  {
+   "id": 670306340,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Vision",
+   "away": "Asante Kotoko",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1762959600,
+   "group": "liga"
+  },
+  {
+   "id": 671138601,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Swedru All Blacks",
+   "away": "Accra Hearts of Oak",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1763218800,
+   "group": "liga"
+  },
+  {
+   "id": 671440127,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Eleven Wonders",
+   "away": "Medeama",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:1,1:1)",
+   "start": 1763305200,
+   "group": "liga"
+  },
+  {
+   "id": 671440137,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Dreams",
+   "away": "Hohoe United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1763305200,
+   "group": "liga"
+  },
+  {
+   "id": 671442574,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Basake Holy Stars",
+   "away": "Vision",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1763305200,
+   "group": "liga"
+  },
+  {
+   "id": 671440144,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Heart of Lions",
+   "away": "Young Apostles",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1763305200,
+   "group": "liga"
+  },
+  {
+   "id": 671308953,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Berekum Chelsea",
+   "away": "Nations",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1763305200,
+   "group": "liga"
+  },
+  {
+   "id": 671311001,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bechem United",
+   "away": "Samartex",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1763305200,
+   "group": "liga"
+  },
+  {
+   "id": 671312391,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bibiani Gold Stars",
+   "away": "Karela",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1763305200,
+   "group": "liga"
+  },
+  {
+   "id": 671448602,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Asante Kotoko",
+   "away": "Aduana",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:1,0:0)",
+   "start": 1763306100,
+   "group": "liga"
+  },
+  {
+   "id": 672209941,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Asante Kotoko",
+   "away": "Young Apostles",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1763564400,
+   "group": "liga"
+  },
+  {
+   "id": 673033239,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Karela",
+   "away": "Basake Holy Stars",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:0,2:2)",
+   "start": 1763823600,
+   "group": "liga"
+  },
+  {
+   "id": 673046195,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Medeama",
+   "away": "Bechem United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1763825400,
+   "group": "liga"
+  },
+  {
+   "id": 673349922,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Hohoe United",
+   "away": "Eleven Wonders",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1763910000,
+   "group": "liga"
+  },
+  {
+   "id": 673349953,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Young Apostles",
+   "away": "Accra Hearts of Oak",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1763910000,
+   "group": "liga"
+  },
+  {
+   "id": 673350156,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Vision",
+   "away": "Heart of Lions",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:0,2:2)",
+   "start": 1763910000,
+   "group": "liga"
+  },
+  {
+   "id": 673227210,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Samartex",
+   "away": "Asante Kotoko",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1763910000,
+   "group": "liga"
+  },
+  {
+   "id": 672869943,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Nations",
+   "away": "Bibiani Gold Stars",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1763910000,
+   "group": "liga"
+  },
+  {
+   "id": 673129177,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Aduana",
+   "away": "Berekum Chelsea",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1763910000,
+   "group": "liga"
+  },
+  {
+   "id": 673360990,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Dreams",
+   "away": "Swedru All Blacks",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (2:2,0:1)",
+   "start": 1763911800,
+   "group": "liga"
+  },
+  {
+   "id": 674116882,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Basake Holy Stars",
+   "away": "Asante Kotoko",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1764169200,
+   "group": "liga"
+  },
+  {
+   "id": 674952753,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Accra Hearts of Oak",
+   "away": "Vision",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1764432000,
+   "group": "liga"
+  },
+  {
+   "id": 675226669,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Basake Holy Stars",
+   "away": "Nations",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1764514800,
+   "group": "liga"
+  },
+  {
+   "id": 675226686,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Swedru All Blacks",
+   "away": "Young Apostles",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1764514800,
+   "group": "liga"
+  },
+  {
+   "id": 675226753,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Heart of Lions",
+   "away": "Karela",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1764514800,
+   "group": "liga"
+  },
+  {
+   "id": 675097861,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bechem United",
+   "away": "Hohoe United",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1764514800,
+   "group": "liga"
+  },
+  {
+   "id": 675105941,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Berekum Chelsea",
+   "away": "Samartex",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1764514800,
+   "group": "liga"
+  },
+  {
+   "id": 675106444,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bibiani Gold Stars",
+   "away": "Aduana",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1764514800,
+   "group": "liga"
+  },
+  {
+   "id": 675244121,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Asante Kotoko",
+   "away": "Medeama",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:2,2:0)",
+   "start": 1764518400,
+   "group": "liga"
+  },
+  {
+   "id": 675479464,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Eleven Wonders",
+   "away": "Dreams",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1764604800,
+   "group": "liga"
+  },
+  {
+   "id": 676500315,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Eleven Wonders",
+   "away": "Swedru All Blacks",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1764949500,
+   "group": "liga"
+  },
+  {
+   "id": 676808176,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Nations",
+   "away": "Heart of Lions",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1765035000,
+   "group": "liga"
+  },
+  {
+   "id": 677103772,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Vision",
+   "away": "Young Apostles",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1765119600,
+   "group": "liga"
+  },
+  {
+   "id": 677106840,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Medeama",
+   "away": "Berekum Chelsea",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:1,2:0)",
+   "start": 1765119600,
+   "group": "liga"
+  },
+  {
+   "id": 677103850,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Dreams",
+   "away": "Bechem United",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1765119600,
+   "group": "liga"
+  },
+  {
+   "id": 677103762,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Karela",
+   "away": "Accra Hearts of Oak",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1765119600,
+   "group": "liga"
+  },
+  {
+   "id": 677103788,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Aduana",
+   "away": "Basake Holy Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1765119600,
+   "group": "liga"
+  },
+  {
+   "id": 676970976,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Samartex",
+   "away": "Bibiani Gold Stars",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1765119600,
+   "group": "liga"
+  },
+  {
+   "id": 677115535,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Hohoe United",
+   "away": "Asante Kotoko",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1765121400,
+   "group": "liga"
+  },
+  {
+   "id": 678349348,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Heart of Lions",
+   "away": "Aduana",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1765553400,
+   "group": "liga"
+  },
+  {
+   "id": 678650448,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Accra Hearts of Oak",
+   "away": "Nations",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1765641600,
+   "group": "liga"
+  },
+  {
+   "id": 678924591,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Basake Holy Stars",
+   "away": "Samartex",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1765724400,
+   "group": "liga"
+  },
+  {
+   "id": 678925175,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bechem United",
+   "away": "Eleven Wonders",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1765724400,
+   "group": "liga"
+  },
+  {
+   "id": 678925535,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Swedru All Blacks",
+   "away": "Vision",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1765724400,
+   "group": "liga"
+  },
+  {
+   "id": 678797928,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Berekum Chelsea",
+   "away": "Hohoe United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1765724400,
+   "group": "liga"
+  },
+  {
+   "id": 678797931,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Young Apostles",
+   "away": "Karela",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1765724400,
+   "group": "liga"
+  },
+  {
+   "id": 678800955,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bibiani Gold Stars",
+   "away": "Medeama",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1765724400,
+   "group": "liga"
+  },
+  {
+   "id": 678940397,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Asante Kotoko",
+   "away": "Dreams",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1765728000,
+   "group": "liga"
+  },
+  {
+   "id": 680150613,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bechem United",
+   "away": "Swedru All Blacks",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1766244600,
+   "group": "liga"
+  },
+  {
+   "id": 680738665,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Dreams",
+   "away": "Berekum Chelsea",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1766329200,
+   "group": "liga"
+  },
+  {
+   "id": 680738461,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Nations",
+   "away": "Young Apostles",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1766329200,
+   "group": "liga"
+  },
+  {
+   "id": 680738509,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Karela",
+   "away": "Vision",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1766329200,
+   "group": "liga"
+  },
+  {
+   "id": 680607745,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Hohoe United",
+   "away": "Bibiani Gold Stars",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1766329200,
+   "group": "liga"
+  },
+  {
+   "id": 680615083,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Samartex",
+   "away": "Heart of Lions",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1766329200,
+   "group": "liga"
+  },
+  {
+   "id": 680750059,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Aduana",
+   "away": "Accra Hearts of Oak",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1766331000,
+   "group": "liga"
+  },
+  {
+   "id": 680991026,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Medeama",
+   "away": "Basake Holy Stars",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1766419200,
+   "group": "liga"
+  },
+  {
+   "id": 681438531,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Eleven Wonders",
+   "away": "Asante Kotoko",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1766591100,
+   "group": "liga"
+  },
+  {
+   "id": 681849213,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Accra Hearts of Oak",
+   "away": "Samartex",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1766763000,
+   "group": "liga"
+  },
+  {
+   "id": 682079645,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Vision",
+   "away": "Nations",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1766847600,
+   "group": "liga"
+  },
+  {
+   "id": 682087965,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Heart of Lions",
+   "away": "Medeama",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1766849400,
+   "group": "liga"
+  },
+  {
+   "id": 682324516,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Berekum Chelsea",
+   "away": "Eleven Wonders",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1766934000,
+   "group": "liga"
+  },
+  {
+   "id": 682324451,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Swedru All Blacks",
+   "away": "Karela",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1766934000,
+   "group": "liga"
+  },
+  {
+   "id": 682324523,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bibiani Gold Stars",
+   "away": "Dreams",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (0:2,3:0)",
+   "start": 1766934000,
+   "group": "liga"
+  },
+  {
+   "id": 682213939,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Young Apostles",
+   "away": "Aduana",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1766934000,
+   "group": "liga"
+  },
+  {
+   "id": 682214375,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Basake Holy Stars",
+   "away": "Hohoe United",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1766934000,
+   "group": "liga"
+  },
+  {
+   "id": 682332125,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Asante Kotoko",
+   "away": "Bechem United",
+   "score": [
+    6,
+    0
+   ],
+   "detail": "6:0 (3:0,3:0)",
+   "start": 1766934900,
+   "group": "liga"
+  },
+  {
+   "id": 683023321,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bibiani Gold Stars",
+   "away": "Medeama",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1767193200,
+   "group": "liga"
+  },
+  {
+   "id": 683444966,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Hohoe United",
+   "away": "Heart of Lions",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1767367800,
+   "group": "liga"
+  },
+  {
+   "id": 683973510,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Eleven Wonders",
+   "away": "Bibiani Gold Stars",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (2:2,0:1)",
+   "start": 1767538800,
+   "group": "liga"
+  },
+  {
+   "id": 683973607,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Nations",
+   "away": "Karela",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1767538800,
+   "group": "liga"
+  },
+  {
+   "id": 683973678,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Dreams",
+   "away": "Basake Holy Stars",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1767538800,
+   "group": "liga"
+  },
+  {
+   "id": 683973629,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Swedru All Blacks",
+   "away": "Asante Kotoko",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1767538800,
+   "group": "liga"
+  },
+  {
+   "id": 683851854,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bechem United",
+   "away": "Berekum Chelsea",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1767538800,
+   "group": "liga"
+  },
+  {
+   "id": 683848346,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Samartex",
+   "away": "Young Apostles",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1767538800,
+   "group": "liga"
+  },
+  {
+   "id": 683845304,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Aduana",
+   "away": "Vision",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1767538800,
+   "group": "liga"
+  },
+  {
+   "id": 683983054,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Medeama",
+   "away": "Accra Hearts of Oak",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1767540600,
+   "group": "liga"
+  },
+  {
+   "id": 685284762,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Eleven Wonders",
+   "away": "Basake Holy Stars",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1767972600,
+   "group": "liga"
+  },
+  {
+   "id": 685589019,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Hohoe United",
+   "away": "Accra Hearts of Oak",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1768059000,
+   "group": "liga"
+  },
+  {
+   "id": 685892140,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Medeama",
+   "away": "Young Apostles",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1768143600,
+   "group": "liga"
+  },
+  {
+   "id": 685892272,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Swedru All Blacks",
+   "away": "Nations",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1768143600,
+   "group": "liga"
+  },
+  {
+   "id": 685891911,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Dreams",
+   "away": "Heart of Lions",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1768143600,
+   "group": "liga"
+  },
+  {
+   "id": 685751053,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bechem United",
+   "away": "Bibiani Gold Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1768143600,
+   "group": "liga"
+  },
+  {
+   "id": 685762004,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Samartex",
+   "away": "Vision",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1768143600,
+   "group": "liga"
+  },
+  {
+   "id": 685762001,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Aduana",
+   "away": "Karela",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1768143600,
+   "group": "liga"
+  },
+  {
+   "id": 685902944,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Asante Kotoko",
+   "away": "Berekum Chelsea",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1768145400,
+   "group": "liga"
+  },
+  {
+   "id": 687260563,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Accra Hearts of Oak",
+   "away": "Dreams",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1768576500,
+   "group": "liga"
+  },
+  {
+   "id": 687567225,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Vision",
+   "away": "Medeama",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1768662000,
+   "group": "liga"
+  },
+  {
+   "id": 687581510,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bibiani Gold Stars",
+   "away": "Asante Kotoko",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1768663800,
+   "group": "liga"
+  },
+  {
+   "id": 687898312,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Heart of Lions",
+   "away": "Eleven Wonders",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1768748400,
+   "group": "liga"
+  },
+  {
+   "id": 687894944,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Basake Holy Stars",
+   "away": "Bechem United",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:0,0:1)",
+   "start": 1768748400,
+   "group": "liga"
+  },
+  {
+   "id": 687894880,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Karela",
+   "away": "Samartex",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1768748400,
+   "group": "liga"
+  },
+  {
+   "id": 687760488,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Berekum Chelsea",
+   "away": "Swedru All Blacks",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1768748400,
+   "group": "liga"
+  },
+  {
+   "id": 687894761,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Young Apostles",
+   "away": "Hohoe United",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:2,1:0)",
+   "start": 1768748400,
+   "group": "liga"
+  },
+  {
+   "id": 687756562,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Nations",
+   "away": "Aduana",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1768750200,
+   "group": "liga"
+  },
+  {
+   "id": 689072337,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Dreams",
+   "away": "Young Apostles",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1769182200,
+   "group": "liga"
+  },
+  {
+   "id": 689691505,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Eleven Wonders",
+   "away": "Accra Hearts of Oak",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:1,0:2)",
+   "start": 1769268600,
+   "group": "liga"
+  },
+  {
+   "id": 690006324,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Dreams",
+   "away": "Young Apostles",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1769353200,
+   "group": "liga"
+  },
+  {
+   "id": 690006200,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Hohoe United",
+   "away": "Vision",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1769353200,
+   "group": "liga"
+  },
+  {
+   "id": 690006231,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Swedru All Blacks",
+   "away": "Aduana",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1769353200,
+   "group": "liga"
+  },
+  {
+   "id": 689863993,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Samartex",
+   "away": "Nations",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1769353200,
+   "group": "liga"
+  },
+  {
+   "id": 689860878,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bechem United",
+   "away": "Heart of Lions",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1769353200,
+   "group": "liga"
+  },
+  {
+   "id": 689860182,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Medeama",
+   "away": "Karela",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1769353200,
+   "group": "liga"
+  },
+  {
+   "id": 689864823,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Berekum Chelsea",
+   "away": "Bibiani Gold Stars",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1769353200,
+   "group": "liga"
+  },
+  {
+   "id": 690016528,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Asante Kotoko",
+   "away": "Basake Holy Stars",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1769355000,
+   "group": "liga"
+  },
+  {
+   "id": 691390462,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Nations",
+   "away": "Medeama",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1769786100,
+   "group": "liga"
+  },
+  {
+   "id": 691703136,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Vision",
+   "away": "Dreams",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:2,1:0)",
+   "start": 1769871600,
+   "group": "liga"
+  },
+  {
+   "id": 691719247,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Heart of Lions",
+   "away": "Asante Kotoko",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1769873400,
+   "group": "liga"
+  },
+  {
+   "id": 692035736,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Karela",
+   "away": "Hohoe United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1769957100,
+   "group": "liga"
+  },
+  {
+   "id": 692035900,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bibiani Gold Stars",
+   "away": "Swedru All Blacks",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1769958000,
+   "group": "liga"
+  },
+  {
+   "id": 692036257,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Aduana",
+   "away": "Samartex",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1769958000,
+   "group": "liga"
+  },
+  {
+   "id": 692036478,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Accra Hearts of Oak",
+   "away": "Bechem United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1769958000,
+   "group": "liga"
+  },
+  {
+   "id": 691894763,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Young Apostles",
+   "away": "Eleven Wonders",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1769958000,
+   "group": "liga"
+  },
+  {
+   "id": 691894760,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Basake Holy Stars",
+   "away": "Berekum Chelsea",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1769958000,
+   "group": "liga"
+  },
+  {
+   "id": 695356546,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Eleven Wonders",
+   "away": "Vision",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1770994800,
+   "group": "liga"
+  },
+  {
+   "id": 695120659,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Medeama",
+   "away": "Aduana",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1771000200,
+   "group": "liga"
+  },
+  {
+   "id": 695968904,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Dreams",
+   "away": "Karela",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1771167600,
+   "group": "liga"
+  },
+  {
+   "id": 695968923,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Hohoe United",
+   "away": "Nations",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1771167600,
+   "group": "liga"
+  },
+  {
+   "id": 695969032,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Swedru All Blacks",
+   "away": "Samartex",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1771167600,
+   "group": "liga"
+  },
+  {
+   "id": 695831137,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bibiani Gold Stars",
+   "away": "Basake Holy Stars",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1771167600,
+   "group": "liga"
+  },
+  {
+   "id": 695840658,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bechem United",
+   "away": "Young Apostles",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1771167600,
+   "group": "liga"
+  },
+  {
+   "id": 695843132,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Berekum Chelsea",
+   "away": "Heart of Lions",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1771167600,
+   "group": "liga"
+  },
+  {
+   "id": 696004794,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Asante Kotoko",
+   "away": "Accra Hearts of Oak",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1771174800,
+   "group": "liga"
+  },
+  {
+   "id": 697614743,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Vision",
+   "away": "Bechem United",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (2:1,1:1)",
+   "start": 1771686000,
+   "group": "liga"
+  },
+  {
+   "id": 697944957,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Aduana",
+   "away": "Hohoe United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1771772400,
+   "group": "liga"
+  },
+  {
+   "id": 697946179,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Karela",
+   "away": "Eleven Wonders",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1771772400,
+   "group": "liga"
+  },
+  {
+   "id": 697944937,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Heart of Lions",
+   "away": "Bibiani Gold Stars",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1771772400,
+   "group": "liga"
+  },
+  {
+   "id": 697944919,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Basake Holy Stars",
+   "away": "Swedru All Blacks",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1771772400,
+   "group": "liga"
+  },
+  {
+   "id": 697829783,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Young Apostles",
+   "away": "Asante Kotoko",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:2,0:0)",
+   "start": 1771772400,
+   "group": "liga"
+  },
+  {
+   "id": 697799286,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Nations",
+   "away": "Dreams",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1771772400,
+   "group": "liga"
+  },
+  {
+   "id": 697851145,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Samartex",
+   "away": "Medeama",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1771772400,
+   "group": "liga"
+  },
+  {
+   "id": 697954911,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Accra Hearts of Oak",
+   "away": "Berekum Chelsea",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1771774200,
+   "group": "liga"
+  },
+  {
+   "id": 699276997,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Eleven Wonders",
+   "away": "Nations",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1772204400,
+   "group": "liga"
+  },
+  {
+   "id": 699905652,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Swedru All Blacks",
+   "away": "Medeama",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1772377200,
+   "group": "liga"
+  },
+  {
+   "id": 699905633,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Asante Kotoko",
+   "away": "Vision",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1772377200,
+   "group": "liga"
+  },
+  {
+   "id": 699905657,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Dreams",
+   "away": "Aduana",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1772377200,
+   "group": "liga"
+  },
+  {
+   "id": 699776742,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Berekum Chelsea",
+   "away": "Young Apostles",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1772377200,
+   "group": "liga"
+  },
+  {
+   "id": 699776745,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bibiani Gold Stars",
+   "away": "Accra Hearts of Oak",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1772377200,
+   "group": "liga"
+  },
+  {
+   "id": 699776748,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Hohoe United",
+   "away": "Samartex",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1772377200,
+   "group": "liga"
+  },
+  {
+   "id": 699544442,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Dreams",
+   "away": "Heart of Lions",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1772377200,
+   "group": "liga"
+  },
+  {
+   "id": 699808479,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Basake Holy Stars",
+   "away": "Heart of Lions",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1772377200,
+   "group": "liga"
+  },
+  {
+   "id": 699808482,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bechem United",
+   "away": "Karela",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1772377200,
+   "group": "liga"
+  },
+  {
+   "id": 701253633,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Nations",
+   "away": "Bechem United",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1772809200,
+   "group": "liga"
+  },
+  {
+   "id": 701581658,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Vision",
+   "away": "Berekum Chelsea",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (0:0,3:1)",
+   "start": 1772895600,
+   "group": "liga"
+  },
+  {
+   "id": 701448199,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Samartex",
+   "away": "Dreams",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1772895600,
+   "group": "liga"
+  },
+  {
+   "id": 701912140,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Karela",
+   "away": "Asante Kotoko",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1772982000,
+   "group": "liga"
+  },
+  {
+   "id": 701912194,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Heart of Lions",
+   "away": "Swedru All Blacks",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1772982000,
+   "group": "liga"
+  },
+  {
+   "id": 701912193,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Accra Hearts of Oak",
+   "away": "Basake Holy Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1772982000,
+   "group": "liga"
+  },
+  {
+   "id": 701912157,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Young Apostles",
+   "away": "Bibiani Gold Stars",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1772982000,
+   "group": "liga"
+  },
+  {
+   "id": 701767513,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Medeama",
+   "away": "Hohoe United",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1772982000,
+   "group": "liga"
+  },
+  {
+   "id": 701934439,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Aduana",
+   "away": "Eleven Wonders",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1772985600,
+   "group": "liga"
+  },
+  {
+   "id": 705289351,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Heart of Lions",
+   "away": "Accra Hearts of Oak",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1774018800,
+   "group": "liga"
+  },
+  {
+   "id": 705290695,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Eleven Wonders",
+   "away": "Samartex",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:1,2:1)",
+   "start": 1774018800,
+   "group": "liga"
+  },
+  {
+   "id": 705956757,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Dreams",
+   "away": "Medeama",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1774191600,
+   "group": "liga"
+  },
+  {
+   "id": 705956763,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Basake Holy Stars",
+   "away": "Young Apostles",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1774191600,
+   "group": "liga"
+  },
+  {
+   "id": 705956796,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Asante Kotoko",
+   "away": "Nations",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1774191600,
+   "group": "liga"
+  },
+  {
+   "id": 705960577,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Berekum Chelsea",
+   "away": "Karela",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1774191600,
+   "group": "liga"
+  },
+  {
+   "id": 705809024,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bechem United",
+   "away": "Aduana",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1774191600,
+   "group": "liga"
+  },
+  {
+   "id": 705828120,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Swedru All Blacks",
+   "away": "Hohoe United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1774191600,
+   "group": "liga"
+  },
+  {
+   "id": 705809021,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bibiani Gold Stars",
+   "away": "Vision",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1774191600,
+   "group": "liga"
+  },
+  {
+   "id": 707320078,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Medeama",
+   "away": "Eleven Wonders",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1774623600,
+   "group": "liga"
+  },
+  {
+   "id": 707651822,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Vision",
+   "away": "Basake Holy Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1774710000,
+   "group": "liga"
+  },
+  {
+   "id": 707985128,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Hohoe United",
+   "away": "Dreams",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1774796400,
+   "group": "liga"
+  },
+  {
+   "id": 707985129,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Young Apostles",
+   "away": "Heart of Lions",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1774796400,
+   "group": "liga"
+  },
+  {
+   "id": 707985122,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Karela",
+   "away": "Bibiani Gold Stars",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1774796400,
+   "group": "liga"
+  },
+  {
+   "id": 707985120,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Aduana",
+   "away": "Asante Kotoko",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1774796400,
+   "group": "liga"
+  },
+  {
+   "id": 707985127,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Accra Hearts of Oak",
+   "away": "Swedru All Blacks",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:2,2:0)",
+   "start": 1774796400,
+   "group": "liga"
+  },
+  {
+   "id": 707894187,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Nations",
+   "away": "Berekum Chelsea",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1774796400,
+   "group": "liga"
+  },
+  {
+   "id": 707894710,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Samartex",
+   "away": "Bechem United",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1774796400,
+   "group": "liga"
+  },
+  {
+   "id": 709221741,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Eleven Wonders",
+   "away": "Hohoe United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1775228400,
+   "group": "liga"
+  },
+  {
+   "id": 709678474,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bechem United",
+   "away": "Medeama",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1775314800,
+   "group": "liga"
+  },
+  {
+   "id": 709981516,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Accra Hearts of Oak",
+   "away": "Young Apostles",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1775401200,
+   "group": "liga"
+  },
+  {
+   "id": 709981825,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Berekum Chelsea",
+   "away": "Aduana",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1775401200,
+   "group": "liga"
+  },
+  {
+   "id": 709979161,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Swedru All Blacks",
+   "away": "Dreams",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1775401200,
+   "group": "liga"
+  },
+  {
+   "id": 709840860,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Heart of Lions",
+   "away": "Vision",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1775401200,
+   "group": "liga"
+  },
+  {
+   "id": 709982431,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Basake Holy Stars",
+   "away": "Karela",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1775401200,
+   "group": "liga"
+  },
+  {
+   "id": 709895056,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bibiani Gold Stars",
+   "away": "Nations",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (2:1,0:0)",
+   "start": 1775401200,
+   "group": "liga"
+  },
+  {
+   "id": 710272396,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Asante Kotoko",
+   "away": "Samartex",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1775493000,
+   "group": "liga"
+  },
+  {
+   "id": 710156357,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Asante Kotoko",
+   "away": "Samartex",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1775493000,
+   "group": "liga"
+  },
+  {
+   "id": 711369743,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Aduana",
+   "away": "Bibiani Gold Stars",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1775833200,
+   "group": "liga"
+  },
+  {
+   "id": 711707613,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Vision",
+   "away": "Accra Hearts of Oak",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1775919600,
+   "group": "liga"
+  },
+  {
+   "id": 712038393,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Dreams",
+   "away": "Eleven Wonders",
+   "score": [
+    5,
+    1
+   ],
+   "detail": "5:1 (0:1,5:0)",
+   "start": 1776006000,
+   "group": "liga"
+  },
+  {
+   "id": 712036465,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Young Apostles",
+   "away": "Swedru All Blacks",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1776006000,
+   "group": "liga"
+  },
+  {
+   "id": 712036470,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Nations",
+   "away": "Basake Holy Stars",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1776006000,
+   "group": "liga"
+  },
+  {
+   "id": 712039688,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Karela",
+   "away": "Heart of Lions",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1776006000,
+   "group": "liga"
+  },
+  {
+   "id": 712036440,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Medeama",
+   "away": "Asante Kotoko",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (3:0,1:0)",
+   "start": 1776006000,
+   "group": "liga"
+  },
+  {
+   "id": 711884984,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Samartex",
+   "away": "Berekum Chelsea",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1776006000,
+   "group": "liga"
+  },
+  {
+   "id": 715294712,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Berekum Chelsea",
+   "away": "Medeama",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1777042800,
+   "group": "liga"
+  },
+  {
+   "id": 715936985,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bechem United",
+   "away": "Dreams",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1777215600,
+   "group": "liga"
+  },
+  {
+   "id": 715936988,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Accra Hearts of Oak",
+   "away": "Karela",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1777215600,
+   "group": "liga"
+  },
+  {
+   "id": 715936982,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Swedru All Blacks",
+   "away": "Eleven Wonders",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1777215600,
+   "group": "liga"
+  },
+  {
+   "id": 715936976,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Basake Holy Stars",
+   "away": "Aduana",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1777215600,
+   "group": "liga"
+  },
+  {
+   "id": 715936979,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Young Apostles",
+   "away": "Vision",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1777215600,
+   "group": "liga"
+  },
+  {
+   "id": 715936991,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bibiani Gold Stars",
+   "away": "Samartex",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1777215600,
+   "group": "liga"
+  },
+  {
+   "id": 715936994,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Heart of Lions",
+   "away": "Nations",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0)",
+   "start": 1777215600,
+   "group": "liga"
+  },
+  {
+   "id": 717461089,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Eleven Wonders",
+   "away": "Bechem United",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:2,1:1)",
+   "start": 1777647600,
+   "group": "liga"
+  },
+  {
+   "id": 717770880,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Vision",
+   "away": "Swedru All Blacks",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1777734000,
+   "group": "liga"
+  },
+  {
+   "id": 718078107,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Karela",
+   "away": "Young Apostles",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1777820400,
+   "group": "liga"
+  },
+  {
+   "id": 718078105,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Nations",
+   "away": "Accra Hearts of Oak",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1777820400,
+   "group": "liga"
+  },
+  {
+   "id": 718076779,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Aduana",
+   "away": "Heart of Lions",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1777820400,
+   "group": "liga"
+  },
+  {
+   "id": 718076930,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Dreams",
+   "away": "Asante Kotoko",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1777820400,
+   "group": "liga"
+  },
+  {
+   "id": 718075974,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Medeama",
+   "away": "Bibiani Gold Stars",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1777820400,
+   "group": "liga"
+  },
+  {
+   "id": 717934649,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Samartex",
+   "away": "Basake Holy Stars",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:1,1:0)",
+   "start": 1777820400,
+   "group": "liga"
+  },
+  {
+   "id": 718849950,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Young Apostles",
+   "away": "Vision",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1778079600,
+   "group": "liga"
+  },
+  {
+   "id": 718848051,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Accra Hearts of Oak",
+   "away": "Karela",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1778079600,
+   "group": "liga"
+  },
+  {
+   "id": 718724689,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Berekum Chelsea",
+   "away": "Medeama",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1778079600,
+   "group": "liga"
+  },
+  {
+   "id": 718848040,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bechem United",
+   "away": "Dreams",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1778079600,
+   "group": "liga"
+  },
+  {
+   "id": 718848044,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Basake Holy Stars",
+   "away": "Aduana",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1778079600,
+   "group": "liga"
+  },
+  {
+   "id": 718848036,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bibiani Gold Stars",
+   "away": "Samartex",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (2:0,0:0)",
+   "start": 1778079600,
+   "group": "liga"
+  },
+  {
+   "id": 718848041,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Heart of Lions",
+   "away": "Nations",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1778079600,
+   "group": "liga"
+  },
+  {
+   "id": 720014673,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Asante Kotoko",
+   "away": "Eleven Wonders",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1778425200,
+   "group": "liga"
+  },
+  {
+   "id": 720010439,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Young Apostles",
+   "away": "Nations",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1778425200,
+   "group": "liga"
+  },
+  {
+   "id": 720014577,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Accra Hearts of Oak",
+   "away": "Aduana",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1778425200,
+   "group": "liga"
+  },
+  {
+   "id": 720012656,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Vision",
+   "away": "Karela",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1778425200,
+   "group": "liga"
+  },
+  {
+   "id": 719866201,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Heart of Lions",
+   "away": "Samartex",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (3:0,0:0)",
+   "start": 1778425200,
+   "group": "liga"
+  },
+  {
+   "id": 720013195,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Basake Holy Stars",
+   "away": "Medeama",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1778425200,
+   "group": "liga"
+  },
+  {
+   "id": 719866189,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Swedru All Blacks",
+   "away": "Bechem United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1778425200,
+   "group": "liga"
+  },
+  {
+   "id": 719866204,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Berekum Chelsea",
+   "away": "Dreams",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1778425200,
+   "group": "liga"
+  },
+  {
+   "id": 721943003,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Dreams",
+   "away": "Bibiani Gold Stars",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1779030000,
+   "group": "liga"
+  },
+  {
+   "id": 721944495,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Eleven Wonders",
+   "away": "Berekum Chelsea",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1779030000,
+   "group": "liga"
+  },
+  {
+   "id": 721941836,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Karela",
+   "away": "Swedru All Blacks",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1779030000,
+   "group": "liga"
+  },
+  {
+   "id": 721943001,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Aduana",
+   "away": "Young Apostles",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1779030000,
+   "group": "liga"
+  },
+  {
+   "id": 721810632,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Samartex",
+   "away": "Accra Hearts of Oak",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1779030000,
+   "group": "liga"
+  },
+  {
+   "id": 721807280,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bechem United",
+   "away": "Asante Kotoko",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (3:0,0:1)",
+   "start": 1779030000,
+   "group": "liga"
+  },
+  {
+   "id": 721810635,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Nations",
+   "away": "Vision",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1779030000,
+   "group": "liga"
+  },
+  {
+   "id": 721810620,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Medeama",
+   "away": "Heart of Lions",
+   "score": [
+    5,
+    2
+   ],
+   "detail": "5:2 (2:1,3:1)",
+   "start": 1779030000,
+   "group": "liga"
+  },
   {
    "id": 723398513,
    "tid": 125983,
@@ -22,6 +3537,76 @@
    "detail": "2:0 (1:0,1:0)",
    "start": 1779500700,
    "group": "seleccion"
+  },
+  {
+   "id": 723856267,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Vision",
+   "away": "Aduana",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1779634800,
+   "group": "liga"
+  },
+  {
+   "id": 723857501,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Asante Kotoko",
+   "away": "Swedru All Blacks",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1779634800,
+   "group": "liga"
+  },
+  {
+   "id": 723859793,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Karela",
+   "away": "Nations",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1779634800,
+   "group": "liga"
+  },
+  {
+   "id": 723857006,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Accra Hearts of Oak",
+   "away": "Medeama",
+   "score": [
+    4,
+    2
+   ],
+   "detail": "4:2 (1:0,3:2)",
+   "start": 1779634800,
+   "group": "liga"
+  },
+  {
+   "id": 723857999,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Basake Holy Stars",
+   "away": "Dreams",
+   "score": [
+    2,
+    4
+   ],
+   "detail": "2:4 (0:2,2:2)",
+   "start": 1779634800,
+   "group": "liga"
   },
   {
    "id": 726193381,
@@ -38,6 +3623,468 @@
    "group": "seleccion"
   },
   {
+   "id": 750245233,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Vision",
+   "away": "Young Apostles",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1788620400,
+   "group": "liga"
+  },
+  {
+   "id": 750560396,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Heart of Lions",
+   "away": "Aduana",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1788706800,
+   "group": "liga"
+  },
+  {
+   "id": 750560426,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Debibi United",
+   "away": "Asante Kotoko",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (0:1,2:1)",
+   "start": 1788706800,
+   "group": "liga"
+  },
+  {
+   "id": 750560395,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Accra Hearts of Oak",
+   "away": "Berekum Chelsea",
+   "score": [
+    4,
+    0
+   ],
+   "detail": "4:0 (2:0,2:0)",
+   "start": 1788706800,
+   "group": "liga"
+  },
+  {
+   "id": 750560390,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bechem United",
+   "away": "Bibiani Gold Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1788706800,
+   "group": "liga"
+  },
+  {
+   "id": 750088337,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Port City Tema",
+   "away": "Ashantigold 04",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1788706800,
+   "group": "liga"
+  },
+  {
+   "id": 752263194,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Ashantigold 04",
+   "away": "Vision",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (3:1,0:0)",
+   "start": 1789225200,
+   "group": "liga"
+  },
+  {
+   "id": 752581272,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Karela",
+   "away": "Bechem United",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1789311600,
+   "group": "liga"
+  },
+  {
+   "id": 752581257,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Aduana",
+   "away": "Samartex",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1789311600,
+   "group": "liga"
+  },
+  {
+   "id": 752581271,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Swedru All Blacks",
+   "away": "Debibi United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1789311600,
+   "group": "liga"
+  },
+  {
+   "id": 752581262,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bibiani Gold Stars",
+   "away": "Accra Hearts of Oak",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:0,0:2)",
+   "start": 1789311600,
+   "group": "liga"
+  },
+  {
+   "id": 752581236,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Asante Kotoko",
+   "away": "Heart of Lions",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1789311600,
+   "group": "liga"
+  },
+  {
+   "id": 754317548,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Vision",
+   "away": "Medeama",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1789830000,
+   "group": "liga"
+  },
+  {
+   "id": 754317553,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Heart of Lions",
+   "away": "Swedru All Blacks",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1789830000,
+   "group": "liga"
+  },
+  {
+   "id": 754649027,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Dreams",
+   "away": "Bibiani Gold Stars",
+   "score": [
+    2,
+    3
+   ],
+   "detail": "2:3 (1:0,1:3)",
+   "start": 1789916400,
+   "group": "liga"
+  },
+  {
+   "id": 754646796,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Aduana",
+   "away": "Karela",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1789916400,
+   "group": "liga"
+  },
+  {
+   "id": 754650749,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Accra Hearts of Oak",
+   "away": "Bechem United",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1789916400,
+   "group": "liga"
+  },
+  {
+   "id": 754650521,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Port City Tema",
+   "away": "Berekum Chelsea",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1789916400,
+   "group": "liga"
+  },
+  {
+   "id": 754646809,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Basake Holy Stars",
+   "away": "Ashantigold 04",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1789916400,
+   "group": "liga"
+  },
+  {
+   "id": 755434350,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Dreams",
+   "away": "Medeama",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:1,1:1)",
+   "start": 1790175600,
+   "group": "liga"
+  },
+  {
+   "id": 755935434,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Karela",
+   "away": "Accra Hearts of Oak",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1790434800,
+   "group": "liga"
+  },
+  {
+   "id": 756608630,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Medeama",
+   "away": "Basake Holy Stars",
+   "score": [
+    4,
+    1
+   ],
+   "detail": "4:1 (4:1,0:0)",
+   "start": 1790521200,
+   "group": "liga"
+  },
+  {
+   "id": 756608592,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Asante Kotoko",
+   "away": "Aduana",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1790521200,
+   "group": "liga"
+  },
+  {
+   "id": 756608608,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Swedru All Blacks",
+   "away": "Samartex",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (1:0,0:1)",
+   "start": 1790521200,
+   "group": "liga"
+  },
+  {
+   "id": 757403585,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Medeama",
+   "away": "Port City Tema",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1790780400,
+   "group": "liga"
+  },
+  {
+   "id": 757689241,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Asante Kotoko",
+   "away": "Karela",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1790870400,
+   "group": "liga"
+  },
+  {
+   "id": 758284719,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Vision",
+   "away": "Bibiani Gold Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1791039600,
+   "group": "liga"
+  },
+  {
+   "id": 758284725,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Dreams",
+   "away": "Accra Hearts of Oak",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1791039600,
+   "group": "liga"
+  },
+  {
+   "id": 758613658,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Debibi United",
+   "away": "Medeama",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1791126000,
+   "group": "liga"
+  },
+  {
+   "id": 758617101,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Basake Holy Stars",
+   "away": "Berekum Chelsea",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1791126000,
+   "group": "liga"
+  },
+  {
+   "id": 758613655,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Port City Tema",
+   "away": "Bechem United",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (2:0,1:1)",
+   "start": 1791126000,
+   "group": "liga"
+  },
+  {
+   "id": 758613656,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Heart of Lions",
+   "away": "Ashantigold 04",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (3:1,0:1)",
+   "start": 1791126000,
+   "group": "liga"
+  },
+  {
+   "id": 758613664,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Aduana",
+   "away": "Swedru All Blacks",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1791126000,
+   "group": "liga"
+  },
+  {
    "id": 754329901,
    "tid": 125983,
    "tname": "Friendlies. National Teams",
@@ -50,6 +4097,622 @@
    "detail": "0:0 (0:0)",
    "start": 1791136800,
    "group": "seleccion"
+  },
+  {
+   "id": 760346969,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Swedru All Blacks",
+   "away": "Asante Kotoko",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1791644400,
+   "group": "liga"
+  },
+  {
+   "id": 760690244,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Karela",
+   "away": "Dreams",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1791730800,
+   "group": "liga"
+  },
+  {
+   "id": 760690301,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bibiani Gold Stars",
+   "away": "Basake Holy Stars",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1791730800,
+   "group": "liga"
+  },
+  {
+   "id": 760690219,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Accra Hearts of Oak",
+   "away": "Port City Tema",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1791730800,
+   "group": "liga"
+  },
+  {
+   "id": 760690280,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Medeama",
+   "away": "Heart of Lions",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:0,2:1)",
+   "start": 1791730800,
+   "group": "liga"
+  },
+  {
+   "id": 760690247,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Young Apostles",
+   "away": "Aduana",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1791730800,
+   "group": "liga"
+  },
+  {
+   "id": 762485831,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Vision",
+   "away": "Accra Hearts of Oak",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1792249200,
+   "group": "liga"
+  },
+  {
+   "id": 762490808,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Heart of Lions",
+   "away": "Berekum Chelsea",
+   "score": [
+    0,
+    2
+   ],
+   "detail": "0:2 (0:1,0:1)",
+   "start": 1792249200,
+   "group": "liga"
+  },
+  {
+   "id": 762840386,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Aduana",
+   "away": "Ashantigold 04",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1792335600,
+   "group": "liga"
+  },
+  {
+   "id": 762840384,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Asante Kotoko",
+   "away": "Young Apostles",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1792335600,
+   "group": "liga"
+  },
+  {
+   "id": 762840409,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Debibi United",
+   "away": "Bibiani Gold Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1792335600,
+   "group": "liga"
+  },
+  {
+   "id": 762840390,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Port City Tema",
+   "away": "Dreams",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1792335600,
+   "group": "liga"
+  },
+  {
+   "id": 762840402,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Basake Holy Stars",
+   "away": "Bechem United",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1792335600,
+   "group": "liga"
+  },
+  {
+   "id": 764313958,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Accra Hearts of Oak",
+   "away": "Basake Holy Stars",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1792774800,
+   "group": "liga"
+  },
+  {
+   "id": 764969353,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Dreams",
+   "away": "Vision",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (0:3,1:0)",
+   "start": 1792940400,
+   "group": "liga"
+  },
+  {
+   "id": 764969249,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Medeama",
+   "away": "Aduana",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1792940400,
+   "group": "liga"
+  },
+  {
+   "id": 764969279,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bibiani Gold Stars",
+   "away": "Heart of Lions",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1792940400,
+   "group": "liga"
+  },
+  {
+   "id": 764975892,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Karela",
+   "away": "Port City Tema",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:0,1:2)",
+   "start": 1792940400,
+   "group": "liga"
+  },
+  {
+   "id": 764906843,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bechem United",
+   "away": "Debibi United",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1792940400,
+   "group": "liga"
+  },
+  {
+   "id": 766787602,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Vision",
+   "away": "Port City Tema",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1793458800,
+   "group": "liga"
+  },
+  {
+   "id": 767136851,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Swedru All Blacks",
+   "away": "Ashantigold 04",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:1,0:1)",
+   "start": 1793545200,
+   "group": "liga"
+  },
+  {
+   "id": 767136852,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Heart of Lions",
+   "away": "Bechem United",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1793545200,
+   "group": "liga"
+  },
+  {
+   "id": 767136873,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Asante Kotoko",
+   "away": "Medeama",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:1,1:0)",
+   "start": 1793545200,
+   "group": "liga"
+  },
+  {
+   "id": 767136815,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Young Apostles",
+   "away": "Karela",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1793545200,
+   "group": "liga"
+  },
+  {
+   "id": 768549539,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Karela",
+   "away": "Vision",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1793977200,
+   "group": "liga"
+  },
+  {
+   "id": 769203636,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bechem United",
+   "away": "Samartex",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:0,1:1)",
+   "start": 1794150000,
+   "group": "liga"
+  },
+  {
+   "id": 769203613,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Medeama",
+   "away": "Swedru All Blacks",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (1:0,0:0)",
+   "start": 1794150000,
+   "group": "liga"
+  },
+  {
+   "id": 769203638,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Accra Hearts of Oak",
+   "away": "Heart of Lions",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (2:0,1:0)",
+   "start": 1794150000,
+   "group": "liga"
+  },
+  {
+   "id": 769208017,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Berekum Chelsea",
+   "away": "Asante Kotoko",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (0:0,2:1)",
+   "start": 1794150000,
+   "group": "liga"
+  },
+  {
+   "id": 769203621,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Dreams",
+   "away": "Debibi United",
+   "score": [
+    1,
+    1
+   ],
+   "detail": "1:1 (0:0,1:1)",
+   "start": 1794150000,
+   "group": "liga"
+  },
+  {
+   "id": 770872874,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Heart of Lions",
+   "away": "Dreams",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (1:2,0:0)",
+   "start": 1794668400,
+   "group": "liga"
+  },
+  {
+   "id": 771202973,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Basake Holy Stars",
+   "away": "Vision",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1794754800,
+   "group": "liga"
+  },
+  {
+   "id": 771202965,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Aduana",
+   "away": "Bechem United",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:1,0:0)",
+   "start": 1794754800,
+   "group": "liga"
+  },
+  {
+   "id": 771205786,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Swedru All Blacks",
+   "away": "Berekum Chelsea",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1794754800,
+   "group": "liga"
+  },
+  {
+   "id": 771202971,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Young Apostles",
+   "away": "Medeama",
+   "score": [
+    1,
+    2
+   ],
+   "detail": "1:2 (0:2,1:0)",
+   "start": 1794754800,
+   "group": "liga"
+  },
+  {
+   "id": 771202969,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Ashantigold 04",
+   "away": "Karela",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1794754800,
+   "group": "liga"
+  },
+  {
+   "id": 771221088,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Asante Kotoko",
+   "away": "Bibiani Gold Stars",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1794758400,
+   "group": "liga"
+  },
+  {
+   "id": 772904225,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Vision",
+   "away": "Debibi United",
+   "score": [
+    2,
+    1
+   ],
+   "detail": "2:1 (1:1,1:0)",
+   "start": 1795273200,
+   "group": "liga"
+  },
+  {
+   "id": 773247955,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Dreams",
+   "away": "Samartex",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (1:0,1:0)",
+   "start": 1795359600,
+   "group": "liga"
+  },
+  {
+   "id": 773247944,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bechem United",
+   "away": "Asante Kotoko",
+   "score": [
+    1,
+    0
+   ],
+   "detail": "1:0 (0:0,1:0)",
+   "start": 1795359600,
+   "group": "liga"
+  },
+  {
+   "id": 773247956,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Bibiani Gold Stars",
+   "away": "Swedru All Blacks",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1795359600,
+   "group": "liga"
+  },
+  {
+   "id": 773247959,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Accra Hearts of Oak",
+   "away": "Aduana",
+   "score": [
+    2,
+    2
+   ],
+   "detail": "2:2 (1:0,1:2)",
+   "start": 1795359600,
+   "group": "liga"
+  },
+  {
+   "id": 773247967,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Port City Tema",
+   "away": "Heart of Lions",
+   "score": [
+    0,
+    0
+   ],
+   "detail": "0:0 (0:0,0:0)",
+   "start": 1795359600,
+   "group": "liga"
+  },
+  {
+   "id": 773247960,
+   "tid": 27371,
+   "tname": "Ghana. Premier League",
+   "home": "Medeama",
+   "away": "Ashantigold 04",
+   "score": [
+    2,
+    0
+   ],
+   "detail": "2:0 (0:0,2:0)",
+   "start": 1795359600,
+   "group": "liga"
   }
  ]
 }

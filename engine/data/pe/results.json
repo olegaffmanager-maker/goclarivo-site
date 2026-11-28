@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T23:54:06+00:00",
+ "updated": "2026-11-28T08:29:06+00:00",
  "backfilled": [
   1706694,
   125983,
@@ -8,20 +8,6 @@
   2973812
  ],
  "matches": [
-  {
-   "id": 664741968,
-   "tid": 2892390,
-   "tname": "Perú. Liga 1",
-   "home": "Sporting Cristal",
-   "away": "Club Universitario de Deportes",
-   "score": [
-    0,
-    1
-   ],
-   "detail": "0:1 (0:0,0:1)",
-   "start": 1761267600,
-   "group": "liga"
-  },
   {
    "id": 664985775,
    "tid": 2892390,

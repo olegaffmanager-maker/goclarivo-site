@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T23:52:01+00:00",
+ "updated": "2026-11-28T08:28:34+00:00",
  "groups": [
   {
    "key": "liga",
@@ -11,9 +11,9 @@
      "away": "Deportes Limache",
      "start": 1795899600,
      "odds": {
-      "1": 1.7,
-      "X": 3.75,
-      "2": 4.065
+      "1": 1.6,
+      "X": 3.7,
+      "2": 4.79
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/5608.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/366413.png",
@@ -21,23 +21,23 @@
      "eid": 773373977,
      "tid": 28298,
      "coupon": {
-      "1": "ZQNAS",
-      "X": "D6NAS",
-      "2": "36NAS"
+      "1": "F2KSS",
+      "X": "92KSS",
+      "2": "KDKSS"
      },
      "markets": {
       "dc": {
-       "1X": 1.16,
-       "12": 1.18,
-       "X2": 1.95
+       "1X": 1.11,
+       "12": 1.19,
+       "X2": 2.1
       },
       "ou25": {
-       "o": 1.65,
-       "u": 2.1
+       "o": 1.8,
+       "u": 1.9
       },
       "btts": {
-       "y": 1.58,
-       "n": 2.262
+       "y": 1.83,
+       "n": 1.891
       }
      },
      "stats": {
@@ -213,9 +213,9 @@
      "away": "Deportes La Serena",
      "start": 1795908600,
      "odds": {
-      "1": 1.51,
-      "X": 4.6,
-      "2": 4.53
+      "1": 1.54,
+      "X": 4.5,
+      "2": 4.35
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/01af75c004c05818c821d12f6764ed2f.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/3841222ffd25b9be78e2e42cfe34fbee.png",
@@ -223,15 +223,15 @@
      "eid": 773373979,
      "tid": 28298,
      "coupon": {
-      "1": "CRNAS",
-      "X": "ERNAS",
-      "2": "NRNAS"
+      "1": "TFKSS",
+      "X": "D3KSS",
+      "2": "M3KSS"
      },
      "markets": {
       "dc": {
-       "1X": 1.13,
+       "1X": 1.14,
        "12": 1.12,
-       "X2": 2.25
+       "X2": 2.2
       },
       "ou25": {
        "o": 1.52,
@@ -417,7 +417,7 @@
      "odds": {
       "1": 1.41,
       "X": 4.4,
-      "2": 6.11
+      "2": 6.2
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/62bdeb5499afe5f3955a4ba515276ad6.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/5592.png",
@@ -425,9 +425,8 @@
      "eid": 773371564,
      "tid": 28298,
      "coupon": {
-      "1": "L7NAS",
-      "X": "77NAS",
-      "2": "87NAS"
+      "X": "8GKSS",
+      "2": "FHKSS"
      },
      "markets": {
       "dc": {
@@ -440,8 +439,8 @@
        "u": 2.3
       },
       "btts": {
-       "y": 1.67,
-       "n": 2.097
+       "y": 1.7,
+       "n": 2.046
       }
      },
      "stats": {
@@ -627,9 +626,7 @@
      "eid": 773371562,
      "tid": 28298,
      "coupon": {
-      "1": "YUNAS",
-      "X": "HVNAS",
-      "2": "6VNAS"
+      "X": "1JKSS"
      },
      "markets": {
       "dc": {
@@ -829,9 +826,7 @@
      "eid": 773371572,
      "tid": 28298,
      "coupon": {
-      "1": "NXNAS",
-      "X": "XXNAS",
-      "2": "28NAS"
+      "1": "YJKSS"
      },
      "markets": {
       "dc": {
@@ -1021,9 +1016,9 @@
      "away": "FC Universidad de Concepción",
      "start": 1795995000,
      "odds": {
-      "1": 1.74,
+      "1": 1.75,
       "X": 3.5,
-      "2": 4.175
+      "2": 4.165
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/02d71406353d9f7bd0f543e8a2503ada.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/5626.png",
@@ -1031,9 +1026,7 @@
      "eid": 773371570,
      "tid": 28298,
      "coupon": {
-      "1": "Y8NAS",
-      "X": "JYNAS",
-      "2": "SYNAS"
+      "1": "9KKSS"
      },
      "markets": {
       "dc": {
@@ -1233,9 +1226,8 @@
      "eid": 773371566,
      "tid": 28298,
      "coupon": {
-      "1": "8ZNAS",
-      "X": "S9NAS",
-      "2": "B1PAS"
+      "1": "3MKSS",
+      "X": "55KSS"
      },
      "markets": {
       "dc": {
@@ -1435,9 +1427,8 @@
      "eid": 773371568,
      "tid": 28298,
      "coupon": {
-      "1": "L1PAS",
-      "X": "GAPAS",
-      "2": "LAPAS"
+      "X": "MNKSS",
+      "2": "RNKSS"
      },
      "markets": {
       "dc": {
