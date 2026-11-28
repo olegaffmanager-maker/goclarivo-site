@@ -32,3 +32,6 @@
 - Сделано: 24 кластера гайдов → по одной версии на язык в индексе (выбрана версия с наибольшими показами в GSC за 27.10–23.11; Индия не выбирается). Остальные 126 копий: `noindex, follow`, без hreflang, убраны из sitemap.xml (508 → 383). У оставленных hreflang только на оставленные версии (es / en / fr-BF + x-default). Страницы и ссылки на них не удалены — посетители из стран попадают на свои версии как раньше.
 - Не трогали: гайды, которые реально отличаются по странам (Champions/LaLiga/Europa League, теннис, rollover x35, оплата, законы), обзоры брендов, футбольный раздел.
 - Дальше: никаких массовых правок шаблонов/дат; смотреть Search Console 2–4 недели. Список: scratchpad dedupe.json → сохранён ниже в репозитории как `seo/dedupe-2026-11-25.json`.
+
+## 28.11.2026 — убраны ссылки на Kavira (правило: без перекрёстных ссылок между нашими сайтами)
+- 23 файла (ar, bo, cl, ec, mx, pe, py + es в гайдах): /about/ — абзац «Nuestro otro proyecto: Kavira…» удалён целиком; гайд rollover-en-apuestas-deportivas — предложение переписано без Kavira («Calcula cuánto vale realmente tu bono con tus propios números de rollover, cuota mínima y RTP antes de reclamarlo.»); гайд rollover-x35-que-significa — последнее предложение со ссылкой на калькулятор Kavira убрано. URL, структура и остальной текст без изменений. Поиск «kavira» по всему репо — пусто.
