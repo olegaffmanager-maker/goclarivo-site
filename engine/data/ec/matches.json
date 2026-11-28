@@ -1,411 +1,10 @@
 {
- "updated": "2026-11-27T13:08:15+00:00",
+ "updated": "2026-11-27T23:56:22+00:00",
  "groups": [
   {
    "key": "liga",
    "name": "LigaPro Serie A de Ecuador",
    "matches": [
-    {
-     "tournament": "Ecuador. Serie A",
-     "home": "Delfin",
-     "away": "Orense Sporting Club",
-     "start": 1795806000,
-     "odds": {
-      "1": 2.385,
-      "X": 3.115,
-      "2": 3.03
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/b883bd20b36574f927c98ce814df768a.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/986d2be05544877ecebeaf44cd71a54d.png",
-     "link": "https://1xlite-32085.pro/es/line/Football/276999-Ecuador-Serie-A/396798898-Delfin-Orense-Sporting-Club",
-     "eid": 773378866,
-     "tid": 276999,
-     "coupon": {
-      "1": "T2T86",
-      "X": "EDT86"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.341,
-       "12": 1.325,
-       "X2": 1.524
-      },
-      "ou25": {
-       "o": 2.211,
-       "u": 1.62
-      },
-      "btts": {
-       "y": 1.87,
-       "n": 1.816
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1792868400,
-        "h": "Orense Sporting Club",
-        "a": "Delfin",
-        "s": [
-         4,
-         0
-        ],
-        "t": "Ecuador. Serie A (Grupo de descenso)",
-        "hh": false
-       },
-       {
-        "d": 1786309200,
-        "h": "Delfin",
-        "a": "Orense Sporting Club",
-        "s": [
-         1,
-         1
-        ],
-        "t": "Ecuador. Serie A",
-        "hh": true
-       },
-       {
-        "d": 1776556800,
-        "h": "Orense Sporting Club",
-        "a": "Delfin",
-        "s": [
-         0,
-         0
-        ],
-        "t": "Ecuador. Serie A",
-        "hh": false
-       },
-       {
-        "d": 1756166400,
-        "h": "Orense Sporting Club",
-        "a": "Delfin",
-        "s": [
-         3,
-         1
-        ],
-        "t": "Ecuador. Serie A",
-        "hh": false
-       },
-       {
-        "d": 1746381600,
-        "h": "Delfin",
-        "a": "Orense Sporting Club",
-        "s": [
-         0,
-         0
-        ],
-        "t": "Ecuador. Serie A",
-        "hh": true
-       },
-       {
-        "d": 1730493000,
-        "h": "Orense Sporting Club",
-        "a": "Delfin",
-        "s": [
-         0,
-         0
-        ],
-        "t": "Ecuador. Serie A - Segunda etapa",
-        "hh": false
-       },
-       {
-        "d": 1715545800,
-        "h": "Delfin",
-        "a": "Orense Sporting Club",
-        "s": [
-         0,
-         1
-        ],
-        "t": "Ecuador. Serie A - Primera etapa",
-        "hh": true
-       },
-       {
-        "d": 1691267400,
-        "h": "Orense Sporting Club",
-        "a": "Delfin",
-        "s": [
-         0,
-         0
-        ],
-        "t": "Ecuador. Serie A - Segunda etapa",
-        "hh": false
-       }
-      ],
-      "f1": [
-       {
-        "d": 1795365000,
-        "o": "Manta",
-        "gf": 2,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1794247200,
-        "o": "Mushuc Runa",
-        "gf": 1,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1793923200,
-        "o": "Independiente del Valle",
-        "gf": 0,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1793464200,
-        "o": "Deportivo Cuenca",
-        "gf": 3,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1793232000,
-        "o": "Independiente del Valle",
-        "gf": 0,
-        "ga": 3,
-        "dom": true
-       }
-      ],
-      "f2": [
-       {
-        "d": 1795374000,
-        "o": "Mushuc Runa",
-        "gf": 2,
-        "ga": 3,
-        "dom": true
-       },
-       {
-        "d": 1794155400,
-        "o": "Deportivo Cuenca",
-        "gf": 0,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1793651400,
-        "o": "Técnico Universitario",
-        "gf": 1,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1792868400,
-        "o": "Delfin",
-        "gf": 4,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1792441800,
-        "o": "Mushuc Runa",
-        "gf": 1,
-        "ga": 1,
-        "dom": false
-       }
-      ]
-     }
-    },
-    {
-     "tournament": "Ecuador. Serie A",
-     "home": "Deportivo Cuenca",
-     "away": "Manta",
-     "start": 1795815000,
-     "odds": {
-      "1": 1.567,
-      "X": 4.01,
-      "2": 5.48
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/5d27024fc3f92771eeb1ccbb6aa747ae.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/e9289c846044467509962956b78b8121.png",
-     "link": "https://1xlite-32085.pro/es/line/Football/276999-Ecuador-Serie-A/396786043-Deportivo-Cuenca-Manta",
-     "eid": 773364764,
-     "tid": 276999,
-     "coupon": {
-      "X": "ZFT86"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.12,
-       "12": 1.21,
-       "X2": 2.287
-      },
-      "ou25": {
-       "o": 1.875,
-       "u": 1.865
-      },
-      "btts": {
-       "y": 1.88,
-       "n": 1.806
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1792859400,
-        "h": "Manta",
-        "a": "Deportivo Cuenca",
-        "s": [
-         0,
-         2
-        ],
-        "t": "Ecuador. Serie A (Grupo de descenso)",
-        "hh": false
-       },
-       {
-        "d": 1786406400,
-        "h": "Deportivo Cuenca",
-        "a": "Manta",
-        "s": [
-         1,
-         2
-        ],
-        "t": "Ecuador. Serie A",
-        "hh": true
-       },
-       {
-        "d": 1776621600,
-        "h": "Manta",
-        "a": "Deportivo Cuenca",
-        "s": [
-         0,
-         1
-        ],
-        "t": "Ecuador. Serie A",
-        "hh": false
-       },
-       {
-        "d": 1755984600,
-        "h": "Manta",
-        "a": "Deportivo Cuenca",
-        "s": [
-         0,
-         1
-        ],
-        "t": "Ecuador. Serie A",
-        "hh": false
-       },
-       {
-        "d": 1746230400,
-        "h": "Deportivo Cuenca",
-        "a": "Manta",
-        "s": [
-         2,
-         0
-        ],
-        "t": "Ecuador. Serie A",
-        "hh": true
-       },
-       {
-        "d": 1721606400,
-        "h": "Manta",
-        "a": "Deportivo Cuenca",
-        "s": [
-         1,
-         3
-        ],
-        "t": "Ecuador. Copa de Ecuador",
-        "hh": false
-       },
-       {
-        "d": 1628294400,
-        "h": "Deportivo Cuenca",
-        "a": "Manta",
-        "s": [
-         1,
-         0
-        ],
-        "t": "Ecuador. Serie A - Segunda etapa",
-        "hh": true
-       },
-       {
-        "d": 1615149000,
-        "h": "Manta",
-        "a": "Deportivo Cuenca",
-        "s": [
-         1,
-         0
-        ],
-        "t": "Ecuador. Serie A - Primera etapa",
-        "hh": false
-       }
-      ],
-      "f1": [
-       {
-        "d": 1795287600,
-        "o": "Técnico Universitario",
-        "gf": 0,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1794155400,
-        "o": "Orense Sporting Club",
-        "gf": 2,
-        "ga": 0,
-        "dom": true
-       },
-       {
-        "d": 1793464200,
-        "o": "Delfin",
-        "gf": 1,
-        "ga": 3,
-        "dom": false
-       },
-       {
-        "d": 1792859400,
-        "o": "Manta",
-        "gf": 2,
-        "ga": 0,
-        "dom": false
-       },
-       {
-        "d": 1792182600,
-        "o": "Técnico Universitario",
-        "gf": 2,
-        "ga": 1,
-        "dom": true
-       }
-      ],
-      "f2": [
-       {
-        "d": 1795365000,
-        "o": "Delfin",
-        "gf": 2,
-        "ga": 2,
-        "dom": true
-       },
-       {
-        "d": 1794256200,
-        "o": "Técnico Universitario",
-        "gf": 2,
-        "ga": 1,
-        "dom": false
-       },
-       {
-        "d": 1793737800,
-        "o": "Mushuc Runa",
-        "gf": 3,
-        "ga": 2,
-        "dom": false
-       },
-       {
-        "d": 1792859400,
-        "o": "Deportivo Cuenca",
-        "gf": 0,
-        "ga": 2,
-        "dom": true
-       },
-       {
-        "d": 1792341000,
-        "o": "Delfin",
-        "gf": 2,
-        "ga": 4,
-        "dom": false
-       }
-      ]
-     }
-    },
     {
      "tournament": "Ecuador. Serie A",
      "home": "Universidad Católica Quito",
@@ -422,7 +21,9 @@
      "eid": 774182209,
      "tid": 276999,
      "coupon": {
-      "2": "ZGT86"
+      "1": "LDTAS",
+      "X": "SDTAS",
+      "2": "1ETAS"
      },
      "markets": {
       "dc": {
@@ -622,8 +223,9 @@
      "eid": 773360407,
      "tid": 276999,
      "coupon": {
-      "X": "VHT86",
-      "2": "AJT86"
+      "1": "T3TAS",
+      "X": "Z3TAS",
+      "2": "FGTAS"
      },
      "markets": {
       "dc": {
@@ -813,9 +415,9 @@
      "away": "SD Aucas",
      "start": 1795901400,
      "odds": {
-      "1": 2.122,
-      "X": 3.24,
-      "2": 3.45
+      "1": 2.153,
+      "X": 3.155,
+      "2": 3.47
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/5754.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/95515.png",
@@ -823,23 +425,23 @@
      "eid": 774182206,
      "tid": 276999,
      "coupon": {
-      "1": "NJT86",
-      "X": "SJT86",
-      "2": "A4T86"
+      "1": "CJTAS",
+      "X": "4JTAS",
+      "2": "LJTAS"
      },
      "markets": {
       "dc": {
-       "1X": 1.273,
-       "12": 1.304,
-       "X2": 1.655
+       "1X": 1.27,
+       "12": 1.318,
+       "X2": 1.637
       },
       "ou25": {
-       "o": 2.059,
-       "u": 1.713
+       "o": 2.211,
+       "u": 1.62
       },
       "btts": {
-       "y": 1.81,
-       "n": 1.877
+       "y": 1.89,
+       "n": 1.796
       }
      },
      "stats": {
@@ -1015,9 +617,9 @@
      "away": "Técnico Universitario",
      "start": 1796070600,
      "odds": {
-      "1": 2.529,
-      "X": 3.465,
-      "2": 2.592
+      "1": 2.405,
+      "X": 3.395,
+      "2": 2.782
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/9019cdf68a0451d2d6638a5441822864.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/103979.png",
@@ -1025,23 +627,23 @@
      "eid": 773464074,
      "tid": 276999,
      "coupon": {
-      "1": "S4T86",
-      "X": "84T86",
-      "2": "AKT86"
+      "1": "YJTAS",
+      "X": "A4TAS",
+      "2": "F4TAS"
      },
      "markets": {
       "dc": {
-       "1X": 1.45,
-       "12": 1.27,
-       "X2": 1.471
+       "1X": 1.397,
+       "12": 1.28,
+       "X2": 1.516
       },
       "ou25": {
-       "o": 2.018,
-       "u": 1.742
+       "o": 2.0,
+       "u": 1.755
       },
       "btts": {
-       "y": 1.77,
-       "n": 1.919
+       "y": 1.76,
+       "n": 1.938
       }
      },
      "stats": {

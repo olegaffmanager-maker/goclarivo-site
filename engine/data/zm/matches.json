@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T13:13:55+00:00",
+ "updated": "2026-11-28T00:07:05+00:00",
  "groups": [
   {
    "key": "liga",
@@ -7,37 +7,679 @@
    "matches": [
     {
      "tournament": "Zambia. Super League",
+     "home": "Roan United",
+     "away": "Nkwazi",
+     "start": 1795870800,
+     "odds": {
+      "1": 2.56,
+      "X": 2.71,
+      "2": 2.76
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/e600bb0691c0c10d0f5b6bb2509b9a47.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/61356b61d5d7ce65e6d6a9fa9e271abc.png",
+     "link": "https://1xlite-32085.pro/en/line/Football/327197-Zambia-Super-League/397563433-Roan-United-Nkwazi",
+     "eid": 774643220,
+     "tid": 327197,
+     "coupon": {
+      "1": "97TBS",
+      "X": "AUTBS",
+      "2": "EUTBS"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.32,
+       "12": 1.33,
+       "X2": 1.37
+      },
+      "ou25": {
+       "o": 2.83,
+       "u": 1.33
+      },
+      "btts": {
+       "y": 2.29,
+       "n": 1.53
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1791032400,
+        "h": "Nkwazi",
+        "a": "Roan United",
+        "s": [
+         1,
+         2
+        ],
+        "t": "Zambia. Super League",
+        "hh": false
+       },
+       {
+        "d": 1378555200,
+        "h": "Roan United",
+        "a": "Nkwazi",
+        "s": [
+         3,
+         1
+        ],
+        "t": "Zambia. Super League",
+        "hh": true
+       },
+       {
+        "d": 1366459200,
+        "h": "Nkwazi",
+        "a": "Roan United",
+        "s": [
+         0,
+         2
+        ],
+        "t": "Zambia. Super League",
+        "hh": false
+       },
+       {
+        "d": 1318161600,
+        "h": "Roan United",
+        "a": "Nkwazi",
+        "s": [
+         2,
+         1
+        ],
+        "t": "Zambia. Super League",
+        "hh": true
+       },
+       {
+        "d": 1307793600,
+        "h": "Nkwazi",
+        "a": "Roan United",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Zambia. Super League",
+        "hh": false
+       },
+       {
+        "d": 1284811200,
+        "h": "Roan United",
+        "a": "Nkwazi",
+        "s": [
+         2,
+         1
+        ],
+        "t": "Zambia. Super League",
+        "hh": true
+       },
+       {
+        "d": 1273406400,
+        "h": "Nkwazi",
+        "a": "Roan United",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Zambia. Super League",
+        "hh": false
+       },
+       {
+        "d": 1221307200,
+        "h": "Roan United",
+        "a": "Nkwazi",
+        "s": [
+         2,
+         0
+        ],
+        "t": "Zambia. Super League",
+        "hh": true
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795611600,
+        "o": "Mufulira Wanderers",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1795075200,
+        "o": "Chirundu United",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793797200,
+        "o": "Kabwe Warriors",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1793538000,
+        "o": "Mutondo Stars",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1793192400,
+        "o": "ZESCO United",
+        "gf": 0,
+        "ga": 4,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795611600,
+        "o": "Kabwe Warriors",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1795093200,
+        "o": "Mutondo Stars",
+        "gf": 0,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1794747600,
+        "o": "Mufulira Wanderers",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1793797200,
+        "o": "Red Arrows",
+        "gf": 1,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1793451600,
+        "o": "ZESCO United",
+        "gf": 0,
+        "ga": 0,
+        "dom": true
+       }
+      ]
+     },
+     "table": {
+      "title": "Zambia. Super League",
+      "group": "Group B",
+      "rows": [
+       {
+        "pos": 1,
+        "team": "Green Eagles",
+        "pj": 9,
+        "g": 5,
+        "p": 1,
+        "n": 3,
+        "bp": 14,
+        "bc": 7,
+        "pts": 18
+       },
+       {
+        "pos": 2,
+        "team": "ZESCO United",
+        "pj": 9,
+        "g": 4,
+        "p": 1,
+        "n": 4,
+        "bp": 14,
+        "bc": 4,
+        "pts": 16
+       },
+       {
+        "pos": 3,
+        "team": "Green Buffaloes",
+        "pj": 8,
+        "g": 3,
+        "p": 1,
+        "n": 4,
+        "bp": 8,
+        "bc": 5,
+        "pts": 13
+       },
+       {
+        "pos": 4,
+        "team": "Chirundu United",
+        "pj": 8,
+        "g": 3,
+        "p": 3,
+        "n": 2,
+        "bp": 6,
+        "bc": 6,
+        "pts": 11
+       },
+       {
+        "pos": 5,
+        "team": "Kabwe Warriors",
+        "pj": 7,
+        "g": 2,
+        "p": 1,
+        "n": 4,
+        "bp": 8,
+        "bc": 7,
+        "pts": 10
+       },
+       {
+        "pos": 6,
+        "team": "Nkwazi",
+        "pj": 9,
+        "g": 1,
+        "p": 1,
+        "n": 7,
+        "bp": 4,
+        "bc": 4,
+        "pts": 10
+       },
+       {
+        "pos": 7,
+        "team": "Red Arrows",
+        "pj": 7,
+        "g": 2,
+        "p": 2,
+        "n": 3,
+        "bp": 9,
+        "bc": 8,
+        "pts": 9
+       },
+       {
+        "pos": 8,
+        "team": "Roan United",
+        "pj": 8,
+        "g": 1,
+        "p": 3,
+        "n": 4,
+        "bp": 5,
+        "bc": 10,
+        "pts": 7
+       },
+       {
+        "pos": 9,
+        "team": "Mufulira Wanderers",
+        "pj": 9,
+        "g": 0,
+        "p": 4,
+        "n": 5,
+        "bp": 4,
+        "bc": 10,
+        "pts": 5
+       },
+       {
+        "pos": 10,
+        "team": "Mutondo Stars",
+        "pj": 8,
+        "g": 0,
+        "p": 4,
+        "n": 4,
+        "bp": 7,
+        "bc": 18,
+        "pts": 4
+       }
+      ],
+      "foot": [
+       "Promotion - Superleague. Play-offs"
+      ]
+     }
+    },
+    {
+     "tournament": "Zambia. Super League",
+     "home": "MUZA",
+     "away": "Napsa Stars",
+     "start": 1795870800,
+     "odds": {
+      "1": 1.77,
+      "X": 3.02,
+      "2": 4.695
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/2d1f76932e7222d311a262ef902fcd68.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/e3af92a0cb7382f4905036d558819ee3.png",
+     "link": "https://1xlite-32085.pro/en/line/Football/327197-Zambia-Super-League/397571639-MUZA-Napsa-Stars",
+     "eid": 774670067,
+     "tid": 327197,
+     "coupon": {
+      "1": "SUTBS",
+      "X": "8UTBS",
+      "2": "CVTBS"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.109,
+       "12": 1.27,
+       "X2": 1.82
+      },
+      "ou25": {
+       "o": 2.52,
+       "u": 1.41
+      },
+      "btts": {
+       "y": 2.29,
+       "n": 1.53
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1791032400,
+        "h": "Napsa Stars",
+        "a": "MUZA",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Zambia. Super League",
+        "hh": false
+       },
+       {
+        "d": 1773925200,
+        "h": "Napsa Stars",
+        "a": "MUZA",
+        "s": [
+         1,
+         2
+        ],
+        "t": "Zambia. Super League",
+        "hh": false
+       },
+       {
+        "d": 1761397200,
+        "h": "MUZA",
+        "a": "Napsa Stars",
+        "s": [
+         3,
+         2
+        ],
+        "t": "Zambia. Super League",
+        "hh": true
+       },
+       {
+        "d": 1744462800,
+        "h": "MUZA",
+        "a": "Napsa Stars",
+        "s": [
+         0,
+         0
+        ],
+        "t": "Zambia. Super League",
+        "hh": true
+       },
+       {
+        "d": 1732971600,
+        "h": "Napsa Stars",
+        "a": "MUZA",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Zambia. Super League",
+        "hh": false
+       },
+       {
+        "d": 1712235600,
+        "h": "MUZA",
+        "a": "Napsa Stars",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Zambia. Super League",
+        "hh": true
+       },
+       {
+        "d": 1698498000,
+        "h": "Napsa Stars",
+        "a": "MUZA",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Zambia. Super League",
+        "hh": false
+       },
+       {
+        "d": 1676120400,
+        "h": "MUZA",
+        "a": "Napsa Stars",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Zambia. Super League",
+        "hh": true
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795611600,
+        "o": "Trident",
+        "gf": 0,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1795266000,
+        "o": "Nkana",
+        "gf": 2,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1793797200,
+        "o": "Zanaco",
+        "gf": 2,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1793451600,
+        "o": "Nchanga Rangers",
+        "gf": 0,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1792846800,
+        "o": "Power Dynamos",
+        "gf": 1,
+        "ga": 0,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795611600,
+        "o": "Konkola",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1795093200,
+        "o": "Makeni All Stars",
+        "gf": 2,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1794142800,
+        "o": "Nkana",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793883600,
+        "o": "Power Dynamos",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793451600,
+        "o": "Kansanshi Dynamos",
+        "gf": 2,
+        "ga": 2,
+        "dom": false
+       }
+      ]
+     },
+     "table": {
+      "title": "Zambia. Super League",
+      "group": "Group A",
+      "rows": [
+       {
+        "pos": 1,
+        "team": "Nkana",
+        "pj": 9,
+        "g": 6,
+        "p": 2,
+        "n": 1,
+        "bp": 10,
+        "bc": 5,
+        "pts": 19
+       },
+       {
+        "pos": 2,
+        "team": "MUZA",
+        "pj": 8,
+        "g": 4,
+        "p": 0,
+        "n": 4,
+        "bp": 11,
+        "bc": 4,
+        "pts": 16
+       },
+       {
+        "pos": 3,
+        "team": "Konkola",
+        "pj": 8,
+        "g": 5,
+        "p": 2,
+        "n": 1,
+        "bp": 14,
+        "bc": 10,
+        "pts": 16
+       },
+       {
+        "pos": 4,
+        "team": "Nchanga Rangers",
+        "pj": 9,
+        "g": 4,
+        "p": 3,
+        "n": 2,
+        "bp": 9,
+        "bc": 8,
+        "pts": 14
+       },
+       {
+        "pos": 5,
+        "team": "Power Dynamos",
+        "pj": 8,
+        "g": 4,
+        "p": 3,
+        "n": 1,
+        "bp": 8,
+        "bc": 7,
+        "pts": 13
+       },
+       {
+        "pos": 6,
+        "team": "Zanaco",
+        "pj": 8,
+        "g": 3,
+        "p": 3,
+        "n": 2,
+        "bp": 13,
+        "bc": 11,
+        "pts": 11
+       },
+       {
+        "pos": 7,
+        "team": "Napsa Stars",
+        "pj": 9,
+        "g": 1,
+        "p": 3,
+        "n": 5,
+        "bp": 7,
+        "bc": 9,
+        "pts": 8
+       },
+       {
+        "pos": 8,
+        "team": "Kansanshi Dynamos",
+        "pj": 8,
+        "g": 1,
+        "p": 3,
+        "n": 4,
+        "bp": 5,
+        "bc": 11,
+        "pts": 7
+       },
+       {
+        "pos": 9,
+        "team": "Trident",
+        "pj": 9,
+        "g": 1,
+        "p": 5,
+        "n": 3,
+        "bp": 11,
+        "bc": 11,
+        "pts": 6
+       },
+       {
+        "pos": 10,
+        "team": "Makeni All Stars",
+        "pj": 8,
+        "g": 1,
+        "p": 6,
+        "n": 1,
+        "bp": 6,
+        "bc": 18,
+        "pts": 4
+       }
+      ],
+      "foot": [
+       "Promotion - Superleague. Play-offs"
+      ]
+     }
+    },
+    {
+     "tournament": "Zambia. Super League",
      "home": "Zanaco",
      "away": "Nchanga Rangers",
      "start": 1795870800,
      "odds": {
-      "1": 2.11,
-      "X": 2.91,
-      "2": 3.435
+      "1": 2.17,
+      "X": 2.84,
+      "2": 3.38
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/6de5b610b6863f3ef97afd54887748d9.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/90289098e0f0b18860c5b22f50c67678.png",
      "link": "https://1xlite-32085.pro/en/line/Football/327197-Zambia-Super-League/397072649-Zanaco-Nchanga-Rangers",
-     "eid": 773810755,
+     "eid": 774611732,
      "tid": 327197,
      "coupon": {
-      "1": "D2CY6",
-      "X": "M2CY6",
-      "2": "62CY6"
+      "1": "6VTBS",
+      "X": "YVTBS",
+      "2": "3XTBS"
      },
      "markets": {
       "dc": {
-       "1X": 1.22,
-       "12": 1.29,
-       "X2": 1.56
+       "1X": 1.23,
+       "12": 1.3,
+       "X2": 1.53
       },
       "ou25": {
-       "o": 2.41,
-       "u": 1.48
+       "o": 2.56,
+       "u": 1.4
       },
       "btts": {
-       "y": 2.04,
-       "n": 1.665
+       "y": 2.13,
+       "n": 1.613
       }
      },
      "stats": {
@@ -201,6 +843,637 @@
         "d": 1793451600,
         "o": "MUZA",
         "gf": 0,
+        "ga": 0,
+        "dom": true
+       }
+      ]
+     },
+     "table": {
+      "title": "Zambia. Super League",
+      "group": "Group A",
+      "rows": [
+       {
+        "pos": 1,
+        "team": "Nkana",
+        "pj": 9,
+        "g": 6,
+        "p": 2,
+        "n": 1,
+        "bp": 10,
+        "bc": 5,
+        "pts": 19
+       },
+       {
+        "pos": 2,
+        "team": "MUZA",
+        "pj": 8,
+        "g": 4,
+        "p": 0,
+        "n": 4,
+        "bp": 11,
+        "bc": 4,
+        "pts": 16
+       },
+       {
+        "pos": 3,
+        "team": "Konkola",
+        "pj": 8,
+        "g": 5,
+        "p": 2,
+        "n": 1,
+        "bp": 14,
+        "bc": 10,
+        "pts": 16
+       },
+       {
+        "pos": 4,
+        "team": "Nchanga Rangers",
+        "pj": 9,
+        "g": 4,
+        "p": 3,
+        "n": 2,
+        "bp": 9,
+        "bc": 8,
+        "pts": 14
+       },
+       {
+        "pos": 5,
+        "team": "Power Dynamos",
+        "pj": 8,
+        "g": 4,
+        "p": 3,
+        "n": 1,
+        "bp": 8,
+        "bc": 7,
+        "pts": 13
+       },
+       {
+        "pos": 6,
+        "team": "Zanaco",
+        "pj": 8,
+        "g": 3,
+        "p": 3,
+        "n": 2,
+        "bp": 13,
+        "bc": 11,
+        "pts": 11
+       },
+       {
+        "pos": 7,
+        "team": "Napsa Stars",
+        "pj": 9,
+        "g": 1,
+        "p": 3,
+        "n": 5,
+        "bp": 7,
+        "bc": 9,
+        "pts": 8
+       },
+       {
+        "pos": 8,
+        "team": "Kansanshi Dynamos",
+        "pj": 8,
+        "g": 1,
+        "p": 3,
+        "n": 4,
+        "bp": 5,
+        "bc": 11,
+        "pts": 7
+       },
+       {
+        "pos": 9,
+        "team": "Trident",
+        "pj": 9,
+        "g": 1,
+        "p": 5,
+        "n": 3,
+        "bp": 11,
+        "bc": 11,
+        "pts": 6
+       },
+       {
+        "pos": 10,
+        "team": "Makeni All Stars",
+        "pj": 8,
+        "g": 1,
+        "p": 6,
+        "n": 1,
+        "bp": 6,
+        "bc": 18,
+        "pts": 4
+       }
+      ],
+      "foot": [
+       "Promotion - Superleague. Play-offs"
+      ]
+     }
+    },
+    {
+     "tournament": "Zambia. Super League",
+     "home": "Red Arrows",
+     "away": "Mutondo Stars",
+     "start": 1795957200,
+     "odds": {
+      "1": 1.4,
+      "X": 3.6,
+      "2": 8.55
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/fa980e7b5dabf5a0755046e03e236136.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/c0c3dfcf372521910c56db03e6eae0ee.png",
+     "link": "https://1xlite-32085.pro/en/line/Football/327197-Zambia-Super-League/397577282-Red-Arrows-Mutondo-Stars",
+     "eid": 774659797,
+     "tid": 327197,
+     "coupon": {
+      "1": "38TBS",
+      "X": "X8TBS",
+      "2": "Z8TBS"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.004,
+       "12": 1.186,
+       "X2": 2.49
+      },
+      "ou25": {
+       "o": 2.1,
+       "u": 1.63
+      },
+      "btts": {
+       "y": 2.34,
+       "n": 1.51
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1791118800,
+        "h": "Mutondo Stars",
+        "a": "Red Arrows",
+        "s": [
+         1,
+         3
+        ],
+        "t": "Zambia. Super League",
+        "hh": false
+       },
+       {
+        "d": 1777726800,
+        "h": "Mutondo Stars",
+        "a": "Red Arrows",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Zambia. Super League",
+        "hh": false
+       },
+       {
+        "d": 1765112400,
+        "h": "Red Arrows",
+        "a": "Mutondo Stars",
+        "s": [
+         2,
+         0
+        ],
+        "t": "Zambia. Super League",
+        "hh": true
+       },
+       {
+        "d": 1739019600,
+        "h": "Red Arrows",
+        "a": "Mutondo Stars",
+        "s": [
+         0,
+         0
+        ],
+        "t": "Zambia. Super League",
+        "hh": true
+       },
+       {
+        "d": 1727607600,
+        "h": "Mutondo Stars",
+        "a": "Red Arrows",
+        "s": [
+         3,
+         1
+        ],
+        "t": "Zambia. Super League",
+        "hh": false
+       },
+       {
+        "d": 1717246800,
+        "h": "Mutondo Stars",
+        "a": "Red Arrows",
+        "s": [
+         0,
+         1
+        ],
+        "t": "Zambia. Super League",
+        "hh": false
+       },
+       {
+        "d": 1703250000,
+        "h": "Red Arrows",
+        "a": "Mutondo Stars",
+        "s": [
+         3,
+         1
+        ],
+        "t": "Zambia. Super League",
+        "hh": true
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795698000,
+        "o": "Green Buffaloes",
+        "gf": 2,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1795352400,
+        "o": "Green Eagles",
+        "gf": 3,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1795093200,
+        "o": "ZESCO United",
+        "gf": 1,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1793797200,
+        "o": "Nkwazi",
+        "gf": 0,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793451600,
+        "o": "Chirundu United",
+        "gf": 0,
+        "ga": 0,
+        "dom": true
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795698000,
+        "o": "Green Eagles",
+        "gf": 2,
+        "ga": 2,
+        "dom": true
+       },
+       {
+        "d": 1795093200,
+        "o": "Nkwazi",
+        "gf": 0,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1793883600,
+        "o": "Mufulira Wanderers",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793538000,
+        "o": "Roan United",
+        "gf": 1,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1792846800,
+        "o": "ZESCO United",
+        "gf": 0,
+        "ga": 5,
+        "dom": false
+       }
+      ]
+     },
+     "table": {
+      "title": "Zambia. Super League",
+      "group": "Group B",
+      "rows": [
+       {
+        "pos": 1,
+        "team": "Green Eagles",
+        "pj": 9,
+        "g": 5,
+        "p": 1,
+        "n": 3,
+        "bp": 14,
+        "bc": 7,
+        "pts": 18
+       },
+       {
+        "pos": 2,
+        "team": "ZESCO United",
+        "pj": 9,
+        "g": 4,
+        "p": 1,
+        "n": 4,
+        "bp": 14,
+        "bc": 4,
+        "pts": 16
+       },
+       {
+        "pos": 3,
+        "team": "Green Buffaloes",
+        "pj": 8,
+        "g": 3,
+        "p": 1,
+        "n": 4,
+        "bp": 8,
+        "bc": 5,
+        "pts": 13
+       },
+       {
+        "pos": 4,
+        "team": "Chirundu United",
+        "pj": 8,
+        "g": 3,
+        "p": 3,
+        "n": 2,
+        "bp": 6,
+        "bc": 6,
+        "pts": 11
+       },
+       {
+        "pos": 5,
+        "team": "Kabwe Warriors",
+        "pj": 7,
+        "g": 2,
+        "p": 1,
+        "n": 4,
+        "bp": 8,
+        "bc": 7,
+        "pts": 10
+       },
+       {
+        "pos": 6,
+        "team": "Nkwazi",
+        "pj": 9,
+        "g": 1,
+        "p": 1,
+        "n": 7,
+        "bp": 4,
+        "bc": 4,
+        "pts": 10
+       },
+       {
+        "pos": 7,
+        "team": "Red Arrows",
+        "pj": 7,
+        "g": 2,
+        "p": 2,
+        "n": 3,
+        "bp": 9,
+        "bc": 8,
+        "pts": 9
+       },
+       {
+        "pos": 8,
+        "team": "Roan United",
+        "pj": 8,
+        "g": 1,
+        "p": 3,
+        "n": 4,
+        "bp": 5,
+        "bc": 10,
+        "pts": 7
+       },
+       {
+        "pos": 9,
+        "team": "Mufulira Wanderers",
+        "pj": 9,
+        "g": 0,
+        "p": 4,
+        "n": 5,
+        "bp": 4,
+        "bc": 10,
+        "pts": 5
+       },
+       {
+        "pos": 10,
+        "team": "Mutondo Stars",
+        "pj": 8,
+        "g": 0,
+        "p": 4,
+        "n": 4,
+        "bp": 7,
+        "bc": 18,
+        "pts": 4
+       }
+      ],
+      "foot": [
+       "Promotion - Superleague. Play-offs"
+      ]
+     }
+    },
+    {
+     "tournament": "Zambia. Super League",
+     "home": "Power Dynamos",
+     "away": "Konkola",
+     "start": 1795957200,
+     "odds": {
+      "1": 1.47,
+      "X": 3.58,
+      "2": 6.71
+     },
+     "img1": "https://nimblecd.com/sfiles/logo_teams/6e7d7d84d73e4d2a3a549cde5b928b06.png",
+     "img2": "https://nimblecd.com/sfiles/logo_teams/05180d3b912ef50834c5c8e3bdeda24a.png",
+     "link": "https://1xlite-32085.pro/en/line/Football/327197-Zambia-Super-League/397577336-Power-Dynamos-Konkola",
+     "eid": 774663294,
+     "tid": 327197,
+     "coupon": {
+      "1": "K17BS",
+      "X": "P17BS",
+      "2": "T17BS"
+     },
+     "markets": {
+      "dc": {
+       "1X": 1.038,
+       "12": 1.188,
+       "X2": 2.3
+      },
+      "ou25": {
+       "o": 2.13,
+       "u": 1.61
+      },
+      "btts": {
+       "y": 2.2,
+       "n": 1.572
+      }
+     },
+     "stats": {
+      "h2h": [
+       {
+        "d": 1791032400,
+        "h": "Konkola",
+        "a": "Power Dynamos",
+        "s": [
+         2,
+         1
+        ],
+        "t": "Zambia. Super League",
+        "hh": false
+       },
+       {
+        "d": 1777726800,
+        "h": "Konkola",
+        "a": "Power Dynamos",
+        "s": [
+         1,
+         2
+        ],
+        "t": "Zambia. Super League",
+        "hh": false
+       },
+       {
+        "d": 1765112400,
+        "h": "Power Dynamos",
+        "a": "Konkola",
+        "s": [
+         2,
+         1
+        ],
+        "t": "Zambia. Super League",
+        "hh": true
+       },
+       {
+        "d": 1705064400,
+        "h": "Power Dynamos",
+        "a": "Konkola",
+        "s": [
+         1,
+         1
+        ],
+        "t": "Zambia. Super League",
+        "hh": true
+       },
+       {
+        "d": 1693659600,
+        "h": "Konkola",
+        "a": "Power Dynamos",
+        "s": [
+         0,
+         0
+        ],
+        "t": "Zambia. Super League",
+        "hh": false
+       },
+       {
+        "d": 1641646800,
+        "h": "Power Dynamos",
+        "a": "Konkola",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Zambia. Super League",
+        "hh": true
+       },
+       {
+        "d": 1631365200,
+        "h": "Konkola",
+        "a": "Power Dynamos",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Zambia. Super League",
+        "hh": false
+       },
+       {
+        "d": 1505566800,
+        "h": "Konkola",
+        "a": "Power Dynamos",
+        "s": [
+         1,
+         0
+        ],
+        "t": "Zambia. Super League",
+        "hh": false
+       }
+      ],
+      "f1": [
+       {
+        "d": 1795698000,
+        "o": "Makeni All Stars",
+        "gf": 1,
+        "ga": 2,
+        "dom": false
+       },
+       {
+        "d": 1795266000,
+        "o": "Zanaco",
+        "gf": 2,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793883600,
+        "o": "Napsa Stars",
+        "gf": 1,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1793451600,
+        "o": "Nkana",
+        "gf": 0,
+        "ga": 0,
+        "dom": true
+       },
+       {
+        "d": 1792846800,
+        "o": "MUZA",
+        "gf": 0,
+        "ga": 1,
+        "dom": false
+       }
+      ],
+      "f2": [
+       {
+        "d": 1795611600,
+        "o": "Napsa Stars",
+        "gf": 1,
+        "ga": 1,
+        "dom": false
+       },
+       {
+        "d": 1794747600,
+        "o": "Nchanga Rangers",
+        "gf": 2,
+        "ga": 3,
+        "dom": true
+       },
+       {
+        "d": 1793883600,
+        "o": "Trident",
+        "gf": 2,
+        "ga": 1,
+        "dom": true
+       },
+       {
+        "d": 1793538000,
+        "o": "Makeni All Stars",
+        "gf": 1,
+        "ga": 0,
+        "dom": false
+       },
+       {
+        "d": 1792933200,
+        "o": "Nkana",
+        "gf": 2,
         "ga": 0,
         "dom": true
        }

@@ -1,9 +1,11 @@
 {
- "updated": "2026-11-27T13:10:08+00:00",
+ "updated": "2026-11-28T00:00:44+00:00",
  "backfilled": [
   55479,
   1706694,
-  125983
+  125983,
+  1464403,
+  2973812
  ],
  "matches": [
   {
@@ -4204,6 +4206,20 @@
    ],
    "detail": "0:0 (0:0)",
    "start": 1795644000,
+   "group": "liga"
+  },
+  {
+   "id": 774696629,
+   "tid": 55479,
+   "tname": "Paraguay. Primera División",
+   "home": "Club Nacional Asunción",
+   "away": "Club Rubio Nu",
+   "score": [
+    3,
+    1
+   ],
+   "detail": "3:1 (1:1,2:0)",
+   "start": 1795811400,
    "group": "liga"
   }
  ]

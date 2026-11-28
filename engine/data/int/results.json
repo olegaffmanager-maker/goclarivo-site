@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T13:05:14+00:00",
+ "updated": "2026-11-27T23:45:28+00:00",
  "backfilled": [
   142091,
   118587,
@@ -8182,6 +8182,34 @@
    "detail": "2:1 (0:1,2:0)",
    "start": 1795636800,
    "group": "champions-league"
+  },
+  {
+   "id": 774684892,
+   "tid": 127733,
+   "tname": "España. La Liga",
+   "home": "Levante UD",
+   "away": "Racing de Santander",
+   "score": [
+    1,
+    3
+   ],
+   "detail": "1:3 (1:0,0:3)",
+   "start": 1795809600,
+   "group": "laliga"
+  },
+  {
+   "id": 774685615,
+   "tid": 88637,
+   "tname": "Inglaterra. Premier League",
+   "home": "Nottingham Forest",
+   "away": "Chelsea",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:0,2:2)",
+   "start": 1795809600,
+   "group": "premier-league"
   }
  ]
 }

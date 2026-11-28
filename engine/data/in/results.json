@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T13:15:40+00:00",
+ "updated": "2026-11-28T00:09:52+00:00",
  "backfilled": [
   2783103,
   1122087,
@@ -8818,6 +8818,20 @@
    ],
    "detail": "1:1 (1:1,0:0)",
    "start": 1795775400,
+   "group": "liga"
+  },
+  {
+   "id": 774597118,
+   "tid": 1122087,
+   "tname": "India. Super League",
+   "home": "Inter Kashi",
+   "away": "Churchill Brothers",
+   "score": [
+    0,
+    1
+   ],
+   "detail": "0:1 (0:0,0:1)",
+   "start": 1795788000,
    "group": "liga"
   }
  ]

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T13:07:18+00:00",
+ "updated": "2026-11-27T23:52:01+00:00",
  "groups": [
   {
    "key": "liga",
@@ -13,7 +13,7 @@
      "odds": {
       "1": 1.7,
       "X": 3.75,
-      "2": 4.025
+      "2": 4.065
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/5608.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/366413.png",
@@ -21,13 +21,13 @@
      "eid": 773373977,
      "tid": 28298,
      "coupon": {
-      "1": "2BR86",
-      "X": "GBR86",
-      "2": "4BR86"
+      "1": "ZQNAS",
+      "X": "D6NAS",
+      "2": "36NAS"
      },
      "markets": {
       "dc": {
-       "1X": 1.17,
+       "1X": 1.16,
        "12": 1.18,
        "X2": 1.95
       },
@@ -36,8 +36,8 @@
        "u": 2.1
       },
       "btts": {
-       "y": 1.6,
-       "n": 2.222
+       "y": 1.58,
+       "n": 2.262
       }
      },
      "stats": {
@@ -214,8 +214,8 @@
      "start": 1795908600,
      "odds": {
       "1": 1.51,
-      "X": 4.7,
-      "2": 4.43
+      "X": 4.6,
+      "2": 4.53
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/01af75c004c05818c821d12f6764ed2f.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/3841222ffd25b9be78e2e42cfe34fbee.png",
@@ -223,19 +223,19 @@
      "eid": 773373979,
      "tid": 28298,
      "coupon": {
-      "1": "QDR86",
-      "X": "UDR86",
-      "2": "9DR86"
+      "1": "CRNAS",
+      "X": "ERNAS",
+      "2": "NRNAS"
      },
      "markets": {
       "dc": {
-       "1X": 1.14,
-       "12": 1.11,
+       "1X": 1.13,
+       "12": 1.12,
        "X2": 2.25
       },
       "ou25": {
-       "o": 1.5,
-       "u": 2.4
+       "o": 1.52,
+       "u": 2.35
       },
       "btts": {
        "y": 1.6,
@@ -425,9 +425,9 @@
      "eid": 773371564,
      "tid": 28298,
      "coupon": {
-      "1": "4ER86",
-      "X": "PER86",
-      "2": "7ER86"
+      "1": "L7NAS",
+      "X": "77NAS",
+      "2": "87NAS"
      },
      "markets": {
       "dc": {
@@ -627,9 +627,9 @@
      "eid": 773371562,
      "tid": 28298,
      "coupon": {
-      "1": "BFR86",
-      "X": "KFR86",
-      "2": "NFR86"
+      "1": "YUNAS",
+      "X": "HVNAS",
+      "2": "6VNAS"
      },
      "markets": {
       "dc": {
@@ -829,9 +829,9 @@
      "eid": 773371572,
      "tid": 28298,
      "coupon": {
-      "1": "FGR86",
-      "X": "4GR86",
-      "2": "RGR86"
+      "1": "NXNAS",
+      "X": "XXNAS",
+      "2": "28NAS"
      },
      "markets": {
       "dc": {
@@ -1031,9 +1031,9 @@
      "eid": 773371570,
      "tid": 28298,
      "coupon": {
-      "1": "CHR86",
-      "X": "4HR86",
-      "2": "5HR86"
+      "1": "Y8NAS",
+      "X": "JYNAS",
+      "2": "SYNAS"
      },
      "markets": {
       "dc": {
@@ -1233,9 +1233,9 @@
      "eid": 773371566,
      "tid": 28298,
      "coupon": {
-      "1": "EJR86",
-      "X": "GJR86",
-      "2": "KJR86"
+      "1": "8ZNAS",
+      "X": "S9NAS",
+      "2": "B1PAS"
      },
      "markets": {
       "dc": {
@@ -1426,8 +1426,8 @@
      "start": 1795995000,
      "odds": {
       "1": 1.62,
-      "X": 3.85,
-      "2": 4.47
+      "X": 3.8,
+      "2": 4.48
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/5584.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/9cfea0b90ea6f856fa731658901b3784.png",
@@ -1435,14 +1435,14 @@
      "eid": 773371568,
      "tid": 28298,
      "coupon": {
-      "1": "14R86",
-      "X": "D4R86",
-      "2": "G4R86"
+      "1": "L1PAS",
+      "X": "GAPAS",
+      "2": "LAPAS"
      },
      "markets": {
       "dc": {
        "1X": 1.13,
-       "12": 1.17,
+       "12": 1.18,
        "X2": 2.05
       },
       "ou25": {

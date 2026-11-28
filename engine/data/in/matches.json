@@ -1,331 +1,19 @@
 {
- "updated": "2026-11-27T13:15:40+00:00",
+ "updated": "2026-11-28T00:09:52+00:00",
  "groups": [
   {
    "key": "liga",
    "name": "Indian Super League",
    "matches": [
     {
-     "tournament": "India. Super League",
-     "home": "Inter Kashi",
-     "away": "Churchill Brothers",
-     "start": 1795788000,
-     "odds": {
-      "1": 4.55,
-      "X": 3.58,
-      "2": 1.65
-     },
-     "img1": "https://nimblecd.com/sfiles/logo_teams/b269dd5c35c5efc3c5850d15f767e74d.png",
-     "img2": "https://nimblecd.com/sfiles/logo_teams/4843b5b02b86fc2c03daf12e4f177b42.png",
-     "link": "https://1xlite-32085.pro/en/line/Football/1122087-India-Super-League/397313707-Inter-Kashi-Churchill-Brothers",
-     "eid": 774233722,
-     "tid": 1122087,
-     "coupon": {
-      "1": "8DEY6",
-      "X": "4EEY6",
-      "2": "VEEY6"
-     },
-     "markets": {
-      "dc": {
-       "1X": 1.99,
-       "12": 1.193,
-       "X2": 1.12
-      },
-      "ou25": {
-       "o": 1.76,
-       "u": 1.92
-      },
-      "btts": {
-       "y": 1.727,
-       "n": 1.98
-      }
-     },
-     "stats": {
-      "h2h": [
-       {
-        "d": 1743332400,
-        "h": "Churchill Brothers",
-        "a": "Inter Kashi",
-        "s": [
-         2,
-         2
-        ],
-        "t": "India. I-League",
-        "hh": false
-       },
-       {
-        "d": 1734183000,
-        "h": "Inter Kashi",
-        "a": "Churchill Brothers",
-        "s": [
-         1,
-         3
-        ],
-        "t": "India. I-League",
-        "hh": true
-       },
-       {
-        "d": 1707917400,
-        "h": "Inter Kashi",
-        "a": "Churchill Brothers",
-        "s": [
-         1,
-         1
-        ],
-        "t": "India. I-League",
-        "hh": true
-       },
-       {
-        "d": 1700227800,
-        "h": "Churchill Brothers",
-        "a": "Inter Kashi",
-        "s": [
-         1,
-         2
-        ],
-        "t": "India. I-League",
-        "hh": false
-       }
-      ],
-      "f1": [
-       {
-        "d": 1794051000,
-        "o": "Sporting Delhi",
-        "gf": 0,
-        "ga": 3,
-        "dom": true
-       },
-       {
-        "d": 1793541600,
-        "o": "Goa",
-        "gf": 1,
-        "ga": 2,
-        "dom": true
-       },
-       {
-        "d": 1792755000,
-        "o": "East Bengal",
-        "gf": 1,
-        "ga": 5,
-        "dom": true
-       },
-       {
-        "d": 1792236600,
-        "o": "Odisha",
-        "gf": 1,
-        "ga": 1,
-        "dom": true
-       },
-       {
-        "d": 1791718200,
-        "o": "Kerala Blasters",
-        "gf": 0,
-        "ga": 2,
-        "dom": true
-       }
-      ],
-      "f2": [
-       {
-        "d": 1795356000,
-        "o": "Mohun Bagan Super Giant",
-        "gf": 1,
-        "ga": 2,
-        "dom": true
-       },
-       {
-        "d": 1793878200,
-        "o": "North East United",
-        "gf": 0,
-        "ga": 2,
-        "dom": true
-       },
-       {
-        "d": 1792927800,
-        "o": "Punjab FC",
-        "gf": 2,
-        "ga": 3,
-        "dom": true
-       },
-       {
-        "d": 1792323000,
-        "o": "East Bengal",
-        "gf": 0,
-        "ga": 4,
-        "dom": true
-       },
-       {
-        "d": 1791727200,
-        "o": "Mumbai City",
-        "gf": 2,
-        "ga": 1,
-        "dom": true
-       }
-      ]
-     },
-     "table": {
-      "title": "India. Super League",
-      "group": "",
-      "rows": [
-       {
-        "pos": 1,
-        "team": "Mohun Bagan Super Giant",
-        "pj": 6,
-        "g": 5,
-        "p": 1,
-        "n": 0,
-        "bp": 10,
-        "bc": 6,
-        "pts": 15
-       },
-       {
-        "pos": 2,
-        "team": "Bengaluru",
-        "pj": 5,
-        "g": 4,
-        "p": 0,
-        "n": 1,
-        "bp": 10,
-        "bc": 4,
-        "pts": 13
-       },
-       {
-        "pos": 3,
-        "team": "North East United",
-        "pj": 7,
-        "g": 3,
-        "p": 1,
-        "n": 3,
-        "bp": 9,
-        "bc": 4,
-        "pts": 12
-       },
-       {
-        "pos": 4,
-        "team": "Sporting Delhi",
-        "pj": 7,
-        "g": 2,
-        "p": 2,
-        "n": 3,
-        "bp": 13,
-        "bc": 11,
-        "pts": 9
-       },
-       {
-        "pos": 5,
-        "team": "Punjab FC",
-        "pj": 5,
-        "g": 2,
-        "p": 1,
-        "n": 2,
-        "bp": 8,
-        "bc": 7,
-        "pts": 8
-       },
-       {
-        "pos": 6,
-        "team": "Goa",
-        "pj": 5,
-        "g": 2,
-        "p": 1,
-        "n": 2,
-        "bp": 6,
-        "bc": 5,
-        "pts": 8
-       },
-       {
-        "pos": 7,
-        "team": "East Bengal",
-        "pj": 4,
-        "g": 2,
-        "p": 1,
-        "n": 1,
-        "bp": 14,
-        "bc": 8,
-        "pts": 7
-       },
-       {
-        "pos": 8,
-        "team": "Chennaiyin",
-        "pj": 6,
-        "g": 1,
-        "p": 2,
-        "n": 3,
-        "bp": 7,
-        "bc": 8,
-        "pts": 6
-       },
-       {
-        "pos": 9,
-        "team": "Kerala Blasters",
-        "pj": 4,
-        "g": 1,
-        "p": 1,
-        "n": 2,
-        "bp": 3,
-        "bc": 4,
-        "pts": 5
-       },
-       {
-        "pos": 10,
-        "team": "Churchill Brothers",
-        "pj": 5,
-        "g": 1,
-        "p": 4,
-        "n": 0,
-        "bp": 5,
-        "bc": 12,
-        "pts": 3
-       },
-       {
-        "pos": 11,
-        "team": "Odisha",
-        "pj": 4,
-        "g": 0,
-        "p": 2,
-        "n": 2,
-        "bp": 4,
-        "bc": 6,
-        "pts": 2
-       },
-       {
-        "pos": 12,
-        "team": "Mumbai City",
-        "pj": 5,
-        "g": 0,
-        "p": 3,
-        "n": 2,
-        "bp": 4,
-        "bc": 8,
-        "pts": 2
-       },
-       {
-        "pos": 13,
-        "team": "Inter Kashi",
-        "pj": 5,
-        "g": 0,
-        "p": 4,
-        "n": 1,
-        "bp": 3,
-        "bc": 13,
-        "pts": 1
-       }
-      ],
-      "foot": [
-       "Promotion - Superleague (Play-off: Round of 4)",
-       "Promotion - Superleague (Play-off: Round of 8)",
-       "Relegation"
-      ]
-     }
-    },
-    {
      "tournament": "India. Bangalore. Super Division",
      "home": "Kodagu",
      "away": "Bengaluru II",
-     "start": 1795837200,
+     "start": 1795836600,
      "odds": {
-      "1": 2.43,
-      "X": 3.82,
-      "2": 2.23
+      "1": 2.45,
+      "X": 3.55,
+      "2": 2.31
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/8219035f9a95cd9ee41bda8a5cf8029e.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/f9eaa526b545ecb5553ae174b0aca894.png",
@@ -333,23 +21,23 @@
      "eid": 774480661,
      "tid": 330475,
      "coupon": {
-      "1": "K3EY6",
-      "X": "N3EY6",
-      "2": "73EY6"
+      "1": "VMVBS",
+      "X": "E5VBS",
+      "2": "G5VBS"
      },
      "markets": {
       "dc": {
-       "1X": 1.49,
-       "12": 1.164,
+       "1X": 1.46,
+       "12": 1.191,
        "X2": 1.41
       },
       "ou25": {
-       "o": 1.33,
-       "u": 2.83
+       "o": 1.27,
+       "u": 3.14
       },
       "btts": {
-       "y": 1.32,
-       "n": 3.0
+       "y": 1.26,
+       "n": 3.375
       }
      }
     },
@@ -359,9 +47,9 @@
      "away": "Mumbai City",
      "start": 1795874400,
      "odds": {
-      "1": 2.47,
-      "X": 3.2,
-      "2": 2.49
+      "1": 2.34,
+      "X": 3.24,
+      "2": 2.62
      },
      "img1": "https://nimblecd.com/sfiles/logo_teams/117445.png",
      "img2": "https://nimblecd.com/sfiles/logo_teams/9fef2f745d6024fa111783769ae66ef5.png",
@@ -369,19 +57,19 @@
      "eid": 773477932,
      "tid": 1122087,
      "coupon": {
-      "1": "83EY6",
-      "X": "JGEY6",
-      "2": "1HEY6"
+      "1": "K5VBS",
+      "X": "P5VBS",
+      "2": "T5VBS"
      },
      "markets": {
       "dc": {
-       "1X": 1.4,
-       "12": 1.25,
-       "X2": 1.41
+       "1X": 1.36,
+       "12": 1.24,
+       "X2": 1.45
       },
       "ou25": {
-       "o": 1.75,
-       "u": 1.93
+       "o": 1.73,
+       "u": 1.95
       },
       "btts": {
        "y": 1.59,
@@ -648,6 +336,17 @@
        },
        {
         "pos": 9,
+        "team": "Churchill Brothers",
+        "pj": 6,
+        "g": 2,
+        "p": 4,
+        "n": 0,
+        "bp": 6,
+        "bc": 12,
+        "pts": 6
+       },
+       {
+        "pos": 10,
         "team": "Kerala Blasters",
         "pj": 4,
         "g": 1,
@@ -656,17 +355,6 @@
         "bp": 3,
         "bc": 4,
         "pts": 5
-       },
-       {
-        "pos": 10,
-        "team": "Churchill Brothers",
-        "pj": 5,
-        "g": 1,
-        "p": 4,
-        "n": 0,
-        "bp": 5,
-        "bc": 12,
-        "pts": 3
        },
        {
         "pos": 11,
@@ -693,12 +381,12 @@
        {
         "pos": 13,
         "team": "Inter Kashi",
-        "pj": 5,
+        "pj": 6,
         "g": 0,
-        "p": 4,
+        "p": 5,
         "n": 1,
         "bp": 3,
-        "bc": 13,
+        "bc": 14,
         "pts": 1
        }
       ],
@@ -725,9 +413,9 @@
      "eid": 773203073,
      "tid": 1122087,
      "coupon": {
-      "1": "3KEY6",
-      "X": "QKEY6",
-      "2": "ALEY6"
+      "1": "XDXBS",
+      "X": "GEXBS",
+      "2": "MEXBS"
      },
      "markets": {
       "dc": {
@@ -1004,6 +692,17 @@
        },
        {
         "pos": 9,
+        "team": "Churchill Brothers",
+        "pj": 6,
+        "g": 2,
+        "p": 4,
+        "n": 0,
+        "bp": 6,
+        "bc": 12,
+        "pts": 6
+       },
+       {
+        "pos": 10,
         "team": "Kerala Blasters",
         "pj": 4,
         "g": 1,
@@ -1012,17 +711,6 @@
         "bp": 3,
         "bc": 4,
         "pts": 5
-       },
-       {
-        "pos": 10,
-        "team": "Churchill Brothers",
-        "pj": 5,
-        "g": 1,
-        "p": 4,
-        "n": 0,
-        "bp": 5,
-        "bc": 12,
-        "pts": 3
        },
        {
         "pos": 11,
@@ -1049,12 +737,12 @@
        {
         "pos": 13,
         "team": "Inter Kashi",
-        "pj": 5,
+        "pj": 6,
         "g": 0,
-        "p": 4,
+        "p": 5,
         "n": 1,
         "bp": 3,
-        "bc": 13,
+        "bc": 14,
         "pts": 1
        }
       ],
@@ -1081,8 +769,9 @@
      "eid": 773245730,
      "tid": 1122087,
      "coupon": {
-      "X": "ENEY6",
-      "2": "DPEY6"
+      "1": "KFXBS",
+      "X": "TFXBS",
+      "2": "ZFXBS"
      },
      "markets": {
       "dc": {
@@ -1359,6 +1048,17 @@
        },
        {
         "pos": 9,
+        "team": "Churchill Brothers",
+        "pj": 6,
+        "g": 2,
+        "p": 4,
+        "n": 0,
+        "bp": 6,
+        "bc": 12,
+        "pts": 6
+       },
+       {
+        "pos": 10,
         "team": "Kerala Blasters",
         "pj": 4,
         "g": 1,
@@ -1367,17 +1067,6 @@
         "bp": 3,
         "bc": 4,
         "pts": 5
-       },
-       {
-        "pos": 10,
-        "team": "Churchill Brothers",
-        "pj": 5,
-        "g": 1,
-        "p": 4,
-        "n": 0,
-        "bp": 5,
-        "bc": 12,
-        "pts": 3
        },
        {
         "pos": 11,
@@ -1404,12 +1093,12 @@
        {
         "pos": 13,
         "team": "Inter Kashi",
-        "pj": 5,
+        "pj": 6,
         "g": 0,
-        "p": 4,
+        "p": 5,
         "n": 1,
         "bp": 3,
-        "bc": 13,
+        "bc": 14,
         "pts": 1
        }
       ],
@@ -1436,7 +1125,9 @@
      "eid": 773779365,
      "tid": 1122087,
      "coupon": {
-      "2": "SREY6"
+      "1": "J3XBS",
+      "X": "N3XBS",
+      "2": "T3XBS"
      },
      "markets": {
       "dc": {
@@ -1680,6 +1371,17 @@
        },
        {
         "pos": 9,
+        "team": "Churchill Brothers",
+        "pj": 6,
+        "g": 2,
+        "p": 4,
+        "n": 0,
+        "bp": 6,
+        "bc": 12,
+        "pts": 6
+       },
+       {
+        "pos": 10,
         "team": "Kerala Blasters",
         "pj": 4,
         "g": 1,
@@ -1688,17 +1390,6 @@
         "bp": 3,
         "bc": 4,
         "pts": 5
-       },
-       {
-        "pos": 10,
-        "team": "Churchill Brothers",
-        "pj": 5,
-        "g": 1,
-        "p": 4,
-        "n": 0,
-        "bp": 5,
-        "bc": 12,
-        "pts": 3
        },
        {
         "pos": 11,
@@ -1725,12 +1416,12 @@
        {
         "pos": 13,
         "team": "Inter Kashi",
-        "pj": 5,
+        "pj": 6,
         "g": 0,
-        "p": 4,
+        "p": 5,
         "n": 1,
         "bp": 3,
-        "bc": 13,
+        "bc": 14,
         "pts": 1
        }
       ],
@@ -1757,9 +1448,9 @@
      "eid": 774159664,
      "tid": 330475,
      "coupon": {
-      "1": "XSEY6",
-      "X": "9SEY6",
-      "2": "ETEY6"
+      "1": "EGXBS",
+      "X": "4GXBS",
+      "2": "RGXBS"
      },
      "markets": {
       "dc": {

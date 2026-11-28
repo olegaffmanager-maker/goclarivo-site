@@ -1,9 +1,11 @@
 {
- "updated": "2026-11-27T13:08:15+00:00",
+ "updated": "2026-11-27T23:56:22+00:00",
  "backfilled": [
   276999,
   1706694,
-  125983
+  125983,
+  1464403,
+  2973812
  ],
  "matches": [
   {
@@ -5282,6 +5284,34 @@
    ],
    "detail": "1:1 (0:1,1:0)",
    "start": 1795651200,
+   "group": "liga"
+  },
+  {
+   "id": 774670928,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Delfin",
+   "away": "Orense Sporting Club",
+   "score": [
+    0,
+    3
+   ],
+   "detail": "0:3 (0:2,0:1)",
+   "start": 1795806000,
+   "group": "liga"
+  },
+  {
+   "id": 774710180,
+   "tid": 276999,
+   "tname": "Ecuador. Serie A",
+   "home": "Deportivo Cuenca",
+   "away": "Manta",
+   "score": [
+    3,
+    0
+   ],
+   "detail": "3:0 (1:0,2:0)",
+   "start": 1795815000,
    "group": "liga"
   }
  ]

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T13:16:39+00:00",
+ "updated": "2026-11-28T00:11:50+00:00",
  "backfilled": [
   88637
  ],
@@ -5742,6 +5742,20 @@
    ],
    "detail": "4:0 (2:0,2:0)",
    "start": 1795464000,
+   "group": "liga"
+  },
+  {
+   "id": 774685615,
+   "tid": 88637,
+   "tname": "England. Premier League",
+   "home": "Nottingham Forest",
+   "away": "Chelsea",
+   "score": [
+    3,
+    2
+   ],
+   "detail": "3:2 (1:0,2:2)",
+   "start": 1795809600,
    "group": "liga"
   }
  ]

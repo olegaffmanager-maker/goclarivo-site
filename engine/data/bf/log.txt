@@ -1,35 +1,35 @@
-DEBUG tour 88637: angleterre. premier league
+DEBUG tour 31103: malte. premier league
+DEBUG tour 118587: ligue des champions de l'uefa
+DEBUG tour 310027: championnat d'irlande du nord. championship
 DEBUG tour 127733: espagne. la liga
+DEBUG tour 88637: angleterre. premier league
 DEBUG tour 105759: angleterre. championship
 DEBUG tour 2903305: indonésie. championship
-DEBUG tour 16655: hong kong. premier league
-DEBUG tour 2809690: angleterre. premier league. équipe vs joueur
-DEBUG tour 118587: ligue des champions de l'uefa
-DEBUG tour 104553: azerbaïdjan. premier league
-DEBUG tour 142091: copa libertadores
-DEBUG tour 310027: championnat d'irlande du nord. championship
-DEBUG tour 611201: nigeria. premier league
+DEBUG tour 2939260: burkina faso
+DEBUG tour 2903318: singapour. premier league
+DEBUG tour 1800014: anglèterre. southern premier league. central
 DEBUG tour 1786993: championnat du kenya. premier league
-DEBUG tour 31103: malte. premier league
+DEBUG tour 611201: nigeria. premier league
+DEBUG tour 13721: pays de galles. premier league
+DEBUG tour 16655: hong kong. premier league
+DEBUG tour 104553: azerbaïdjan. premier league
+DEBUG tour 1800476: angleterre. southern premier league. south
 DEBUG tour 38317: caf ligue des champions
 DEBUG tour 1750147: championnat du laos. premier league
-DEBUG tour 2939260: burkina faso
-DEBUG tour 281713: écosse. championship
-DEBUG tour 1800014: anglèterre. southern premier league. central
-DEBUG tour 13721: pays de galles. premier league
-DEBUG tour 1800476: angleterre. southern premier league. south
 DEBUG tour 2469052: japon. ligue des champions régionale
+DEBUG tour 142091: copa libertadores
+DEBUG tour 281713: écosse. championship
 DEBUG tour 2765014: hong kong. premier league u22
-DEBUG tour 2903318: singapour. premier league
-DEBUG tour 1791926: chine. ligue des champions
-DEBUG tour 3117325: ligue des champions élite de l'afc. vainqueur
 DEBUG tour 2740174: afc champions league elite
-DEBUG tour 218103: ligue des champions de l'uefa. gagnant
-DEBUG tour 2809583: espagne. la liga. équipe vs joueur
 DEBUG tour 2845143: tchad. premier league
+DEBUG tour 2809583: espagne. la liga. équipe vs joueur
+DEBUG tour 1791926: chine. ligue des champions
+DEBUG tour 2809690: angleterre. premier league. équipe vs joueur
+DEBUG tour 218103: ligue des champions de l'uefa. gagnant
+DEBUG tour 3117325: ligue des champions élite de l'afc. vainqueur
 liga: 
 liga: 0 tournaments, 0 matches
-seleccion: Estonie. Matchs de qualification | Suède. Matchs de qualification | Norvège. Matchs de qualification | Coupe du Monde 2030. Vainqueur | Coupe des Caraïbes de la CONCACAF | Gold Cup de la CONCACAF. 2027. Vainqueur
+seleccion: Suède. Matchs de qualification | Norvège. Matchs de qualification | Estonie. Matchs de qualification | Coupe du Monde 2030. Vainqueur | Coupe des Caraïbes de la CONCACAF | Gold Cup de la CONCACAF. 2027. Vainqueur
 seleccion: 6 tournaments, 0 matches
 results: 0 fetched, 0 stored
 No matches returned, keeping previous data
